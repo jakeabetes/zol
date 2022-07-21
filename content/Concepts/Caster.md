@@ -1,1 +1,0 @@
-An individual who uses [[Magic]], usually via a [[Spell]].

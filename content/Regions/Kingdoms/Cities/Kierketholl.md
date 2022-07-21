@@ -1,1 +1,0 @@
-![[kierketholl.png]]

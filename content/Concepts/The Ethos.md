@@ -1,2 +1,0 @@
-# The Ethos
-The space in-between the planes of [[Zol]]. Also called [[The Astral Sea]] in its properties, but it is completely devoid of any light. At its borders lie [[The Great Wall of Roots]]. Beyond that, [[The Cosmos]].
