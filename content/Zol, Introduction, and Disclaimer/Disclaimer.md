@@ -1,0 +1,8 @@
+# Disclaimer
+This is a fantasy world I originally created for hobbyist purposes. Primarily as a Dungeons and Dragons campaign setting.
+
+Things to note:
+- This collection of information was written as if it was from the perspective of an academic within [[Zol]]. With a few tid-bits of information added that would not necessarily be known by the people of [[Zol]] for the sake of storytelling. This means that almost all of the information in here could be known by a really really smart person, except for somethings like specific details to world creation lore that would have been lost to history.
+- There are gaps intentionally left for the sake of speculation, and creative addition for anyone using this for their own purposes (Ex: Dungeons and Dragons).
+- The world is provided in a way where there are many locations, characters, histories, et cetera. [[Zol]] is meant to be added to beyond that of the material here. If I were going to write a Dungeons and Dragons campaign in [[Zol]], I would create 70% of the things that are going to go within it and use this as a skeleton for the story.
+- In [[Zol]] there is no gender or sexual discriminations of any kind in its cultural history. However there is the inclusion of racial discrimination. This is done for narrative device only. The discrimination is between fictional species of humanoid races and is not based on things like hair, skin, eyes, or anything else that would reflect a more real-world scenario. **In the case of [[Zol]] if there is a racist character they are ALWAYS meant to be a villain**. There are no exceptions. 
