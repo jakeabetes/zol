@@ -3,4 +3,3 @@
 call git add .
 call git commit -m "publishing new Zol content"
 call git push origin hugo
-pause
