@@ -1,3 +1,0 @@
-Deepspell, the Arcane City. Located in [[The Free Cities of Alderun]], Deepspell is home to a prosperous city, and the [[Kerketh Academy]]. The presence of the academy is what defines the city. Any and all who prove themselves qualified to learn at the academy can come to study [[Arcana]]. Given that they can afford the cost of tuition. The cities economy is based on the needs of the Academy. Be it supplies, amenities, or recreation.
-
-![[deepspell.png]]

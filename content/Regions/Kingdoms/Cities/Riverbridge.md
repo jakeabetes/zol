@@ -1,1 +1,0 @@
-![[riverbridge.png]]
