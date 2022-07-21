@@ -1,3 +1,8 @@
+---
+title: "Yanneran"
+tags:
+weight: -4
+---
 # Yanneran
 *Zolaen God of Art and Wine, Major Deity*
 
