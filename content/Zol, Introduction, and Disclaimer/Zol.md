@@ -1,6 +1,8 @@
 
 # The Regions of Zol
-Before exploring this content please read the [[Introduction]] and [[Disclaimer]].
+Before exploring this content please read the [[Introduction]] and [[Disclaimer]]. 
+
+DELETE ME
 
 Zol is comprised of:
 
