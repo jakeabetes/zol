@@ -1,0 +1,1 @@
+The event that wiped the slate clean for all of civilization. Caused by [[The Undoing]].
