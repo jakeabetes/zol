@@ -1,4 +1,6 @@
-
+---
+title: Zol
+---
 # The Regions of Zol
 Before exploring this content please read the [[Introduction]] and [[Disclaimer]].
 
