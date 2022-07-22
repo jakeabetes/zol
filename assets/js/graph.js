@@ -162,7 +162,7 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
     .append("circle")
     .attr("class", "node")
     .attr("id", (d) => d.id)
-    .attr("r", nodeRadius)
+    .attr("r", Math.min(nodeRadius, 18)) // 18 as max node size
     .attr("fill", color)
     .style("cursor", "pointer")
     .on("click", (_, d) => {
