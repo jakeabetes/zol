@@ -127,7 +127,7 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
         .append("text")
         .attr("x", -width / 2 + 40)
         .attr("y", height / 2 - 30 * (i + 1))
-        .text(key.replace("/", ""))
+        .text(key.replace("//", ""))
         .style("font-size", "15px")
         .attr("alignment-baseline", "middle")
     })
