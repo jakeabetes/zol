@@ -155,6 +155,8 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
     return 3 + (numOut + numIn) / 4
   }
 
+  console.log(nodeRadius)
+
   // draw individual nodes
   const node = graphNode
     .append("circle")
