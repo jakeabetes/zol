@@ -152,17 +152,15 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
   const nodeRadius = (d) => {
     const numOut = index.links[d.id]?.length || 0
     const numIn = index.backlinks[d.id]?.length || 0
-    return 3 + (numOut + numIn) / 4
+    return Math.min(3 + (numOut + numIn) / 4, 18)
   }
-
-  console.log(nodeRadius)
 
   // draw individual nodes
   const node = graphNode
     .append("circle")
     .attr("class", "node")
     .attr("id", (d) => d.id)
-    .attr("r", Math.min(nodeRadius, 18)) // 18 as max node size
+    .attr("r", nodeRadius)
     .attr("fill", color)
     .style("cursor", "pointer")
     .on("click", (_, d) => {
