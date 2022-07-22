@@ -127,7 +127,7 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
         .append("text")
         .attr("x", -width / 2 + 40)
         .attr("y", height / 2 - 30 * (i + 1))
-        .text(key.replace("//", ""))
+        .text(key)
         .style("font-size", "15px")
         .attr("alignment-baseline", "middle")
     })
@@ -222,6 +222,8 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
         .attr("dy", (d) => nodeRadius(d) + 8 + "px") // radius is in px
     })
     .call(drag(simulation))
+
+  content[0]?.title
 
   // draw labels
   const labels = graphNode
