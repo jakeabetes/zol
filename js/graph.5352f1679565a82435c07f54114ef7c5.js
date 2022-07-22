@@ -223,7 +223,7 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
     })
     .call(drag(simulation))
 
-  content[0]?.title
+  console.log(content[0]?.title)
 
   // draw labels
   const labels = graphNode
