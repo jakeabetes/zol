@@ -103,8 +103,8 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
   const svg = d3
     .select("#graph-container")
     .append("svg")
-    .attr("width", width)
-    .attr("height", height)
+    .attr("width", width * 2)
+    .attr("height", 500)
     .attr("viewBox", [
       ((-width / 2) * 1) / scale,
       ((-height / 2) * 1) / scale,
