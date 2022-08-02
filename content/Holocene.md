@@ -1,3 +1,7 @@
+# Holocene
+*Chalkstone and Beauty*
+![[Holocene skyline.png]]
+
 Holocene, the Pale City. Located in [[The Free Cities of Alderun]], and named for the stark white [[Chalkstone]] it is built from, and known for its wine, art, music and medicine. Holocene is the richest city east of [[Mod Dranor]]. This was made possible due to the value of refined chalkstone in the practice of [[Alchemy]], and [[Iron Light]].
 
 ![[holocene.png]]

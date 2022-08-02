@@ -3,7 +3,7 @@ One and the same with [[Zol]]. A force of three parts, manifested from the resid
 
 The three parts are as follows: [[Arcana]], [[Viridescence]], and [[Observance]]. Those who utilize the force of The Trinity can harness one or many of the three forces by many different means.
 
-The trinity is a force stronger than any of the gods, and is Zol itself in it's essence. The only power that comes close to it is [[The First Tongue]]. It is the source of almost all [[Magic]].
+[[The Trinity]] is a force stronger than any of the gods, and is Zol itself in it's essence. The only power that comes close to it is [[The First Tongue]]. It is the source of almost all [[Magic]].
 
 
 ![[Magic Diagram.png]]

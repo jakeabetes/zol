@@ -23,7 +23,7 @@ The main pantheons are:
 ## Wordbearers
 Mortals who have achieved the ability to harness [[The First Tongue]], also known as [[Wordbearers]], are considered to be gods by some. It is not known exactly how many [[Wordbearers]] there are, but the ones who are public play a large role in society.
 
-## Cosmic entitles
+## Cosmic entities
 Outside of [[Zol]] and its planes, beyond the [[The Great Wall of Roots]], there lies an infinite cosmic expanse. Almost nothing is known of this strange outside world, but it is understood that the world of [[Zol]] itself may be the dead body of one of its progenitors. These progenitors, known as the [[Great Old Ones]] once ruled the cosmos, but were driven away from their former power by some reality bending event. All of what is known about these beings is considered to be legend.
 
 ## Religion

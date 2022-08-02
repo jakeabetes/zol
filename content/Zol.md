@@ -14,6 +14,8 @@
 - [[Notable Objects]]
 - [[Races]]
 - The Regions of Zol
+	- The Three Corners of Civilization
+	- Lorelhiem
 
 
 # The Regions of Zol
@@ -51,6 +53,6 @@ and 4 major seas
 
 
 ## Lorelhiem
-A Distant and strange island land rumored to be far east of The Three Corners of Civilization, beyond the reaches of nautical technology and teleportation magic.
+A Distant and strange feudal land rumored to be far east of The Three Corners of Civilization, beyond the reaches of nautical technology and teleportation magic.
 
 (Note: This is the first planned future expansion of [[Zol]])

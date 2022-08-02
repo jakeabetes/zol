@@ -1,3 +1,7 @@
+# Hanen
+*Where heroes are born*
+![[Hanen skyline.png]]
+
 Hanen, the Brave City. Located in [[The Free Cities of Alderun]], Hanen is the smallest of the Alderian cities, but has a reputable history. During the [[Alderian Rebellion]]. The rebels of Hanen did not have the numbers that were originally intended for its defense. The rebels had overthrown the city, but were expected to lose it against the armies of [[Kapesh]]. In the coming assault. Troops could not cross the expanses to support the rebels within Hanen, as South Kapesh was crawling with enemy troops.
 
 ![[hanen.png]]
