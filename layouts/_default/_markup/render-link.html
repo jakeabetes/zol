@@ -1,16 +1,18 @@
-{{$trimmed := strings.TrimSuffix ".md" (.Destination | safeURL)}}
-{{$dashedurl := replace $trimmed "%20" "-" }}
-{{$external := strings.HasPrefix $dashedurl "http" }}
-{{- if $external -}}
+{{$trimmed := strings.TrimSuffix ".md" (.Destination | safeURL)}} {{$dashedurl := replace $trimmed
+"%20" "-" }} {{$external := strings.HasPrefix $dashedurl "http" }} {{- if $external -}}
 <a href="{{ $dashedurl }}" rel="noopener">{{ .Text | safeHTML }}</a>
-{{- else -}}
-{{$spacedurl := replace $trimmed "%20" " " }}
-{{$fixedUrl := (cond (hasPrefix $spacedurl "/") $spacedurl (print "/" $spacedurl)) | urlize}}
-{{$nonexistent := eq (.Page.GetPage $spacedurl).RelPermalink ""}}
-{{$rooted := default $spacedurl ((.Page.GetPage $spacedurl).RelPermalink) }}
+{{- else -}} {{$spacedurl := replace $trimmed "%20" " " }} {{$quotelessurl := replace $spacedurl "'"
+"" }} {{$fixedUrl := (cond (hasPrefix $quotelessurl "/") $quotelessurl (print "/" $quotelessurl)) |
+urlize}} {{$nonexistent := eq (.Page.GetPage $quotelessurl).RelPermalink ""}} {{$rooted := default
+$quotelessurl ((.Page.GetPage $quotelessurl).RelPermalink) }}
 <a
-  {{if not $nonexistent}}href="{{$rooted}}"{{end}}
-  rel="noopener" class="internal-link{{if $nonexistent}} broken{{end}}"
-  data-src="{{$rooted}}">{{- .Text | safeHTML -}}
+  {{if
+  not
+  $nonexistent}}href="{{$rooted}}"
+  {{end}}
+  rel="noopener"
+  class="internal-link{{if $nonexistent}} broken{{end}}"
+  data-src="{{$rooted}}"
+  >{{- .Text | safeHTML -}}
 </a>
 {{- end -}}
