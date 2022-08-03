@@ -46,7 +46,7 @@
 
       {{$block := default "" (index $reference 1)}}
       {{$block = strings.TrimRight "/" (cond (eq $block "") $block (printf "#%s" $block)) | urlize | lower}}
-      {{$href := strings.TrimRight "/" ($page.GetPage $quotelesstitle).Permalink}}
+      {{$href := strings.TrimRight "/" ($page.GetPage "/%#v" $quotelesstitle).RelPermalink}}
 
       {{ printf "%#v" " href: " }}
       {{ printf "%#v" $href }}
