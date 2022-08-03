@@ -28,7 +28,7 @@
       {{$split := split $inner "|"}}
       {{$path := index $split 0 | relURL}}
       {{$width := index $split 1}}
-      {{$img := printf "<div class="container"><input type="checkbox" id="zoomCheck"><label for="zoomCheck"><img src=\"%s\" width=\"%s\" /></label></div>" $path (default "auto" $width)}}
+      {{$img := printf "<div class=\"container\"><input type=\"checkbox\" id=\"zoomCheck\"><label for=\"zoomCheck\"><img src=\"%s\" width=\"%s\" /></label></div>" $path (default "auto" $width)}}
       {{$content = replace $content . $img}}
     {{else}}
       {{$inner := . | strings.TrimPrefix "[[" | strings.TrimSuffix "]]" }}
