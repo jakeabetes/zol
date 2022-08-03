@@ -1,30 +1,44 @@
 {{$src := .Destination | safeURL }} {{$width := index (split .Text "|") 1 | default "auto" }}
 {{$external := strings.HasPrefix $src "http" }} {{- if $external -}}
-<img
-  src="{{ $src }}"
-  width="{{ $width }}"
-  alt="{{ .Text }}"
-  {{
-  with
-  .Title
-  }}
-  title="{{ . }}"
-  {{
-  end
-  }}
-/>
+
+<div class="container">
+  <input type="checkbox" id="zoomCheck" />
+  <label for="zoomCheck">
+    <img
+      src="{{ $src }}"
+      width="{{ $width }}"
+      alt="{{ .Text }}"
+      {{
+      with
+      .Title
+      }}
+      title="{{ . }}"
+      {{
+      end
+      }}
+    />
+  </label>
+</div>
+
 {{- else -}} {{$fixedUrl := (cond (hasPrefix $src "/") $src (print "/" $src)) | urlize}}
-<img
-  src="{{.Page.Site.BaseURL}}{{ $fixedUrl }}"
-  width="{{ $width }}"
-  alt="{{ .Text }}"
-  {{
-  with
-  .Title
-  }}
-  title="{{ . }}"
-  {{
-  end
-  }}
-/>
+
+<div class="container">
+  <input type="checkbox" id="zoomCheck" />
+  <label for="zoomCheck">
+    <img
+      src="{{.Page.Site.BaseURL}}{{ $fixedUrl }}"
+      width="{{ $width }}"
+      alt="{{ .Text }}"
+      {{
+      with
+      .Title
+      }}
+      title="{{ . }}"
+      {{
+      end
+      }}
+    />
+  </label>
+</div>
+
 {{- end -}}

@@ -144,6 +144,21 @@ th {
   border: 1px solid var(--outlinegray);
 }
 
+input[type="checkbox"] {
+  display: none;
+}
+
+.container img {
+  margin: 100px;
+  transition: transform 0.25s ease;
+  cursor: zoom-in;
+}
+
+input[type="checkbox"]:checked ~ label > img {
+  transform: scale(2);
+  cursor: zoom-out;
+}
+
 img {
   max-width: 100%;
   border-radius: 3px;
