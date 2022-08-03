@@ -230,7 +230,7 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
     .attr("dy", (d) => nodeRadius(d) + 8 + "px")
     .attr("text-anchor", "middle")
     .text((d) => {
-      return content[d.id]?.title || d.id.replace("-", " ").replace("/", "")
+      return content[d.id]?.title || d.id.replace(/-/g, " ").replace("/", "")
     })
     .style("opacity", (opacityScale - 1) / 3.75)
     .style("pointer-events", "none")
