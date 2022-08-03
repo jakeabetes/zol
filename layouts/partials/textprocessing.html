@@ -44,12 +44,13 @@
       {{ printf "%#v" " Quotelesstitle: " }}
       {{ printf "%#v" $quotelesstitle }}
 
-      {{ printf "%#v" " href: " }}
-      {{ printf "%#v" strings.TrimRight "/" ($page.GetPage $quotelesstitle).RelPermalink }}
-
       {{$block := default "" (index $reference 1)}}
       {{$block = strings.TrimRight "/" (cond (eq $block "") $block (printf "#%s" $block)) | urlize | lower}}
       {{$href := strings.TrimRight "/" ($page.GetPage $quotelesstitle).RelPermalink}}
+
+      {{ printf "%#v" " href: " }}
+      {{ printf "%#v" $href }}
+
       {{$display := default $title (index $split 1)}}
       {{if not $href}}
         {{$link := printf "<a class=\"internal-link broken\">%s</a>" $display}}
