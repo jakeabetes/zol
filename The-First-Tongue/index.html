@@ -6,33 +6,102 @@
 <script src=https://jakeabetes.github.io/zol/js/popover.37b1455b8f0603154072b9467132c659.min.js></script>
 <script src=https://jakeabetes.github.io/zol/js/code-title.b35124ad8db0ba37162b886afb711cbc.min.js></script>
 <script src=https://jakeabetes.github.io/zol/js/clipboard.c20857734e53a3fb733b7443879efa61.min.js></script>
-<script>const BASE_URL="https://jakeabetes.github.io/zol/",fetchData=Promise.all([fetch("https://jakeabetes.github.io/zol/indices/linkIndex.232a096e5637d8454e4ffd56574fc7c9.min.json").then(e=>e.json()).then(e=>({index:e.index,links:e.links})),fetch("https://jakeabetes.github.io/zol/indices/contentIndex.76d0a319c7690281a78a9c6e76127754.min.json").then(e=>e.json())]).then(([{index:e,links:t},n])=>({index:e,links:t,content:n})),render=()=>{const n=new URL(BASE_URL),s=n.pathname,o=window.location.pathname,i=s==o;addCopyButtons(),addTitleToCodeBlocks();const e=document.getElementById("graph-container");if(!e)return requestAnimationFrame(render);e.textContent="";const t=i&&!1;drawGraph("https://jakeabetes.github.io/zol",t,[{"/moc":"#4388cc"}],t?{centerForce:1,depth:-1,enableDrag:!0,enableLegend:!1,enableZoom:!0,fontSize:.5,linkDistance:1,opacityScale:3,repelForce:1,scale:1.4}:{centerForce:1,depth:1,enableDrag:!0,enableLegend:!1,enableZoom:!0,fontSize:.6,linkDistance:1,opacityScale:3,repelForce:2,scale:1.2}),initPopover("https://jakeabetes.github.io/zol",!0,!0)},init=(e=document)=>{addCopyButtons(),addTitleToCodeBlocks(),renderMathInElement(e.body,{delimiters:[{left:"$$",right:"$$",display:!0},{left:"$",right:"$",display:!1}],throwOnError:!1})}</script><script type=module>
+<script>const BASE_URL="https://jakeabetes.github.io/zol/",fetchData=Promise.all([fetch("https://jakeabetes.github.io/zol/indices/linkIndex.232a096e5637d8454e4ffd56574fc7c9.min.json").then(e=>e.json()).then(e=>({index:e.index,links:e.links})),fetch("https://jakeabetes.github.io/zol/indices/contentIndex.3435f3df29ad8cddb6d3a8ecdc3a27d8.min.json").then(e=>e.json())]).then(([{index:e,links:t},n])=>({index:e,links:t,content:n})),render=()=>{const n=new URL(BASE_URL),s=n.pathname,o=window.location.pathname,i=s==o;addCopyButtons(),addTitleToCodeBlocks();const e=document.getElementById("graph-container");if(!e)return requestAnimationFrame(render);e.textContent="";const t=i&&!1;drawGraph("https://jakeabetes.github.io/zol",t,[{"/moc":"#4388cc"}],t?{centerForce:1,depth:-1,enableDrag:!0,enableLegend:!1,enableZoom:!0,fontSize:.5,linkDistance:1,opacityScale:3,repelForce:1,scale:1.4}:{centerForce:1,depth:1,enableDrag:!0,enableLegend:!1,enableZoom:!0,fontSize:.6,linkDistance:1,opacityScale:3,repelForce:2,scale:1.2}),initPopover("https://jakeabetes.github.io/zol",!0,!0)},init=(e=document)=>{addCopyButtons(),addTitleToCodeBlocks(),renderMathInElement(e.body,{delimiters:[{left:"$$",right:"$$",display:!0},{left:"$",right:"$",display:!1}],throwOnError:!1})}</script><script type=module>
     import { attachSPARouting } from "https:\/\/jakeabetes.github.io\/zol\/js\/router.9d4974281069e9ebb189f642ae1e3ca2.min.js"
     attachSPARouting(init, render)
   </script></head><script async src="https://www.googletagmanager.com/gtag/js?id=G-XYFD95KB4J"></script>
 <script>var doNotTrack=!1;if(!doNotTrack){window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag("js",new Date),gtag("config","G-XYFD95KB4J",{anonymize_ip:!1})}</script><body><div id=search-container><div id=search-space><input autocomplete=off id=search-bar name=search type=text aria-label=Search placeholder="Search for something..."><div id=results-container></div></div></div><script src=https://cdn.jsdelivr.net/npm/flexsearch@0.7.21/dist/flexsearch.bundle.js integrity="sha256-i3A0NZGkhsKjVMzFxv3ksk0DZh3aXqu0l49Bbh0MdjE=" crossorigin=anonymous defer></script>
 <script defer src=https://jakeabetes.github.io/zol/js/search.cf33b507388f3dfd5513a2afcda7af41.min.js></script><div class=singlePage><header><h1 id=page-title><a href=https://jakeabetes.github.io/zol/Zol>Zol</a></h1><div class=spacer></div><div id=search-icon><p>Search</p><svg tabindex="0" aria-labelledby="title desc" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title id="title">Search Icon</title><desc id="desc">Icon to open search</desc><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"/><circle cx="8" cy="8" r="7"/></g></svg></div><div class=darkmode><input class=toggle id=darkmode-toggle type=checkbox tabindex=-1>
-<label id=toggle-label-light for=darkmode-toggle tabindex=-1><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="dayIcon" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35"><title>Light Mode</title><path d="M6 17.5C6 16.672 5.328 16 4.5 16h-3C.672 16 0 16.672.0 17.5S.672 19 1.5 19h3C5.328 19 6 18.328 6 17.5zM7.5 26c-.414.0-.789.168-1.061.439l-2 2C4.168 28.711 4 29.086 4 29.5 4 30.328 4.671 31 5.5 31c.414.0.789-.168 1.06-.44l2-2C8.832 28.289 9 27.914 9 27.5 9 26.672 8.329 26 7.5 26zm10-20C18.329 6 19 5.328 19 4.5v-3C19 .672 18.329.0 17.5.0S16 .672 16 1.5v3C16 5.328 16.671 6 17.5 6zm10 3c.414.0.789-.168 1.06-.439l2-2C30.832 6.289 31 5.914 31 5.5 31 4.672 30.329 4 29.5 4c-.414.0-.789.168-1.061.44l-2 2C26.168 6.711 26 7.086 26 7.5 26 8.328 26.671 9 27.5 9zM6.439 8.561C6.711 8.832 7.086 9 7.5 9 8.328 9 9 8.328 9 7.5c0-.414-.168-.789-.439-1.061l-2-2C6.289 4.168 5.914 4 5.5 4 4.672 4 4 4.672 4 5.5c0 .414.168.789.439 1.06l2 2.001zM33.5 16h-3c-.828.0-1.5.672-1.5 1.5s.672 1.5 1.5 1.5h3c.828.0 1.5-.672 1.5-1.5S34.328 16 33.5 16zM28.561 26.439C28.289 26.168 27.914 26 27.5 26c-.828.0-1.5.672-1.5 1.5.0.414.168.789.439 1.06l2 2C28.711 30.832 29.086 31 29.5 31c.828.0 1.5-.672 1.5-1.5.0-.414-.168-.789-.439-1.061l-2-2zM17.5 29c-.829.0-1.5.672-1.5 1.5v3c0 .828.671 1.5 1.5 1.5s1.5-.672 1.5-1.5v-3C19 29.672 18.329 29 17.5 29zm0-22C11.71 7 7 11.71 7 17.5S11.71 28 17.5 28 28 23.29 28 17.5 23.29 7 17.5 7zm0 18c-4.136.0-7.5-3.364-7.5-7.5s3.364-7.5 7.5-7.5 7.5 3.364 7.5 7.5S21.636 25 17.5 25z"/></svg></label><label id=toggle-label-dark for=darkmode-toggle tabindex=-1><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="nightIcon" viewBox="0 0 100 100" style="enable-background='new 0 0 100 100'"><title>Dark Mode</title><path d="M96.76 66.458c-.853-.852-2.15-1.064-3.23-.534-6.063 2.991-12.858 4.571-19.655 4.571C62.022 70.495 50.88 65.88 42.5 57.5 29.043 44.043 25.658 23.536 34.076 6.47c.532-1.08.318-2.379-.534-3.23-.851-.852-2.15-1.064-3.23-.534-4.918 2.427-9.375 5.619-13.246 9.491-9.447 9.447-14.65 22.008-14.65 35.369.0 13.36 5.203 25.921 14.65 35.368s22.008 14.65 35.368 14.65c13.361.0 25.921-5.203 35.369-14.65 3.872-3.871 7.064-8.328 9.491-13.246C97.826 68.608 97.611 67.309 96.76 66.458z"/></svg></label></div></header><article><ul class=tags></ul><aside class=mainTOC><details><summary>Table of Contents</summary><nav id=TableOfContents><ol><li><a href=#relation-to-the-old-tongue>Relation to The Old Tongue</a></li><li><a href=#discovery-and-possession>Discovery and Possession</a></li></ol></nav></details></aside>&hugolib.pageState{pageOutputs:[]*hugolib.pageOutput{(*hugolib.pageOutput)(0xc000c50b40), (*hugolib.pageOutput)(0xc000c50f00)}, pageOutputTemplateVariationsState:(*atomic.Uint32)(0xc000766bb8), pageOutput:(*hugolib.pageOutput)(0xc000c50b40), pageCommon:(*hugolib.pageCommon)(0xc0000f8680)}
-&hugolib.pageState{pageOutputs:[]*hugolib.pageOutput{(*hugolib.pageOutput)(0xc000c50b40), (*hugolib.pageOutput)(0xc000c50f00)}, pageOutputTemplateVariationsState:(*atomic.Uint32)(0xc000766bb8), pageOutput:(*hugolib.pageOutput)(0xc000c50b40), pageCommon:(*hugolib.pageCommon)(0xc0000f8680)}
-&hugolib.pageState{pageOutputs:[]*hugolib.pageOutput{(*hugolib.pageOutput)(0xc000c50b40), (*hugolib.pageOutput)(0xc000c50f00)}, pageOutputTemplateVariationsState:(*atomic.Uint32)(0xc000766bb8), pageOutput:(*hugolib.pageOutput)(0xc000c50b40), pageCommon:(*hugolib.pageCommon)(0xc0000f8680)}
-&hugolib.pageState{pageOutputs:[]*hugolib.pageOutput{(*hugolib.pageOutput)(0xc000c50b40), (*hugolib.pageOutput)(0xc000c50f00)}, pageOutputTemplateVariationsState:(*atomic.Uint32)(0xc000766bb8), pageOutput:(*hugolib.pageOutput)(0xc000c50b40), pageCommon:(*hugolib.pageCommon)(0xc0000f8680)}
-&hugolib.pageState{pageOutputs:[]*hugolib.pageOutput{(*hugolib.pageOutput)(0xc000c50b40), (*hugolib.pageOutput)(0xc000c50f00)}, pageOutputTemplateVariationsState:(*atomic.Uint32)(0xc000766bb8), pageOutput:(*hugolib.pageOutput)(0xc000c50b40), pageCommon:(*hugolib.pageCommon)(0xc0000f8680)}
-&hugolib.pageState{pageOutputs:[]*hugolib.pageOutput{(*hugolib.pageOutput)(0xc000c50b40), (*hugolib.pageOutput)(0xc000c50f00)}, pageOutputTemplateVariationsState:(*atomic.Uint32)(0xc000766bb8), pageOutput:(*hugolib.pageOutput)(0xc000c50b40), pageCommon:(*hugolib.pageCommon)(0xc0000f8680)}
-&hugolib.pageState{pageOutputs:[]*hugolib.pageOutput{(*hugolib.pageOutput)(0xc000c50b40), (*hugolib.pageOutput)(0xc000c50f00)}, pageOutputTemplateVariationsState:(*atomic.Uint32)(0xc000766bb8), pageOutput:(*hugolib.pageOutput)(0xc000c50b40), pageCommon:(*hugolib.pageCommon)(0xc0000f8680)}
-&hugolib.pageState{pageOutputs:[]*hugolib.pageOutput{(*hugolib.pageOutput)(0xc000c50b40), (*hugolib.pageOutput)(0xc000c50f00)}, pageOutputTemplateVariationsState:(*atomic.Uint32)(0xc000766bb8), pageOutput:(*hugolib.pageOutput)(0xc000c50b40), pageCommon:(*hugolib.pageCommon)(0xc0000f8680)}
-&hugolib.pageState{pageOutputs:[]*hugolib.pageOutput{(*hugolib.pageOutput)(0xc000c50b40), (*hugolib.pageOutput)(0xc000c50f00)}, pageOutputTemplateVariationsState:(*atomic.Uint32)(0xc000766bb8), pageOutput:(*hugolib.pageOutput)(0xc000c50b40), pageCommon:(*hugolib.pageCommon)(0xc0000f8680)}
-&hugolib.pageState{pageOutputs:[]*hugolib.pageOutput{(*hugolib.pageOutput)(0xc000c50b40), (*hugolib.pageOutput)(0xc000c50f00)}, pageOutputTemplateVariationsState:(*atomic.Uint32)(0xc000766bb8), pageOutput:(*hugolib.pageOutput)(0xc000c50b40), pageCommon:(*hugolib.pageCommon)(0xc0000f8680)}
-&hugolib.pageState{pageOutputs:[]*hugolib.pageOutput{(*hugolib.pageOutput)(0xc000c50b40), (*hugolib.pageOutput)(0xc000c50f00)}, pageOutputTemplateVariationsState:(*atomic.Uint32)(0xc000766bb8), pageOutput:(*hugolib.pageOutput)(0xc000c50b40), pageCommon:(*hugolib.pageCommon)(0xc0000f8680)}
-&hugolib.pageState{pageOutputs:[]*hugolib.pageOutput{(*hugolib.pageOutput)(0xc000c50b40), (*hugolib.pageOutput)(0xc000c50f00)}, pageOutputTemplateVariationsState:(*atomic.Uint32)(0xc000766bb8), pageOutput:(*hugolib.pageOutput)(0xc000c50b40), pageCommon:(*hugolib.pageCommon)(0xc0000f8680)}
-&hugolib.pageState{pageOutputs:[]*hugolib.pageOutput{(*hugolib.pageOutput)(0xc000c50b40), (*hugolib.pageOutput)(0xc000c50f00)}, pageOutputTemplateVariationsState:(*atomic.Uint32)(0xc000766bb8), pageOutput:(*hugolib.pageOutput)(0xc000c50b40), pageCommon:(*hugolib.pageCommon)(0xc0000f8680)}
-&hugolib.pageState{pageOutputs:[]*hugolib.pageOutput{(*hugolib.pageOutput)(0xc000c50b40), (*hugolib.pageOutput)(0xc000c50f00)}, pageOutputTemplateVariationsState:(*atomic.Uint32)(0xc000766bb8), pageOutput:(*hugolib.pageOutput)(0xc000c50b40), pageCommon:(*hugolib.pageCommon)(0xc0000f8680)}
-&hugolib.pageState{pageOutputs:[]*hugolib.pageOutput{(*hugolib.pageOutput)(0xc000c50b40), (*hugolib.pageOutput)(0xc000c50f00)}, pageOutputTemplateVariationsState:(*atomic.Uint32)(0xc000766bb8), pageOutput:(*hugolib.pageOutput)(0xc000c50b40), pageCommon:(*hugolib.pageCommon)(0xc0000f8680)}
-&hugolib.pageState{pageOutputs:[]*hugolib.pageOutput{(*hugolib.pageOutput)(0xc000c50b40), (*hugolib.pageOutput)(0xc000c50f00)}, pageOutputTemplateVariationsState:(*atomic.Uint32)(0xc000766bb8), pageOutput:(*hugolib.pageOutput)(0xc000c50b40), pageCommon:(*hugolib.pageCommon)(0xc0000f8680)}
-&hugolib.pageState{pageOutputs:[]*hugolib.pageOutput{(*hugolib.pageOutput)(0xc000c50b40), (*hugolib.pageOutput)(0xc000c50f00)}, pageOutputTemplateVariationsState:(*atomic.Uint32)(0xc000766bb8), pageOutput:(*hugolib.pageOutput)(0xc000c50b40), pageCommon:(*hugolib.pageCommon)(0xc0000f8680)}
-&hugolib.pageState{pageOutputs:[]*hugolib.pageOutput{(*hugolib.pageOutput)(0xc000c50b40), (*hugolib.pageOutput)(0xc000c50f00)}, pageOutputTemplateVariationsState:(*atomic.Uint32)(0xc000766bb8), pageOutput:(*hugolib.pageOutput)(0xc000c50b40), pageCommon:(*hugolib.pageCommon)(0xc0000f8680)}
-&hugolib.pageState{pageOutputs:[]*hugolib.pageOutput{(*hugolib.pageOutput)(0xc000c50b40), (*hugolib.pageOutput)(0xc000c50f00)}, pageOutputTemplateVariationsState:(*atomic.Uint32)(0xc000766bb8), pageOutput:(*hugolib.pageOutput)(0xc000c50b40), pageCommon:(*hugolib.pageCommon)(0xc0000f8680)}
-&hugolib.pageState{pageOutputs:[]*hugolib.pageOutput{(*hugolib.pageOutput)(0xc000c50b40), (*hugolib.pageOutput)(0xc000c50f00)}, pageOutputTemplateVariationsState:(*atomic.Uint32)(0xc000766bb8), pageOutput:(*hugolib.pageOutput)(0xc000c50b40), pageCommon:(*hugolib.pageCommon)(0xc0000f8680)}
-&hugolib.pageState{pageOutputs:[]*hugolib.pageOutput{(*hugolib.pageOutput)(0xc000c50b40), (*hugolib.pageOutput)(0xc000c50f00)}, pageOutputTemplateVariationsState:(*atomic.Uint32)(0xc000766bb8), pageOutput:(*hugolib.pageOutput)(0xc000c50b40), pageCommon:(*hugolib.pageCommon)(0xc0000f8680)}
-&hugolib.pageState{pageOutputs:[]*hugolib.pageOutput{(*hugolib.pageOutput)(0xc000c50b40), (*hugolib.pageOutput)(0xc000c50f00)}, pageOutputTemplateVariationsState:(*atomic.Uint32)(0xc000766bb8), pageOutput:(*hugolib.pageOutput)(0xc000c50b40), pageCommon:(*hugolib.pageCommon)(0xc0000f8680)}
-&hugolib.pageState{pageOutputs:[]*hugolib.pageOutput{(*hugolib.pageOutput)(0xc000c50b40), (*hugolib.pageOutput)(0xc000c50f00)}, pageOutputTemplateVariationsState:(*atomic.Uint32)(0xc000766bb8), pageOutput:(*hugolib.pageOutput)(0xc000c50b40), pageCommon:(*hugolib.pageCommon)(0xc0000f8680)}
+<label id=toggle-label-light for=darkmode-toggle tabindex=-1><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="dayIcon" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35"><title>Light Mode</title><path d="M6 17.5C6 16.672 5.328 16 4.5 16h-3C.672 16 0 16.672.0 17.5S.672 19 1.5 19h3C5.328 19 6 18.328 6 17.5zM7.5 26c-.414.0-.789.168-1.061.439l-2 2C4.168 28.711 4 29.086 4 29.5 4 30.328 4.671 31 5.5 31c.414.0.789-.168 1.06-.44l2-2C8.832 28.289 9 27.914 9 27.5 9 26.672 8.329 26 7.5 26zm10-20C18.329 6 19 5.328 19 4.5v-3C19 .672 18.329.0 17.5.0S16 .672 16 1.5v3C16 5.328 16.671 6 17.5 6zm10 3c.414.0.789-.168 1.06-.439l2-2C30.832 6.289 31 5.914 31 5.5 31 4.672 30.329 4 29.5 4c-.414.0-.789.168-1.061.44l-2 2C26.168 6.711 26 7.086 26 7.5 26 8.328 26.671 9 27.5 9zM6.439 8.561C6.711 8.832 7.086 9 7.5 9 8.328 9 9 8.328 9 7.5c0-.414-.168-.789-.439-1.061l-2-2C6.289 4.168 5.914 4 5.5 4 4.672 4 4 4.672 4 5.5c0 .414.168.789.439 1.06l2 2.001zM33.5 16h-3c-.828.0-1.5.672-1.5 1.5s.672 1.5 1.5 1.5h3c.828.0 1.5-.672 1.5-1.5S34.328 16 33.5 16zM28.561 26.439C28.289 26.168 27.914 26 27.5 26c-.828.0-1.5.672-1.5 1.5.0.414.168.789.439 1.06l2 2C28.711 30.832 29.086 31 29.5 31c.828.0 1.5-.672 1.5-1.5.0-.414-.168-.789-.439-1.061l-2-2zM17.5 29c-.829.0-1.5.672-1.5 1.5v3c0 .828.671 1.5 1.5 1.5s1.5-.672 1.5-1.5v-3C19 29.672 18.329 29 17.5 29zm0-22C11.71 7 7 11.71 7 17.5S11.71 28 17.5 28 28 23.29 28 17.5 23.29 7 17.5 7zm0 18c-4.136.0-7.5-3.364-7.5-7.5s3.364-7.5 7.5-7.5 7.5 3.364 7.5 7.5S21.636 25 17.5 25z"/></svg></label><label id=toggle-label-dark for=darkmode-toggle tabindex=-1><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="nightIcon" viewBox="0 0 100 100" style="enable-background='new 0 0 100 100'"><title>Dark Mode</title><path d="M96.76 66.458c-.853-.852-2.15-1.064-3.23-.534-6.063 2.991-12.858 4.571-19.655 4.571C62.022 70.495 50.88 65.88 42.5 57.5 29.043 44.043 25.658 23.536 34.076 6.47c.532-1.08.318-2.379-.534-3.23-.851-.852-2.15-1.064-3.23-.534-4.918 2.427-9.375 5.619-13.246 9.491-9.447 9.447-14.65 22.008-14.65 35.369.0 13.36 5.203 25.921 14.65 35.368s22.008 14.65 35.368 14.65c13.361.0 25.921-5.203 35.369-14.65 3.872-3.871 7.064-8.328 9.491-13.246C97.826 68.608 97.611 67.309 96.76 66.458z"/></svg></label></div></header><article><ul class=tags></ul><aside class=mainTOC><details><summary>Table of Contents</summary><nav id=TableOfContents><ol><li><a href=#relation-to-the-old-tongue>Relation to The Old Tongue</a></li><li><a href=#discovery-and-possession>Discovery and Possession</a></li></ol></nav></details></aside>" Title: "
+"The Watcher in The Door"
+" Quotelesstitle: "
+"The Watcher in The Door"
+" Title: "
+"Zol"
+" Quotelesstitle: "
+"Zol"
+" Title: "
+"Zolaen Gods"
+" Quotelesstitle: "
+"Zolaen Gods"
+" Title: "
+"The Trinity"
+" Quotelesstitle: "
+"The Trinity"
+" Title: "
+"Common"
+" Quotelesstitle: "
+"Common"
+" Title: "
+"Vizir"
+" Quotelesstitle: "
+"Vizir"
+" Title: "
+"Zol"
+" Quotelesstitle: "
+"Zol"
+" Title: "
+"The Watcher in The Door"
+" Quotelesstitle: "
+"The Watcher in The Door"
+" Title: "
+"The Old Tongue"
+" Quotelesstitle: "
+"The Old Tongue"
+" Title: "
+"Zol"
+" Quotelesstitle: "
+"Zol"
+" Title: "
+"Magic"
+" Quotelesstitle: "
+"Magic"
+" Title: "
+"Zol"
+" Quotelesstitle: "
+"Zol"
+" Title: "
+"The Undoing"
+" Quotelesstitle: "
+"The Undoing"
+" Title: "
+"Wordbearers"
+" Quotelesstitle: "
+"Wordbearers"
+" Title: "
+"Zol"
+" Quotelesstitle: "
+"Zol"
+" Title: "
+"The Old Tongue"
+" Quotelesstitle: "
+"The Old Tongue"
+" Title: "
+"Wordbearers"
+" Quotelesstitle: "
+"Wordbearers"
+" Title: "
+"The Word of Fire"
+" Quotelesstitle: "
+"The Word of Fire"
+" Title: "
+"The Word of Shadow"
+" Quotelesstitle: "
+"The Word of Shadow"
+" Title: "
+"The Word of Iron"
+" Quotelesstitle: "
+"The Word of Iron"
+" Title: "
+"The Word of Rage"
+" Quotelesstitle: "
+"The Word of Rage"
+" Title: "
+"The Word of Growth"
+" Quotelesstitle: "
+"The Word of Growth"
+" Title: "
+"The Word of Storms"
+" Quotelesstitle: "
+"The Word of Storms"
 <a href=#the-first-tongue><h1 id=the-first-tongue><span class=hanchor arialabel=Anchor># </span>The First Tongue</h1></a><p>The First Tongue is the words spoken by <a href=/zol/The-Watcher-in-The-Door rel=noopener class=internal-link data-src=/zol/The-Watcher-in-The-Door>The Watcher in The Door</a> during the creation of <a href=/zol/Zol rel=noopener class=internal-link data-src=/zol/Zol>Zol</a> and the founding of the <a href=/zol/Zolaen-Gods rel=noopener class=internal-link data-src=/zol/Zolaen-Gods>Zolaen Gods</a> pantheon. This language is what binds <a href=/zol/The-Trinity rel=noopener class=internal-link data-src=/zol/The-Trinity>The Trinity</a> into all of existence within Zol. It is referred to as a language for lack of a better term. Unlike modern language, The First Tongue must be spoken with more than just words and often involves no words at all.</p><p>As an example, the modern language of <a class="internal-link broken">Common</a> must be spoken with the correct pronunciation, grammar, inflection, cadence, et cetera. The First Tongue must be spoken with uncontested knowledge, unbound emotion, iron will, perfect artistry, exact movement, unwavering faith, and a <a href=/zol/Vizir rel=noopener class=internal-link data-src=/zol/Vizir>Vizir</a> like no other. The words of The First Tongue are so complex they cannot be recorded in any useful manner.</p><p>The First Tongue is thought to be a collection of names an rules for all things in <a href=/zol/Zol rel=noopener class=internal-link data-src=/zol/Zol>Zol</a>. As a result it is a broad language, but is theorized to have limits in this way. It is generally accepted that the only being to know the full span of The First Tongue is <a href=/zol/The-Watcher-in-The-Door rel=noopener class=internal-link data-src=/zol/The-Watcher-in-The-Door>The Watcher in The Door</a>. Despite the omnipotence this would give a being, his scripture claims he does not utilize this power as it would be unjust. This sparks debate among scholars and theologians.</p><a href=#relation-to-the-old-tongue><h2 id=relation-to-the-old-tongue><span class=hanchor arialabel=Anchor># </span>Relation to The Old Tongue</h2></a><p>The First Tongue is the predecessor of <a href=/zol/The-Old-Tongue rel=noopener class=internal-link data-src=/zol/The-Old-Tongue>The Old Tongue</a>, and is much more powerful. An individual who knows a word from The First Tongue has full dominion over that element of <a href=/zol/Zol rel=noopener class=internal-link data-src=/zol/Zol>Zol</a>. This grants <a href=/zol/Magic rel=noopener class=internal-link data-src=/zol/Magic>Magic</a> power akin to that of a god. Acquiring a word from The First Tongue is arguably the single most difficult thing one can achieve as an individual in <a href=/zol/Zol rel=noopener class=internal-link data-src=/zol/Zol>Zol</a>.</p><a href=#discovery-and-possession><h2 id=discovery-and-possession><span class=hanchor arialabel=Anchor># </span>Discovery and Possession</h2></a><p>Little is known about how to actually acquire a word from The First Tongue, and those who do know keep it a well guarded secret. It is thought that before <a href=/zol/The-Undoing rel=noopener class=internal-link data-src=/zol/The-Undoing>The Undoing</a>, there were many who possessed words. In modern times, there are only 5 publicly known individuals who possess a word. They go by the title of <a class="internal-link broken">Wordbearers</a>. Rumors and legends tell of many more than 5, but that remains to be proven.</p><p>Discovering a word in The First Tongue is said to feel like witnessing the whole universe itself for a single moment. A second spans into an eternity and the truths held behind the word you have discovered come as no surprise to you, as you are their champion. They instead come as a comfort, a tool for you to shape <a href=/zol/Zol rel=noopener class=internal-link data-src=/zol/Zol>Zol</a> like no other.</p><p>One the major differences The First Tongue has over <a href=/zol/The-Old-Tongue rel=noopener class=internal-link data-src=/zol/The-Old-Tongue>The Old Tongue</a> is words from The First Tongue can be passed down to a worthy apprentice. This requires that the apprentice has studied for a lifetime under the <a class="internal-link broken">Wordbearers</a>, and has a mastery over the subject beaten only by their master. This allows for individuals to complete a challenge far less great than discovering a word on their own. The word is passed upon death given the Wordbearer wills it so, and the candidate is worthy.</p><p>This has allowed some words to stay amongst the population for many generations, and has defined history in many ways. The words publicly known and available in the modern world are:</p><ul><li><a class="internal-link broken">The Word of Fire</a></li><li><a class="internal-link broken">The Word of Shadow</a></li><li><a class="internal-link broken">The Word of Iron</a></li><li><a class="internal-link broken">The Word of Rage</a></li><li><a class="internal-link broken">The Word of Growth</a></li><li><a class="internal-link broken">The Word of Storms</a></li></ul><p>There has never been a record of an individual possessing more than one word, nor 2 individuals possessing the same word. It is suspected this is a principal of The First Tongue, but it also may just be a product of its rarity.</p></article><hr><div class=page-end><div><script src=https://cdn.jsdelivr.net/npm/d3@6.7.0/dist/d3.min.js integrity="sha256-+7jaYCp29O1JusNWHaYtgUn6EhuP0VaFuswhNV06MyI=" crossorigin=anonymous></script><h3>Interactive Graph</h3><div id=graph-container></div><style>:root{--g-node:var(--secondary);--g-node-active:var(--primary);--g-node-inactive:var(--visited);--g-link:var(--outlinegray);--g-link-active:#5a7282}</style><script src=https://jakeabetes.github.io/zol/js/graph.ea8f7f52d8e39ec9721ab624b31d341f.js></script></div></div><div id=contact_buttons><footer><p>Made by Jacky Zhao using <a href=https://github.com/jackyzha0/quartz>Quartz</a>, © 2022</p><ul><li><a href=https://jakeabetes.github.io/zol/>Home</a></li><li><a href=https://twitter.com/_jzhao>Twitter</a></li><li><a href=https://github.com/jackyzha0>Github</a></li></ul></footer></div></div></body></html>
