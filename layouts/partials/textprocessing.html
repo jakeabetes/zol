@@ -36,7 +36,7 @@
       {{$path := index $split 0}}
       {{$reference := split $path "#"}}
       {{$title := index $reference 0}}
-      {{$quotelesstitle := replace $title `'` "" }}
+      {{$quotelesstitle := replace $title `&rsquo;` "" }}
 
       {{ printf "%#v" $inner }}
       {{ printf "%#v" $split }}
