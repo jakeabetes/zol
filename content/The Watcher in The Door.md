@@ -29,5 +29,5 @@ The Watcher created [[The First Tongue]] when he spun the [[Sea of Monsters]] in
 - The watcher uses this power to achieve his god hood OR the power proceeds from him, and [[Wordbearers]] are mere extensions of him.
 	- The exact truth is not known, and sparks much debate amongst the clergy
 
-![[The Watcher Aescendant.png]]
 *Rendition of The Watchers ascendant form*
+![[The Watcher Aescendant.png]]
