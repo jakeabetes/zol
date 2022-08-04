@@ -12,3 +12,5 @@ Name | Domain
 [[Jyrem]] | Vengeance
 [[Ralatas, Prince of Beasts]] | Beasts, the Hunt
 [[Draedon, the Ascended Wizard]] | Arcane
+[[Ellyon and Aradon]] | Sailing
+

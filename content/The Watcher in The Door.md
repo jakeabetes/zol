@@ -18,7 +18,7 @@ The Watcher's symbol is an empty arched door, matching that of the planar [[Ferr
 The Watcher is known for being kind and protective to his followers, but direct and wrathful to those who would oppose him. The Watcher seeks to uphold his laws for the greater good of [[Zol]].
 
 ## Realm
-The Watcher resides in [[The Cliffs of Aeordel]], a celestial landscape above the clouds. It bears a valiant golden palace for the [[The Watcher]], his greatest followers, and his chosen dead.
+The Watcher resides in [[The Cliffs of Aeordel]], a celestial landscape above the clouds. It bears a valiant golden palace for the [[The Watcher]], some of his fellow gods, his greatest followers, and his chosen dead.
 
 ## Worshipers
 The followers of The Watcher are conservative in nature. Following the rules set in scripture, these individuals worship and pray to their god of light in cathedrals all over [[Zol]].
