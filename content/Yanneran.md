@@ -27,4 +27,6 @@ As well as a curled stem to depict the growth of the arts.
 The souls of the dead who have appealed to [[Yanneran]] fill this palace. Partying for all of eternity.
 
 ## Worshipers
-The worshipers of [[Yanneran]] do not live their lives like normal clergy. These individuals are known as free spirits who travel far and wide. Spreading joy, and creating art. Few temples of [[Yanneran]] exist in [[Zol]] for this reason, and those that do exist are strange, but beautiful places to say the least.
+The worshipers of [[Yanneran]] do not live their lives like normal clergy. These individuals are known as free spirits who travel far and wide. Spreading joy, and creating art. 
+
+Few temples of [[Yanneran]] exist in [[Zol]] for this reason, and those that do exist are strange, but beautiful places to say the least.

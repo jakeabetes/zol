@@ -9,8 +9,7 @@ Name | Domain
 [[The Coilwalker]] | Life and Death
 [[Eptro]] | Ice
 [[Daetro]] | Fire
-[[Jyrem]] | Vengeance
 [[Ralatas, Prince of Beasts]] | Beasts, the Hunt
 [[Draedon, the Ascended Wizard]] | Arcane
-[[Ellyon and Aradon]] | Sailing
+[[Ellyon and Aradon]] | Seafaring, Skyfaring
 

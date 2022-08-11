@@ -20,7 +20,7 @@ There is a vast number of perspectives from which [[Zol]] and its [[Gods]] are u
 	- Additionally, [[Wordbearers]] who serve the greater good are thought to be in alignment with the [[The Trinity]].
 
 - ### Wanderer-Centric Belief
-	- Similar to Zolaen-Centric, this belief system is based on the idea that the [[The Wandering Gods]] are more of guardians rather than [[Gods]]. They are thought to have come to [[Zol]] to protect civilization from the unchecked wrath of the [[Zolaen Gods]]. As per this belief system, the [[Desolation]] is seen as the fault of the [[Zolaen Gods]]. Those who subscribe to this theory also believe that the [[Wayward Gods]] and [[Wordbearers]] are not all inertly bad.
+	- This belief system is based on the idea that the [[The Wandering Gods]] are more of guardians rather than [[Gods]]. They are thought to have come to [[Zol]] to protect civilization from the unchecked wrath of the [[Zolaen Gods]]. As per this belief system, the [[Desolation]] is seen as the fault of the [[Zolaen Gods]]. Those who subscribe to this theory also believe that the [[Wayward Gods]] and [[Wordbearers]] are not all inertly bad.
 	- Followers of this belief see [[The Wandering Gods]] more as companions rather than omnipotent rulers, guiding them in their struggles. Those who seek out [[The Wandering Gods]] may do so with just one, many, or to their leader [[All]].
 
 - ### Polytheism

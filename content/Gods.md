@@ -18,13 +18,20 @@ The main pantheons are:
 - The [[The Wandering Gods]]
 	- A group of alien beings who appeared to mortals after the [[Desolation]]. Mysterious in nature these gods not act like the others. Some think they caused the [[Desolation]], other think they are guardians. Protecting mortals from the dangerous whims of other [[Gods]].
 - The [[Void Gods]]
-	- Beings who hate [[Zol]]. They crawled out of the [[Sea of Monsters]] to destroy [[Zol]], and return it to their feasting ground.
+	- Beings who hate [[Zol]]. They crawled out of the [[Sea of Monsters]] to destroy [[Zol]], and return it to the chaotic feast of power it once was
+
+## Minor vs Major Deities
+Minor Deities are beings who have a great deal of power that gives them a degree of uniqueness and domain over some aspect of [[Zol]] that is not contested by any mortal. These beings have the ability to not only control their domain, but give power to other beings to carry out their will.
+
+Major Deities are beings who are vastly more powerful than all other beings. To these entities, Minor Deities are only a minor threat. Their power and influences is only kept in check by other Major Deities with a contradictory will. To these creatures, mortals are but a miniscule blip in the cosmos. 
 
 ## Wordbearers
-Mortals who have achieved the ability to harness [[The First Tongue]], also known as [[Wordbearers]], are considered to be gods by some. It is not known exactly how many [[Wordbearers]] there are, but the ones who are public play a large role in society.
+Mortals who have achieved the ability to harness [[The First Tongue]], also known as [[Wordbearers]], are considered gods by some. It is not known how many [[Wordbearers]] there are, but the ones who are public play a large role in society.
 
 ## Cosmic entities
 Outside of [[Zol]] and its planes, beyond the [[The Great Wall of Roots]], there lies an infinite cosmic expanse. Almost nothing is known of this strange outside world, but it is understood that the world of [[Zol]] itself may be the dead body of one of its progenitors. These progenitors, known as the [[Great Old Ones]] once ruled the cosmos, but were driven away from their former power by some reality bending event. All of what is known about these beings is considered to be legend.
+
+These beings are known of, but bear little modern significance beyond their importance in the current studies of academics.
 
 ## Religion
 A complicated topic in a world with so much power, so many gods, and so little that is understood. [[Religion]] in [[Zol]] takes many shapes and forms.

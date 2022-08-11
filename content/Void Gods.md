@@ -7,12 +7,10 @@ The Gods listed here are only the known gods of the void. Academics theorize man
 
 Name | Domain
 ------------ | ------------
-[[The Shroud of the Void]] | Fiends
+[[The Shroud of the Void]] | Darkness
 [[The Wasp Eater]] | Plague
 [[The Bloodshed Presence]] | War
-[[The Undoing Prophet]] | Lies
 [[Aldem, King of all Hells]] | Devils
 [[Zelatt, The Draconic Amalgam]] | Chaos
 [[Uroga, Hag of the Sea]] | Fathoms
-[[The Shaper]] | Destruction and Reformation
 [[The Castle of Bodies]] | Wrath, Madness
