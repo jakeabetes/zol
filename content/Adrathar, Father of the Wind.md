@@ -1,6 +1,6 @@
 # Adrathar, Father of the Wind
 *Wayward God of Storms, Major Deity*
-![[adrathar.png]]
+![[adrathar storm.png]]
 
 He who weaves the wind, makes demands of the rain, and commands the lightning. [[Adrathar, Father of the Wind]] is one of the most powerful gods. He cares for strength, oaths, and honor. Adrathar is the creator of the storms that blow over [[Zol]].
 
@@ -16,6 +16,8 @@ Adrathar summons storms in the north east off the coast of [[The Ward]]. These s
 Seen as the most important god to the people of [[The Ward]], Adrathar grants good fortune to those who serve his will and display honor and bravery.
 
 Some believe that he may rival [[The Watcher]] and [[The Lifeweaver]] in his power.
+
+![[adrathar.png]]
 
 ## Realm
 Residing in a plane called [[The Storm Horizon]] a strange realm that not much is known about.

@@ -20,7 +20,7 @@ An upside-down tower.
 Some individuals claim to hear its voices calling out to them, bidding them to carry out their destructive wills.
 
 ## Realm
-[[The Castle of Bodies]] resided in [[The Void]].
+[[The Castle of Bodies]] resides in [[The Void]].
 
 ## Worshipers
 Some dark worship is directed to [[The Castle of Bodies]], but to little avail. It only seems to randomly select mortals. Giving them power and driving them mad.
