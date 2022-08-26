@@ -19,7 +19,7 @@ Witness accounts tell of these beings swimming gracefully through the sea, or so
 Two sets of tail fins rotated opposite to one another. 
 
 ## Behavior
-These two beings act as mediating forces for the ongoing of mortals in the sea and sky. They protect mortals from the dangers of the void that exist at the fraying edges of the [[Prime Material Plane]], as well as interfering with the fates of sailors based on the morality of their intentions.
+These two beings act as mediating forces for the ongoing events of mortals in the sea and sky. They protect mortals from the dangers of the void that exist at the fraying edges of the [[Prime Material Plane]], as well as interfering with the fates of sailors based on the morality of their intentions.
 
 They do this by sending omens as warnings, or beasts and forces of nature to deter any ship who sails a dark course.
 

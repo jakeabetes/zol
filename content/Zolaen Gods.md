@@ -1,7 +1,7 @@
 # Zolaen Gods
 The pantheon of [[Gods]] that created [[Zol]] from the [[Sea of Monsters]].
 
-The [[Zolaen Gods]] are a pantheon of gods who closely follow the vision of [[The Watcher in The Door]]. These [[Gods]] seek to create a perfect world envisioned by their supreme leader.
+The [[Zolaen Gods]] are a pantheon of gods who closely follow the [[The Watcher in The Door]]. These [[Gods]] seek to create a perfect world envisioned by their supreme leader.
 
 Unfortunately for [[Zol]], not all forces agree with this path. A myriad of conflicting views and passions for [[Zol]] makes for a landscape of challenge and resistance against [[The Watcher in The Door]]'s vision.
 
@@ -19,7 +19,7 @@ Name | Domain
 ## The Goal of the Zolaen Gods
 The followers of the [[Zolaen Gods]] believe that their intentions are to make [[Zol]] into a paradise. A long and difficult challenge that requires much faith and sacrifice. The [[Zolaen Gods]] bear the responsibility of making the difficult choices that are required to form this perfect world.
 
-These choices made by [[Zolaen Gods]] occur on a grand scale, involving the lives of many beings. A path of creation and destruction that shapes the world of mortals. Sometimes this manifest beautifully, other times it may seem wrathful.
+These choices made by [[Zolaen Gods]] occur on a grand scale, involving the lives of many beings, creating a path of creation and destruction that shapes the world of mortals. Sometimes this manifest beautifully, other times it may seem wrathful.
 
 This effort is only made more difficult amongst resistance from other [[Gods]] like those of [[The Void]] or [[The Wandering Gods]] who seek a different horizon.
 

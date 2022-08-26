@@ -4,7 +4,7 @@
 
 Queen of the deep, the most powerful of the mysterious [[Hags]], she who commands the horrors that lurk in the depths of the ocean. The most clever of the [[Void Gods]]. Uroga is an absurdly powerful witch who conducts the eldritch horrors that lurk in the depths of the ocean.
 
-While Uroga herself is not as powerful as some other major deity, her wit and influence over powerful monsters makes her a threat like no other.
+While Uroga herself is not as powerful as some of the other major deities, her wit and influence over powerful monsters makes her a threat like no other.
 
 Uroga seemingly has a specific interest in [[The Wandering Gods]]. Some academics theorize they hail from the same place of origin. Along with all of the other [[Hags]].
 
@@ -12,7 +12,7 @@ Uroga seemingly has a specific interest in [[The Wandering Gods]]. Some academic
 Records of Uroga's form differ wildly. Some claim to see her as a face manifesting from interwoven seaweed or storm clouds. Others claim her to be more humanoid like that of an old woman. Many accounts say she has fish like features.
 
 ## Symbolism
-A dark circle with tentacle like protrusions.
+A dark circle with tentacle like radially symmetric protrusions.
 
 ## Behavior
 Uroga is known for making deals with any being who seeks her out. All of these deals come at a great price. These deals typically involve the exchange of power and souls. Commodities which Uroga uses to take control over great monsters and vulnerable mortals.

@@ -15,7 +15,7 @@ The Culmination of Darkness, The Consumer, The Great Deceiver, [[The Anti-Trinit
 The [[Ferric Alphabet]] symbol for [[The Void]].
 
 ## Behavior
-While many stories talk of him with surety, academics would tell you that there is no concrete proof that [[The Shroud of the Void]] exists the single entity many believe. Rather that he may be the name given to the vast amount of information that is not understood about [[The Void]].
+While many stories talk of him with surety, academics would tell you that there is no concrete proof that [[The Shroud of the Void]] exists as the single entity many believe. Rather that he may be the explanation given to the vast amount of information that is not understood about [[The Void]].
 
 That being said, the theories around this being talk of him as the first individual to rise up from the [[Sea of Monsters]] in defiance of the creation of [[Zol]].
 
@@ -28,3 +28,5 @@ Capable of unimaginable horrors, those who claim to have witnessed this being su
 
 ## Worshipers
 Cults and dark arcanists seek his boons in dark rituals. Many temples to his honor are constructed in secret all across [[Zol]].
+
+His name is at the heart of all malevolence in [[Zol]].

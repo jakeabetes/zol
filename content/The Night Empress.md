@@ -10,7 +10,7 @@ Depicted as a [[Drow]]-like woman of purple or blue skin with long flowing hair.
 Sometimes her presence is subtle, like a shifting shadow. Other times she is known to occupy the whole of the night sky.
 
 ## Symbolism
-Her symbol is a crescent moon, and vertically oriented eye fit into one-another.
+Her symbol is a crescent moon, and vertically oriented eye fit into one-another to form a full circle.
 
 ## Behavior
 Known to be unpredictable in the eyes of mortals. Sometimes she is kind and caring to the world, other times she may be stern or even wrathful. While difficult to understand, her intentions are thought to be purposeful.

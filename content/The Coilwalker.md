@@ -15,7 +15,7 @@ The mortality runes are typically used to denote [[The Coilwalker]]
 ![[Mortality Runes.png]]
 
 ## Behavior
-Unconcerned with the on goings of the mortal realms or the contests between gods, [[The Coilwalker]] only cares for the guidance of new and old life. He does however, seem to care a great deal about peoples stories from what little is known of him.
+Thought to be unconcerned with the on goings of the living realms or the contests between gods, [[The Coilwalker]] only cares for the guidance of new and old life. He does however, seem to care a great deal about peoples stories from what little is known of him.
 
 The true power of [[The Coilwalker]] is not known.
 

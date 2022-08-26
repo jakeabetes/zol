@@ -11,7 +11,7 @@ Tellab is depicted as an old humanoid man with flowing robes that dissipate into
 Denoted by the symbol of an inkwell bearing a small sun-like rune.
 
 ## Behavior
-Known for guiding his followers in their learning both academic and philosophical. Tellab is known to never grant knowledge directly, but is thought to ask pointed questions in the back of mortals minds that guide them to the light of the truth.
+Known for guiding his followers in their learning both academic and philosophical. Tellab is known to never grant knowledge directly, but is thought to ask pointed questions in the back of mortals minds that guide them to the light of the truth. Believers see this as the path to true understanding, while skeptics think it to be manipulation.
 
 Tellab is very tactful in his influence, sending envoys and followers on very exact missions. He always bases his decision in utilitarian morals, meaning he will choose destruction for some if it will save the many.
 

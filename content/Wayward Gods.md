@@ -3,7 +3,7 @@
 
 Some of them may be as powerful as some of the [[Zolaen Gods]] while others may only influence a small fragment of [[Zol]].
 
-The actions of these gods may vary from benevolent all the way to wrathful, however the evil they may cause would likely be no where near that of one of the [[Void Gods]].
+The actions of these gods may vary from benevolent all the way to malicious, however the evil they may cause would likely be no where near that of one of the [[Void Gods]].
 
 Name | Domain
 ------------ | ------------

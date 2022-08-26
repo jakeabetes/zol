@@ -5,9 +5,9 @@ In [[Zol]], a god is defined by as a being that fits into one or many of these c
 - Has dominion over a non-artificial plane of existence
 - Is immortal by the rules of [[The Mortal Coil]]
 
-The gods are very present in [[Zol]], each in their own unique ways. The effect society by communicating with, or granting power to mortals. Some gods even take a mortal form to move amongst society. This influences can be well intended, or malicious in nature.
+The god's influence is very present in [[Zol]], each in their own unique ways. They affect society by communicating with, or granting power to mortals. Some gods even take a mortal form to move amongst society. These influences can be well intended, or malicious in nature.
 
-There are many gods that exist in [[Zol]], all with different intentions, morality, and powers. Some gods are supremely powerful, while others are limited in their influence. While the gods themselves have complex relationships that are not well understood by the civilizations of [[Zol]], society has organized them into pantheons to better comprehend them.
+There are many gods that exist in [[Zol]], all with different intentions, morality, and powers. Some gods are supremely powerful, while others are limited in comparison. While the gods themselves have complex relationships with their peers that are not well understood by the civilizations of [[Zol]], society has organized them into pantheons to better discuss them.
 
 ## Main Pantheons
 The main pantheons are:
@@ -21,18 +21,24 @@ The main pantheons are:
 - The [[Void Gods]]
 	- Beings who hate [[Zol]]. They crawled out of the [[Sea of Monsters]] to destroy [[Zol]], and return it to the chaotic feast of power it once was.
 
-## Minor vs Major Deities
-Minor Deities are beings who have a great deal of power that gives them a degree of uniqueness and domain over some aspect of [[Zol]] that is not contested by any mortal. These beings have the ability to not only control their domain, but give power to other beings to carry out their will.
 
-Major Deities are beings who are vastly more powerful than all other beings. To these entities, Minor Deities are only a small threat. Their power and influence is only kept in check by other Major Deities with a contradictory will. To these creatures, mortals are but a miniscule blip in the cosmos. 
+## "God" as a catch-all term for powerful beings
+There are many beings who's primary focus is to rule over some dominion as a God. However, these are not the only beings that society refers to as a god. Any being or force of extreme power may be given this title by mortals, despite their true nature.
+
+## Minor vs Major Deities
+Minor Deities are beings who have a great deal of power that gives them a degree of uniqueness and domain over some aspect of [[Zol]]. These beings have the ability to not only influence their domain, but give power to other beings to carry out their will.
+
+Major Deities are beings who are vastly more powerful than most other beings. Their power and influence is only kept in check by other Major Deities with a contradictory will, or great efforts of coordinated weaker beings. To these creatures, a single mortal is but a blip in the cosmos. 
 
 ## Wordbearers
 Mortals who have achieved the ability to harness [[The First Tongue]] are known as [[Wordbearers]]. They are considered gods by some. It is not known how many [[Wordbearers]] there are, but the ones who are public play a large role in society.
 
 ## Cosmic entities
-Outside of [[Zol]] and its planes, beyond the [[The Great Wall of Roots]], there lies an infinite cosmic expanse. Almost nothing is known of this strange outside world, but it is understood that the world of [[Zol]] itself may be the dead body of one of its progenitors. These progenitors, known as the [[Great Old Ones]] once ruled the cosmos, but were driven away from their former power by some reality bending event. All of what is known about these beings is considered to be legend.
+Outside of [[Zol]] and its planes, beyond the [[The Great Wall of Roots]], there lies an infinite cosmic expanse. Almost nothing is known of this strange outside world, but it is understood that the world of [[Zol]] itself may be the dead body of one of the cosmos' progenitors. 
 
-These beings are known of, but bear little modern significance beyond their importance in the current studies of academics.
+These progenitors, known as the [[Great Old Ones]] once ruled the cosmos, but were driven away from their former power by some reality bending event. All of what is known about these beings is considered to be legend.
+
+These beings are known of, but bear little modern significance in the day to day lives of mortals.
 
 ## Religion
 A complicated topic in a world with so much power, so many gods, and so little that is understood. 
