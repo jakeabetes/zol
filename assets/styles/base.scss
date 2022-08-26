@@ -233,7 +233,9 @@ article {
       border-radius: 3px;
 
       &.broken {
-        opacity: 0.5;
+        color: #d4d4d4 !important;
+        padding: 0;
+        font-weight: 500;
         background-color: transparent;
       }
     }
