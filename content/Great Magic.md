@@ -1,7 +1,7 @@
 # Great Magic
 Great magic is a un-proven belief held by a large group of people in [[Zol]]. It was thought that before [[The Undoing]] that [[Humans]], [[Elves]], and [[Dwarves]] all possessed a power called [[Great Magic]]. A supposed innate connection to all the wills, granting a very high degree of innate magical ability. Additionally it was thought to grant a long lifespan.
 
-After the [[Desolation]], it is thought that [[Humans]] had their [[Great Magic]] taken from them. This power was them broken down into pieces which were formed into the [[Off-Human]] races.
+After [[The Undoing]], it is thought that [[Humans]] had their [[Great Magic]] taken from them. This power was them broken down into pieces which were formed into the [[Off-Human]] races.
 
 ## Origin of the theory
 Original speculation came from archeological finds in [[The Grand Nothing]]. Artifacts from these finds never mention any race other than those of [[Humans]], [[Elves]], and [[Dwarves]]. Biographical content in these artifacts tells of these races all sharing centauries long lifespans.

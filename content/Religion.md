@@ -8,7 +8,7 @@ There is a vast number of perspectives from which [[Zol]] and its [[Gods]] are u
 
 - ### Zolaen-Centric Belief
 	- *Roughly 40% of [[Zol]]'s population follow this belief system*
-	- This belief system is based on the idea that the [[Zolaen Gods]] created [[Zol]] and are the true and holy rulers of it. This belief system also subscribes to the idea that the [[The Wandering Gods]] are malicious, or at the very least not to be trusted. This is beacuse Zolaen-Centric belief blames the [[Desolation]] on the [[Zolaen Gods]]. It also entails that the [[Wayward Gods]] are dangerous and not to be trusted due to their chaotic nature.
+	- This belief system is based on the idea that the [[Zolaen Gods]] created [[Zol]] and are the true and holy rulers of it. This belief system also subscribes to the idea that the [[The Wandering Gods]] are malicious, or at the very least not to be trusted. This is because Zolaen-Centric belief blames [[The Undoing]] on the [[Zolaen Gods]]. It also entails that the [[Wayward Gods]] are dangerous and not to be trusted due to their chaotic nature.
 	- Followers of this belief may worship one or many of the [[Zolaen Gods]]. Regardless of their specific method of worship, it is generally thought that one should pay respect and worship to all of the [[Zolaen Gods]] from time-to-time.
 	- Additionally, [[Wordbearers]] who serve the greater good are thought to be in alignment with, or rather an extension of, the [[Zolaen Gods]].
 	- Shares harmony with Trinity-Centric Beliefs
@@ -22,13 +22,13 @@ There is a vast number of perspectives from which [[Zol]] and its [[Gods]] are u
 
 - ### Wanderer-Centric Belief
 	- *Roughly 10% of [[Zol]]'s population follow this belief system*
-	- This belief system is based on the idea that the [[The Wandering Gods]] are more of guardians rather than [[Gods]]. They are thought to have come to [[Zol]] to protect civilization from the unchecked power of the [[Zolaen Gods]]. As per this belief system, the [[Desolation]] is seen as the fault of the [[Zolaen Gods]]. Those who subscribe to this theory also believe that the [[Wayward Gods]] and [[Wordbearers]] are not all inertly bad.
+	- This belief system is based on the idea that the [[The Wandering Gods]] are more of guardians rather than [[Gods]]. They are thought to have come to [[Zol]] to protect civilization from the unchecked power of the [[Zolaen Gods]]. As per this belief system, [[The Undoing]] is seen as the fault of the [[Zolaen Gods]]. Those who subscribe to this theory also believe that the [[Wayward Gods]] and [[Wordbearers]] are not all inertly bad.
 	- Followers of this belief see [[The Wandering Gods]] more as mentors rather than omnipotent rulers, guiding them in their struggles.
 	- With only a fifth of the following compared to Trinity Centric or Zolaen Centric
 
 - ### Polytheism
 	- *Roughly 10% of [[Zol]]'s population follow this belief system*
-	- This belief system recognizes each god as an individual being, and does not judge them based on their pantheon. Followers of this belief typically focus on a single god, or small group of gods based on the individuals selection. This system typically operates under the assumption that the [[Desolation]] was caused by the [[Gods]], but it is not know which gods. So judgement is not cast.
+	- This belief system recognizes each god as an individual being, and does not judge them based on their pantheon. Followers of this belief typically focus on a single god, or small group of gods based on the individuals selection. This system typically operates under the assumption that [[The Undoing]] was caused by the [[Gods]], but it is not know which gods. So judgement is not cast.
 
 - ### Atheism
 	- *Roughly 8% of [[Zol]]'s population follow this belief system*

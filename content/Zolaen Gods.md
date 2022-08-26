@@ -23,7 +23,7 @@ These choices made by [[Zolaen Gods]] occur on a grand scale, involving the live
 
 This effort is only made more difficult amongst resistance from other [[Gods]] like those of [[The Void]] or [[The Wandering Gods]] who seek a different horizon.
 
-Skeptics believe that the [[Zolaen Gods]] caused the [[Desolation]] when some discovery amongst mortals caused [[Zol]] to stray too far from their vision. To these individuals, the [[Zolaen Gods]] are unrighteous and should be feared.
+Skeptics believe that the [[Zolaen Gods]] caused [[The Undoing]] when some discovery amongst mortals caused [[Zol]] to stray too far from their vision. To these individuals, the [[Zolaen Gods]] are unrighteous and should be feared.
 
 ## Through the Lens of The Trinity
 Those who follow a the Trinity-Centric [[Religion]], believe that the [[Zolaen Gods]] are an extension of [[The Trinity]]. To these individuals see [[Zolaen Gods]] as only one mere facet of the true power that is [[The Trinity]].

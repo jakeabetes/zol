@@ -3,4 +3,4 @@
 
 This manipulation of [[nodes]] allows a user to effectively increase or decrease luck that is in their very near future. At its most powerful it can even weave prophecies and change destinies. 
 
-Manifestations of [[Incana]] are not guaranteed to work. These manifestations must overpower the natural path of [[Zol]], and any other conflicting manifestations of [[Incana]]. Sometimes these contests between fates don't emerge with a clear winner, and the outcome lands somewhere between the original intentions.
+Manifestations of [[Incana]] are not guaranteed to work. These manifestations must overpower the natural path of [[Zol]], and any other conflicting manifestations of [[Incana]]. Sometimes these contests between fates don't emerge with a clear winner, and the outcome lands somewhere between the conflicting paths.

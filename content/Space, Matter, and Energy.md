@@ -5,7 +5,7 @@ The 3 aspects of existence in [[Zol]]. These three concepts are all one and the 
 	- One does not consider how they are acting on these states directly, this is merely a product of the used [[magic]]. Acting on nodes differs greatly given the state that the node is in:
 		- **Acting on space** can modify gravity, teleport objects, and open portals.
 		- **Acting on matter** can change the form, strength and mass of something.
-		- **Acting on energy** is the most complex, useful, and common task of an arcanist. Energy can be applied, removed, transferred, and observed. The types of energy are
+		- **Acting on energy** is the most complex, useful, and frequently used task of an arcanist. Energy can be applied, removed, transferred, and observed. The types of energy are
 			- Kinetic
 				- Energy that moves things. It is produced in a number of different ways, but largely is based around the motion of matter. Can be transferred quite easily with [[Sympathetic bonds]]. It used to both apply forces, and create/mask sound.
 			- Heat
@@ -13,11 +13,11 @@ The 3 aspects of existence in [[Zol]]. These three concepts are all one and the 
 			- Light
 				- Energy that is produced by most alchemical reactions, and the presence of [[magic]]. It can both illuminate and darken. Used to create illusions, make things invisible, illuminate rooms,  and mask things in darkness.
 			- Gravitational
-				- The force of attraction between objects, and [[Zol]]. This is ever-present, but objects can be cut of from it partially, or entirely by skilled arcanists. This energy can also be synthesized or manipulated for interesting results.
+				- The force of attraction between objects, and [[Zol]] itself. This is ever-present, but objects can be cut of from it partially, or entirely by skilled arcanists. This energy can be synthesized, manipulated, or nullified for interesting results.
 			- Magnetic
 				- Energy that gathers around, and interacts with metal. This is theorized to be responsible for the opportunity of [[Iron Light]].
 			- Raw
-				- [[Zol]] was essentially made from an endless well of power. When it was bound by [[The First Tongue]], much of it was turned into the world is understood to be. What wasn't changed is still present. This is Raw Energy, and it can still be harnessed.
+				- [[Zol]] was essentially made from an endless well of power. When it was bound by [[The First Tongue]], much of it was turned into the world is understood to be. What wasn't changed is still present. This is Raw Energy, and it can still be harnessed. This is the most abundant form of energy.
 			- Elemental
 				- Within [[Zol]], there are certain substances or reactions that give off a unique energy which can be harnessed by arcanists. These elemental forces are:
 					- Fire
@@ -41,5 +41,7 @@ The 3 aspects of existence in [[Zol]]. These three concepts are all one and the 
 				- All things emit a unique wavelength of energy based on the nature of their existence in [[Zol]] as a product of [[The First Tongue]]. This wavelength can be observed and translated into usable information in many different ways. 
 		- **Shifting states**
 			- Changing a node's state to another varies in difficulty, but can be the most useful trick for an arcanist if done correctly. This practice is far out of reach for a beginner [[caster]], but is thought to be what makes an individual into a true arcanist.
-			- Space can be turned to massive amounts of energy, the light of a candle can be used to form a suit of armor made from ice, an arrow flying for ones throat can be turned into nothingness.
-			- Nodes changed eventually return to [[The Ethos]] to  revert back to their original state decided upon by [[The First Tongue]]. The amount of time before this reversion is based on the intention of the [[Caster]]. Once they return to their state they rejoin the planes to undergo this lifecycle again.
+			- Space can be turned to massive amounts of energy, the light of a candle can be used to form a suit of armor made from ice, an arrow flying for ones throat can be turned into harmless wind.
+			- Nodes changed eventually return to [[The Ethos]] to  revert back to their original state decided upon by [[The First Tongue]]. The amount of time before this reversion is based on the intention and skill of the [[Caster]]. Once they return to their state they rejoin the planes to undergo this lifecycle again.
+
+![[space matter and energy.png]]

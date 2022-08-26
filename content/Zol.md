@@ -2,6 +2,18 @@
 
 *Welcome to the world of [[Zol]]*
 
+## Steps for Zol's Creation
+- [x] Initial Skeleton of Site
+- [x] Introduction, Origin, and Homepage
+- [x] Magic system
+- [ ] Gods
+- [ ] Planes
+- [ ] Historical Timeline
+- [ ] Regions
+- [ ] Lore to fill gaps (characters, objects, events, and other specific concepts of note)
+- [ ] Final Cleanup
+
+
 # Quick Links
 *Before beginning, please read the [[Disclaimer]]*
 - [[Introduction]]
