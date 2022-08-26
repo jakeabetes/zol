@@ -2,7 +2,7 @@
 *Wayward God of Beasts and the Hunt, Major Deity*
 ![[Ralatas prince of beasts.png]]
 
-Lord of the forest, god of claws and fangs, master of the hunt. Ralatas the prince of beast reigns as the powerful overseer of the harsh wilds, and those who make a home in it.
+Lord of the forest, god of claw and fang, master of the hunt. Ralatas the prince of beast reigns as the powerful overseer of the harsh wilds, and those who make a home in it.
 
 Taking his throne from his father, Ralatas is the successor of the mad [[Kerndall, the Feral King]].
 

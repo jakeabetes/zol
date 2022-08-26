@@ -7,7 +7,7 @@ The uncontested, He who has unraveled the secrets of [[Arcana]]. Draedon is argu
 He used his abilities to transcend mortality and forges on to new cosmic discoveries.
 
 ## Depiction
-An old human man relatively simple robes. Aged about 80 years in appearance, Draedon is in reality 9000 years old.
+An old human man spectacular robes. Aged about 40 years in appearance, Draedon is in reality 9000 years old.
 
 ## Symbolism
 Draedon has no symbol like that of other deities
@@ -23,4 +23,4 @@ Draedon is known for being uncommunicative and does not share his findings with 
 Draedon resides in a demiplane of his own creation called Elm Manor.
 
 ## Worshipers
-Draedon has no record of responding to any form of prayer or things of the sort. Some cults have emerged and died, but they were of no consequence. Because of this, Draedon does not have a following save for the Academics who fruitlessly seek his knowledge.
+Draedon has no record of responding to any form of prayer or things of the sort. Some cults have emerged and died, but they were of no consequence. Because of this, Draedon does not have a following save for the craven academics who fruitlessly seek his knowledge.
