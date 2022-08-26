@@ -50,4 +50,4 @@ The popularized theories for other sources are:
 - [[The Hum]] - a strange force that exists in [[Holyfield]]
 - [[The Mortal Coil]] - the force of life and death itself. Many Believe it to be part of [[The Trinity]], but others disagree based on the nature of the [[Planes]] and [[Necromancy]].
 - [[The Anger of the Stars]] - a strange phenomenon observed as power that radiates from somewhere deep in [[The Cosmos]].
-- [[The Anti-Trinity]] - a mythical force belonging to [[The Great Deceiver]]
+- [[The Anti-Trinity]] - a mythical force associated with [[The Shroud of the Void]]
