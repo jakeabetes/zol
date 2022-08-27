@@ -27,6 +27,8 @@ The force that bonds a soul to a vessel, and disjoins them upon death.
 						- This is how beings like [[Warforged]] come to life
 		- Divine Creation
 			- When one of the [[Gods]] directly uses their power to create a vessel and injects a soul into it
+		- Natural Spawn
+			- When the natural world of [[Zol]] produces a being on its own
 	- Life cannot begin on a plane where [[The Mortal Coil]] is not present, except for the case of Divine Creation where a powerful enough god manually seeks out a soul for the vessel.
 - Death
 	- Death occurs when enough damage afflicts the system that maintains life. This can appear as
@@ -45,6 +47,7 @@ The force that bonds a soul to a vessel, and disjoins them upon death.
 	- The paths a soul can take are:
 		- Rest
 			- If one of the [[Gods]] takes a liking to a given soul, the may be brought to stay with them outside [[The Mortal Coil]]. A peaceful eternity amongst kindred spirits.
+			- If no god claims it, and the soul is unfit for rebirth or punishment. It is sent to [[Apolyatum]].
 		- Rebirth
 			- Beings who undergo rebirth are sent back into [[The Ethos]] for their soul to be randomly selected for life again. If this occurs they are reborn with small slivers of their past lives interwoven into their being.
 			- Slivers of past lives stay with souls, but are largely born without an sense of past life.
@@ -56,8 +59,8 @@ The force that bonds a soul to a vessel, and disjoins them upon death.
 				- Each trial varies for each soul
 				- Some trials involve that of moral dilemma, combat, challenge of wit, or constitution
 				- The result of a trial determines what the soul is worthy of in death
-		- [[Damnation]]
-			- The place where souls get sent to be punished
+		- Punishment
+			- If a soul has led a dark life, [[The Coilwalker]] brings it to [[Damnation]] upon death.
 			- It is thought that [[The Coilwalker]] struck an accord with [[Aldem, King of all Hells]]. This deal allows for [[Aldem, King of all Hells]] to claim some form of power from the deaths of [[Zol]]. In exchange he is to carry out the punishment for souls marked by [[The Coilwalker]].
 			- Punishment varies in severity. Sometimes it is a light and temporary punishment like manual labor for a few hundred years. After which the damned are allowed to reside in [[Apolyatum]], the highest layer of [[Damnation]], the city of the dead.
 				- Other times it is a more severe, and eternal punishment
@@ -65,7 +68,7 @@ The force that bonds a soul to a vessel, and disjoins them upon death.
 			- If a soul is deemed too dangerous for [[Zol]], [[The Coilwalker]] will send a soul to the lowest layer of [[Damnation]]. A small and dark place called [[Obliteration]]. Here, giant beings made from obsidian destroy the souls sent to them with mighty hammers forged by Aldem himself.
 
 ## Anti-Life
-Occasionally a vessel will exist without a soul, but the vessel will continue to function in a strange manner akin to Life. There likely many things that can cause this, but the few known are:
+Occasionally a vessel will exist without a soul, but the vessel will continue to function in a strange manner akin to Life. There are likely many things that can cause this, but few are known:
 - [[Magical Backfire]]
 - The will of one of the [[Gods]]
 - [[Necromancy]]
@@ -76,13 +79,13 @@ The resulting being is a vessel who acts in one of two ways
 	- The resulting being will attempt to continue their "life", but they do so without all of their emotions or memories in tact, resulting in strange behavior. Sometimes the physical vessel will also become monstrous in appearance.
 	- Anti-life is reversible for Echoes if a soul can be rebound to its vessel, returning the being to normal Life again.
 - Undead
-	- Beings who have fully died, then given an artificial soul fabricated via [[Necromancy]].
+	- Vessels who have fully died, then given an artificial soul fabricated via [[Necromancy]].
 	- This creates a being subservient to the will of its souls creator
 	- The strength of the resulting being is dependent on the state of the vessel, and the skill of the souls creator.
 	- These beings are typically more susceptible to further deaths as the bond between vessel and soul is not perfect.
 		- But the severed artificial soul can be easily reattached and sometimes do so on its own.
 
-Beings who experience Anti-Life are immortal by the rules of [[The Mortal Coil]] as they do not age and have greatly increased fortitude in many cases. A [[Lich]] is a being who does this to themselves intentionally, usually to pursue the dark side of [[Arcana]].
+Beings who experience Anti-Life are immortal by the rules of [[The Mortal Coil]] as they do not age and have greatly increased fortitude in many cases. A [[Lich]] is a being who does this to themselves intentionally, usually to gain immortality and pursue the dark side of [[Arcana]].
 
 
 ## The Mortal Realms
@@ -95,4 +98,4 @@ The [[Planes]] that contain [[The Mortal Coil]] are known as The Mortal Realms:
 - [[The Ethos]]
 - [[The Elemental Planes]]
 
-Due to this fact, most gods rarely enter these [[Planes]] themselves as when they do they put their life at risk.
+Due to this fact, most [[Gods]] rarely enter these [[Planes]] themselves. When they do, they put their life at great risk.

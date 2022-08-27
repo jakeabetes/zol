@@ -1,4 +1,6 @@
 # The Planes of Zol
+[[Zol]] itself is a parent realm. A plane which contains many other planes all anchored to a [[Prime Material Plane]].
+
 The sheer number of planes in [[Zol]] is not known. It is a world spun from the refuse found inside [[Goh'zul]], the eater of worlds.
 
 Despite the challenges posed by planar travel, the people of [[Zol]] have recorded a fair deal about the [[Planes]].
@@ -9,17 +11,17 @@ Despite the challenges posed by planar travel, the people of [[Zol]] have record
 
 All planes in [[Zol]] are are anchored to the [[Prime Material Plane]], which is the resting place of [[The Trinity]], and home to The Three Corners of Civilization.
 
-All planes float amongst [[The Ethos]], the local section of the cosmos that stops at [[The Great Wall of Roots]]. Beyond that lies [[The Cosmos]] which spans on forever.
+All planes float amongst [[The Ethos]], the local section of the universe that stops at [[The Great Wall of Roots]]. Beyond that lies [[The Cosmos]] which spans on forever.
 
 ## List of All Planes
 - **The Mortal Planes** - Planes bound by the rule of [[The Mortal Coil]]
-	- [[Prime Material Plane]] - The heart of [[Zol]] and resting place for [[The Trinity]]. As it is the source of all magical power, it is the focal point for all of [[Zol]].
+	- [[Prime Material Plane]] - The heart of [[Zol]] and resting place of [[The Trinity]]. Being the source of all magical power, and the anchor for all other planes, it is the focal point for all of [[Zol]].
 	- [[Fey]]
-		- A fantastical reflection of the [[Prime Material Plane]]. An echo of the prime realm where nature an beauty run rampant. While enticing, the [[Fey]] is very dangerous.
+		- A fantastical reflection of the [[Prime Material Plane]]. An echo where nature an beauty run rampant. While enticing, the [[Fey]] is very dangerous.
 	- [[Fell]]
 		- A dark and mysterious reflection of the [[Prime Material Plane]]. An echo where shadows and thorns grow from a hauntingly beautiful, and extremely dangerous landscape.
 	- [[The Elemental Planes]]
-		- The fraying edges of the [[Prime Material Plane]], where the elemental forces of nature stop overlapping one another. Appearing on diagrams like a child who has colored outside of the lines, [[The Elemental Planes]] jut out of the [[Prime Material Plane]] creating worlds that solely embody a single aspect of nature. They are strange worlds rarely traversed by foreigners.
+		- The fraying edges of the [[Prime Material Plane]], where the elemental forces of nature stop overlapping one another. Appearing on diagrams like the drawing of a child who has colored outside of the lines. [[The Elemental Planes]] jut out of the [[Prime Material Plane]] creating worlds that solely embody a single aspect of nature. They are strange realms rarely traversed by foreigners.
 - **The Outer Planes** - Planes that are not bound by [[The Mortal Coil]]
 	- [[The Cliffs of Aeordel]]
 		- The Castle of [[The Watcher]] and his close allies
@@ -43,7 +45,9 @@ All planes float amongst [[The Ethos]], the local section of the cosmos that sto
 		- A beautiful infinitely spanning forest brought into existence by [[The Lifeweaver]]'s presence.
 	- [[Elm Manor]]
 		- The artificial plane constructed by [[Draedon, the Ascended Wizard]].
-- **Unique Planar Manifestations** - Planes, or things very similar to planes, that have their own set of rules that do not match any other plane
+	- [[The Storm Horizon]]
+		- The origin of [[Adrathar, Father of the Wind]]'s storms.
+- **Unique Planar Manifestations** - Planes, or things very similar to planes, that have their own set of rules that is unique to them.
 	- [[The Void]]
 		- The Remnants of the [[Sea of Monsters]]. The size and scope of [[The Void]] is not know by even the [[Gods]]. It exists directly underneath the [[Prime Material Plane]]. It contains evils incomprehensible to mortals, and is only held back by the efforts of the [[Zolaen Gods]].
 		- [[Damnation]]
@@ -57,6 +61,8 @@ All planes float amongst [[The Ethos]], the local section of the cosmos that sto
 		- Not truly a plane at all. Some call it The Cognitive Realm, others call it The Plane of Souls. [[The Ethereal Plane]] is the wavelength of reality that souls exist on. It overlaps all of [[Zol]]. It is possible to interface directly with [[The Ethereal Plane]] and even travel through it.
 	- [[Oblivion]]
 		- The heart of [[Goh'zul]]. Little is known about [[Oblivion]]. Scripture talks of it being the battle ground between [[The Watcher]] and [[The Wretch]]. It is said to have a sole entrance called simply *The Door*, and is thought to still contain what little is left of [[Goh'zul]].
+	- [[The Space Outside Reality]]
+		- What lies beyond [[The Cosmos]]. Also known as The Far Realm.
 
 ## Subplanes
 Subplanes are planes that are created within another plane. They inherit all the rules their parent plane subscribes to.
@@ -66,7 +72,7 @@ Example: [[Artificers]] create the common [[Apparatum]] known as a Bag of Holdin
 ## The two types of Planes: Planets and Realms
 A planet is a discrete, usually spherical plane that floats freely amongst [[The Cosmos]]. [[The Moons]] of [[Zol]] are a good example of this. Planets typically have some central point of gravity that keeps objects on its surface. Planets do not usually have other planes bound to them in any way other than gravitational orbit of other planets.
 
-Realms are planes that are not necessarily discrete and do not have to subscribe to Euclidean Geometry. They may be infinite, repeating, or fractals at their edges.
+Realms are planes that are not necessarily discrete and do not have to subscribe to Euclidean Geometry. They may be infinite, repeating, fractal, or end abruptly at their edges.
 
 In [[The Cosmos]], Parent realms are usually discerned by some sort of barrier between them and the rest of the universe. They typically contain many lesser planes bound to a [[Prime Material Plane]], as well as their own local section of [[The Cosmos]] similar to [[The Ethos]].
 
