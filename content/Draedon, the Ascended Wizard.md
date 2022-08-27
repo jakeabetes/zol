@@ -20,7 +20,7 @@ Some suspect him to be one of the [[Wordbearers]], but in the few times he has m
 Draedon is known for being uncommunicative and does not share his findings with anyone.
 
 ## Realm
-Draedon resides in a demiplane of his own creation called Elm Manor.
+Draedon resides in a demiplane of his own creation called [[Elm Manor]].
 
 ## Worshipers
 Draedon has no record of responding to any form of prayer or things of the sort. Some cults have emerged and died, but they were of no consequence. Because of this, Draedon does not have a following save for the craven academics who fruitlessly seek his knowledge.

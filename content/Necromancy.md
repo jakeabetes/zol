@@ -9,3 +9,8 @@ Any long term usage of this magic outside the realm of general healing seems to 
 Any individual brought fully back to life via [[Necromancy]] permanently receives the mortality rune from the [[Ferric Alphabet]] somewhere on their body. This is commonly referred to as a [[Death Scar]] Successive revivals chain together It is not known as to why this happens, but there is a lot of superstition around these individuals. This contributed to the discovery of [[Iron Light]].
 
 ![[Mortality Runes.png]]
+
+## Necromancy and The Mortal Coil
+[[The Mortal Coil]] is a strange force that drives all life and death in [[Zol]]. A common misconception is that [[Necromancy]] is the direct interference with [[The Mortal Coil]]. This is not the case.
+
+Necromancers utilize the laws known about [[The Mortal Coil]] and the tools [[Necromancy]] provides to cheat death by artificially conducting the actions [[The Mortal Coil]] takes naturally.
