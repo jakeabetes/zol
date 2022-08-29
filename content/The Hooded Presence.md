@@ -18,7 +18,7 @@ Known to aid those who are described as conspiratorial, deceptive, and devious. 
 While most accounts of [[The Hooded Presence]] inspire a degree of mystery and even fear, they are not evil in nature and even have an appreciation for humor and mischief.
 
 ## Realm
-Residing in the distant, nigh unreachable, corners of the [[Fell]].
+Residing in the distant, nigh unreachable, corners of the [[Fell]]. One of the few gods to reside on [[The Mortal Coil]].
 
 ## Worshipers
 Followers of [[The Hooded Presence]] pay respect, sacrifice and favors for their favors and even boons. Large scale worship appears as cults and is frowned upon in many cultures.

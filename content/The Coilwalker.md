@@ -20,7 +20,7 @@ Thought to be unconcerned with the on goings of the living realms or the contest
 The true power of [[The Coilwalker]] is not known.
 
 ## Realm
-It is not known where [[The Coilwalker]] resides.
+It is not known where [[The Coilwalker]] resides. Some believe he spends his free time in [[Limbo]].
 
 ## Worshipers
 While some follow [[The Coilwalker]] in cults, or pray to him in hopes their love ones find peace, or avoid damnation. [[The Coilwalker]]  is not known to pay favor or boons.

@@ -29,8 +29,6 @@ All planes float amongst [[The Ethos]], the local section of the universe that s
 		- A group of ancient planets that once existed freely in [[The Cosmos]], but were consumed by [[Goh'zul]]. Before he could fully digest them, he was defeated. Leaving a set of strange ruined worlds that orbit one another in [[Zol]]'s sky.
 		- [[The Forgotten Heavens]]
 			- A subplane of [[The Moons]]. The once abandoned divine plane attached to these ancient worlds. Now inhabited by [[The Night Empress]] and her court.
-	- [[The Sun]]
-		- A creation of [[The Watcher]]. A gift in the sky to shed lifegiving light upon [[Zol]]. Little is known about what inhabits this plane but rumors of an odd unnamed city exist.
 	- [[The Palace of Drole]]
 		- An endless palace inhabited by [[Yanneran]] and his chosen dead. A place of constant celebration and art.
 	- [[Limbo]]
@@ -40,9 +38,9 @@ All planes float amongst [[The Ethos]], the local section of the universe that s
 	- [[The Unknown Realm]]
 		- The home of [[The Wandering Gods]]
 	- [[The Immortal Ocean]]
-		- A realm of only water and light, unreachable to those who are not invited by its ruler [[Ohlit]].
+		- A realm of only water and light, existing at the furthest edges of the Elemental Plane of Invigorant. Accessible only to those who are not invited by its ruler [[Ohlit]].
 	- [[The Pure Forest]]
-		- A beautiful infinitely spanning forest brought into existence by [[The Lifeweaver]]'s presence.
+		- A beautiful infinitely spanning forest brought into existence by [[The Lifeweaver]]'s presence, existing at the furthest edges of the Elemental Plane of Invigorant.
 	- [[Elm Manor]]
 		- The artificial plane constructed by [[Draedon, the Ascended Wizard]].
 	- [[The Storm Horizon]]
@@ -76,7 +74,7 @@ Realms are planes that are not necessarily discrete and do not have to subscribe
 
 In [[The Cosmos]], Parent realms are usually discerned by some sort of barrier between them and the rest of the universe. They typically contain many lesser planes bound to a [[Prime Material Plane]], as well as their own local section of [[The Cosmos]] similar to [[The Ethos]].
 
-Planets can exist on their own or within a realm. Realms cannot be contained by a planet and usually contain other realms.
+Planets can exist on their own or within a realm. Realms are rarely contained by a planet, but Realms usually contain other realms.
 
 ## Artificial Planes
 Planes that are not found already existing in [[Zol]] are called Artificial Planes. They are newly created, and typically temporary in the cosmic scale.
