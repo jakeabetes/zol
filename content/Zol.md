@@ -27,13 +27,12 @@
 - [[Notable Individuals]]
 - [[Notable Objects]]
 - [[Races]]
+- [[Factions]]
 - The Regions of Zol
 	- The Three Corners of Civilization
 	- Lorelhiem
 
 ## The Three Corners of Civilization
-Before exploring this content please read the [[Introduction]] and [[Disclaimer]].
-
 The Three Corners of Civilization are comprised of:
 
 8 Kingdoms
@@ -55,7 +54,7 @@ The Three Corners of Civilization are comprised of:
 - [[The Grand Nothing]]
 - [[The Underdark]]
 
-and 4 major seas
+and 4 Seas
 - [[The Vast Sea]]
 - [[The Archsea]]
 - [[The North Sea]]

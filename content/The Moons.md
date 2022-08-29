@@ -24,7 +24,7 @@ During the late [[First Age]], academics noticed that they could predict the lik
 
 After monitoring it for many years, academics noticed patterns when comparing it to historical data. The noticed relationships with things like the economy, plagues, crop harvest, and even the rise and fall of fashion fads.
 
-Academics have yet to devise a consistent way to predict the meanings of Luna's surface, and may never do so. Some [[Witches]] claim to be able to read her surface, but do not divulge their techniques, nor provide proof.
+Academics have yet to devise a consistent way to predict the meanings of Luna's surface beyond the storms, and may never do so. Some [[Witches]] claim to be able to read her surface, but do not divulge their techniques, nor provide proof.
 
 ## The Forgotten Heavens
 Amongst these three planets, a single divine realm was shared. [[The Forgotten Heavens]], a place once abandoned like the moons were, now homes one of the [[Zolaen Gods]]. [[The Night Empress]] resides in the strange and celestial plane where she watches all who move under the light of [[The Moons]].
