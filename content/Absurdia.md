@@ -3,7 +3,7 @@ Arguably the weirdest place in all of [[Zol]]. [[Absurdia]] exists as an almost 
 
 ![[Absurdia 1.png]]
 
-[[Absurdia]] is filled with whacky cities and strange individuals. The population native to [[Absurdia]] are known as the Absurd. They all seem to have an air about them that, as if they are a character in a book.
+[[Absurdia]] is filled with whacky cities and strange individuals. The population native to [[Absurdia]] are known as the Absurd. They all seem to have an air about them that makes them seem like characters in a book.
 
 Quests, squabbles, feuds, parties, monster attacks, festivals, battles, and prophecies emerge on the daily within the odd realm. To the locals, the constant bombardment of events is entirely normal and no one seems to tire of it.
 
