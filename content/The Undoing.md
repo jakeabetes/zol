@@ -1,1 +1,1 @@
-An unknown act taken by the humans to cause the destruction of the ancient world of[[Zol]].
+An unknown act taken by the humans to cause the destruction of the ancient world of [[Zol]].
