@@ -1,11 +1,11 @@
 # Origin
-[[Zol]] is the end of a cosmic cycle called [[The Circle]]. A product of thousands upon thousands of worlds cultivated, and consumed like livestock. Worlds made to sustain cosmic beings called the [[Great Old Ones]]. Amongst these cultivated worlds, one grew strong enough to fight back, and imprison its creator. 
+[[Zol]] is the end of a cosmic cycle called [[The Circle]]. A product of thousands upon thousands of worlds cultivated, and consumed like livestock. Worlds made to sustain cosmic beings called the [[Great Old Ones]]. Amongst these cultivated worlds, one grew strong enough to fight back, and imprison its creator in [[The Great Wall of Roots]]. 
 
-The beings name was [[Goh'zul]]. In his prison, the Great Old One was forced to slowly starve and rot away. As he did, his body attracted a myriad of creatures from all across the cosmic sea. They gorged on his infinite body for eons, forming The [[Sea of Monsters]]. Each and every being who partook in the flesh of the decaying god gradually lost their physical characteristics, devolving into worm like creatures. 
+The being's name was [[Goh'zul]]. In his prison, the Great Old One was forced to slowly starve and rot away. As he did, his body attracted a myriad of creatures from all across the cosmic sea. They gorged on his infinite body for eons, forming The [[Sea of Monsters]]. Each and every being who partook in the flesh of the decaying god gradually lost their physical characteristics, devolving into worm like creatures. 
 
-At the heart of the writhing sea, was the once core of the Great Old One. A heart of black stone called [[Oblivion]], and is home to The Great Old One's Soul. A Being called [[The Wretch]]. Since the defeat and imprisonment of the Great Old One, it has become the site of an everlasting duel.
+At the heart of the writhing sea, was the once core of the Great Old One. A heart of black stone called [[Oblivion]], and is home to The Great Old One's Soul. A Being called [[The Wretch]]. Since the defeat and imprisonment of the Great Old One, it has become the site of an everlasting duel. A fight between The Wretch, and the first being he ever consumed.
 
-A fight between The Wretch, and the first being he ever consumed. When [[Goh'zul]] fell from power, the consumed man swore an oath to never let the creature return to its true strength. He guarded the sole door to the heart of The Great Old One, fighting tooth and nail, to prevent the escape of [[The Wretch]]. Declaring himself [[The Watcher in The Door]].
+When [[Goh'zul]] fell from power, the consumed man swore an oath to never let the creature return to its true strength. He guarded the sole door to the heart of The Great Old One, fighting tooth and nail, to prevent the escape of [[The Wretch]]. Declaring himself [[The Watcher in The Door]].
 
 After an age of fighting, The Watcher had reached his limit, in a final attempt at securing his victory, he wounded the immortal Wretch, so gravely it could do not but flee and hide in the dark corners of its prison. In this victory, The Watcher decided to leave [[Oblivion]], and take a new approach to his oath.
 

@@ -1,5 +1,9 @@
 # Magic
-Magic in [[Zol]] emanates from [[The Trinity]] from its metaphysical source within the [[Prime Material Plane]]. It manifests in 3 ways called [[The Wills]]. It is the poorly understood force that drives everything in [[Zol]].
+Magic in [[Zol]] emanates from [[The Trinity]] from its metaphysical source within the [[Prime Material Plane]]. It manifests in 3 ways called [[The Wills]]. 
+
+![[spheres of magic diagram.png]]
+
+It is the poorly understood force that drives everything in [[Zol]].
 
 - [[Observance]], which is magic lent by beings of great power or derived from a spiritual bond formed with the soul of the world itself. Each individual who utilizes this will does so in a manner that is entirely unique to them. It can manifest as a radiant light that guides those who are lost, a dark power that draws in the vulnerable, and everything in between.
 - [[Viridescence]], which is magic found everywhere in nature. A source which requires great understating of, or domination over the natural world. This power allows anyone to bend nature to their will, and even bend their own form to that of the natural world.

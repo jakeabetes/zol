@@ -11,7 +11,7 @@ Grimnore | Moral
 Fang | Origin
 Agon and Ra'Queen | Moral
 Ronk | Moral
-Cadence | Moral
+[[Cadence]] | Adaptability
 Crackle | Moral
 Kaszu | Unity
 Raven | Moral

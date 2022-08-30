@@ -1,8 +1,8 @@
 # The Gods of Zol
-In [[Zol]], a god is defined by as a being that fits into one or many of these criteria:
-- Is worshiped by many beings as something greater than a mortal soul
+In [[Zol]], a god is defined by as a being that fits all of these criteria:
+- Is considered by many beings as something greater than a mortal soul
 - Is powerful enough to bestow some of their power to another being for an unlimited amount of time
-- Has dominion over a non-artificial plane of existence
+- Has dominion over a plane of existence, or aspect of [[Zol]]
 - Is immortal by the rules of [[The Mortal Coil]]
 
 The god's influence is very present in [[Zol]], each in their own unique ways. They affect society by communicating with, or granting power to mortals. Some gods even take a mortal form to move amongst society. These influences can be well intended, or malicious in nature.
@@ -13,16 +13,12 @@ The gods themselves have complex relationships with their peers that are not wel
 
 ## Main Pantheons
 The main pantheons are:
-- The [[Zolaen Gods]]
-	- The creators of [[Zol]]. A pantheon of gods who act with [[The Watcher in The Door]] as their king. Doing everything they can to see his image of [[Zol]] come to fruition.
-- The [[Wayward Gods]]
-	- Beings of [[Zol]] who are as powerful as gods, but do not see [[The Watcher in The Door]] as their ruler. They act on their own accord.
-- The [[The Wandering Gods]]
-	- A group of alien beings who appeared to mortals after [[The Undoing]]. Mysterious in nature these gods not act like the others. Some think they caused the [[The Undoing]], other think they are guardians; protecting mortals from the dangerous whims of other [[Gods]].
-	- These gods are not nearly as powerful as one of the individual [[Zolaen Gods]], but they are in an ever bound alliance to each other. This makes them one of the greatest forces in [[Zol]].
-- The [[Void Gods]]
-	- Beings who hate [[Zol]]. They crawled out of the [[Sea of Monsters]] to destroy [[Zol]], and return it to the chaotic feast of power it once was.
-
+Pantheon | Description
+------------ | ------------
+The [[Zolaen Gods]] | The creators of [[Zol]]. A pantheon of gods who act with [[The Watcher in The Door]] as their king. Doing everything they can to see his image of [[Zol]] come to fruition.
+The [[Wayward Gods]] |  Beings of [[Zol]] who are as powerful as gods, but do not see [[The Watcher in The Door]] as their ruler. They act on their own accord.
+The [[The Wandering Gods]] | A group of alien beings who appeared to mortals after [[The Undoing]]. Mysterious in nature these gods not act like the others. Some think they caused the [[The Undoing]], other think they are guardians; protecting mortals from the dangerous whims of other [[Gods]].
+The [[Void Gods]] | Beings who hate [[Zol]]. They crawled out of the [[Sea of Monsters]] to destroy [[Zol]], and return it to the chaotic feast of power it once was.
 
 ## "God" as a catch-all term for powerful beings
 There are many beings who's primary focus is to rule over some dominion as a God. However, these are not the only beings that society refers to as a god. Any being or force of extreme power may be given this title by mortals, despite their true nature.
