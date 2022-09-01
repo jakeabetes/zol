@@ -1,4 +1,6 @@
 # Elm Manor
+*One of Zol's [[Planes]] of existence*
+
 The cosmic estate of the greatest wizard to ever live, [[Draedon, the Ascended Wizard]].
 
 ![[Elm Manor.png]]

@@ -35,10 +35,10 @@ The force that bonds a soul to a vessel, and disjoins them upon death.
 		- Damage to the vessel so great it cannot sustain a soul
 		- Damage to the bond between a vessel and soul so great it causes them to separate
 		- Damage to the soul so great it destroys the soul
-			- This is the rarest death, as the soul is nigh indestructible
+			- This is the rarest death, as the soul is nigh indestructible. If this occurs there is no way to bring the being back to life.
 	- If Death does occur, there are cases where magic can be used to restore life, given that the circumstances are correct.
 		- If one does successfully restore life, the being will return with a scar from [[The Mortal Coil]] called a Mortality Rune ![[Mortality Runes.png]]
-	- Death cannot occur on a plane where [[The Mortal Coil]] is not present. A dead being is usually banished to [[The Ethos]], [[The Void]], or the [[Prime Material Plane]] on the brink of death. This is not always the case as some planes like [[Absurdia]] have their own rules about death off [[The Mortal Coil]].
+	- Death cannot occur on a plane where [[The Mortal Coil]] is not present, save for the case of a soul being destroyed. A dead being is usually banished to [[The Ethos]], [[The Void]], or the [[Prime Material Plane]] on the brink of death. This is not always the case as some planes like [[Absurdia]] have their own rules about death off [[The Mortal Coil]].
 		- Any living thing can die so long as it is under the effect of [[The Mortal Coil]]
 		- Something that is defined as *Immortal* is not killed by old age, and can withstand colossal amounts of trauma to their vessel, soul, and the bond between them without succumbing to death.
 		- This principal is why the [[Gods]] spend most of their time outside of [[The Mortal Coil]], as it gives them much security from other powerful beings who would see them dead.
@@ -68,22 +68,22 @@ The force that bonds a soul to a vessel, and disjoins them upon death.
 			- If a soul is deemed too dangerous for [[Zol]], [[The Coilwalker]] will send a soul to the lowest layer of [[Damnation]]. A small and dark place called [[Obliteration]]. Here, giant beings made from obsidian destroy the souls sent to them with mighty hammers forged by Aldem himself.
 
 ## Anti-Life
-Occasionally a vessel will exist without a soul, but the vessel will continue to function in a strange manner akin to Life. There are likely many things that can cause this, but few are known:
+Occasionally a powerful vessel or soul will exist without its bonded counterpart, and will somehow continue to function in a strange manner akin to Life. There are likely many things that can cause this, but few are known:
 - [[Magical Backfire]]
 - The will of one of the [[Gods]]
 - [[Necromancy]]
 
-The resulting being is a vessel who acts in one of two ways
+The result is a physical being who acts in one of two ways
 - Echoes
-	- This occurs when a vessel survives having its soul severed, and no further will is imposed on it beyond the initial severing
-	- The resulting being will attempt to continue their "life", but they do so without all of their emotions or memories in tact, resulting in strange behavior. Sometimes the physical vessel will also become monstrous in appearance.
+	- This occurs when a being survives having its soul severed, and no further will is imposed on it beyond the initial severing
+	- The resulting being will attempt to continue their "life", but they do so without all of their emotions or memories in tact, resulting in strange behavior. Sometimes the physical body of this creature will also become monstrous in appearance.
 	- Anti-life is reversible for Echoes if a soul can be rebound to its vessel, returning the being to normal Life again.
 - Undead
 	- Vessels who have fully died, then given an artificial soul fabricated via [[Necromancy]].
 	- This creates a being subservient to the will of its souls creator
 	- The strength of the resulting being is dependent on the state of the vessel, and the skill of the souls creator.
 	- These beings are typically more susceptible to further deaths as the bond between vessel and soul is not perfect.
-		- But the severed artificial soul can be easily reattached and sometimes do so on its own.
+		- But the severed artificial soul can be easily reattached and sometimes will do so on its own.
 
 Beings who experience Anti-Life are immortal by the rules of [[The Mortal Coil]] as they do not age and have greatly increased fortitude in many cases. A [[Lich]] is a being who does this to themselves intentionally, usually to gain immortality and pursue the dark side of [[Arcana]].
 

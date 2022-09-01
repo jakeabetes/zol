@@ -83,4 +83,4 @@ They can manifest at any size and can be produced intentionally or by wild magic
 
 Constructing a plane intentionally is very difficult and requires immense skill. The size, specifications, and permanency of the plane depends on the ability of the creator.
 
-A good example of this is the home of [[Draedon, the Ascended Wizard]], the plane of [[Elm Manor]].
+A good example of this is the plane of [[Elm Manor]], home to [[Draedon, the Ascended Wizard]]. 

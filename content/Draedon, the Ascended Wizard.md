@@ -15,7 +15,7 @@ Draedon has no symbol like that of other deities
 ## Behavior
 Draedon is a reclusive and strange being. His behavior is not well documented, but he is thought to spend much of his time researching the cosmos and creating powerful spells, machines, and other arcane creations.
 
-Some suspect him to be one of the [[Wordbearers]], but in the few times he has made historical appearances he has denied this notion.  Claiming that route of ascension to be limiting.
+Some suspect him to be one of the [[Wordbearers]], but in the few times he has made historical appearances in the [[Prime Material Plane]] he has denied this notion.  Claiming that route of ascension to be limiting.
 
 Draedon is known for being uncommunicative and does not share his findings with anyone.
 

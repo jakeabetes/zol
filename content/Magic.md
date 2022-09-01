@@ -40,7 +40,7 @@ If one does reach their limit, they are not cut off from magic. They are instead
 Many magic users also have issues with nutrition. The stress magic creates on the body can cause food to metabolize very quickly. However, this is not the case for everyone. This is most common in the case of those who harness [[Arcana]].
 
 ## Perspectives of Magic
-Much of what is written and taught about [[magic]] comes from Academic Arcanists. In modern times, the public understanding of [[magic]] is somewhat biased towards certain perspectives. [[Clerics]], [[druids]], occultists, [[witches]], and many more have perspectives of magic that differ greatly, and even sometimes contradict the academic perspective. 
+Much of what is written and taught about [[magic]] comes from Academic Arcanists. In modern times, the public understanding of [[magic]] is somewhat biased towards the academic perspective. [[Clerics]], [[druids]], occultists, [[witches]], and many more have perspectives of magic that differ greatly, and even sometimes contradict the academic perspective. 
 
 Most cases of [[magic]] usage outside of academia are not recorded, tested, and debated like they are in Academic [[Arcana]]. This is because each usage is much more unique and personal. There is also much less need for it as these groups tend to begin their journey with gifts, or help from an outside source.
 

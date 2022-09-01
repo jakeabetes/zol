@@ -1,4 +1,6 @@
 # Absurdia
+*One of Zol's [[Planes]] of existence*
+
 Arguably the weirdest place in all of [[Zol]]. [[Absurdia]] exists as an almost parody of the [[Prime Material Plane]]. It is unknown exactly what made [[Absurdia]], which only deepens the strangeness of the realm.
 
 ![[Absurdia 1.png]]

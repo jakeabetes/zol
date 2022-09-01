@@ -1,4 +1,6 @@
 # The Pure Forest
+*One of Zol's [[Planes]] of existence*
+
 Boundless, uncorrupted and wild. [[The Pure Forest]] is an infinite forest that spills off of [[The Lifeweaver]]'s form.
 
 ![[The Pure Forest.png]]
