@@ -14,6 +14,7 @@ All planes in [[Zol]] are are anchored to the [[Prime Material Plane]], which is
 All planes float amongst [[The Ethos]], the local section of the universe that stops at [[The Great Wall of Roots]]. Beyond that lies [[The Cosmos]] which spans on forever.
 
 ## List of All Planes
+There are many planes in [[Zol]]. Below is the list of known major planes.
 - **The Mortal Planes** - Planes bound by the rule of [[The Mortal Coil]]
 	- [[Prime Material Plane]] - The heart of [[Zol]] and resting place of [[The Trinity]]. Being the source of all magical power, and the anchor for all other planes, it is the focal point for all of [[Zol]].
 	- [[Fey]]

@@ -38,10 +38,12 @@ The force that bonds a soul to a vessel, and disjoins them upon death.
 			- This is the rarest death, as the soul is nigh indestructible. If this occurs there is no way to bring the being back to life.
 	- If Death does occur, there are cases where magic can be used to restore life, given that the circumstances are correct.
 		- If one does successfully restore life, the being will return with a scar from [[The Mortal Coil]] called a Mortality Rune ![[Mortality Runes.png]]
-	- Death cannot occur on a plane where [[The Mortal Coil]] is not present, save for the case of a soul being destroyed. A dead being is usually banished to [[The Ethos]], [[The Void]], or the [[Prime Material Plane]] on the brink of death. This is not always the case as some planes like [[Absurdia]] have their own rules about death off [[The Mortal Coil]].
+	- Death cannot occur on a plane where [[The Mortal Coil]] is not present, save for the case of a soul being destroyed. A death off the mortal coils usually results in banishment to [[The Ethos]], [[The Void]], the [[Prime Material Plane]], or the plane from which they originated. They arrive on the brink of death. 
+	  
+	  This is not always the case as some planes like [[Absurdia]] have their own rules about death off [[The Mortal Coil]].
 		- Any living thing can die so long as it is under the effect of [[The Mortal Coil]]
-		- Something that is defined as *Immortal* is not killed by old age, and can withstand colossal amounts of trauma to their vessel, soul, and the bond between them without succumbing to death.
-		- This principal is why the [[Gods]] spend most of their time outside of [[The Mortal Coil]], as it gives them much security from other powerful beings who would see them dead.
+		- Something that is defined as ***Immortal*** is not killed by old age, and can withstand colossal amounts of trauma to their vessel, soul, and the bond between them without succumbing to death.
+			- This principal is why the [[Gods]] spend most of their time outside of [[The Mortal Coil]], as it gives them much security from other powerful beings who would see them dead.
 - Afterlife
 	- When death occurs, the soul (if intact) leaves the vessel. It is then guided by [[The Coilwalker]] to a new phase of existence based on the way the soul acted in its lifetime.
 	- The paths a soul can take are:

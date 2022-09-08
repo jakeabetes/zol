@@ -7,7 +7,7 @@
 - ~~Introduction, Origin, and Homepage~~
 - ~~Magic system~~
 - Gods
-- Planes
+- ~~Planes~~
 - Historical Timeline
 - Regions 
 - Lore to fill gaps (characters, objects, events, and other specific concepts of note)

@@ -4,5 +4,6 @@ Magical backfire is the result of improper usage or over-usage of [[magic]]. It 
 - Explosions of [[energy]]
 - Wild magic
 - Damage to one's [[Vizir]]
+- Death
 
-The latter being the most dreaded by magic users. In the case of damage to one's [[Vizir]], it results as a [[Caster]] having their magical capacity decreased, or lost entirely.
+The latter 2 being the most dreaded by magic users. In the case of damage to one's [[Vizir]], it results as a [[Caster]] having their magical capacity decreased, or lost entirely.

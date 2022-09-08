@@ -2,15 +2,15 @@
 *Void God of Hell, Major Deity*
 ![[Aldem king of all hells.png]]
 
-Lord of Demons, Conqueror of [[Damnation]]. [[Aldem, King of all Hells]] has domain over each and every layer of hell that exists in [[Zol]]. 
+Lord of [[Fiends]], Conqueror of [[Damnation]]. [[Aldem, King of all Hells]] has domain over each and every layer of hell that exists in [[Zol]]. 
 
-Before the defeat of [[Goh'zul]], the great old one consumed thousands of worlds. A common pattern amongst these devoured worlds was the creation of Hells and Demons. These were made as an army of violent creatures manufactured to fight back against [[Goh'zul]].
+Before the defeat of [[Goh'zul]], the great old one consumed thousands of worlds. A common pattern amongst these devoured worlds was the creation of Hells and [[Fiends]]. These were made as an army of violent creatures manufactured to fight back against [[Goh'zul]].
 
 These creations were fruitless in the end. After [[Goh'zul]] devoured their world, he would leave the Hells, for lack of a better term, undigested within his body.
 
 This created a unique occurrence after the defeat of [[Goh'zul]]. More than a thousand hells drifted amongst his inner void. These unbound planes would collide with one another and fuse, eventually forming a single, unimaginably large realm of [[Damnation]].
 
-Each of these realms had their own unique environment, laws, demons, and rulers. These differences sparked a massive war amongst the demons. After an eon of fighting, Aldem emerged as the victor.
+Each of these realms had their own unique environment, laws, [[Fiends]], and rulers. These differences sparked a massive war amongst the [[Fiends]]. After an eon of fighting, Aldem emerged as the victor.
 
 ## Depiction
 A towering being of a stony black skin that houses a  ethereal red substance that flows all about his form. He bears no discernable face on his head and his voice emanates powerfully from him in all directions. 

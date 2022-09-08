@@ -31,13 +31,21 @@ For almost of history, one could not access magical power unless they followed t
 [[Iron Light]] is a sub section of the minor will of [[Arcana]]. It allows one to extend their [[Vizir]] into an object, or channel [[The Trinity]] itself through the object. This is done by using rudimentary runes inscribed in iron plates, allowing for a more simplistic production of magical objects. This invention revolutionized [[Zol]].
 
 ## Limitations and Weaknesses of Magic
-While powerful, Magic is not a boundless tool. In all cases, a [[Caster]] acts as a conduit for [[The Trinity]]. Acting as this conduit requires capacity and fortitude respective to the given task. All magic puts stress on a user, the amount of stress one can burden without hurting themselves is considered their limit. 
+While powerful, Magic is not a boundless tool. In all cases, a [[Caster]] acts as a conduit for [[The Trinity]]. Acting as this conduit requires capacity and fortitude called **Equipoise**, respective to the given task.  
 
-A body can only take so much stress before it needs rest. Stress can be mitigated by expanding one's capacity. If an individual has great skill, or some innate gift they can use magic in more efficient ways to avoid damage to their mind and body.
+Equipoise is a medical term used to denote the balance of ones homeostasis, mental state, and magical capability. It is a careful balance that the body strives towards at all times. Every being has a different level of this balance. Some beings can withstand more imbalance than others.
 
-If one does reach their limit, they are not cut off from magic. They are instead punished greatly by any further usage. This is called [[Magical Backfire]].
+Use of any Magic, save for [[The First Tongue]], directly interferes with one's Equipoise. This can manifest as the body dropping in temperature, exhaustion, hunger, nausea, weakness, dizziness, and temporarily decreased magical ability.
 
-Many magic users also have issues with nutrition. The stress magic creates on the body can cause food to metabolize very quickly. However, this is not the case for everyone. This is most common in the case of those who harness [[Arcana]].
+It is common for novice mages to become bedridden for a few hours after their first use of magic. Skilled mages do not even notice these negative effects when using simple spells.
+
+Equipoise can be trained like a muscle over time, and seems to have no upward limit. This skill is thought to be parallel, or even interchangeable, with the strength of ones [[Vizir]]. 
+
+When one stops using magic, the body does what it can to return to a normal Equipoisal state; however it cannot recover lost energy. This means a body can only take so much stress before it needs hours of rest to regain lost Equipoise. 
+
+Stress can be mitigated by expanding one's Equipoisal capacity. If an individual has great skill, or some innate gift they can use magic in more efficient ways to lessen the equipoisal imbalance. The amount of magic a [[Caster]] can use before causing permanent damage to themselves is referred to as their equipoisal limit. 
+
+If one does reach their equipoisal limit, they are not cut off from magic. They are instead punished greatly by any further usage. This is called [[Magical Backfire]].
 
 ## Perspectives of Magic
 Much of what is written and taught about [[magic]] comes from Academic Arcanists. In modern times, the public understanding of [[magic]] is somewhat biased towards the academic perspective. [[Clerics]], [[druids]], occultists, [[witches]], and many more have perspectives of magic that differ greatly, and even sometimes contradict the academic perspective. 
