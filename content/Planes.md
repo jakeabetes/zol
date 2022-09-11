@@ -1,9 +1,5 @@
 # The Planes of Zol
-[[Zol]] itself is a parent realm. A plane which contains many other planes all anchored to a [[Prime Material Plane]].
-
-The sheer number of planes in [[Zol]] is not known. It is a world spun from the refuse found inside [[Goh'zul]], the eater of worlds.
-
-Despite the challenges posed by planar travel, the people of [[Zol]] have recorded a fair deal about the [[Planes]].
+[[Zol]] itself is a parent realm. A plane which contains many other planes all anchored to a [[Prime Material Plane]]. The sheer number of planes in [[Zol]] is not known. Planar travel poses many challenges, and most mortals know little of anything outside the [[Prime Material Plane]]. Despite this, the powerful and arcane citizens of [[Zol]] have recorded a fair deal about the [[Planes]].
 
 ![[Diagram of the cosmos.png]]
 
