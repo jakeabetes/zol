@@ -2,7 +2,7 @@
 *The Rift City*
 ![[Tenentak.png]]
 
-Tenzentak, the Rift City. Located in [[The Free Cities of Alderun]], the sake of its nickname comes from the topography which the city rests upon. A set of wide rifts which house a unique geological phenomenon called [[Rift Iron]], a set of valuable metals that regrow slowly after being mined and can be used to make objects that reform after breaking.
+Tenzentak, the Rift City. Located in [[The Free Cities of Alderun]], the sake of its nickname comes from the topography which the city rests upon. A set of wide rifts which house a unique geological phenomenon called [[Rift Iron]], a valuable metal that regrows slowly after being mined. It is used to make objects that can reform after breaking.
 
 ![[tenzentak.png]]
 
@@ -19,6 +19,7 @@ At the cities eastern edge lies [[The Grand Nothing]], and [[Gilligan's Lift]] w
 | Export |  [[Rift Iron]] |
 | Climate | Temperate/Dry |
 | Size | Large |
+| City Leader | Lady Helseena Trodak |
 | Primary Language(s) | Common, Dwarvish |
 | Majority Racial Group(s) | None |
 | Majority Religion(s) | Zolaen-Centric |
@@ -26,7 +27,7 @@ At the cities eastern edge lies [[The Grand Nothing]], and [[Gilligan's Lift]] w
 ## Major Features
 | Feature | Description |
 |-|-|
-| Distinguishing Features | Built on the literal edge of the cliffs thousands of feet above [[The Grand Nothing]]. The City economy is built around the export of [[Rift Iron]] which is mined from crevasses in the city's center |
+| Distinguishing Features | Built on the literal edge of the cliffs, thousands of feet above [[The Grand Nothing]]. The City economy is built around the export of [[Rift Iron]] which is mined from crevasses in the city's center |
 | Architecture | Round stone buildings featuring many columns and arches to buffet the high winds. Large round windows decorated with cast iron filigree, red sheet metal rooves, and many balconies decorate its wealthy districts. Its rifts are filled with ramshackle slums populated by the poorest classes who work in the mines. |
 | Color(s) | White and Red |
 | Symbolism | An arched bridge with a sun above in the sky. Below the bridge is a symmetrical pickaxe. |
@@ -46,6 +47,7 @@ At the cities eastern edge lies [[The Grand Nothing]], and [[Gilligan's Lift]] w
  |-|-|-|
  | Rift-Top Square | Market | The highest quality and prices you will find for all your general needs in the city. It contains a multitude of permanent shops and a handful of semi-permanent stands. Located at the intersection of Faultline and the Northroad. |
  | The Narrowmarket | Market | The slum market within the rifts themselves. A fast-paced and seedy bazaar packed into tight quarters. |
+ | Albojo's Wares | Magic Shop | The sole magic shop in the city. A high class establishment located in the Rift-Top Square. Run by the snooty Tabaxi Albojo Albojo II. |
  | The View | Tavern | A large and popular tavern for the middle class located on the cliff's edge in Smogtown. Run by a soft-spoken Dwarf man called Kalb Rike. |
  | Immarum | Tavern | A high class drinking and dining establishment for the nobility. Located in the Rift-Top Square. |
  | The Pit | Tavern | Located in the depths of the central Rift, The Pit is has a reputation of being a strange bar filled with shady patrons. Known for its uneven floors caused by the regrowing [[Rift Iron]] veins in the stone below. Run by a one eyed Ogre called 'Runt'. |
@@ -66,11 +68,15 @@ The authority of Lady Trodak wavers the deeper in the rift you go. The lowborn p
 The city subscribes to the [[Alderian Laws]].
 
 ## Modern Importance
-INFO
+In its current day an age, the city is the most accessible means for one to venture into [[The Grand Nothing]]. Many travel here to seek out the treasures hidden in the ruins of the old world.
+
+It is also home to the headquarters of [[The Bladehammer Guild]]. The guild is the largest operating party of mercenaries, scholars, craftsmen, and politicians. The guild is made up of many subgroups that have legitimacy all over [[Zol]]. Those who take up arms with the guild are given the agency to do much in the kingdoms of The Three Corners of Civilization.
 
 ## Historical Importance
-INFO
+[[Tenzentak]] was one of the first cities to be founded in [[Zol]]. Its location on the cliffs of [[The Grand Nothing]] was instrumental in [[The Dragon War]]. This was due to the strong up drafting winds that rise from the cliff. These gusts made for difficult sustained airborne combat for dragons.
+
+Its defensible location also caused it to be the last of the Human cities to fall in the [[Alderian Rebellion]]. Rebels were able to finally take the city by sending squads of soldiers to climb laterally along the cliffs edge and sabotage the cities defenses during the night.
 
 ## Other Things of Note
-- INFO
+- The natural regrowth of [[Rift Iron]] creates toxic off-gassing called [[Rift Smog]]. The city has created filters powered by sunlight that cleanse the air for the upper city. However those who live in the rifts have to wear face coverings and often have health complications.
 

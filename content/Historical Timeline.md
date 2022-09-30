@@ -10,7 +10,7 @@ Below is a list of major historical events in chronological order
 	- The Rise of [[The Triumvirate]] - *ann. 1608*
 	- [[The Taming of the Badlands]] - *ann. 1786*
 	- The publishing of [[The Old World of Zol: Excerpts from The Grand Nothing]] - *ann. 1791*
-	- [[The Illithid Invasion ]] - *ann. 2091 to 2139*
+	- [[The Illithid Invasion]] - *ann. 2091 to 2139*
 	- The Founding of [[Laenwalde]] - *ann. 2306*
 	- The [[Beast Ire]] Plague - *ann. 2341 to 2411*
 	- The Peak of the [[Triumvirate Battles]]  - *ann. 2673*
@@ -22,6 +22,8 @@ Below is a list of major historical events in chronological order
 - [[Second Age]] - *ann. 2999 to 3203*
 	- The Discovery of [[Iron Light]] - *ann. 2999*
 	- The Invention of [[Airships]] - *ann. 3011*
+	- The Discovery of Mechanicum Immaculatum and the Creation of [[Warforged]] - *ann. 3012*
 	- [[The Triumvirate]] Concord - *ann. 3012*
 	- The Construction and Completion of [[The Great Tracks]] - *ann. 3108*
-- **Modern Day 3203**
+	- The Flight of [[Heliodor]] - *ann. 3142*
+- **Modern Day - Second Age - 3203**
