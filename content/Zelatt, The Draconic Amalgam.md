@@ -2,7 +2,7 @@
 *Void God of Chaos, Major Deity*
 ![[Zelatt.png]]
 
-A hauntingly beautiful force of chaos. Zelatt is the mother of all Chromatic [[Dragons]]. She is an ever-flowing being of scales, bone, and magnificent color. Birthing powerful dragons from parts of her body that break off, Zelatt and her children seek lawlessness and destruction for [[Zol]].
+A hauntingly beautiful force of chaos. Zelatt is the mother of all [[Chromatic Dragons]]. She is an ever-flowing being of scales, bone, and magnificent color. Birthing powerful dragons from parts of her body that break off, Zelatt and her children seek lawlessness and destruction for [[Zol]].
 
 ## Depiction
 A colossal, everchanging mass of color. Zelatt's body is made up of fractals that resemble the body parts of dragons. At the center of her form is a massive maw.

@@ -14,3 +14,5 @@ His many years doing this have filled his home with oddities one could only drea
 ![[Draedons observatory.png]]
 
 Draedon keeps a magical observatory that lets him peer into much of [[Zol]] from the comfort of his own plane. This allows him to live a very reclusive life.
+
+Many other arcanists have made realms of their own similar in nature to [[Elm Manor]]. Despite their best efforts, none compare to the wonder of Draedon's creation.

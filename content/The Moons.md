@@ -12,7 +12,7 @@ Now, the three planets grace [[Zol]] with beautiful illumination during its nigh
 ## Sorrow
 The smallest of the 3 moons. Sorrow is known for its yellow hue and planetary ring. The ruins of Sorrow are the most intact of the 3 moons, and house many treasures and secrets about [[The Cosmos]].
 
-Monsters inhabit its surface making it very dangerous to traverse, but is well worth the risk to some being who have the power to go there.
+Monsters inhabit its surface making it very dangerous to traverse, but the few who have the power and drive to go there quest for its treasure.
 
 ## Majesty
 The second largest of the trio, The Desert Moon. Majesty's surface is covered with vast dunes of white sand. While originally thought to be barren, it was discovered that deep below its surface lies caves full of valuable resources.

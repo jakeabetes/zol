@@ -22,4 +22,4 @@ Ayamot resides in [[The Cliffs of Aeordel]]. He is know to spend much of his tim
 Followers of Ayamot seek guidance in the decisions of their actions based in Ayam Morals. There are many temples and churches built to the honor of Ayamot. Statues of his likeness are commonplace in courthouses all over [[Zol]].
 
 ## Father of Metallic Dragons
-Ayamot is the progenitor of the Metallic [[Dragons]], and is revered by them as their ruler. Due to this fact, most Metallic [[Dragons]] follow his philosophy and aim to aide mortals.
+Ayamot is the progenitor of the Metallic [[Dragons]], and is revered by them as their ruler. Due to this fact, most [[Metallic Dragons]] follow his philosophy and aim to aide mortals.

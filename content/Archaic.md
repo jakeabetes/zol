@@ -8,5 +8,4 @@ Archaic, The Eldest city of [[Zol]]. Archaic sits nested in the northern foothil
 
 It is also home to [[The Kybis Assembly]], one of [[Zol]]'s prestigious academic institutions.
 
-*Wing C of The Archives*
 ![[archaic archives.png]]

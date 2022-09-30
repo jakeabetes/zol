@@ -14,6 +14,6 @@ Due to this theory, many believe their race is superiors to another. Cause discr
 ## Evidence Against Great Magic
 Many adopt the belief of grand magic to support their bias. However just as many, if not more disagree.
 
-The issue of longevity could be explained by the advancement of technology created by society in [[The Age Before]]. Meaning [[Humans]] were only able to live as long as other races due to medicine and [[magic]]. 
+The issue of longevity could be explained by the advancement of technology created by society in [[The Before]]. Meaning [[Humans]] were only able to live as long as other races due to medicine and [[magic]]. 
 
 The origin of the [[Off-Human]] races remains a mystery, but most argue that the origin of [[Humans]], [[Elves]], and [[Dwarves]] is unknown as well. The fact that their history is know back further does not prove anything to the origin of the other races.

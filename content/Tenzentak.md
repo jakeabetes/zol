@@ -2,10 +2,75 @@
 *The Rift City*
 ![[Tenentak.png]]
 
-Tenzentak, the Rift City. Located in [[The Free Cities of Alderun]], the sake of its nickname comes from the topography which the city rests upon. A set of wide rifts which house a unique geological phenomenon called [[Rift Iron]], a set of valuable metals that regrow slowly after being mined.
+Tenzentak, the Rift City. Located in [[The Free Cities of Alderun]], the sake of its nickname comes from the topography which the city rests upon. A set of wide rifts which house a unique geological phenomenon called [[Rift Iron]], a set of valuable metals that regrow slowly after being mined and can be used to make objects that reform after breaking.
 
 ![[tenzentak.png]]
 
-This natural resource gives Tenzentak a powerful economy, and stable future. Unfortunately, it also produces a toxic off-gas called [[Rift Smog]]. The city has developed powerful [[Iron Light]] air filters that utilize light from [[The Sun]] to clean the air. This ensures the city above the rifts remains clean and beautiful, but leaves those who live in the rifts to suffer.
+This natural resource gives Tenzentak a stable economy, and hopeful future. Unfortunately, it also produces a toxic off-gas called [[Rift Smog]]. The city has developed powerful [[Iron Light]] air filters that utilize light from [[The Sun]] to clean the air. This ensures the city above the rifts remains clean and beautiful, but leaves those who live in the rifts to suffer.
 
 At the cities eastern edge lies [[The Grand Nothing]], and [[Gilligan's Lift]] which is controlled by [[The Bladehammer Guild]].
+
+## Overview
+
+| Aspect | Description |
+|-|-|
+| Main Opportunity | Built on the edge of [[The Grand Nothing]], the city is full of people who seek to explore its wonder and seek out the mysteries of [[Zol]]'s past. The best parts of the city have a sense of wonder and hopefulness.|
+| Main Challenge | As many of the more fortunate have their sights set on venturing into [[The Grand Nothing]], resources are frequently poorly attributed. Leaving those who are less fortunate to scrape by. |
+| Export |  [[Rift Iron]] |
+| Climate | Temperate/Dry |
+| Size | Large |
+| Primary Language(s) | Common, Dwarvish |
+| Majority Racial Group(s) | None |
+| Majority Religion(s) | Zolaen-Centric |
+
+## Major Features
+| Feature | Description |
+|-|-|
+| Distinguishing Features | Built on the literal edge of the cliffs thousands of feet above [[The Grand Nothing]]. The City economy is built around the export of [[Rift Iron]] which is mined from crevasses in the city's center |
+| Architecture | Round stone buildings featuring many columns and arches to buffet the high winds. Large round windows decorated with cast iron filigree, red sheet metal rooves, and many balconies decorate its wealthy districts. Its rifts are filled with ramshackle slums populated by the poorest classes who work in the mines. |
+| Color(s) | White and Red |
+| Symbolism | An arched bridge with a sun above in the sky. Below the bridge is a symmetrical pickaxe. |
+| Defenses | High defensible walls, Eastern facing ballista set to take down airship attacks, and the Tenzentak Garrison (provided by [[The Bladehammer Guild]]) equipped with mediocre rift iron gear that provides an above average level of defense. |
+
+## People Groups
+| Group | Type | Description |
+|-|-|-|
+| Nobleborn | Social Class | The nobility of the city are those highly associated with trade, government, and passage to [[The Grand Nothing]] |
+| Midborn | Social Class | Those who have run-of-the-mill jobs. Living in the lower city and in its [[Gate Town]]. |
+| Lowborn | Social Class | Those who live in the slums of the rifts. The sick, addicted, uneducated, or just plain unlucky. Working poor paying jobs related to the mines, or begging for scraps. Many Lowborn suffer from afflictions caused by [[Rift Smog]] |
+| [[The Bladehammer Guild]] | Guild | A massive guild that controls [[Gilligan's Lift]]. The Guild operates all over eastern [[Zol]]. It is made up of many subgroups, all with unique goals that support overarching dream of the whole guild: 'Create a better [[Zol]]' |
+| The Unhealed Dagger | Criminal | The overarching term for the diverse criminal nexus that operates in the depth of the city's rifts. There is no sole leading party, the name merely sums up the group as a whole. |
+
+## Goods and Services
+ | Name | Type | Description |
+ |-|-|-|
+ | Rift-Top Square | Market | The highest quality and prices you will find for all your general needs in the city. It contains a multitude of permanent shops and a handful of semi-permanent stands. Located at the intersection of Faultline and the Northroad. |
+ | The Narrowmarket | Market | The slum market within the rifts themselves. A fast-paced and seedy bazaar packed into tight quarters. |
+ | The View | Tavern | A large and popular tavern for the middle class located on the cliff's edge in Smogtown. Run by a soft-spoken Dwarf man called Kalb Rike. |
+ | Immarum | Tavern | A high class drinking and dining establishment for the nobility. Located in the Rift-Top Square. |
+ | The Pit | Tavern | Located in the depths of the central Rift, The Pit is has a reputation of being a strange bar filled with shady patrons. Known for its uneven floors caused by the regrowing [[Rift Iron]] veins in the stone below. Run by a one eyed Ogre called 'Runt'. |
+ | [[The Bladehammer Guild]] | Guild | The largest operating guild in all of [[Zol]], headquartered in [[Tenzentak]]. The guild is a place for any gifted individual to find work, or for any in need to hire help. The Guild provides a vast number of services like mercenaries, craftsmen, academics, and healers. |
+ | Tenzentak Station | Train Station | The city's connection to [[The Great Tracks]]. Located at the cities furthest reaches along the Northroad. |
+ | [[Gilligan's Lift]] | Misc | A wonderous feat of engineering. Gilligan's Lift is a giant elevator-like contraption that brings personnel, resources, and equipment from the city down to the surface of [[The Grand Nothing]]. Its operation is overseen by [[The Bladehammer Guild]].|
+
+## Authority
+The city is led by Lady Helseena Trodak, the [[Alderian Seat]] of [[Tenzentak]]. Her rule (in her own words) is one of 'balance'. [[Tenzentak]] faces unique challenges being the hub of outreach into [[The Grand Nothing]]. 
+
+Lady Trodak seeks to maintain the economy to support the efforts of those who venture out into [[The Grand Nothing]]. In doing so she requires the export of [[Rift Iron]]. Unfortunately the mining and refinement of the material is the source of many of the city's issues. 
+
+[[The Bladehammer Guild]] provides the Tenzentak Garrison, one of the guilds many subgroups, in exchange for much of its funding and tax exemption. This garrison acts as the city's guard, or army in times of war.
+
+The authority of Lady Trodak wavers the deeper in the rift you go. The lowborn people mostly live by their own rules and codes, only occasionally being harassed by the garrison.
+
+### Laws
+The city subscribes to the [[Alderian Laws]].
+
+## Modern Importance
+INFO
+
+## Historical Importance
+INFO
+
+## Other Things of Note
+- INFO
+

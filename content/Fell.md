@@ -7,18 +7,20 @@ A dark and nightmarish echo of the [[Prime Material Plane]]. Home to many strang
 
 The [[Fell]] is known for being extremely dangerous in its wilds, but oddly welcoming in its sole city of [[Dislimn]]. Its thorn covered forests are filled with disturbing monsters, and it is constantly under the cover of night.
 
-The [[Fell]] is infamous for its influence on the [[Prime Material Plane]] like the affliction of Lycanthropy and Vampirism.
+The [[Fell]] is infamous for its influences on the [[Prime Material Plane]]: like the afflictions of Lycanthropy and Vampirism.
 
 ![[fell 2.png]]
 
 ## Citizens of the Fell
 Within the Fell, there is a sole city known as [[Dislimn]]. The city itself has a frightening appearance, but they never turn anyone away.
 
+![[Dislimn skyline.png]]
+
 The City is by no means safe, and newcomers are typically prayed upon. However it is quite easy to find work and the cost of living is quite low. On top of that it is know for having delicious foods served at low prices.
 
 The *local* population is made up of beings who fled the [[Prime Material Plane]] to escape their old lives, or beings who were born there.
 
-The higher classes of society are typically high vampires, powerful lycanthropes, or Shades which are descendants of beings whos family has lived in the [[Fell]] for many generations. These beings are very rare and appear almost as dark tears in reality in the shape of their lineages race.
+The higher classes of society are typically high vampires, powerful lycanthropes, or Shades which are descendants of beings whos family has lived in the [[Fell]] for many generations. These beings are very rare and appear almost as dark tears in reality in the shape of their lineage's race.
 
 There is also a rare population of [[Fairies]] that reside in the [[Fell]].
 

@@ -3,7 +3,7 @@
 
 ![[Diagram of the cosmos.png]]
 
-[[Planes]] were first created from the [[Sea of Monsters]] by [[The Watcher in The Door]]. [[The Watcher]] did not change the majority of the [[Sea of Monsters]] into [[Zol]], but did manage to harness a great deal of it. What is left of the [[Sea of Monsters]] is now known as [[The Void]].
+[[Planes]] were first created from the [[Sea of Monsters]] by [[The Watcher in The Door]]. [[The Watcher]] did not transform the majority of the [[Sea of Monsters]] into [[Zol]], but did manage to harness a great deal of it. What is left of the [[Sea of Monsters]] is now known as [[The Void]].
 
 All planes in [[Zol]] are are anchored to the [[Prime Material Plane]], which is the resting place of [[The Trinity]], and home to The Three Corners of Civilization.
 
@@ -12,7 +12,8 @@ All planes float amongst [[The Ethos]], the local section of the universe that s
 ## List of All Planes
 There are many planes in [[Zol]]. Below is the list of known major planes.
 - **The Mortal Planes** - Planes bound by the rule of [[The Mortal Coil]]
-	- [[Prime Material Plane]] - The heart of [[Zol]] and resting place of [[The Trinity]]. Being the source of all magical power, and the anchor for all other planes, it is the focal point for all of [[Zol]].
+	- [[Prime Material Plane]]
+		- The heart of [[Zol]] and resting place of [[The Trinity]]. Being the source of all magical power, and the anchor for all other planes, it is the focal point for all of [[Zol]].
 	- [[Fey]]
 		- A fantastical reflection of the [[Prime Material Plane]]. An echo where nature an beauty run rampant. While enticing, the [[Fey]] is very dangerous.
 	- [[Fell]]
@@ -64,7 +65,7 @@ Subplanes are planes that are created within another plane. They inherit all the
 
 Example: [[Artificers]] create the common [[Apparatum]] known as a Bag of Holding. This device is a fabric sac that contains a portal to an artificial plane that merely contains space for storing objects. If this Bag of Holding is brought to the [[Prime Material Plane]] the space inside the bag is bound to [[The Mortal Coil]], if it is brought to [[Absurdia]] it is not.
 
-## The two types of Planes: Planets and Realms
+## The Two Types of Planes: Planets and Realms
 A planet is a discrete, usually spherical plane that floats freely amongst [[The Cosmos]]. [[The Moons]] of [[Zol]] are a good example of this. Planets typically have some central point of gravity that keeps objects on its surface. Planets do not usually have other planes bound to them in any way other than gravitational orbit of other planets.
 
 Realms are planes that are not necessarily discrete and do not have to subscribe to Euclidean Geometry. They may be infinite, repeating, fractal, or end abruptly at their edges.

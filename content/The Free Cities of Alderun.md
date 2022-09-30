@@ -10,11 +10,12 @@ The Free Cities of Alderun are comprised of 7 Cities. A beacon of hope for all o
 
 ![[The Free Cities of Alderun.jpg]]
 
-Once a land of oppressed [[Off-Human]] people in South Kapesh, Alderun now flourishes with life and culture. A land where anyone can choose to be who they want, but this is not to say Alderun is without its issues.
+Once known as South Kapesh, Alderun has a history of oppression and rebellion. Despite its difficult past, Alderun now flourishes with life and culture. A land where anyone can choose to be who they want, but with great freedom comes discourse.
 
-During the [[First Age]], [[Human Sovereigntists]] claimed that the Off-Humans must follow a strict set or laws, or face slavery. Kapesh intended to discover a way to restore the [[Great Magic]] of the humans by recombining the Off-Humans with their once hosts. The humans were understandably met with resistance.
+## Historical Summary
+During the [[First Age]], [[Human Sovereigntists]] claimed that the Off-Humans must follow a strict set or laws, or face slavery. The [[Humans]] of Kapesh enforced themselves as 'higher beings' over the [[Off-Human]] races. The oppressed people were forced to undergo dark experiments. These tests were intended to discover a way to restore the [[Great Magic]] of the humans by recombining the Off-Humans with their once hosts. The humans were understandably met with resistance.
 
-Rebellions rose and fell. The true overturning of South Kapesh was not until [[Eirmond the Brave]] rose to glory. Eirmond was a stellar fighter, and a great leader to the Off-Human People.  A [[Half-Orc]] man, born in [[Ka'thoor]]. He won Alderun, city-by-city, a civil war that is now known as the [[Alderian Rebellion]].
+Rebellions against the humans rose and fell. The true overturning of South Kapesh was not until [[Eirmond the Brave]] rose to glory. Eirmond was a stellar fighter, and a great leader to the Off-Human People.  A [[Half-Orc]] man, born in [[Ka'thoor]]. He won Alderun, city-by-city, a civil war that is now known as the [[Alderian Rebellion]].
 
 Alderun is now lead by the [[Alderian Council]], a democratically elected board of individuals with a representative from each city.
 

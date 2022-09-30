@@ -11,7 +11,7 @@ Kapesh, The Human Kingdom of [[Zol]]. Kapesh is comprised of 6 cities
 
 Known for its old ways, magic, and grit. Kapesh is ruled by [[King Galliard]] from its capital, [[Kierketholl]]. Bordering [[The Free Cities of Alderun]], and [[The Witchlands]], Kapesh finds itself the most central kingdom in The Three Corners of Civilization.
 
-Kapesh is the oldest kingdom in Zol, as it was founded shortly after [[The Undoing]]. The [[Humans]] population was scorned by the elves, dwarves, and gods. This made lives for humans more difficult at first, but quickly gave humans a reason to unify at a much faster rate than any other faction in all of [[Zol]]. 
+Kapesh is the oldest kingdom in Zol, as it was founded shortly after [[The Undoing]]. The [[Humans]] were scorned by the elves, dwarves, and gods. This made lives for the people of [[Kapesh]] more difficult at first, but quickly gave humans a reason to unify at a much faster rate than any other faction in all of [[Zol]]. [[Humans]] are known for their stubbornness in the face of resistance.
 
 Kapesh's borders once included what is now the [[The Free Cities of Alderun]]. When Kapesh first rose to power, all [[Off-Human]] races within its borders were heavily oppressed and many were forced to live as slaves. This was changed by The [[Alderian Rebellion]]. A civil war in which Kapesh lost its southern region to what is now known as The Free Cities of Alderun.
 

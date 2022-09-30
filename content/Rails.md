@@ -6,7 +6,7 @@ Rails is the birthplace of [[The Great Tracks]], and the largest producer of [[T
 
 ![[rails.png]]
 
-What would appear as a quaint, busybody town to an outsider, is known as a devious and plotting economy to the locals. Underselling, and outsourcing, and insider trading are what  fills the day in Rails. While deception, sabotage, and even assassination is what plagues its nights.
+What would appear as a quaint, busybody town to an outsider, is known as a devious and plotting economy to the locals. Underselling, and outsourcing, and insider trading are what  fills the day in Rails. While deception, sabotage, and even assassination plagues its nights.
 
 ![[rails 2.png]]
 

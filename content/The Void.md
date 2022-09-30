@@ -28,3 +28,14 @@ The known properties of The Void are:
 
 ## Damnation
 [[Damnation]] is a subplane of [[The Void]] and seems to feed off the unclaimed souls of the [[Prime Material Plane]].
+
+## Demons and Fiends
+Residing the the greater Void are many horrible beings called [[Demons]]. They come in great varieties and almost all have destructive intentions.
+
+Within the subplane of [[Damnation]] resides a similar but distinctly different cast of beings called [[Fiends]]. To an uneducated eye they would seem the same as [[Demons]]. However there is a sole difference that divides them.
+
+[[Fiends]] are beings bound by oath to serve [[Aldem, King of all Hells]]. If they are caught by a greater demon betraying him their souls are instantly destroyed. Most [[Fiends]] are endlessly loyal to Aldem because of this.
+
+[[Demons]] however are not bound to serve a master if they do not choose to. This gives [[Demons]] a sense of pride over fiends that has forged a unique hatred between the 2 groups over many ages.
+
+The two groups of monsters clash regularly. Mortals have even been known to gain favors from one group when sparring with the other.

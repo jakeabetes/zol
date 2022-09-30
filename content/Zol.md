@@ -64,6 +64,6 @@ and 4 Seas
 
 
 ## Lorelhiem
-A Distant and strange feudal land rumored to be far west of The Three Corners of Civilization, beyond the reaches of nautical technology and teleportation magic.
+A Distant and strange feudal land rumored to be far west of The Three Corners of Civilization, beyond the reaches of nautical technology and teleportation magic. A strange ever present fog in the vast sea prevents any magical observation of this place.
 
 (Note: This is the first planned future expansion of [[Zol]])

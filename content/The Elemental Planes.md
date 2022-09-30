@@ -6,14 +6,14 @@ Academics are unsure of exactly what forces form the [[Prime Material Plane]], b
 These 4 Elemental planes are:
 
 ## The Plane of Invigorant
-The Plane of Oceans and Forests. An ever spanning ocean covered in island forests. Most organisms here, plant animal and fungi are all completely unique. They live and die in incredibly short spans and seem to spawn from the environment itself.
+The Plane of Oceans and Forests. An ever spanning ocean covered in island forests. Most plant animal and fungi here are all completely unique all the way down to the individual level. They live and die in incredibly short spans and seem to spawn from the environment itself.
 
 ![[Invigorant.png]]
 
-Organisms that do not live and die in uniqueness do live here, but they are uncommon species. This is plane supplies the [[Prime Material Plane]] with life giving matter.
+Organisms that do not live and die in uniqueness do live here, but they are uncommon species, like the voracious wasp eels. This is plane supplies the [[Prime Material Plane]] with life giving matter.
 
 ## The Plane of Immolation
-The Sun of [[Zol]]. The Plane of Immolation is what gives the heat of flame and the light of radiance to [[Zol]].
+The Sun of [[Zol]]. The Plane of Immolation is what gives the heat of flame and the radiant light to [[Zol]].
 
 ![[immolation.png]]
 
@@ -26,7 +26,7 @@ Rock, sand, metal, soil and gemstone. The foundation of the [[Prime Material Pla
 
 ![[Temperment.png]]
 
-Populations of Dangerous [[Giants]] reside in Temperament, some of which even have their own cities.
+Populations of Dangerous [[Giants]] and great chitinous beasts reside in Temperament, some of which even have their own cities.
 
 
 ## The Plane of Tempest
@@ -35,4 +35,5 @@ The sky itself. The Plane of Tempest is the most vast and peaceful of [[The Elem
 It can be accessed via long lateral journeys in the sky. It contains many avian species who travel freely between the [[Prime Material Plane]] and Tempest.
 
 ![[Tempest.png]]
+
 Tempest contains no landmasses, but does house many large beings known as Buoyants. These beings appear like a mix between a whale and a large balloon, and act as a resting place for flying creatures who need it. Large Buoyants even have forests growing on their backs.   

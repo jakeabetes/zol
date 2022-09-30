@@ -10,7 +10,7 @@ The land of the dead, and the punishment of [[Zol]]. [[Damnation]] is a subplane
 Damnation is home to [[Fiends]], and the souls of the dead. These beings exist in all over Damnation in many different environments, all ruled by [[Aldem, King of all Hells]].
 
 ## Apolyatum, The City of The Dead
-The resting place for souls not fit for punishment. It manifests as a vast city in colossal cavern. An ever present grey fog looms overheard. The fog glows a faint yellow light when it nears the ground providing the only natural light in Apolyatum.
+The resting place for souls not fit for punishment, and the highest layer of [[Damnation]]. It manifests as a vast city in colossal cavern. An ever present grey fog looms overheard. The fog glows a faint yellow light when it nears the ground providing the only natural illumination in Apolyatum.
 
 ![[Apolyatum.png]]
 
@@ -22,10 +22,10 @@ Here they can live lives similar to that of the mortal world. Making friends, ea
 
 Many odd jobs unique to Apolyatum are available to the souls here, but mostly consist of excavating the cave walls, constructing new homes, and agriculture.
 
-A legion of [[Fiends]] known as *The Regal* act as the nobility and policing force of Apolyatum. Many souls spend their days serving them, but some successful souls rise to noble ranks as well.
+A group of [[Fiends]] known as *The Regal* act as the nobility and policing force of Apolyatum. Many souls spend their days serving them, but some successful souls rise to noble ranks as well.
 
 ## The Tomb of Stone
-The maze of pain. An endless labyrinth of punishment and monsters. Souls guilty of crimes not quite worthy of eternal punishment are sent here.
+The maze of pain. A seemingly endless labyrinth of punishment and monsters. Souls guilty of crimes not quite worthy of eternal punishment are sent here.
 
 ![[The Tomb of Stone.png]]
 
