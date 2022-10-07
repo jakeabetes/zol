@@ -8,7 +8,7 @@
 - ~~Magic system~~
 - Gods
 - ~~Planes~~
-- Historical Timeline
+- ~~Historical Timeline~~
 - Regions 
 - Lore to fill gaps (characters, objects, events, and other specific concepts of note)
 - Final Cleanup

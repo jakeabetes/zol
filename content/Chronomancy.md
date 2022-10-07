@@ -1,5 +1,5 @@
 # Chronomancy
-[[Chronomancy]] [[Magic]] is one of the [[Schools of Magic]]. It is extremely rare. It is magic that involves the manipulation of ones location on the 4th dimensional plane of [[nodes]], allowing the manipulation of time.
+[[Chronomancy]] [[Magic]] is one of the [[Schools of Magic]]. It is extremely rare. It is magic that involves the manipulation of ones location on the 4th dimensional plane of [[Nodes]], allowing the manipulation of time.
 
 This is extremely difficult, dangerous, and frowned upon. [[Chronomancy]] allows one to move backwards, foreword, or even stop time. In all instances movement along this dimension is directly proportional to the users skill. To make things more achievable some users will attempt to send only their perspective elsewhere, allowing them to acquire information while risking much less.
 

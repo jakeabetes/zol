@@ -7,7 +7,7 @@ The uncontested, He who has unraveled the secrets of [[Arcana]]. Draedon is argu
 He used his abilities to transcend mortality and forges on to new cosmic discoveries.
 
 ## Depiction
-An old human man spectacular robes. Aged about 40 years in appearance, Draedon is in reality 9000 years old.
+A human man spectacular robes. Aged about 40 years in appearance, Draedon is in reality 3000 years old.
 
 ## Symbolism
 Draedon has no symbol like that of other deities

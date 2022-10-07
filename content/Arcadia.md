@@ -1,6 +1,6 @@
 Arcadia is comprised of 5 Cities
 - [[Audran]]
-- [[Metrognome]]
+- [[Ryze]]
 - [[Penthe]]
-- [[Cathedral]]
+- [[Cathedran]]
 - [[Seldom]]

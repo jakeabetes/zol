@@ -18,4 +18,4 @@ Many attribute [[Iron Light]] as the greatest advancement ever made in [[Zol]], 
 
 Some uneducated individuals or heavily indoctrinated peoples reject the text as a sort of propaganda. 
 
-In modern day, the scholars of [[Kerketh Academy]] release an up-to-date version of the text every 3 years to improve on its reservoir of knowledge.
+In modern day, the members of [[The University]] release an up-to-date version of the text every 10 years to improve on its reservoir of knowledge.

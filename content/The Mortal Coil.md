@@ -10,7 +10,7 @@ The force that bonds a soul to a vessel, and disjoins them upon death.
 ## The Rules of The Mortal Coil
 [[The Mortal Coil]] is bound to a specific set of rules that determine the function of life and death across all [[Planes]] of [[Zol]].
 - Beforelife
-	- little is known of the Beforelife, but it is thought that souls grow freely from [[nodes]] in [[The Ethos]]. These souls are selected at random by [[The Mortal Coil]] to be bound to vessels. This binding begins Life.
+	- little is known of the Beforelife, but it is thought that souls grow freely from [[Nodes]] in [[The Ethos]]. These souls are selected at random by [[The Mortal Coil]] to be bound to vessels. This binding begins Life.
 	- Souls in this state are thought to be non-sentient, and only become true beings when they are bound to a vessel.
 		- This is not the case for souls that are sent for rebirth after death. In this scenario, the souls-to-be-reborn are considered comatose, living beings. 
 - Life
@@ -22,7 +22,7 @@ The force that bonds a soul to a vessel, and disjoins them upon death.
 			- This can manifest in many ways
 				- A clone of a being is made via magic
 				- elemental forces are bent to house a soul
-				- Mechanicum Immaculatum
+				- [[Mechanicum Immaculatum]]
 					- A newly discovered method of creating life where a complex enough creation of [[Iron Light]] is made and it becomes sentient.
 						- This is how beings like [[Warforged]] come to life
 		- Divine Creation

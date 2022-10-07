@@ -6,7 +6,7 @@ Iron Light is a unique and efficient methodology used to simplify the usage of [
 
 [[Iron Light]] revolutionized [[Zol]] by putting power in the hands of many who would be otherwise be at the whim of the world. Unfortunately, the technique has also introduced new dangers like new weapons of war, and the [[magic]] ailment known as [[Materiation]].
 
-In its most simple form, [[Iron Light]] devices, also known as [[Apparatum]], are created via engraving special runes called the [[Ferric Alphabet]] into plates of Iron. These symbols channel [[Arcana]] similarly to how one uses their [[Vizir]], with the main difference being the user does not need to know the techniques required to harness [[Magic]]. They can achieve the very specific result allowed by the runes by lending their [[Vizir]] to it.
+In its most simple form [[Iron Light]] devices, also known as [[Apparatum]], are created via engraving special runes called the [[Ferric Alphabet]] into plates of Iron. These symbols channel [[Arcana]] similarly to how one uses their [[Vizir]], with the main difference being the user does not need to know the techniques required to harness [[Magic]]. They can achieve the very specific result allowed by the runes by lending their [[Vizir]] to it.
 
 ## Examples of Apparatum
 Some devices made with [[Iron Light]] are quite simple. Blades that dull very slowly, stoves that heat without fire, lamps that glow without fuel, or even simple refrigeration.
