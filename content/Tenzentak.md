@@ -18,6 +18,7 @@ At the cities eastern edge lies [[The Grand Nothing]], and [[Gilligan's Lift]] w
 | Main Challenge | As many of the more fortunate have their sights set on venturing into [[The Grand Nothing]], resources are frequently poorly attributed. Leaving those who are less fortunate to scrape by. |
 | Export |  [[Rift Iron]] |
 | Climate | Temperate/Dry |
+| Cuisine | Spicy Entrees, Flatbreads, Spiced Fruits, Game Foul |
 | Size | Large |
 | City Leader | Lady Helseena Trodak |
 | Primary Language(s) | Common, Dwarvish |
@@ -45,14 +46,18 @@ At the cities eastern edge lies [[The Grand Nothing]], and [[Gilligan's Lift]] w
 ## Goods and Services
  | Name | Type | Description |
  |-|-|-|
+ | Riftkeep | Keep | The city's main keep |
  | Rift-Top Square | Market | The highest quality and prices you will find for all your general needs in the city. It contains a multitude of permanent shops and a handful of semi-permanent stands. Located at the intersection of Faultline and the Northroad. |
  | The Narrowmarket | Market | The slum market within the rifts themselves. A fast-paced and seedy bazaar packed into tight quarters. |
  | Albojo's Wares | Magic Shop | The sole magic shop in the city. A high class establishment located in the Rift-Top Square. Run by the snooty Tabaxi Albojo Albojo II. |
  | The View | Tavern | A large and popular tavern for the middle class located on the cliff's edge in Smogtown. Run by a soft-spoken Dwarf man called Kalb Rike. |
  | Immarum | Tavern | A high class drinking and dining establishment for the nobility. Located in the Rift-Top Square. |
  | The Pit | Tavern | Located in the depths of the central Rift, The Pit is has a reputation of being a strange bar filled with shady patrons. Known for its uneven floors caused by the regrowing [[Rift Iron]] veins in the stone below. Run by a one eyed Ogre called 'Runt'. |
+ | The Sheathe-Anvil Tavern | Tavern | [[The Bladehammer Guild]]'s private tavern, reserved for guild members. Located within the guild campus. |
  | [[The Bladehammer Guild]] | Guild | The largest operating guild in all of [[Zol]], headquartered in [[Tenzentak]]. The guild is a place for any gifted individual to find work, or for any in need to hire help. The Guild provides a vast number of services like mercenaries, craftsmen, academics, and healers. |
  | Tenzentak Station | Train Station | The city's connection to [[The Great Tracks]]. Located at the cities furthest reaches along the Northroad. |
+ | Tenzentak Convergence | Teleportation Circle | The city's primary teleportation circle, located in the Riftkeep |
+ | Bladehammer Convergence | Teleportation Circle | [[The Bladehammer Guild]]'s teleportation circle, located within the guild campus |
  | [[Gilligan's Lift]] | Misc | A wonderous feat of engineering. Gilligan's Lift is a giant elevator-like contraption that brings personnel, resources, and equipment from the city down to the surface of [[The Grand Nothing]]. Its operation is overseen by [[The Bladehammer Guild]].|
 
 ## Authority
