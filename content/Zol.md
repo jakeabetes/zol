@@ -35,7 +35,7 @@
 ## The Three Corners of Civilization
 The Three Corners of Civilization are comprised of:
 
-8 Kingdoms
+6 Kingdoms
 - [[Laenwalde]]
 	- [[Arcadia]]
 	- [[Eucaren]]
