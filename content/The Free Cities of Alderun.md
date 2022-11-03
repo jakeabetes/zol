@@ -13,13 +13,13 @@ The Free Cities of Alderun are comprised of 7 Cities. A beacon of hope for all o
 Once known as South Kapesh, Alderun has a history of oppression and rebellion. Despite its difficult past, Alderun now flourishes with life and culture. A land where anyone can choose to be who they want, but with great freedom comes discourse.
 
 ## Historical Summary
-During the [[First Age]], [[Human Sovereigntists]] claimed that the Off-Humans must follow a strict set or laws, or face slavery. The [[Humans]] of Kapesh enforced themselves as 'higher beings' over the [[Off-Human]] races. The oppressed people were forced to undergo dark experiments. These tests were intended to discover a way to restore the [[Great Magic]] of the humans by recombining the Off-Humans with their once hosts. The humans were understandably met with resistance.
+During the [[First Age]], [[Human Sovereigntists]] claimed that the Off-Humans must live a life of servitude under the Human population. The [[Humans]] of Kapesh enforced themselves as 'higher beings' over the [[Off-Human]] races. The oppressed people were forced to undergo oppressions, slavery, and in some cases even dark experiments. These tests were intended to discover a way to restore the [[Great Magic]] of the humans by recombining the Off-Humans with their once hosts. The humans were understandably met with resistance.
 
 Rebellions against the humans rose and fell. The true overturning of South Kapesh was not until [[Eirmond the Brave]] rose to glory. Eirmond was a stellar fighter, and a great leader to the Off-Human People.  A [[Half-Orc]] man, born in [[Ka'thoor]]. He won Alderun, city-by-city, a civil war that is now known as the [[Alderian Rebellion]].
 
 Alderun is now lead by the [[Alderian Council]], a democratically elected board of individuals with a representative from each city.
 
-Alderun also borders [[The Grand Nothing]], it has two [[Great Lifts]]. One in [[Tenzentak]], and the other in [[Holocene]].
+Alderun also borders [[The Grand Nothing]], it has two [[Great Lifts]]. One in [[Tenzentak]], and the other in [[Holocene]] which is currently still being constructed.
 
 ## The Alderian Wilds
 Diverse like no other region, The Alderian wilds contain a menagerie of animals, plants, and monsters that differ wildly as one travels from [[Zessgorn]] to [[Holocene]].
@@ -40,4 +40,4 @@ The Free Cities of Alderun has coasts on:
 
 The Free Cities of Alderun border:
 - [[Kapesh]]
-- [[The Ward]]
+- [[The Ward]], separated by a treacherous mountain pass
