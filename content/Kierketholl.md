@@ -8,7 +8,6 @@ The capital of [[Kapesh]] and home to [[King Galliard]]. Dotted with massive, hi
 The city is filled with significantly tall buildings, and a handful of megastructures. Most buildings are at least 4 stories tall while the mega structures are around 30 to 50 stories tall. These complexes are all unique, some of which contain their own microcultures, and individuals who spend nearly their whole lives in a single building.
 
 ![[kierketholl.png]]
-*Note: this map needs to be edited to include the megastructures. If you notice this and Jake hasn't fixed it yet let him know and he will owe you 1 metric beer*
 
 ## Overview
 | Aspect | Description |
