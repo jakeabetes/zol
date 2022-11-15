@@ -4,3 +4,4 @@ Gethsemane is comprised of 5 Cities
 - [[Epkalane]]
 - [[Laelanor]]
 - [[Fell]]
+- [[Xerul]]

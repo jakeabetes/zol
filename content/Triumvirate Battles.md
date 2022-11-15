@@ -16,7 +16,7 @@ Enslavement of [[Humans]], [[Elves]] and [[Dwarves]] sparked the initial conflic
 They suffered much injustice during these times, but the [[Off-Human]] slaves faced a much darker fate. The ways the nations had to stretch during wartimes depended heavily on the labor of slaves. The greater the stakes of the battle, the greater the mistreatment of [[Off-Human]] slaves. Many recognize this suffering as the greatest of all during the [[Triumvirate Battles]].
 
 ## The Triumvirate Concord
-After the discovery of [[Mechanicum Immaculatum]] and the creation of [[Warforged]], the [[Triumvirate Battles]] entered a state of fast moving destruction and exhaustion of resources. The machines were so efficient at warfare they expedited the rate at which the conflict occurred. A sort of mutually assured destruction.
+After the discovery of [[Mechanicum Immaculatum]] and the creation of [[Warforged]], the [[Triumvirate Battles]] entered a state of fast moving destruction and exhaustion of resources. The machines were so efficient at warfare they expedited the rate at which the conflict occurred. A sort of mutually assured destruction. This paired with vast numbers of [[Warforged]] going rouge made for very bloody battles.
 
 This forced [[The Triumvirate]] to reconsider their disputes. The world had changed so much and it was evident how little [[Zol]] knew about itself. The kingdoms of [[Kapesh]] struck and agreement to stop the conflict, and release all slaves that were [[Humans]], [[Elves]], and [[Dwarves]].
 

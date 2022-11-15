@@ -27,7 +27,7 @@ Deepspell, the Arcane City. Located in [[The Free Cities of Alderun]]. Deepspell
 |-|-|
 | Distinguishing Features | Mountain location, large population compared to small size, [[Kerketh Academy]] |
 | Architecture | Many high towers unique to one another, Jettying |
-| Color(s) | Blue, Yellow, Cream, Orange |
+| Color(s) | Blue, Yellow, Cream, and Orange |
 | Symbolism | The [[Ferric Alphabet]] symbol for cognitive energy above the symbol for information energy |
 | Defenses | Surrounding mountains, High concentration of [[Caster]]s, city garrison |
 
@@ -36,8 +36,8 @@ Deepspell, the Arcane City. Located in [[The Free Cities of Alderun]]. Deepspell
 |-|-|-|
 | Cityfolk | Social Class | The common folk of the city with no academic merit. Varys from mid to low class |
 | Nobility | Social Class | The wealthy population of the city. Status is typically achieved by success with business associated with [[Kerketh Academy]] or political station. |
-| Students | Social Class | Those who attend [[Kerketh Academy]]. Made up of many races, ages and backgrounds of varying financial success. This group has its own unique hierarchy within related to academic level. |
-| The Preceptors | Social Class/Academic Station | The second highest level within [[Kerketh Academy]]. These individuals are researchers given resources by the academy, or the professors of the more entry-level classes. |
+| Students | Social Class/Academic Station | Those who attend [[Kerketh Academy]]. Made up of many races, ages and backgrounds of varying financial success. This group has its own unique hierarchy within related to academic level. |
+| The Preceptors | Social Class/Academic Station | The second highest level within [[Kerketh Academy]]. These individuals are researchers given resources by the academy, and act as the professors of the more entry-level classes. |
 | The Arch Mages | Social Class/Academic Station | The highest level of academic at [[Kerketh Academy]]. Only a set number of these are selected for this station at the academy, one for each of the major studies, and one to lead the whole group called the Magnate|
 | The Discredited | Social Class/Criminal | Those who have been thrown out of the academy for malpractice, or violating some other rule. These individuals are avoided by those involved with the academy like the plague. However these indivduals are not bounded by rules like those of the academy. Some of these individuals provide secret criminal services. |
 
