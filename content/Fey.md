@@ -24,6 +24,8 @@ Those who live in the [[Fey]] are xenophobic, any being who is uninvited to thei
 
 Other more reclusive or rare races like [[Fairies]], and [[Saytrs]] also hail from this realm. Some of which live amongst the city of [[Hymnal]].
 
+Strangely, iron is hated amongst those native to the [[Fey]]. Academics do not know why this is, but [[Fey]] natives experience great pain when in contact with the substance and can even claim to smell a putrid scent off of those who have worn iron recently. [[Iron Light]] is very uncommon within the [[Fey]] due to this fact.
+
 ## Travel to The Fey
 Since the [[Fey]] is an echo of the [[Prime Material Plane]], travel between these planes is much simpler than most other cases. There are even many natural portals to the [[Fey]] that emerge and disappear naturally all over the [[Prime Material Plane]].
 

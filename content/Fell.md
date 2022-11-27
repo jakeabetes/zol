@@ -20,9 +20,9 @@ The City is by no means safe, and newcomers are typically prayed upon. However i
 
 The *local* population is made up of beings who fled the [[Prime Material Plane]] to escape their old lives, or beings who were born there.
 
-The higher classes of society are typically high vampires, powerful lycanthropes, or Shades which are descendants of beings whos family has lived in the [[Fell]] for many generations. These beings are very rare and appear almost as dark tears in reality in the shape of their lineage's race.
+The higher classes of society are typically high vampires, powerful lycanthropes, or Shades which are descendants of beings whos family has lived in the [[Fell]] for many generations. These beings are very rare and appear almost as dark tears in reality in the shape of their lineage's race. There is also a rare population of [[Fairies]] that reside in the [[Fell]].
 
-There is also a rare population of [[Fairies]] that reside in the [[Fell]].
+Strangely, silver is hated amongst those native to the [[Fell]]. Academics do not know why this is, but [[Fell]] natives experience great pain when in contact with the substance and can even claim to smell a putrid scent off of those who have worn silver recently.
 
 ## Travel to the Fell
 Since the [[Fell]] is an echo of the [[Prime Material Plane]], travel between these planes is much simpler than most other cases. There are even many natural portals to the [[Fell]] that emerge and disappear naturally all over the [[Prime Material Plane]].

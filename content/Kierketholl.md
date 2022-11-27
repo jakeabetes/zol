@@ -49,12 +49,12 @@ The city is filled with significantly tall buildings, and a handful of megastruc
 ## Goods and Services
  | Name | Type | Description |
  |-|-|-|
- | Keep Galliard | Keep/Megastructure | The city's keep. Home to [[King Galliard]] and megastructure which homes the vast majority of the city's nobility. |
+ | Keep Galliard | Keep/Megastructure | The city's keep. Home to [[King Galliard]] and megastructure which homes the vast majority of the city's nobility. West  most of the megastructures.|
  | Kierketholl Convergence | Teleportation Circle | The city's main teleportation circle |
  | Kierketholl Station | Train Station | The city's train station |
- | The Bend | Megastructure | One of the city's megastructures. Once a place built to combat overcrowding is now a massive slum. |
- | The Stack | Megastructure | One of the city's megastructures. A tight knit community that has managed to make the megastructure concept work well. |
- | The Spire | Megastructure | One of the city's megastructures. Was once similar to The Stack, but now has a strange cult like behavior to its inhabitants. |
+ | The Bend | Megastructure | One of the city's megastructures. Once a place built to combat overcrowding is now a massive slum. East most of the megastructures. |
+ | The Stack | Megastructure | One of the city's megastructures. A tight knit community that has managed to make the megastructure concept work well. North most of the megastructures. |
+ | The Spire | Megastructure | One of the city's megastructures. Was once similar to The Stack, but now has a strange cult like behavior to its inhabitants. South most of the megastructures. |
  | The Lowborn Tavern | Tavern | A popular tavern amongst the low city. |
  | Aintway Markets | Market | The main market amongst the low city |
  | The Third Chalice | Tavern | A popular drinking establishment amongst the nobles of Keep Galliard. |

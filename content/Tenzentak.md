@@ -47,7 +47,7 @@ At the cities eastern edge lies [[The Grand Nothing]], and [[Gilligan's Lift]] w
  | Name | Type | Description |
  |-|-|-|
  | Riftkeep | Keep | The city's main keep |
- | Rift-Top Square | Market | The highest quality and prices you will find for all your general needs in the city. It contains a multitude of permanent shops and a handful of semi-permanent stands. Located at the intersection of Faultline and the Northroad. |
+ | Cliffside Square | Market | The highest quality and prices you will find for all your general needs in the city. It contains a multitude of permanent shops and a handful of semi-permanent stands. Located at the edge of Cliffside. |
  | The Narrowmarket | Market | The slum market within the rifts themselves. A fast-paced and seedy bazaar packed into tight quarters. |
  | Albojo's Wares | Magic Shop | The sole magic shop in the city. A high class establishment located in the Rift-Top Square. Run by the snooty Tabaxi Albojo Albojo II. |
  | The View | Tavern | A large and popular tavern for the middle class located on the cliff's edge in Smogtown. Run by a soft-spoken Dwarf man called Kalb Rike. |

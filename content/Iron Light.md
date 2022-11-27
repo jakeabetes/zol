@@ -23,7 +23,9 @@ In most civilized cities, there are common [[Apparatum]] that exist for use in b
 ## Advancements in Iron Light
 Iron light was originally limited to a small set of [[Ferric Alphabet]] runes, and slow production via iron engraving. Soon after the name was widely adopted, more symbols and compatible materials, and techniques were discovered.
 
-The mediums to support Iron light spread to carpentry, glass working, alchemy, leathercraft, weaving, painting, smiting, and various other crafts. Each with their own pros and cons. The name, which references the purple light the runes emanate when active had already stuck. Fortunately, all techniques require some iron to be present to work. Be it metal inlay, infused materials, or special tools used in creation.
+The mediums to support Iron light spread to carpentry, glass working, alchemy, leathercraft, weaving, painting, smiting, and various others. Each with their own pros and cons. However some materials like obsidian and silver are inert.
+
+The name, which references the purple light the runes emanate when active had already stuck. Fortunately, all techniques require some iron to be present to work. Be it metal inlay, infused materials, or special tools used in creation.
 
 A very popular and reliable technique was discovered for short term Iron Light solutions. A special material called [[Chalkstone]] was found to be very compatible with iron and allows for quick, and relatively accurate creation of [[Apparatum]] that last a small number of months. This is commonly used in novice work, prototyping, mass production, and education. Unfortunately devices made with chalkstone are easily destroyed by water damage.
 
