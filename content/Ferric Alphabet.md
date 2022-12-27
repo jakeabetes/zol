@@ -22,7 +22,7 @@ Runes that reference magic itself
 ## The Ferric Table
 ![[Ferric Alphabet.png]]
 
-## Signet
+## Signets
 A signet is a special pseudo-rune that does not subscribe to the [[Ferric Alphabet]]. A signet is a unique shape included in an [[Apparatum]]. It is either a piece of inlayed iron, or a symbol deeply carved into iron. It is grouped with an informational rune as well as an objective rune. This structure can be used as a unique identifier for an [[Apparatum]], or to communicate between devices if made in sets. Sets must be as identical as possible, typically made via [[Magic]].
 
 It is imperative that signets are completely unique or they risk interacting with others that are they are not intended to. Some malicious individuals will exploit this weakness, and create devices that will interact with [[Apparatum]] they were not intended to. This can be used to listen in on communications, open doors, and sabotage devices. Some [[Artificers]] counter these attacks by embedding their signets deep within the devices, or hiding false signets.

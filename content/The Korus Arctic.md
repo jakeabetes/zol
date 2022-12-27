@@ -1,9 +1,9 @@
-# The Ward
-![[The Ward.jpg]]
+# The Korus Arctic
+![[The Korus Arctic.jpg]]
 
 description
 
-## Cities
+## Settlements
 
 ## Wilderness and Climate
 

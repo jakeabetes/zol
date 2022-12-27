@@ -1,5 +1,5 @@
-# The Ward
-![[The Ward.jpg]]
+# The Grand Nothing
+![[The Grand Nothing.jpg]]
 
 description
 

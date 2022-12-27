@@ -24,11 +24,8 @@
 - [[Gods]]
 - [[Historical Timeline]]
 - [[Planes]]
-- [[Notable Individuals]]
-- [[Notable Objects]]
 - [[Races]]
-- [[Factions]]
-- The Regions of Zol
+- The Realms of Zol
 	- The Three Corners of Civilization
 	- Lorelhiem
 
@@ -37,9 +34,6 @@ The Three Corners of Civilization are comprised of:
 
 6 Kingdoms
 - [[Laenwalde]]
-	- [[Arcadia]]
-	- [[Eucaren]]
-	- [[Saen]]
 - [[Gethsemane]]
 - [[The Glassius Reach]]
 - [[Kapesh]]

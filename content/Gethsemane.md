@@ -1,7 +1,22 @@
-Gethsemane is comprised of 5 Cities
-- [[Mod Dranor]]
-- [[Kothkalane]]
-- [[Epkalane]]
-- [[Laelanor]]
-- [[Fell]]
-- [[Xerul]]
+# Gethsemane
+![[Gethsemane.jpg]]
+
+description
+
+## Cities
+
+## Wilderness and Climate
+
+## History
+
+## Inhabitants
+
+## Government, Economy, and Laws
+
+## Arts, Culture, and Religion
+
+## Academics and Magic
+
+## Political Climate
+
+## Borders

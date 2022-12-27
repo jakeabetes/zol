@@ -16,3 +16,10 @@ Another practice of [[Vizir]] is the utilization of [[Iron Light]]. [[Iron Light
 
 ## Connection to The Old Tongue
 Great practice with one's [[Vizir]] is thought to lead to discovery of [[The Old Tongue]]. This leads to theories by some scholars that [[The Old Tongue]] binds one's [[Vizir]] to [[The Trinity]] temporarily. Which largely increases magical power, and makes accessing it less exhausting.
+
+## Vizir 'Burning'
+A rare phenomenon observed most commonly amongst mages in battle. This phenomenon is described as a hyper focused state where one accesses their internal power with little to no difficulty compared to their normal experience with the practice. It was thought originally to be related to [[The Old Tongue]], but most scholars agree the two are unrelated.
+
+When one 'burns' their [[Vizir]] they go into a sort of trance, and experience the sensation of extreme heat within their chest. Iron within the vicinity is pushed back upon slightly like a repelled magnet, and silver is pulled towards the 'burner'. Individuals near a 'burner' can actually feel the repelling sensation, this is likely because of the trace amounts of iron within most people bodies. The force emitted from this individual is typically only great enough to knock over a stack of coins.
+
+While most commonly observed amongst mages, there have been record of warriors emitting the same repelling force in battle.

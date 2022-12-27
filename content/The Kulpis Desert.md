@@ -1,9 +1,9 @@
-# The Ward
-![[The Ward.jpg]]
+# The Kulpis Desert
+![[The Kulpis Desert.jpg]]
 
 description
 
-## Cities
+## Settlements
 
 ## Wilderness and Climate
 

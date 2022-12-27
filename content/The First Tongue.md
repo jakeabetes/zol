@@ -19,7 +19,7 @@ This has allowed some words to stay amongst the population for many generations,
 - [[The Word of Fire]]
 - [[The Word of Shadow]]
 - [[The Word of Iron]]
-- [[The Word of Rage]]
+- [[The Word of Wrath]]
 - [[The Word of Growth]]
 - [[The Word of Storms]]
 

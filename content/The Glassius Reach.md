@@ -1,3 +1,22 @@
-All that remains of The Glassius Reach are 2 cities
-- [[Corinth]]
-- [[Yorn et Gaul]]
+# The Glassius Reach
+![[The Glassius Reach.jpg]]
+
+description
+
+## Cities
+
+## Wilderness and Climate
+
+## History
+
+## Inhabitants
+
+## Government, Economy, and Laws
+
+## Arts, Culture, and Religion
+
+## Academics and Magic
+
+## Political Climate
+
+## Borders
