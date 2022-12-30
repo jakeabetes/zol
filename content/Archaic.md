@@ -6,7 +6,7 @@ Archaic, The Eldest city of [[Zol]]. Archaic sits nested in the northern foothil
 
 ![[archaic.png]]
 
-[[The Kybis Assembly]] is one of [[Zol]]'s prestigious academic institutions. Unlike its rival, [[Kerketh Academy]] which looks to innovation and a better future, the Assembly looks to gain the lost secrets of the past, uncovering secrets from before [[The Undoing]] and unraveling the mysteries of [[The Old Tongue]].
+[[The Kybis Assembly]] is one of [[Zol]]'s prestigious academic institutions. Unlike its rival, [[Kerketh Academy]] which looks to innovation and a better future, the Assembly looks to gain the lost secrets of the past. This is done by uncovering secrets from before [[The Undoing]] and unraveling the mysteries of [[The Old Tongue]].
 
 ![[archaic archives.png]]
 
@@ -58,13 +58,13 @@ Archaic, The Eldest city of [[Zol]]. Archaic sits nested in the northern foothil
 ## Authority
 The city is overseen by Lord Philen Boran, servant to [[King Galliard]]. Lord Boran is an old and sickly human man that is fiercely loyal to the crown.
 
-Notably within the city, [[The Kybis Assembly]] does not respond to the authority of Lord Boran, but instead only listens to the crown itself. Some within the city believe that the Grand Insightors have more authority than the city lord himself.
+Notably within the city, [[The Kybis Assembly]] does not respond to the authority of Lord Boran, but instead only listens to the [[Galliard Crown]] itself. Some within the city believe that the Grand Insightors have more authority than the city lord himself.
 
 ### Laws
-The city subscribes to the [[Kapeshian Laws]]
+The city subscribes to the [[Kapeshian Laws]], but many say the Assembly does not have these laws forced upon them.
 
 ## Modern Importance
-In modern day [[Archaic]] is seen as a powerful resource to [[Kapesh]]. This is due to the influence of [[The Kybis Assembly]] on the grand scale. The assembly is much smaller in numbers than [[Kerketh Academy]] or [[The University]], but its members are statistically much more skilled or dangerous.
+In modern day [[Archaic]] is seen as a powerful resource to [[Kapesh]]. This is due to the influence of [[The Kybis Assembly]] on the grand scale. The assembly is much smaller in numbers than [[Kerketh Academy]] or [[The University]], but its members are statistically much more skilled and dangerous.
 
 Entry into the assembly is very difficult as it is extremely expensive and requires recommendation from an upstanding member of Kapeshian society.
 

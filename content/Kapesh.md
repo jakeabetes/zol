@@ -4,12 +4,12 @@
 The Human Kingdom. Known for its resilience, arcane knowledge, and deep seated religious culture. The Kingdom is under the reign of the [[Galliard Crown]], and most of its people follow the [[Church of Three Fires]]. Kapesh has fought many a battle against both of its neighboring kingdom, and faced the dangers of [[Zol]] more fully than most other places. It has stood the test of time and has the scars to prove it.
 
 ## Cities
-- [[Archaic]]
-- [[Viscera]]
-- [[Stigmata]]
-- [[Little Triumph]]
-- [[Kierketholl]]
-- [[Riverbridge]]
+- [[Archaic]] - The Oldest City
+- [[Viscera]] - The City that Never Sleeps
+- [[Stigmata]] - The City of Three Fires
+- [[Little Triumph]] - The Small City
+- [[Kierketholl]] - The Grand Capital
+- [[Riverbridge]] - The Island City
 
 ## Wilderness and Climate
 The Wilds of [[Kapesh]] consist of strange expanses, and dangerous forests that spill over from [[The Witchlands]]. While unsafe, [[Kapesh]] contains natural beauties and wonders unlike that of any other region.

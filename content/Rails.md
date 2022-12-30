@@ -82,9 +82,9 @@ When this occurred bloodshed between mobs and the garrison changed from frequent
 The city subscribes to the [[Alderian Laws]].
 
 ## Modern Importance
-[[Rails]] is [[Zol]]'s hub of all things related to [[The Great Tracks]]. This is because the original development of the tracks began within this city. It became a hub of skill, and commerce for the trade. Other city's attempted to begin their own versions of this trade, but merchants and craftsmen all flocked to [[Rails]] as it was much more profitable.
+[[Rails]] is [[Zol]]'s eastern hub of all things related to [[The Great Tracks]]. This is because the original development of the tracks began within this city. It became a hub of skill, and commerce for the trade. Other city's attempted to begin their own versions of this trade, but nearly all merchants and craftsmen all flocked to [[Rails]] as it was much more profitable. The only other comparable city is the western city of [[Ryze]] in [[Laenwalde]].
 
-This pattern over time has developed a methodology for [[Trains]]. All planned routes of trains over time are planned to pass through [[Rails]]. When they arrive maintenance and improvements are done before they are sent on another planned route. Because of this, if a train car has an issue far from the city, it is usually abandoned.
+This pattern over time has developed a methodology for [[Trains]]. All planned routes of trains over time are planned to pass through [[Rails]] and [[Ryze]]. When they arrive maintenance and improvements are done before they are sent on another planned route. Because of this, if a train car has an issue far from one of the cities, it is usually abandoned.
 
 Since most land based shipping occurs via train, [[Rails]] is also a hub for criminal smuggling.
 

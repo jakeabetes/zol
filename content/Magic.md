@@ -41,7 +41,7 @@ It is common for novice mages to become bedridden for a few hours after their fi
 
 Equipoise can be trained like a muscle over time, and seems to have no upward limit. This skill is thought to be parallel, or even interchangeable, with the strength of ones [[Vizir]]. 
 
-When one stops using magic, the body does what it can to return to a normal Equipoisal state; however it cannot recover lost energy. This means a body can only take so much stress before it needs hours of rest to regain lost Equipoise. 
+When one stops using magic, the body does what it can to return to a normal Equipoisal state; however it cannot recover lost energy. This means a body can only take so much stress before it needs hours of rest paired with nutrition to regain lost Equipoise. 
 
 Stress can be mitigated by expanding one's Equipoisal capacity. If an individual has great skill, or some innate gift they can use magic in more efficient ways to lessen the equipoisal imbalance. The amount of magic a [[Caster]] can use before causing permanent damage to themselves is referred to as their equipoisal limit. 
 
@@ -50,7 +50,7 @@ If one does reach their equipoisal limit, they are not cut off from magic. They 
 ## Perspectives of Magic
 Much of what is written and taught about [[magic]] comes from Academic Arcanists. In modern times, the public understanding of [[magic]] is somewhat biased towards the academic perspective. [[Clerics]], [[druids]], occultists, [[witches]], and many more have perspectives of magic that differ greatly, and even sometimes contradict the academic perspective. 
 
-Most cases of [[magic]] usage outside of academia are not recorded, tested, and debated like they are in Academic [[Arcana]]. This is because each usage is much more unique and personal. There is also much less need for it as these groups tend to begin their journey with gifts, or help from an outside source.
+Most cases of [[magic]] usage outside of academia are not recorded, tested, and debated like they are in Academic [[Arcana]]. This is because each usage is much more unique and personal. There is also much less need for it as these groups tend to begin their journey with gifts, or help from an outside source. The most obvious exception to this is [[The University]]'s [[Viridium]] and [[Observum]]; the two most organized institutions of their respective wills.
 
 ## Categories of Magic
 The usage of magic gives off a unique informational [[energy]] signature no matter the source, will used, or the [[Caster]] themselves. These signatures are called the [[Schools of Magic]] and they tell much about the nature of the magic being used.

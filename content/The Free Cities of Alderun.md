@@ -4,13 +4,13 @@
 Once known as South Kapesh, Alderun has a history of oppression and rebellion. Despite its difficult past, Alderun now flourishes with life and culture. A land where anyone can choose to be who they want, but with great freedom comes discourse.
 
 ## Cities
-- [[Tenzentak]]
-- [[Rails]]
-- [[Holocene]]
-- [[Deepspell]]
-- [[Zessgorn]]
-- [[Hanen]]
-- [[Ka'thoor]]
+- [[Tenzentak]] - The Rift City, built on the very edge of the world
+- [[Rails]] - The City of Trains
+- [[Holocene]] - The City of Art and Beauty
+- [[Deepspell]] - The City of Magic and Innovation
+- [[Zessgorn]] - The City of Cups
+- [[Hanen]] - The Quaint City of Heroes
+- [[Ka'thoor]] - The Border City of Orcs
 
 ## Wilderness and Climate
 Diverse like no other region of its size, The Alderian wilds contains a menagerie of animals, plants, and monsters that differ wildly as one travels from [[Zessgorn]] to [[Holocene]].

@@ -6,7 +6,7 @@ Deepspell, the Arcane City. Located in [[The Free Cities of Alderun]]. Deepspell
 
 ![[deepspell.png]]
 
-[[Kerketh Academy]] is known for its ingenuity in the field of Artificing. Its [[Artificers]] are some of the best in the world. The city's close proximity to the campus has filled its homes and businesses with [[Apparatum]]. Varying from simple appliances that, to complex devices that revolutionize ones way of life. 
+[[Kerketh Academy]] is known for its ingenuity in the field of Artificing. Its [[Artificers]] are some of the best in the world. The city's close proximity to the campus has filled its homes and businesses with [[Apparatum]]. Varying from simple appliances that, to complex devices that revolutionize ones way of life. The only city comparable to its ingenuity is the far western city of [[Ryze]]. 
 
 ## Overview
 | Aspect | Description |
@@ -45,8 +45,8 @@ Deepspell, the Arcane City. Located in [[The Free Cities of Alderun]]. Deepspell
  | Name | Type | Description |
  |-|-|-|
  | Castle Illio | Keep | The city's main keep |
- | Deepspell Convergence | Teleportation Circle | The city's main teleportation circle |
- | Kerketh Convergence | Teleportation Circle | The academy's teleportation circle |
+ | Kerketh Convergence | Teleportation Circle | The city's main teleportation circle |
+ | Deepspell Convergence | Teleportation Circle | The academy's teleportation circle |
  | Deepspell Station | Train Station | They city's main train station |
  | Kerketh Station | Train Station | They academy's own train station. Built for ease of use as the academy was the largest player in [[The Great Tracks]] construction. |
  | [[Kerketh Academy]] | College | One of [[Zol]]'s three major academic institutions. Kerketh academy is known for its acceptance of anyone who can prove themselves, and ingenuity in the field of [[Iron Light]]. The institution is known for looking foreword into [[Zol]]'s hopeful horizon. |
@@ -73,7 +73,7 @@ The city subscribes to the [[Alderian Laws]] as well as enforcing its own laws. 
 | Restricted Production of Apparatum | Medium/High | Those who produce [[Apparatum]] of categories deemed dangerous by the academy without documented permission are punished. |
 
 ## Modern Importance
-In the current day and age, [[Deepspell]] is known to create the best [[Apparatum]] in all of [[Zol]].
+In the current day and age, [[Deepspell]] is known to create the best [[Apparatum]] in all of eastern [[Zol]].
 
 ## Historical Importance
 The city is extremely hard to take by siege due to its location and mages. During the [[Alderian Rebellion]] the city was only able to be taken by rebels because of students within the school that sympathized with their cause.
@@ -81,5 +81,5 @@ The city is extremely hard to take by siege due to its location and mages. Durin
 ## Other Things of Note
 - Many conspiracy theories exist about the academy. Some of which have truth to them:
 	- The towers of the university reach up far beyond what you see from the outside. Containing 'pocket dimensions' that only the high ranking members of the school can reach
-	- The academy is secretly connected to [[The Kybis Assembly]]'s campus in [[Archaic]] via underground tunnels
+	- The academy is secretly connected to [[The Kybis Assembly]]'s campus in [[Archaic]] via underground tunnels that travel through [[The Fetterpeak Mountains]].
 - The academy has a long standing rivalry with [[The Kybis Assembly]].
