@@ -1,5 +1,5 @@
-# The Grand Nothing
-![[The Grand Nothing.jpg]]
+# The Witchlands
+![[The Witchlands.jpg]]
 
 description
 

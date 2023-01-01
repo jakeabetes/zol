@@ -19,7 +19,7 @@ Below is a list of major historical events in chronological order
 	- The Peak of the [[Triumvirate Battles]]  - *ann. 3673*
 	- The publishing of [[Zolaeum Notica]] - *ann. 3773*
 	- The [[Alderian Rebellion]] - *ann. 3811*
-	- The destruction of [[Yorn et Gaul]] - *ann. 3811*
+	- The [[Western War]] and The Destruction of [[Yorn et Gaul]] - *ann. 3811*
 	- The Attack of [[The Castle of Bodies]] on [[Audran]] - *ann. 3812*
 	- The Construction of [[Gilligan's Lift]] - *ann. 3920*
 - Second Age - *ann. 3999 to 4303*

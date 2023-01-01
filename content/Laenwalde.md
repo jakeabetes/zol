@@ -6,17 +6,17 @@ The Unified Kingdoms of the West. The largest political power in all of [[Zol]].
 ## Cities
 Laenwalde is comprised of the three unified Kingdoms 
 - **Arcadia**
-	- [[Audran]]
-	- [[Penthe]]
-	- [[Ryze]]
+	- [[Audran]] - The Ruin City
+	- [[Penthe]] - The City of Glory
+	- [[Ryze]] - The Tower City
 - **Eucaren**
-	- [[Kahdinacht]]
-	- [[Woogis]]
-	- [[Reach Run]]
+	- [[Kahdinacht]] - Wine and Luxury
+	- [[Woogis]] - Slow Country Life
+	- [[Reach Run]] - The Central Hub of [[Airships]]
 - **Saen**
-	- [[Kosskazoka]]
-	- [[Diddan]]
-	- [[Rockfire]]
+	- [[Kosskazoka]] - The Neon City
+	- [[Diddan]] - The Wild West
+	- [[Rockfire]] - The Volcanic City
 
 As well as a shared capital, The Floating City of [[Heliodor]] and its terrestrial sister settlement, [[Nerousea Station]].
 

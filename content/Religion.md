@@ -20,19 +20,25 @@ There is a vast number of perspectives from which [[Zol]] and its [[Gods]] are u
 	- Additionally, [[Wordbearers]] who serve the greater good are thought to be in alignment with the [[The Trinity]].
 	- Shares harmony with Zolaen-Centric Beliefs
 
-- ### Wanderer-Centric Belief
-	- *Roughly 10% of [[Zol]]'s population follow this belief system*
-	- This belief system is based on the idea that the [[The Wandering Gods]] are more of guardians rather than [[Gods]]. They are thought to have come to [[Zol]] to protect civilization from the unchecked power of the [[Zolaen Gods]]. As per this belief system, [[The Undoing]] is seen as the fault of the [[Zolaen Gods]]. Those who subscribe to this theory also believe that the [[Wayward Gods]] and [[Wordbearers]] are not all inertly bad.
-	- Followers of this belief see [[The Wandering Gods]] more as mentors rather than omnipotent rulers, guiding them in their struggles.
-	- With only a fifth of the following compared to Trinity Centric or Zolaen Centric
-
 - ### Polytheism
 	- *Roughly 10% of [[Zol]]'s population follow this belief system*
 	- This belief system recognizes each god as an individual being, and does not judge them based on their pantheon. Followers of this belief typically focus on a single god, or small group of gods based on the individuals selection. This system typically operates under the assumption that [[The Undoing]] was caused by the [[Gods]], but it is not know which gods. So judgement is not cast.
 
-- ### Atheism
+- ### Wanderer-Centric Belief
 	- *Roughly 8% of [[Zol]]'s population follow this belief system*
+	- This belief system is based on the idea that the [[The Wandering Gods]] are more of guardians rather than [[Gods]]. They are thought to have come to [[Zol]] to protect civilization from the unchecked power of the [[Zolaen Gods]]. As per this belief system, [[The Undoing]] is seen as the fault of the [[Zolaen Gods]]. Those who subscribe to this theory also believe that the [[Wayward Gods]] and [[Wordbearers]] are not all inertly bad.
+	- Followers of this belief see [[The Wandering Gods]] more as mentors rather than omnipotent rulers, guiding them in their struggles.
+	- With only a fifth of the following compared to Trinity Centric or Zolaen Centric
+
+- ### Atheism
+	- *Roughly 5% of [[Zol]]'s population follow this belief system*
 	- This belief system operates based on the assumption that mortals need not revere [[Gods]], as they are merely beings. Their power does not make them holy, only more present in [[Zol]]. The specific ideas differ from person to person, but largely revolves around skepticism towards information about the gods divined through worship.
+
+- ### Worship Obscura
+	- *Roughly 5% of [[Zol]]'s population follow this belief system*
+	- This belief system operates consolidates all beliefs that do not subscribe to any other system. This may be the worship of some obscure force that is not understood by [[Zol]] or something of the like. Examples of this are:
+		- The [[Church of The Hum]]
+		- [[The Oldshards]]
 
 - ### Void Worship
 	- *Roughly 2% of [[Zol]]'s population follow this belief system*
