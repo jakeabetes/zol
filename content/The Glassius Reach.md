@@ -76,6 +76,9 @@ The City of [[Yorn et Gaul]] faces a grim present. [[The Apex]], an object centr
 
 Recently, some [[Changelings]] within the city of [[Yorn et Gaul]] are born without the ability to alter their form. Many think this is due to the loss of [[The Apex]].
 
+## Military
+The kingdom has a comparatively small military, but there is no other army who would so willingly die for its kingdom. [[The Glassius Reach]] stood its ground for extended battles many times during the [[Western War]] despite having loosing numbers. This is due to the highly defensible position, and extremely hostile environment that does not favor outsiders. It also helps that [[Changelings]] can appear as their foes for ambush attacks. The kingdom has a relatively small navy as well, but they are not very vulnerable to sea based attacks due to the rough seas near Zhal.
+
 ## Borders
 The Reach borders the kingdom of:
 - [[Gethsemane]] via the [[Wrath Wastes]]

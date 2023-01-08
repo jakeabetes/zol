@@ -8,8 +8,8 @@ Below is a list of major historical events in chronological order
 	- [[The Awakening]] - *ann. 0 to 103*
 	- [[The Rebuilding]] - *ann. 103 to 1303*
 	- [[The Dragon War]] - *ann. 1303 to 2543*
-	- The Arrival of [[The Wandering Gods]] - *ann. 2432*
-	- The Rise of [[The Triumvirate]] - *ann. 2608*
+	- The Arrival of [[The Wandering Gods]] - *ann. 1632*
+	- The Rise of [[The Triumvirate]] - *ann. 2108*
 	- [[The Taming of the Badlands]] - *ann. 2786*
 	- The publishing of [[The Old World of Zol - Excerpts from The Grand Nothing]] - *ann. 2791*
 	- [[The Elven-Dwarven Concord]] - *ann. 2792*
@@ -22,11 +22,11 @@ Below is a list of major historical events in chronological order
 	- The [[Western War]] and The Destruction of [[Yorn et Gaul]] - *ann. 3811*
 	- The Attack of [[The Castle of Bodies]] on [[Audran]] - *ann. 3812*
 	- The Construction of [[Gilligan's Lift]] - *ann. 3920*
-- Second Age - *ann. 3999 to 4303*
+- Second Age - *ann. 3999 to 4313 (Present Day)*
 	- The Discovery of [[Iron Light]] - *ann. 3999*
 	- The Invention of [[Airships]] - *ann. 4011*
 	- The Discovery of [[Mechanicum Immaculatum]] and the Creation of [[Warforged]] - *ann. 4012*
 	- [[The Triumvirate]] Concord, putting an end to the [[Triumvirate Battles]] - *ann. 4092*
 	- The Construction and Completion of [[The Great Tracks]] - *ann. 4211
-	- The Construction and Inaugural Flight of [[Heliodor]] - *ann. 4262*
-- **Modern Day - Second Age - 4343**
+	- The Construction and Inaugural Flight of [[Heliodor]] - *ann. 4299*
+- **Modern Day - Second Age - 4313**

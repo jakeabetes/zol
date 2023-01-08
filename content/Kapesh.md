@@ -56,6 +56,9 @@ The political climate of Kapesh is not considered a pleasant one, but it is very
 
 Within the kingdom itself, the lowborn are constantly doing everything they can to scrape by. The vast majority blame the crown but many are convinced it is the fault of outsiders. Regardless of the actual cause, most are completely without agency and forced to do whatever they can to get by while those favored by the crown live in luxury.
 
+## Military
+The Kingdom has a very sizable military for its population. This is achieved through military propaganda and required service during times of war. [[Kapesh]] is not a kind kingdom, but is very effective. It has an average military in port at [[Riverbridge]]. Its troops are also supplemented by mages from [[The Kybis Assembly]].
+
 ## Borders
 [[Kapesh]] borders the kingdoms of:
 - [[The Free Cities of Alderun]]

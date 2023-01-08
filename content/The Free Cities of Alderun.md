@@ -51,6 +51,9 @@ The Free Cities are on good terms with almost all kingdoms of The Three Corners 
 
 Within the Kingdom, the various cities have complicated relationships. The court of The Free Cities constantly changes friendships and rivalries, however there are a few constants amongst the chaos. [[Zessgorn]] is a notably difficult city to organize as its crime has gotten far out of hand, and [[Holocene]] does not play nicely with the overall mission of The Free Cities as their nobility is known for exploiting the less fortunate.
 
+## Military
+The Kingdoms military is comprised of the cities' garrisons. It may not be the most grand of militaries, but it is well supplemented by [[The Bladehammer Guild]] and [[Kerketh Academy]]. It also has a sizeable navy within [[Zessgorn]]. The Kingdom would not be a great threat if it were to attack, but it is well placed for defense due to its mountains.
+
 ## Borders
 The Free Cities border the kingdoms of: 
 - [[Kapesh]]

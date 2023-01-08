@@ -76,6 +76,9 @@ In an effort to combat this, the council instilled a new king. A long lost direc
 
 This change has altered opinions. Some for better and some for worse. Many think it is good to have a sole king and not the chaotic rule of the council. Others feel that the king is distant, detached, and inexperienced upon his throne in the flying city.
 
+## Military
+Tacticians frequently argue who has the more fearsome military: [[Gethsemane]] or [[Laenwalde]]. [[Laenwalde]] has the largest army by far. The kingdoms is so grand and diverse it makes up for any lack of quality with quantity. The only hope an outside foe (other than possibly [[Gethsemane]]) would have of defeating them would be to re-open the political divides that exist between the three regions.
+
 ## Borders
 The Kingdom contains the mountain ranges of:
 - [[The East Mounts]]

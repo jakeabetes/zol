@@ -23,7 +23,7 @@ Some believe that he may rival [[The Watcher]] and [[The Lifeweaver]] in his pow
 Residing in a plane called [[The Storm Horizon]] a strange realm that not much is known about.
 
 ## Worshipers
-Worship of Adrathar is reputably done in [[The Ward]] by individuals who swear an oath of purpose. To do what the father of storms designed them to do. This means working a single job for all of ones life, mastering the craft. This oath is very personal and sacred to the people of [[The Ward]].
+Worship of Adrathar is reputably done in [[The Ward]] by individuals who swear an oath of some sort. To do what the father of storms designed them to do. This means striving in every aspect of their life to achieve whatever it is the storms have moved them to accomplish on [[The Mortal Coil]]. This oath is very personal and sacred to the people of [[The Ward]].
 
 There is also a long list of songs, ceremonies, and beliefs his followers uphold that all revolve around honor and strength both of will and body.
 
