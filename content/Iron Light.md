@@ -1,8 +1,8 @@
 # Iron Light
 Iron Light is a unique and efficient methodology used to simplify the usage of [[Arcana]] in the application of [[Enchantment]]. Named after the tell tale violet glow the application gives off, [[Iron Light]] was discovered by the great Arcanist and Academic, [[Mordenkainen]]. Its conception was what began the [[Second Age]].
 
-![[Iron light creation.png]]
-*An artificer in protective garb carving complex Ferric Alphabet runes into an iron slab*
+![[Iron Light Artificing.png]]
+*An artificer carving complex Ferric Alphabet runes into an iron slab, its design hidden amongst artistic additions to obfuscate its method of function.*
 
 [[Iron Light]] revolutionized [[Zol]] by putting power in the hands of many who would be otherwise be at the whim of the world. Unfortunately, the technique has also introduced new dangers like new weapons of war, and the [[magic]] ailment known as [[Materiation]].
 
@@ -46,7 +46,7 @@ The [[Ferric Alphabet]] is a wide set of runes that represent the aspect of [[Zo
 The alphabet is thought to be incomplete, and many academics spend their lives searching for more runes. Missing runes are symbolized by the combination of known runes, this is referred to as [[Imperfect Representation]]. For example, glass is represented with light and stone, along with a complex nexus of supporting runes to ensure the combination is successful.
 
 ## Negatives to Iron Light
-[[Iron Light]] is revolutionary due to how accessible it makes [[magic]], but it is not nearly as powerful as [[Enchantment]] made from [[Grand Forces]].
+[[Iron Light]] is revolutionary due to how accessible it makes [[magic]], but it is not nearly as powerful as [[Enchantment]] made from [[Imbuement Perpetuum]].
 
 [[Iron Light]] also demands the usage of one's [[Vizir]], and in turn can be very exhausting if overused. Long term usage of complex [[Apparatum]] causes a rare magical disease called [[Materiation]]. This is only seen when the Apparatum in question requires an abundance of [[Imperfect Representation]]. 
 
@@ -54,5 +54,5 @@ The alphabet is thought to be incomplete, and many academics spend their lives s
 
 This could manifest as holes in the body that slowly pour out smoke, appendages that become plantlike, or famously like the conductors of [[The Great Tracks]] who turn to iron. Though gruesome, the condition is painless and described by the victims as euphoric.
 
-## Iron Light in relation to Grand Forces
-[[Iron Light]] [[Enchantment]] is limited due to the fact it depends on the Vizir of an individual. Its more powerful counterpart, [[Grand Forces]], are not limited in this way. Objects of this nature are much more rare and powerful.
+## Iron Light in relation to Imbuement Perpetuum
+[[Iron Light]] [[Enchantment]] is limited due to the fact it depends on the Vizir of an individual. Its more powerful counterpart, [[Imbuement Perpetuum]], is not limited in this way. Objects of this nature are much more rare and powerful.

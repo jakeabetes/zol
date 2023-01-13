@@ -8,3 +8,6 @@ This magic is used with the intention of keeping ones mind continuous while the 
 More plausibly things will end up worse. A paradox could be created and cause the timeline to lash. A lashing timeline could manifest as something simple like dozens of surges of wild magic, summoning horrible beasts from the cosmos, or create tears in the planes. They could also manifest as something worse like mile long tendrils of raw energy tearing through the environment, or being removed from existence entirely.
 
 Because of these high stakes, divine beings are known to intervene and punish those responsible. Academia holds very little knowledge about [[Chronomancy]] for all of these reasons. Only the mad pursue this practice.
+
+## The Chronomantic Wall
+[[Chronomancy]] is a relatively unexplored field due to the dangers involved. However it has been discovered that a seemingly impassible barrier exists at the moment of [[The Awakening]]. Anything that hits this wall is destroyed.

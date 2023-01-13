@@ -1,6 +1,7 @@
-![[Titlecard.png]]
+![[Titlecard.png]] 
+**Welcome to the world of [[Zol]]**
 
-*Welcome to the world of [[Zol]]*
+*For east map navigation, please see the [Kankamap](https://kanka.io/en-US/campaign/177268/maps/52803/explore) (Currently a work in progress)*
 
 ## Steps for Zol's Creation
 - ~~Initial Skeleton of Site~~
@@ -10,6 +11,7 @@
 - ~~Planes~~
 - ~~Historical Timeline~~
 - Regions 
+- Kankamap
 - Lore to fill gaps (characters, objects, events, and other specific concepts of note)
 - Final Cleanup
 
@@ -30,8 +32,9 @@
 	- Lorelhiem
 
 ## The Three Corners of Civilization
-The Three Corners of Civilization are comprised of:
+![[Zol World Map v1.png]]
 
+The Three Corners of Civilization are comprised of:
 6 Kingdoms
 - [[Laenwalde]]
 - [[Gethsemane]]
@@ -53,8 +56,6 @@ and 4 Seas
 - [[The Archsea]]
 - [[The North Sea]]
 - [[The Narrow Sea]]
-
-![[Zol World Map v1.png]]
 
 
 ## Lorelhiem

@@ -3,7 +3,7 @@
 
 description
 
-## Settlements
+## Points of Interest
 
 ## Wilderness and Climate
 

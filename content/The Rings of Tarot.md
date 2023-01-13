@@ -4,7 +4,7 @@ The Rings of Tarot are a set of magically forged rings created by the [[The Taro
 The societal benefit was functional at a time, but in modern history they have fallen from their previous grace. Bastardized by the greedy. What was once a pedestal for the city to stand upon has become a crutch for [[Zessgorn]].
 
 ## Powers of The Rings
-There are three types of rings. Herald Rings, Strength Rings, Lesser Rings. Herald Rings bestow power of leadership, and information. Strength Rings bestow power of physical ability and/or magical capacity. The Rings of Tarot were created via [[Grand Forces]]. Unfortunately, most of which have been lost
+There are three types of rings. Herald Rings, Strength Rings, Lesser Rings. Herald Rings bestow power of leadership, and information. Strength Rings bestow power of physical ability and/or magical capacity. The Rings of Tarot were created via [[Imbuement Perpetuum]]. Unfortunately, most of which have been lost
 
 The rings, and their intended hierarchy of leadership are as follows
 - Herald Rings - Grants wisdom, physical strength, and the ability to receive visions of fate

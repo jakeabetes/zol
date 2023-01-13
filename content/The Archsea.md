@@ -3,7 +3,7 @@
 
 description
 
-## Cities
+## Points of Interest
 
 ## Wilderness and Climate
 
@@ -11,12 +11,6 @@ description
 
 ## Inhabitants
 
-## Government, Economy, and Laws
-
-## Arts, Culture, and Religion
-
-## Academics and Magic
-
-## Political Climate
+## Expeditions
 
 ## Borders
