@@ -1,4 +1,6 @@
-# Tenzentak
+---
+title: "Tenzentak"
+---# Tenzentak
 *The Rift City*
 ![[Tenentak.png]]
 

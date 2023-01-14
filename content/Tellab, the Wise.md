@@ -1,4 +1,6 @@
-# Tellab, The Wise
+---
+title: "Tellab, the Wise"
+---# Tellab, The Wise
 *Zolaen God of Wisdom, Major Deity*
 ![[Telab The Wise.png]]
 

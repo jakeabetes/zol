@@ -1,4 +1,6 @@
-# The Illithid Invasion
+---
+title: "The Illithid Invasion"
+---# The Illithid Invasion
 *The first ever recorded incursion of [[Zol]] from a force beyond [[The Great Wall of Roots]].*
 
 In the middle of the [[First Age]], [[Illithids]] invaded [[Zol]] suddenly and with a great initial force.

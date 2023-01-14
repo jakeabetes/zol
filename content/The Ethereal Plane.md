@@ -1,4 +1,6 @@
-# The Ethereal Plane
+---
+title: "The Ethereal Plane"
+---# The Ethereal Plane
 *The cognitive plane that overlays all [[Planes]] of [[Zol]]*
 
 The Ethereal, the Realm of Cognition, the Plane of the Soul. [[The Ethereal Plane]] is a frequency of existence that acts almost like a true plane of its own. It is present wherever sapient life is.

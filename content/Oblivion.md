@@ -1,4 +1,6 @@
-# Oblivion
+---
+title: "Oblivion"
+---# Oblivion
 *What remains of the Great Old One, [[Goh'zul]]. The last remaining fragment of the being in which [[Zol]] resides, manifesting as one of its [[Planes]]*
 
 The Duty of [[The Watcher in The Door]], the prison of The Great Old One, what Zolaen scripture describes as the greatest threat ever conquered.

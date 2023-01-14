@@ -1,4 +1,6 @@
-# The Alderian Rebellion
+---
+title: "Alderian Rebellion"
+---# The Alderian Rebellion
 *The breaking of chains, and the founding of [[The Free Cities of Alderun]]*
 
 After the peak of the [[Triumvirate Battles]], [[Kapesh]] was left weak from the war with [[The Maul Bearer]] and his army. Most of the kingdoms resources were allocated to the coast of [[The Narrow Sea]] defending its borders against [[Gethsemane]].

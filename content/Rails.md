@@ -1,4 +1,6 @@
-# Rails
+---
+title: "Rails"
+---# Rails
 *The City of Trains*
 ![[rails 1.png]]
 

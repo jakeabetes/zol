@@ -1,4 +1,6 @@
-# The Night Empress
+---
+title: "The Night Empress"
+---# The Night Empress
 *Zolaen God of Night and The Moons, Major Deity*
 ![[The Night Empress.png]]
 

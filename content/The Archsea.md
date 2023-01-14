@@ -1,4 +1,6 @@
-# The Archsea
+---
+title: "The Archsea"
+---# The Archsea
 ![[The Archsea.jpg]]
 
 description

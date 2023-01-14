@@ -1,4 +1,6 @@
-# The Wasp Eater
+---
+title: "The Wasp Eater"
+---# The Wasp Eater
 *Void God of Plague, Minor Deity*
 ![[The Wasp Eater.png]]
 

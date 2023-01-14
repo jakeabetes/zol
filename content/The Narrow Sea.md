@@ -1,4 +1,6 @@
-# The Narrow Sea
+---
+title: "The Narrow Sea"
+---# The Narrow Sea
 ![[The Narrow Sea.png]]
 
 description

@@ -1,1 +1,3 @@
-See [[Laenwalde]]
+---
+title: "Arcadia"
+---See [[Laenwalde]]

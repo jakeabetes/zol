@@ -1,4 +1,6 @@
-# The Wills
+---
+title: "The Wills"
+---# The Wills
 [[The Wills]] are the three known possible manifestations of [[Magic]] sourced from [[The Trinity]].
 - [[Observance]], [[Magic]] connected to gods or some other source of power itself other than nature
 - [[Viridescence]], [[Magic]] connected to the power of [[Zol]]'s natural world

@@ -1,4 +1,6 @@
-# The Coilwalker
+---
+title: "The Coilwalker"
+---# The Coilwalker
 *Wayward God of Life and Death, Major Deity*
 ![[The coil walker.png]]
 

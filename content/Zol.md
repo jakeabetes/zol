@@ -1,4 +1,6 @@
-![[Titlecard.png]] 
+---
+title: "Zol"
+---![[Titlecard.png]] 
 
 **Welcome to the world of [[Zol]]**
 

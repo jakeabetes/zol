@@ -1,4 +1,6 @@
-# The Vast Sea
+---
+title: "The Vast Sea"
+---# The Vast Sea
 ![[The Vast Sea.png]]
 description
 

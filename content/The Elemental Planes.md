@@ -1,4 +1,6 @@
-# The Elemental Planes
+---
+title: "The Elemental Planes"
+---# The Elemental Planes
 *A unique group of Zol's [[Planes]] of existence*
 
 Academics are unsure of exactly what forces form the [[Prime Material Plane]], but many theorize it was constructed by overlapping 4 basic elemental [[Planes]] that, when combined, make the complex [[Prime Material Plane]]. All of the Elemental Planes are under the [[The Mortal Coil]]'s effect.

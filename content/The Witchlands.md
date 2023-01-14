@@ -1,4 +1,6 @@
-# The Witchlands
+---
+title: "The Witchlands"
+---# The Witchlands
 ![[The Witchlands.jpg]]
 
 description

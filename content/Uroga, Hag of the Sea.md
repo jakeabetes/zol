@@ -1,4 +1,6 @@
-# Uroga, Hag of The Sea
+---
+title: "Uroga, Hag of the Sea"
+---# Uroga, Hag of The Sea
 *Void God of Fathoms, Major Deity*
 ![[uroga.png]]
 

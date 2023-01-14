@@ -1,1 +1,3 @@
-See [[Kerndall, the Feral King]].
+---
+title: "Kerndall"
+---See [[Kerndall, the Feral King]].

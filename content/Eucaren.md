@@ -1,1 +1,3 @@
-See [[Laenwalde]]
+---
+title: "Eucaren"
+---See [[Laenwalde]]

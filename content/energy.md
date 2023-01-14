@@ -1,1 +1,3 @@
-See [[Space, Matter, and Energy]].
+---
+title: "energy"
+---See [[Space, Matter, and Energy]].

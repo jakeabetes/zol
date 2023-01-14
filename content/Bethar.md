@@ -1,4 +1,6 @@
-# Bethar
+---
+title: "Bethar"
+---# Bethar
 *Wayward God of Craft, Minor Deity*
 ![[Bethar.png]]
 

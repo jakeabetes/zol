@@ -1,4 +1,6 @@
-# Eptro
+---
+title: "Eptro"
+---# Eptro
 *Wayward God of Ice, Minor Deity*
 ![[Eptro.png]]
 

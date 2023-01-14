@@ -1,4 +1,6 @@
-# Ayamot
+---
+title: "Ayamot"
+---# Ayamot
 *Zolaen God of Justice, Major Deity*
 ![[Ayamot.png]]
 

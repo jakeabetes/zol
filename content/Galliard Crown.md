@@ -1,1 +1,3 @@
-See [[King Galliard]].
+---
+title: "Galliard Crown"
+---See [[King Galliard]].

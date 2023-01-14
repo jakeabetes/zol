@@ -1,4 +1,6 @@
-# The Hooded Presence
+---
+title: "The Hooded Presence"
+---# The Hooded Presence
 *Wayward God of Shadows, Minor Deity*
 ![[The hooded presence.png]]
 

@@ -1,4 +1,6 @@
-# Arcana
+---
+title: "Arcana"
+---# Arcana
 [[Arcana]] is the third of the wills. It is [[Magic]] derived from the unbound power left within [[The Trinity]]. It is the most abstract of the wills and is the most difficult to harness. It is harnessed by conceptualizing [[Sympathetic bonds]] between [[Space, Matter, and Energy]]. If one is trained enough the can make these conceptualizations real.
 
 The usage of [[Arcana]] is recognized in 2 ways:

@@ -1,4 +1,6 @@
-# Zolaen Gods
+---
+title: "Zolaen Gods"
+---# Zolaen Gods
 The pantheon of [[Gods]] that created [[Zol]] from the [[Sea of Monsters]].
 
 The [[Zolaen Gods]] are a pantheon of gods who closely follow the [[The Watcher in The Door]]. These [[Gods]] seek to create a perfect world envisioned by their supreme leader.

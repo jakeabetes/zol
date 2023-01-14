@@ -1,4 +1,6 @@
-# The Alktree Haven
+---
+title: "The Alktree Haven"
+---# The Alktree Haven
 One of [[Zol]]'s  [[Religious Organizations]]. [[The Alktree Haven]], is located on the southeast border of [[The Witchlands]] near [[Viscera]]. It is meant as a place for anyone of any belief to congregate. Within the safe-haven individuals can enjoy open-minded discussion, art, philosophical debate, sermons, and lectures.
 
 ## Values (Neutral Good)

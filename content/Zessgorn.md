@@ -1,4 +1,6 @@
-# Zessgorn
+---
+title: "Zessgorn"
+---# Zessgorn
 *Costal beauty*
 ![[zessgorn 3.png]]
 

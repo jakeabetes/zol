@@ -1,4 +1,6 @@
-# Kierketholl
+---
+title: "Kierketholl"
+---# Kierketholl
 *The Capital City of Humans, Shrouded in Mist*
 
 The capital of [[Kapesh]] and home to [[King Galliard]]. Dotted with massive, high towers and protected by [[The Crown Golems]]. [[Kierketholl]] has stood against the trials of war and time like no other city.

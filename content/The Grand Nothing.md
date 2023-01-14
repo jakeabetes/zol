@@ -1,4 +1,6 @@
-# The Grand Nothing
+---
+title: "The Grand Nothing"
+---# The Grand Nothing
 ![[The Grand Nothing.jpg]]
 
 description

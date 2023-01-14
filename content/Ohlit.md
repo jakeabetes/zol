@@ -1,4 +1,6 @@
-# Ohlit
+---
+title: "Ohlit"
+---# Ohlit
 *Zolaen God of The Sea, Major Deity*
 ![[Ohlit the great jelly.png]]
 

@@ -1,4 +1,6 @@
-# The Korus Arctic
+---
+title: "The Korus Arctic"
+---# The Korus Arctic
 ![[The Korus Arctic.jpg]]
 
 description

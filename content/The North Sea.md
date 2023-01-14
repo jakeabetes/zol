@@ -1,4 +1,6 @@
-# The North Sea
+---
+title: "The North Sea"
+---# The North Sea
 ![[The North Sea 1.png]]
 description
 

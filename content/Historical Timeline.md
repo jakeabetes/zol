@@ -1,4 +1,6 @@
-# Historical Timeline
+---
+title: "Historical Timeline"
+---# Historical Timeline
 Below is a list of major historical events in chronological order
 
 - The [[Origin]] of [[Zol]]

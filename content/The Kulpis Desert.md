@@ -1,4 +1,6 @@
-# The Kulpis Desert
+---
+title: "The Kulpis Desert"
+---# The Kulpis Desert
 ![[The Kulpis Desert.jpg]]
 
 description

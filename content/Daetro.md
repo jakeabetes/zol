@@ -1,4 +1,6 @@
-# Daetro
+---
+title: "Daetro"
+---# Daetro
 *Wayward God of Fire, Minor Deity*
 ![[Daetro.png]]
 

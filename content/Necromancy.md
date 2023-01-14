@@ -1,4 +1,6 @@
-# Necromancy
+---
+title: "Necromancy"
+---# Necromancy
 [[Necromancy]] [[Magic]] is one of the [[Schools of Magic]]. It is magic that involves meddling with a living or dead creatures life-force. It is considered to be the most controversial school as it possesses the power of healing wounds and disease, but can also extend ones life far beyond that of a normal mortal, or even bring the dead back to life.
 
 This spawns massive ethical, and theological debate. The general population is made very uncomfortable by any usage of this magic that is not used for healing. All non healing magic is considered a crime in [[Laenwalde]], [[The Glassius Reach]], [[The Free Cities of Alderun]], and [[The Ward]].

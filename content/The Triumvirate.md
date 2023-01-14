@@ -1,4 +1,6 @@
-# The Triumvirate
+---
+title: "The Triumvirate"
+---# The Triumvirate
 The assumed progenitor races of Zol: [[Dwarves]], [[Elves]], and [[Humans]]. Many theories exist about the origins of these races and their place in the world. Some of which include: the will of [[Zolaen Gods]], a product of [[The Undoing]], or the most popular theory being some manifestation [[The Trinity]]'s power. 
 
 The latter theory is largely based on artifacts uncovered from [[The Grand Nothing]]. These discoveries only include mentions, or remains, of [[Dwarves]], [[Elves]], and [[Humans]]. Each of which seemed to have possessed a lifespan centuries long, and a special connection to one of The Trinity's forces. The Dwarves with [[Observance]], the Elves with [[Viridescence]], and Humans with [[Arcana]]. These races also make up the largest percentage of the Zolaen population.

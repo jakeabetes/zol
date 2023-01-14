@@ -1,4 +1,6 @@
-# Amplidation
+---
+title: "Amplidation"
+---# Amplidation
 [[Amplidation]] [[Magic]] is one of the [[Schools of Magic]]. It is an uncommon school. It is magic that involves the manipulation of Gravitational [[energy]].
 
 [[Amplidation]] is quite difficult as it requires the user to not only create gravitational bonds, but lessen or completely sever their targets connection to the gravity of [[Zol]]. The latter takes an extremely high degree of accuracy and training to perfect.

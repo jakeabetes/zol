@@ -1,4 +1,6 @@
-# Yanneran
+---
+title: "Yanneran"
+---# Yanneran
 *Zolaen God of Art and Wine, Major Deity*
 ![[Yanneran.png]]
 

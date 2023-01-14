@@ -1,4 +1,6 @@
-# The Great Old Ones
+---
+title: "Great Old Ones"
+---# The Great Old Ones
 A Great Old one is a unique progenitor being of the cosmos. They came from [[The Space Outside Reality]], and began [[The Circle]]. Each of them is equally powerful. They were once believed to be infinitely powerful, until The Great Old One [[Goh'zul]], was defeated and their everlasting reign ended.
 
 The Great Old Ones are:

@@ -1,4 +1,6 @@
-# Zelatt, The Draconic Amalgam
+---
+title: "Zelatt, The Draconic Amalgam"
+---# Zelatt, The Draconic Amalgam
 *Void God of Chaos, Major Deity*
 ![[Zelatt.png]]
 

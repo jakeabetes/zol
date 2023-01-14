@@ -1,4 +1,6 @@
-# Audran
+---
+title: "Audran"
+---# Audran
 
 ## The Destruction of Audran - The Day of Madness
 In the late [[First Age]], [[Audran]] was the largest and most prosperous city in all of [[Zol]]. As the capital of [[Laenwalde]], it acted as a hub of commerce, politics, academia, and culture. This beacon of hope changed instantly when [[The Castle of Bodies]] suddenly appeared in the sky on The Day of Madness.

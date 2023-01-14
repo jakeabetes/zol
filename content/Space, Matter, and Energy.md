@@ -1,4 +1,6 @@
-# Space, Matter, and Energy
+---
+title: "Space, Matter, and Energy"
+---# Space, Matter, and Energy
 The 3 aspects of existence in [[Zol]]. These three concepts are all one and the same, merely in different states. These states can be bound and influenced, or shifted to another state using [[Sympathetic bonds]].
 - Academic Arcanists understand [[Zol]] an **infinite four dimensional grid of nodes**. Each one of these nodes are fragment [[The Trinity]], and exist in one of the three states: Space, Matter and Energy.
 	- If you were to pick two points in space, each of these points could be represented as one node. In-between these two points there are an infinite number of other nodes.

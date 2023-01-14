@@ -1,4 +1,6 @@
-# Adrathar, Father of the Wind
+---
+title: "Adrathar, Father of the Wind"
+---# Adrathar, Father of the Wind
 *Wayward God of Storms, Major Deity*
 ![[adrathar storm.png]]
 

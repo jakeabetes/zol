@@ -1,4 +1,6 @@
-# Heliodor
+---
+title: "Heliodor"
+---# Heliodor
 
 ## The Creation of Heliodor
 Long after [[Laenwalde]] had recovered from the [[The Castle of Bodies]] attack on [[Audran]], the kingdom was still without a clear capital.

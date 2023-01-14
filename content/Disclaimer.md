@@ -1,4 +1,6 @@
-# Disclaimer
+---
+title: "Disclaimer"
+---# Disclaimer
 This is a fantasy world I originally created for hobbyist purposes. Primarily as a TTRPG campaign setting.
 
 Things to note:

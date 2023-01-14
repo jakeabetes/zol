@@ -1,4 +1,6 @@
-# Cadence
+---
+title: "Cadence"
+---# Cadence
 *Wandering God, Moral of Adaptability*
 ![[Cadence.png]]
 

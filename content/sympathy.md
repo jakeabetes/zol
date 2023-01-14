@@ -1,1 +1,3 @@
-See [[Sympathetic bonds]].
+---
+title: "sympathy"
+---See [[Sympathetic bonds]].

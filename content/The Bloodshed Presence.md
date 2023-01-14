@@ -1,4 +1,6 @@
-# The Bloodshed Presence
+---
+title: "The Bloodshed Presence"
+---# The Bloodshed Presence
 *Void God of War, Minor Deity*
 ![[The Bloodshed Presence.png]]
 

@@ -1,4 +1,6 @@
-# The Oldshards
+---
+title: "The Oldshards"
+---# The Oldshards
 *[[The Apex]] and [[The Vertex]]*
 
 At the start of [[The Awakening]], the [[Changelings]] of [[The Glassius Reach]] found themselves in the possession of two strange relics called [[The Oldshards]].  No one knew the nature of these objects, but the [[Changelings]] bore a sort of recognition towards them, despite loosing all of their memories during [[The Undoing]].

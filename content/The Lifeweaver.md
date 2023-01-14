@@ -1,4 +1,6 @@
-# The Lifeweaver
+---
+title: "The Lifeweaver"
+---# The Lifeweaver
 *Zolaen God of Nature, Major Deity*
 ![[The Lifeweaver.png]]
 

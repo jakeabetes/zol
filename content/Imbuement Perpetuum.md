@@ -1,4 +1,6 @@
-# Imbuement Perpetuum
+---
+title: "Imbuement Perpetuum"
+---# Imbuement Perpetuum
 Imbuement Perpetuum is the counterpart of [[Iron Light]]. Magical feats accomplished without the usage of Iron light. They are more powerful, valuable, and harder to utilize. Their name comes from their elusive, mysterious and permanent nature.
 
 Encapsulating how any [[Imbuement Perpetuum]] is utilized is nearly impossible as there does not seem to be any sort of limit of methods. Some techniques are:

@@ -1,4 +1,6 @@
-# The Gods of Zol
+---
+title: "Gods"
+---# The Gods of Zol
 In [[Zol]], a god is defined by as a being that fits all of these criteria:
 - Is considered by many beings as something greater than a mortal soul
 - Is powerful enough to bestow some of their power to another being for an unlimited amount of time

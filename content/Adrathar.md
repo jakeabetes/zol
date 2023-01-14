@@ -1,1 +1,3 @@
-See [[Adrathar, Father of the Wind]].
+---
+title: "Adrathar"
+---See [[Adrathar, Father of the Wind]].

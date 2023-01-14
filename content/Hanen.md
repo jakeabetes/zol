@@ -1,4 +1,6 @@
-# Hanen
+---
+title: "Hanen"
+---# Hanen
 *Where heroes are born*
 ![[Hanen skyline.png]]
 

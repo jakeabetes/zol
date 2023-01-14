@@ -1,4 +1,6 @@
-# Vizir
+---
+title: "Vizir"
+---# Vizir
 Vizir is a fragment of [[The Trinity]] held within all beings in [[Zol]]. When harnessed, it allows one to access [[The Wills]] in a minor way, granting [[Magic]] power. It is largely thought to be the very essence of ones soul, and can be trained like a muscle.
 
 Utilizing one's Vizir is no simple task and can be very exhausting. It is typically accomplished in one of three ways for each of [[The Wills]] respectively.

@@ -1,1 +1,3 @@
-see [[Space, Matter, and Energy]].
+---
+title: "Nodes"
+---see [[Space, Matter, and Energy]].

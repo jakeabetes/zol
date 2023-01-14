@@ -1,4 +1,6 @@
-# Archaic
+---
+title: "Archaic"
+---# Archaic
 *The Bastion of Knowledge and History*
 ![[archaic skyline.png]]
 

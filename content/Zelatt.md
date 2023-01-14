@@ -1,1 +1,3 @@
-see [[Zelatt, The Draconic Amalgam]].
+---
+title: "Zelatt"
+---see [[Zelatt, The Draconic Amalgam]].

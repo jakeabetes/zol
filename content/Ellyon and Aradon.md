@@ -1,4 +1,6 @@
-# Ellyon and Aradon
+---
+title: "Ellyon and Aradon"
+---# Ellyon and Aradon
 *Wayward Gods of Seafaring and Skyfaring, Minor Deities*
 ![[Ellyon and Aradon.png]]
 

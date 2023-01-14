@@ -1,4 +1,6 @@
-# Conjuration
+---
+title: "Conjuration"
+---# Conjuration
 [[Conjuration]] [[Magic]] is one of the [[Schools of Magic]]. It is magic that involves folding space for the purposes of teleportation, or bringing creatures and objects to, or away from a [[Caster]]. These usages of magic can span great distances [[Planes]] or even cross into other [[Planes]] given the skill of the user.
 
 It requires one to understand their connection to their target very well, and be able to feel it through their [[Vizir]]. It is one of the hardest types of magic to perform.

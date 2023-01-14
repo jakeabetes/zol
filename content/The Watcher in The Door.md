@@ -1,4 +1,6 @@
-# The Watcher in the Door
+---
+title: "The Watcher in The Door"
+---# The Watcher in the Door
 *Supreme Zolaen God of Light, Major Deity*
 ![[The Watcher in the Door.png]]
 

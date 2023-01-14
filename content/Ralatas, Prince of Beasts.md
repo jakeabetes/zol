@@ -1,4 +1,6 @@
-# Ralatas, Prince of Beasts
+---
+title: "Ralatas, Prince of Beasts"
+---# Ralatas, Prince of Beasts
 *Wayward God of Beasts and the Hunt, Major Deity*
 ![[Ralatas prince of beasts.png]]
 

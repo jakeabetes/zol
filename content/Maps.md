@@ -1,4 +1,6 @@
-# Maps of Zol
+---
+title: "Maps"
+---# Maps of Zol
 [[Zol]] has many mapped regions
 
 ## Region Maps

@@ -1,4 +1,6 @@
-# Deepspell
+---
+title: "Deepspell"
+---# Deepspell
 *Ingenuity and magic*
 ![[deepspell skyline.png]]
 

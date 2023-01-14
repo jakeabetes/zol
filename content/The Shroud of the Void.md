@@ -1,4 +1,6 @@
-# The Shroud of the Void
+---
+title: "The Shroud of the Void"
+---# The Shroud of the Void
 *Supreme Void God of Darkness, Major Deity*
 ![[The Shroud of the Void.png]]
 

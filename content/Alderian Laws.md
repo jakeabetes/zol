@@ -1,4 +1,6 @@
-# Alderian Laws
+---
+title: "Alderian Laws"
+---# Alderian Laws
 This set of laws contains many of the main crimes that one could commit within [[The Free Cities of Alderun]].
 
 | Law | Severity | Description |

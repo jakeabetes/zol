@@ -1,4 +1,6 @@
-# The Taming of the Badlands
+---
+title: "The Taming of the Badlands"
+---# The Taming of the Badlands
 Western [[Zol]] was originally populated with the most diverse set of beings in [[The Awakening]]. The myriad of people and chaos made for a wild expanse with little to no governing forces. The region was dubbed The Badlands, and few civilized people ventured there.
 
 Eventually some groups gained enough power to establish themselves as coherent powers. As more and more of these groups formed, The Badlands became a feudal battleground. Small cities rose and fell constantly, dotting the area with ruins.

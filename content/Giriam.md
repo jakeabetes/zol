@@ -1,4 +1,6 @@
-# Giriam
+---
+title: "Giriam"
+---# Giriam
 *Zolaen God of Agriculture, Fertility, Major Deity*
 ![[Giriam.png]]
 

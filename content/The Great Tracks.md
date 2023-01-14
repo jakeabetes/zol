@@ -1,4 +1,6 @@
-# The Great Tracks
+---
+title: "The Great Tracks"
+---# The Great Tracks
 *What unites us*
 ![[The Great Tracks.png]]
 ## Construction

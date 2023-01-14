@@ -1,4 +1,6 @@
-# Kapeshian Laws
+---
+title: "Kapeshian Laws"
+---# Kapeshian Laws
 This set of laws contains many of the main crimes that one could commit within [[Kapesh]].
 
 | Law | Severity | Description |

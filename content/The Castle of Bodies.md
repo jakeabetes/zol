@@ -1,4 +1,6 @@
-# The Castle of Bodies
+---
+title: "The Castle of Bodies"
+---# The Castle of Bodies
 *Void God of Wrath and Madness, Major Deity*
 ![[The Castle of Bodies.png]]
 

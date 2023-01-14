@@ -1,4 +1,6 @@
-# The Ferric Alphabet
+---
+title: "Ferric Alphabet"
+---# The Ferric Alphabet
 The Ferric Alphabet is currently a set of 82 known runes. Each one of these is a unique symbol directly relating to a property of [[Zol]]. Theorized to be a product of [[The First Tongue]], these runes allow for the utilization of [[Iron Light]].
 
 There are 10 classifications of runes

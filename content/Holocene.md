@@ -1,4 +1,6 @@
-# Holocene
+---
+title: "Holocene"
+---# Holocene
 *Chalkstone and Beauty*
 ![[Holocene skyline.png]]
 

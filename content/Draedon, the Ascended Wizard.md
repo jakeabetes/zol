@@ -1,4 +1,6 @@
-# Draedon, the Ascended Wizard
+---
+title: "Draedon, the Ascended Wizard"
+---# Draedon, the Ascended Wizard
 *Wayward God of The Arcane Arts, Minor Deity*
 ![[Draedon.png]]
 
