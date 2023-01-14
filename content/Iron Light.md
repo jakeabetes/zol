@@ -2,6 +2,7 @@
 Iron Light is a unique and efficient methodology used to simplify the usage of [[Arcana]] in the application of [[Enchantment]]. Named after the tell tale violet glow the application gives off, [[Iron Light]] was discovered by the great Arcanist and Academic, [[Mordenkainen]]. Its conception was what began the [[Second Age]].
 
 ![[Iron Light Artificing.png]]
+
 *An artificer carving complex Ferric Alphabet runes into an iron slab, its design hidden amongst artistic additions to obfuscate its method of function.*
 
 [[Iron Light]] revolutionized [[Zol]] by putting power in the hands of many who would be otherwise be at the whim of the world. Unfortunately, the technique has also introduced new dangers like new weapons of war, and the [[magic]] ailment known as [[Materiation]].

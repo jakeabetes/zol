@@ -9,6 +9,7 @@ Designed by Odile Gilligan, a gifted Halfling academic woman. Gilligan originall
 Built as a wide platform suspended by a massive pulley system. Energy for moving the lift is drawn from massive turbines affixed to the wall of the cliff. Powered by the massive gusts of wind that blow vertically up the cliffs face, energy is stored in large springs. A wide platform acts as the lift itself, built of strong metals and wood to resists the same gusts that power it. This makes it capable of moving large quantities of personnel and equipment.
 
 ![[Gilligans Lift.png]] 
+
 Since the invention of [[Iron Light]], magical improvements have been made for durability, defense, and efficiency. However the core functionality remains non-magic due to its ingenious design. In modern days a one way trip of the lift takes 5 hours. 
 
 ## Impact on Society

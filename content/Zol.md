@@ -1,7 +1,8 @@
 ![[Titlecard.png]] 
+
 **Welcome to the world of [[Zol]]**
 
-*For east map navigation, please see the [Kankamap](https://kanka.io/en-US/campaign/177268/maps/52803/explore) (Currently a work in progress)*
+*For easy map navigation, please see the [Kankamap](https://kanka.io/en-US/campaign/177268/maps/52803/explore) (Currently a work in progress)*
 
 ## Steps for Zol's Creation
 - ~~Initial Skeleton of Site~~
