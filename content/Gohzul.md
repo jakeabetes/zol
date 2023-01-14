@@ -1,1 +1,3 @@
-See [[Goh'zul, The Abyss]]
+---
+title: "Goh'zul"
+---See [[Goh'zul, The Abyss]]

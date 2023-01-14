@@ -1,4 +1,6 @@
-# Ka'thoor
+---
+title: "Ka'thoor"
+---# Ka'thoor
 *Trade, culture, pride, and humility*
 ![[kathoor skyline.png]]
 
