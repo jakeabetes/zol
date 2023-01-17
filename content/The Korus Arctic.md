@@ -6,13 +6,18 @@ title: "The Korus Arctic"
 description
 
 ## Points of Interest
+- **The Pinepatch Hills**
+- **Temple of Isildur**
+- **Temple of Shirone**
+- **The Glassmounts**
+- **The Yeti Dens**
+- **The Besstle Crevasses**
+- **The Benumbed Snowfields and The Bleak Walls Beyond**
 
-## Wilderness and Climate
+## Climate
 
-## History
+## History and Inhabitants
 
 ## Inhabitants
-
-## Expeditions
 
 ## Borders

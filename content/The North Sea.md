@@ -4,15 +4,11 @@ title: "The North Sea"
 ![[The North Sea 1.png]]
 description
 
-## Points of Interest
+## Climate
 
-## Wilderness and Climate
-
-## History
+## History and Inhabitants
+![[The North Sea 2.png]]
 
 ## Inhabitants
-
-## Expeditions
-![[The North Sea 2.png]]
 
 ## Borders

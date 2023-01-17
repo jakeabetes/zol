@@ -14,8 +14,8 @@ title: "Zol"
 - ~~Planes~~
 - ~~Historical Timeline~~
 - Regions 
-- Kankamap
 - Lore to fill gaps (characters, objects, events, and other specific concepts of note)
+- Kankamap
 - Final Cleanup
 
 *This is the checklist that I am following. Once all items are ticked off, Zol will be ready for usage. Note that just because a section is ticked off it does not mean it is 100% complete. All sections will have their final touch ups done in the last 2 steps*

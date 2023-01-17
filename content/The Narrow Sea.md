@@ -5,14 +5,10 @@ title: "The Narrow Sea"
 
 description
 
-## Points of Interest
+## Climate
 
-## Wilderness and Climate
-
-## History
+## History and Inhabitants
 
 ## Inhabitants
-
-## Expeditions
 
 ## Borders

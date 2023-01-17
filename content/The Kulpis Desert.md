@@ -6,13 +6,20 @@ title: "The Kulpis Desert"
 description
 
 ## Points of Interest
+- **Old Ashida**
+- **The Wildsands**
+- **Camp Ogur**
+- **The Kodoros**
+- **Lath Gerun Oasis**
+- **The Pit of Lath Gerun**
+- **The Jagged Jungle**
+- **The Ashcamps**
+- **Tal'Deraag**
 
-## Wilderness and Climate
+## Climate
 
-## History
+## History and Inhabitants
 
 ## Inhabitants
-
-## Expeditions
 
 ## Borders

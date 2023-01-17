@@ -6,13 +6,17 @@ title: "The Archsea"
 description
 
 ## Points of Interest
+- **[[Abdjadan]]**
+- **[[The Isles of Al'Kehtal]]**
+- **Isle of Szest**
+- **Isle of Jaxies**
+- **Old Hezera**
+- **The Smatterings**
 
-## Wilderness and Climate
+## Climate
 
-## History
+## History and Inhabitants
 
 ## Inhabitants
-
-## Expeditions
 
 ## Borders

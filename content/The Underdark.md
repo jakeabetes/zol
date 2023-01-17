@@ -5,14 +5,6 @@ title: "The Underdark"
 
 description
 
-## Points of Interest
-
-## Wilderness and Climate
-
-## History
+## History and Inhabitants
 
 ## Inhabitants
-
-## Expeditions
-
-## Borders
