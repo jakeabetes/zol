@@ -38,7 +38,7 @@ The region is taken by naturalists, wildly beastfolk, bandits, outsiders, wizard
 	- **The Axe** - The supposed home of the mythical 'Adowel, the Great Lake Serpent'.
 
 ## Climate
-The area is considered temperate-continental, but Everfall is an exception as the area seems to be locked in a constant state of comfortable autumn weather with bout of heavy rain.
+The area is considered temperate-continental, but Everfall is an exception as the area seems to be locked in a constant state of comfortable autumn weather with bouts of heavy rain.
 
 ## History and Inhabitants
 [[The Witchlands]] have always been recognized as a place beyond the means of mere mortals, however there have been the tenacious few who have tried to make claim to it. Only the greatest have been able to do so. The largest organization to try, and fail in claiming it was the kingdom of [[Kapesh]]. They made many attempts at expanding their borders into the Godwood. Many outposts were built, most of which eventually fell to the beasts of the wood. However one has stood against all odds, [[Little Triumph]] remains to this day and has now grown into a small city.
