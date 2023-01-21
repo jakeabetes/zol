@@ -5,7 +5,7 @@ title: "The Ward"
 
 Cut off from the rest of the world, [[The Ward]] is a wild, untamed land where the only constants are the howling winds and the roiling seas. Its cities are built upon rocky cliffs, their halls and longhouses formed of stone and unique, indigenous wood resistant to breaking under high winds. The cities cling precariously to the edges of [[Zol]] itself. The people who live there are hardy, fierce, and no stranger to fighting against the elements and facing down the terrors of the sea.
 
-The storms that rage across the kingdom are a fearsome force, capable of destroying entire villages in a single night. But the people of [[The Ward]]'s cities are all to used to this hardship, and they have learned to weather the storms as best they can. They build their homes to be strong and sturdy, with thick walls and roofs designed to withstand the strongest winds. All windows and doors face away from the North-East, towards [[The Storm Horizon]].
+The storms, known as [[Greatwinds]] that rage across the kingdom are a fearsome force, capable of destroying entire villages in a single night. But the people of [[The Ward]]'s cities are all to used to this hardship, and they have learned to weather the storms as best they can. They build their homes to be strong and sturdy, with thick walls and roofs designed to withstand the strongest winds. All windows and doors face away from the North-East, towards [[The Storm Horizon]].
 
 Despite the challenges they face, the people of the kingdom are proud and noble. They are skilled warriors, fierce and brave in battle, and they have a strong sense of community.
 
