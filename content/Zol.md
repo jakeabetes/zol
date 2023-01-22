@@ -4,21 +4,22 @@ title: "Zol"
 
 **Welcome to the world of [[Zol]]**
 
-*For easy map navigation, please see the [Kankamap](https://kanka.io/en-US/campaign/177268/maps/52803/explore) (Currently a work in progress)*
+*For easy map navigation, please see the [Interactive Map](https://kanka.io/en-US/campaign/177268/maps/52803/explore) (Currently a work in progress)*
 
 ## Steps for Zol's Creation
-- ~~Initial Skeleton of Site~~
-- ~~Introduction, Origin, and Homepage~~
-- ~~Magic system~~
-- Gods
-- ~~Planes~~
-- ~~Historical Timeline~~
-- Regions 
-- Lore to fill gaps (characters, objects, events, and other specific concepts of note)
-- Kankamap
-- Final Cleanup
+- Initial Skeleton of Site (100%)
+- Introduction, Origin, and Homepage (100%)
+- Magic system (100%)
+- Planes (100%)
+- Historical Timeline (100%)
+- Regions (100%)
+- Gods (90%)
+- Cities (50%)
+- Interactive Map (5%)
+- Lore to fill gaps (characters, objects, events, and other specific concepts of note) (0%)
+- Final Cleanup (0%)
 
-*This is the checklist that I am following. Once all items are ticked off, Zol will be ready for usage. Note that just because a section is ticked off it does not mean it is 100% complete. All sections will have their final touch ups done in the last 2 steps*
+*This is the task list that I am following. Once all items are at 100%, Zol will be ready for usage. Note that a section at 100% complete is still subject to change, and will still require final cleanup. All sections will have their final touch ups done in the last 2 steps*
 
 
 # Quick Links
@@ -54,6 +55,16 @@ The Three Corners of Civilization are comprised of:
 - [[The Grand Nothing]]
 - [[The Underdark]]
 
+8 Mountain Ranges
+- [[The Auroran Summits]]
+- [[The Kodoros]]
+- [[The Blades]]
+- [[The East Mounts]]
+- [[The Peaks of Myth'ira]]
+- [[Demodemacht]]
+- [[Stormwall]]
+- [[The Fetterpeak Mountains]]
+
 and 4 Seas
 - [[The Vast Sea]]
 - [[The Archsea]]
@@ -64,4 +75,4 @@ and 4 Seas
 ## Lorelhiem
 A Distant and strange feudal land rumored to be far west of The Three Corners of Civilization, beyond the reaches of nautical technology and teleportation magic. A strange ever present fog in the vast sea prevents any magical observation of this place.
 
-(Note: This is the first planned future expansion of [[Zol]])
+(Note: This is the one of the planned future expansions of [[Zol]])
