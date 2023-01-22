@@ -8,4 +8,4 @@ One of the smaller mountain ranges within The Three Corners, but its size does n
 At night, the peaks give of vibrant tendrils of light against the sky called an Aurora. These are thought by scholars to be manifestations of [[The Ethereal Plane]] visible in the [[Prime Material Plane]]. Many mountains give them off, and a lot of [[Zol]]'s more northern regions may sometimes witness them spontaneously in the sky at night. However none shine so brilliantly as those of [[The Auroran Summits]].
 
 ## Location
-The summits reside within [[Audran]] of [[Laenwalde]].
+The summits reside within [[Arcadia]] of [[Laenwalde]].
