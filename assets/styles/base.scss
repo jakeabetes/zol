@@ -77,6 +77,17 @@ ul {
   font-weight: revert;
   margin: revert;
   padding: revert;
+  font-size: 1.3em;
+}
+
+li{
+  font-family: var(--font-body);
+  color: var(--gray);
+  fill: var(--gray);
+  font-weight: revert;
+  margin: revert;
+  padding: revert;
+  font-size: 1em;
 }
 
 tbody,
