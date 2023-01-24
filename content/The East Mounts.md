@@ -1,7 +1,6 @@
 ---
 title: "The East Mounts"
----# The East Mounts
-![[The Eastmounts.png]]
+---![[The Eastmounts.png]]
 
 The cursed mountains of east [[Laenwalde]]. Feared by the elves of [[Gethsemane]], and rarely traversed by explorers. These otherwise unassuming peaks are thought to hold a great evil.
 

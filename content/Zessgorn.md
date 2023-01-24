@@ -1,7 +1,6 @@
 ---
 title: "Zessgorn"
----# Zessgorn
-*Costal beauty*
+---*Costal beauty*
 ![[zessgorn 3.png]]
 
 Zessgorn, the City of Cups. Located in [[The Free Cities of Alderun]], and once known as the Tarot City. Zessgorn's social hierarchy is defined by [[The Rings of Tarot]] and by extension [[Zessgorn Cups]]. It is a complex structure to an outsider, but simple in practice.

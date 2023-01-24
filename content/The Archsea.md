@@ -1,7 +1,6 @@
 ---
 title: "The Archsea"
----# The Archsea
-![[The Archsea.jpg]]
+---![[The Archsea.jpg]]
 
 The waters that bind the kingdoms of [[Zol]]. [[The Archsea]] is the central most body of water within The Three Corners. It is abundant with ships, sea life, and sea monsters. Many make lives for themselves on its coasts, some even do so beneath its waves in the enigmatic city of [[Abdjadan]].
 

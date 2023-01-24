@@ -1,7 +1,6 @@
 ---
 title: "The Space Outside Reality"
----# The Space Outside Reality
-*An eldritch myth told by alien monsters called [[Illithids]]. Manifesting as one of the [[Planes]] of existence with laws like no other*
+---*An eldritch myth told by alien monsters called [[Illithids]]. Manifesting as one of the [[Planes]] of existence with laws like no other*
 
 A place of abstraction and eldritch horror. The supposed homeland spoken of by [[Illithids]] who were captured and interrogated.
 

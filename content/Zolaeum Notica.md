@@ -1,7 +1,6 @@
 ---
 title: "Zolaeum Notica"
----# Zolaeum Notica
-*Zolaeum Notica is the Human translation of 'Notes on Zol'*
+---*Zolaeum Notica is the Human translation of 'Notes on Zol'*
 
 A Text written by Aldaemus Mysc on the subject of [[Zol]]'s history, gods, magic and planes. This text is particularly significant as it was the first academic text written with the express purpose of explaining the world of [[Zol]] at an accessible level, to anyone who would read it. It was unbiased, and unspeculative. Only covering what was known by scholars as fact.
 

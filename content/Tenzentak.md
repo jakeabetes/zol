@@ -1,7 +1,6 @@
 ---
 title: "Tenzentak"
----# Tenzentak
-*The Rift City*
+---*The Rift City*
 ![[Tenentak.png]]
 
 Tenzentak, the Rift City. Located in [[The Free Cities of Alderun]], the sake of its nickname comes from the topography which the city rests upon. A set of wide rifts which house a unique geological phenomenon called [[Rift Iron]], a valuable metal that regrows slowly after being mined. It is used to make objects that can reform after breaking.

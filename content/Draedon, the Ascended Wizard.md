@@ -1,7 +1,6 @@
 ---
 title: "Draedon, the Ascended Wizard"
----# Draedon, the Ascended Wizard
-*Wayward God of The Arcane Arts, Minor Deity*
+---*Wayward God of The Arcane Arts, Minor Deity*
 ![[Draedon.png]]
 
 The uncontested, He who has unraveled the secrets of [[Arcana]]. Draedon is arguably not a god, but is as powerful as many minor deities. This makes Draedon one of the most interesting beings in all of [[Zol]]. Draedon is a once mortal man who surpassed the skill of any known mage.

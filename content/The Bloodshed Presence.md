@@ -1,7 +1,6 @@
 ---
 title: "The Bloodshed Presence"
----# The Bloodshed Presence
-*Void God of War, Minor Deity*
+---*Void God of War, Minor Deity*
 ![[The Bloodshed Presence.png]]
 
 The rush of battle, the heat of the moment, the thrill of taking a man's life. More of an unnatural force than a convectional god, [[The Bloodshed Presence]] is a spirit that some mortals experience like a euphoric emotion when in battle, or during other acts of violence.

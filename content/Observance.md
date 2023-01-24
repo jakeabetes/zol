@@ -1,7 +1,6 @@
 ---
 title: "Observance"
----# Observance
-[[Observance]] is the first of the three wills. It is [[Magic]] derived from another being, or conscious source of power. It is also referred to as [[Lent Power]]. The lending of this power comes from a bond between an individual and their source. Some examples of this bond are:
+---[[Observance]] is the first of the three wills. It is [[Magic]] derived from another being, or conscious source of power. It is also referred to as [[Lent Power]]. The lending of this power comes from a bond between an individual and their source. Some examples of this bond are:
 - Devout Religious Belief
 - A Pact
 - A linked bloodline

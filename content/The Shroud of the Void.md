@@ -1,7 +1,6 @@
 ---
 title: "The Shroud of the Void"
----# The Shroud of the Void
-*Supreme Void God of Darkness, Major Deity*
+---*Supreme Void God of Darkness, Major Deity*
 ![[The Shroud of the Void.png]]
 
 The Culmination of Darkness, The Consumer, The Great Deceiver, [[The Anti-Trinity]]. A being of many names and many mysteries.

@@ -1,8 +1,6 @@
 ---
 title: "Yorn et Gaul"
----# Yorn Et Gaul
-
-## Destruction of Yorn Et Gaul
+---## Destruction of Yorn Et Gaul
 During the late [[First Age]], [[Laenwalde]] and [[Gethsemane]] faced a great deal of political infighting. Some evidence of this pointed to the interference of [[Changelings]]. [[Laenwalde]] and [[Gethsemane]] began proffering threats towards [[The Glassius Reach]]. [[The Glassius Reach]] denied these claims. When the supposed sabotage did not stop, the nations declared a war that would be called the [[Western War]].
 
 The [[Changelings]] were outnumbered greatly, but they proved a very difficult foe due to their strange environment, and the fact that they can manifest in any physical, humanoid form.

@@ -1,7 +1,6 @@
 ---
 title: "Gethsemane"
----# Gethsemane
-![[Gethsemane.jpg]]
+---![[Gethsemane.jpg]]
 
 The Viridescent Kingdom of [[Gethsemane]]. The land of [[Elves]], [[Dwarves]], and the peaceful [[Genasi]]. [[Gethsemane]] is an old and unvarying kingdom. Each city rules itself as its own and has its own laws, but the region as a whole operates under a grand allegiance.
 

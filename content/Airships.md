@@ -1,7 +1,6 @@
 ---
 title: "Airships"
----# Airships
-Wonderous [[Apparatum]] constructed using surprisingly simple [[Iron Light]] principals.
+---Wonderous [[Apparatum]] constructed using surprisingly simple [[Iron Light]] principals.
 
 ![[Airship 1.png]]
 

@@ -1,7 +1,6 @@
 ---
 title: "The Glassius Reach"
----# The Glassius Reach
-![[The Glassius Reach.jpg]]
+---![[The Glassius Reach.jpg]]
 
 Geographically and politically isolated, The Reach is cut off from the rest of the world by [[The Peaks of Myth'ira]] and the treacherous [[Wrath Wastes]]. [[The Glassius Reach]] is the most alien of the kingdoms within The Three Corners. Both its wilderness, and its people are unlike any other. Inhabited by [[Changelings]], and scorned by all of [[Zol]], the Reach holds many mysteries.
 

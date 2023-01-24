@@ -1,7 +1,6 @@
 ---
 title: "Ralatas, Prince of Beasts"
----# Ralatas, Prince of Beasts
-*Wayward God of Beasts and the Hunt, Major Deity*
+---*Wayward God of Beasts and the Hunt, Major Deity*
 ![[Ralatas prince of beasts.png]]
 
 Lord of the forest, god of claw and fang, master of the hunt. Ralatas the prince of beast reigns as the powerful overseer of the harsh wilds, and those who make a home in it.

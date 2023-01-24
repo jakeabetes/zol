@@ -1,7 +1,6 @@
 ---
 title: "The Blades"
----# The Blades
-![[The Blades.png]]
+---![[The Blades.png]]
 
 A haunting range of sharp peaked mountains, slanted steeply with their peaks pointed at the north east. This mountain range is a culmination of the strange places it borders upon. Surrounded on each side by [[Holyfield]], The Wrath Wastes of [[Gethsemane]], and The Lifewell of [[The Glassius Reach]].
 

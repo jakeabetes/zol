@@ -1,7 +1,6 @@
 ---
 title: "Fey"
----# The Fey
-*One of Zol's [[Planes]] of existence*
+---*One of Zol's [[Planes]] of existence*
 
 Also known as The Fae, Feywilds, or Faerûn. The [[Fey]] is an echo of the [[Prime Material Plane]], that manifests almost like a dream-like version of the normal world. It exists under the influence of [[The Mortal Coil]].
 

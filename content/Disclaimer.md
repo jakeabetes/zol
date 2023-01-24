@@ -1,7 +1,6 @@
 ---
 title: "Disclaimer"
----# Disclaimer
-This is a fantasy world I originally created for hobbyist purposes. Primarily as a TTRPG campaign setting.
+---This is a fantasy world I originally created for hobbyist purposes. Primarily as a TTRPG campaign setting.
 
 Things to note:
 - This collection of information was written as if it was from the perspective of an academic within [[Zol]]. With a few tid-bits of information added that would not necessarily be known by the people of [[Zol]] for the sake of storytelling. This means that almost all of the information in here could be known by a really really smart person, except for somethings like specific details to world creation lore that would have been lost to history.

@@ -1,7 +1,6 @@
 ---
 title: "The Great Tracks"
----# The Great Tracks
-*What unites us*
+---*What unites us*
 ![[The Great Tracks.png]]
 ## Construction
 The Great Tracks are a wonderous feat of engineering. Designed by the combined efforts of [[The University]], [[Kerketh Academy]] and [[The Kybis Assembly]]. A complex combination of [[Iron Light]] and infrastructure that spans The Three Corners of Civilization. A network of [[Trains]] that allows for anyone, powerful or not, to cross [[Zol]].

@@ -1,7 +1,6 @@
 ---
 title: "Stormwall"
----# Stormwall
-![[Stormwall.png]]
+---![[Stormwall.png]]
 
 The threshold between the [[Greatwinds]], and the cities of Three Corners who could not weather the storms. [[Stormwall]] is a naturally occurring barrier that cuts [[The Ward]] of almost entirely from the rest of [[Zol]]. Its wall-like formation stops the devastating winds of the region from making it to [[Kapesh]] and [[The Free Cities of Alderun]]. Its existence is seen as a gift from the [[Gods]] by many, and is sacred to various different cultures. 
 

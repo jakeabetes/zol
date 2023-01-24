@@ -1,7 +1,6 @@
 ---
 title: "The Fetterpeak Mountains"
----# The Fetterpeak Mountains
-![[fetterpeak.png]]
+---![[fetterpeak.png]]
 
 [[The Fetterpeak Mountains]] are the most explored mountains in all of The Three Corners. This region is located between [[Kapesh]] and [[The Free Cities of Alderun]], bookended on either side by [[Archaic]] and , the magical cities of their respective kingdoms [[Deepspell]].
 

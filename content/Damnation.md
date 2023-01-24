@@ -1,7 +1,6 @@
 ---
 title: "Damnation"
----# Damnation
-*The culmination of thousands of hells. All created to seek the destruction of [[Goh'zul]], now formed as one unified source that still seeks the same destruction. One of Zol's [[Planes]] of existence.* 
+---*The culmination of thousands of hells. All created to seek the destruction of [[Goh'zul]], now formed as one unified source that still seeks the same destruction. One of Zol's [[Planes]] of existence.* 
 
 The land of the dead, and the punishment of [[Zol]]. [[Damnation]] is a subplane to [[The Void]] and home to [[Aldem, King of all Hells]] along with his legion of [[Fiends]].
  

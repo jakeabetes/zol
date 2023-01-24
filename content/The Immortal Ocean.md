@@ -1,7 +1,6 @@
 ---
 title: "The Immortal Ocean"
----# The Immortal Ocean
-*One of Zol's [[Planes]] of existence*
+---*One of Zol's [[Planes]] of existence*
 
 The Skyless Sea. [[The Immortal Ocean]] is the vast and beautiful home to. [[Ohlit]] and his children, [[Ellyon and Aradon]].
 

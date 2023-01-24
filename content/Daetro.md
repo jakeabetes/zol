@@ -1,7 +1,6 @@
 ---
 title: "Daetro"
----# Daetro
-*Wayward God of Fire, Minor Deity*
+---*Wayward God of Fire, Minor Deity*
 ![[Daetro.png]]
 
 Lord of the flame, [[Daetro]] is the spirit of fire and the molten expanses that exist in [[Zol]]. A benevolent being who's concerns rarely extend outside of it's domain. Academic evidence found in [[The Grand Nothing]] indicates that [[Daetro]] is one half of a greater being that was fractured into two parts. Its other half being [[Eptro]], who it seems to act opposite to.

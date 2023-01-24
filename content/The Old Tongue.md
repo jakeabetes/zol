@@ -1,7 +1,6 @@
 ---
 title: "The Old Tongue"
----# The Old Tongue
-The Old Tongue evolved from its predecessor, [[The First Tongue]]. Similar to its parent, The Old Tongue is for lack of a better term, a language. Unlike modern language, The Old Tongue must be spoken with more than just words, and often involves no words at all.
+---The Old Tongue evolved from its predecessor, [[The First Tongue]]. Similar to its parent, The Old Tongue is for lack of a better term, a language. Unlike modern language, The Old Tongue must be spoken with more than just words, and often involves no words at all.
 
 As an example, the modern language of [[Common]] must be spoken with the correct pronunciation, grammar, inflection, cadence, et cetera. The Old Tongue must be spoken with knowledge, emotion, will, artistry, movement, faith, and a strong [[Vizir]]. There are words in The Old Tongue, but they are fathoms more complicated than a mere dialect.
 

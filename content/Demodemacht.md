@@ -1,7 +1,6 @@
 ---
 title: "Demodemacht"
----# Demodemacht
-![[Demodemacht.png]]
+---![[Demodemacht.png]]
 
 The grandest mountains in all of The Three Corners. [[Demodemacht]]'s perilous peaks are the largest in all the realm. Their grandeur is the setting for many-a-tale in the eastern cultures. Known for its unique and treacherous terrain, including narrow passageways, steep cliffs, and deep canyons. The range is also home to a variety of mythical creatures, including massive birds the size of houses, [[Giants]], griffins, and of course [[Dragons]]. The peaks of [[Demodemacht]] are said to be so high that they touch [[The Cliffs of Aeordel]].
 

@@ -1,7 +1,6 @@
 ---
 title: "The Witchlands"
----# The Witchlands
-![[The Witchlands.jpg]]
+---![[The Witchlands.jpg]]
 
 The unconquerable woods, populated by strange animals and monsters. Home to beastfolk, bandit, witch and wizard that seek a lifestyle unoffered by the societies of kingdoms. [[The Witchlands]] were were relatively unpopulated by sapient beings at the time of [[The Awakening]]. This allowed for beasts and monsters to claim the region long before the kingdoms could even consider the feat.
 

@@ -1,7 +1,6 @@
 ---
 title: "The Coilwalker"
----# The Coilwalker
-*Wayward God of Life and Death, Major Deity*
+---*Wayward God of Life and Death, Major Deity*
 ![[The coil walker.png]]
 
 First of the dead, he who is master of [[The Mortal Coil]], the one who gifts a vessel a soul at birth, and guides it to its resting place after death. [[The Coilwalker]] is the ever neutral god of mortality and is known well by all cultures in [[Zol]].

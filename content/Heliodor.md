@@ -1,8 +1,6 @@
 ---
 title: "Heliodor"
----# Heliodor
-
-## The Creation of Heliodor
+---## The Creation of Heliodor
 Long after [[Laenwalde]] had recovered from the [[The Castle of Bodies]] attack on [[Audran]], the kingdom was still without a clear capital.
 
 To remedy this, the nobility came up with a frivolous design that [[Artificers]] of [[The University]] made into reality. A floating golden city, almost defiant of [[The Castle of Bodies]]. While having obvious issues, like alienation of lower classes in the capital, [[Heliodor]] does seem to offer a beacon of hope to the people of [[Zol]].

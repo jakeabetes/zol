@@ -1,7 +1,6 @@
 ---
 title: "Gilligan's Lift"
----# Gilligan's Lift
-*The way to the old world*
+---*The way to the old world*
 
 Located in [[Tenzentak]], and operated by [[The Bladehammer Guild]]. [[Gilligan's Lift]] is a great feat of engineering that gives passage from the top of the high cliffs that overlook [[The Grand Nothing]], all the way to the bottom. The lift operates over thousands of feet and can support extremely heavy burdens. Remarkably, the lift originally used no [[Magic]] in its operation.
 

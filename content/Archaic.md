@@ -1,7 +1,6 @@
 ---
 title: "Archaic"
----# Archaic
-*The Bastion of Knowledge and History*
+---*The Bastion of Knowledge and History*
 ![[archaic skyline.png]]
 
 Archaic, The Eldest city of [[Zol]]. Archaic sits nested in the northern foothills of [[The Fetterpeak Mountains]]. Archaic is coveted for its ancient buildings formed of massive light grey stone slabs, and coveted library known simply as [[The Archives]] which is held within the campus of [[The Kybis Assembly]].

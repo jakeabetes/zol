@@ -1,7 +1,6 @@
 ---
 title: "Beast Ire"
----# Beast Ire
-*Fear the Blood of Beasts*
+---*Fear the Blood of Beasts*
 
 A well intentioned gift from a god turned into a living nightmare.
 

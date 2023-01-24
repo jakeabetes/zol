@@ -1,7 +1,6 @@
 ---
 title: "The Wandering Gods"
----# The Wandering Gods
-A group of powerful cosmic beings, alien to [[Zol]]. The wandering gods are heavily associated with [[The Undoing]]. Some believe they caused the event with the intention of taking [[Zol]] from the [[Zolaen Gods]]. Others believe that they came to protect [[Zol]] from future Undoing, as guardians who battle whatever truly caused it.
+---A group of powerful cosmic beings, alien to [[Zol]]. The wandering gods are heavily associated with [[The Undoing]]. Some believe they caused the event with the intention of taking [[Zol]] from the [[Zolaen Gods]]. Others believe that they came to protect [[Zol]] from future Undoing, as guardians who battle whatever truly caused it.
 
 By their own definition, [[The Wandering Gods]] do not seek dominion like most powerful beings. They claim to instead be teachers to both [[Gods]] and mortals alike. While this is the reason most of their followers seek their guidance, others believe it is a thinly veiled guise which their true conquest hides behind.
 

@@ -1,7 +1,6 @@
 ---
 title: "The Void"
----# The Void
-*What remains of the [[Sea of Monsters]], one of Zol's [[Planes]] of existence*
+---*What remains of the [[Sea of Monsters]], one of Zol's [[Planes]] of existence*
 
 The horror of [[Zol]]. Home to the evil [[Void Gods]]. A world of chaos and darkness. [[The Void]] is the part of the [[Sea of Monsters]] that [[The Watcher]] did not harness. Within it lies threats and abominations unknown even to the [[Gods]].
 

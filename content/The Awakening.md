@@ -1,7 +1,6 @@
 ---
 title: "The Awakening"
----# The Awakening
-A term used for the recorded explanations by the earliest people who were transported to the Three Corners of Civilization and had their memories taken during [[The Undoing]].
+---A term used for the recorded explanations by the earliest people who were transported to the Three Corners of Civilization and had their memories taken during [[The Undoing]].
 
 There are no recorded first hand accounts from [[The Awakening]]. As there were no resources for things like writing, but much of its nature was recorded in text that survived [[The Dragon War]].
 

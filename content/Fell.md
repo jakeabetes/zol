@@ -1,7 +1,6 @@
 ---
 title: "Fell"
----# The Fell
-*One of Zol's [[Planes]] of existence*
+---*One of Zol's [[Planes]] of existence*
 
 A dark and nightmarish echo of the [[Prime Material Plane]]. Home to many strange beings who make home in its hauntingly beautiful landscape. It exists under the influence of [[The Mortal Coil]].
 

@@ -1,7 +1,6 @@
 ---
 title: "Wayward Gods"
----# Wayward Gods
-[[Gods]] that are not aligned with [[The Watcher in The Door]], [[The Wandering Gods]], or the [[Void Gods]].  They may be benevolent, wrathful, or have their own personal goals.
+---[[Gods]] that are not aligned with [[The Watcher in The Door]], [[The Wandering Gods]], or the [[Void Gods]].  They may be benevolent, wrathful, or have their own personal goals.
 
 Some of them may be as powerful as some of the [[Zolaen Gods]] while others may only influence a small fragment of [[Zol]].
 

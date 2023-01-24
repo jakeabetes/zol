@@ -1,7 +1,6 @@
 ---
 title: "Religion"
----# Religion
-In [[Zol]] religion provides safety, power and information. The presence of the [[Gods]] is very well known, but their methods, intentions, and origins are largely a mystery.
+---In [[Zol]] religion provides safety, power and information. The presence of the [[Gods]] is very well known, but their methods, intentions, and origins are largely a mystery.
 
 Religion in Zol takes many forms. Some undergo their practice as an individual journey, or participate in one of the many [[Religious Organizations]]. There many churches, sects, cults, traditions, and practices. All with their own unique belief systems to make sense of the complex world of [[Zol]] and its mysterious [[Gods]].
 

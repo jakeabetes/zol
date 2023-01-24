@@ -1,7 +1,6 @@
 ---
 title: "The Watcher in The Door"
----# The Watcher in the Door
-*Supreme Zolaen God of Light, Major Deity*
+---*Supreme Zolaen God of Light, Major Deity*
 ![[The Watcher in the Door.png]]
 
 [[The Watcher in The Door]], also known as [[The Watcher]], is the being who spun the [[Sea of Monsters]] by speaking [[The First Tongue]]. He created the pantheon of [[Zolaen Gods]]. The Watcher was also the first being ever consumed by [[Goh'zul]], the being who's corpse became [[Zol]].

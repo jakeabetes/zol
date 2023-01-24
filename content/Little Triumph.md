@@ -1,7 +1,6 @@
 ---
 title: "Little Triumph"
----# Little Triumph
-*The worst city*
+---*The worst city*
 
 Built on the utmost edge of [[Kapesh]], surviving against all odds almost as if it were defying the gods themselves. [[Little Triumph]] is a place of little education, constant struggle.
 

@@ -1,7 +1,6 @@
 ---
 title: "The Korus Arctic"
----# The Korus Arctic
-![[The Korus Arctic.jpg]]
+---![[The Korus Arctic.jpg]]
 
 The cold beyond, The Third Corner. To most, [[The Korus Arctic]] is a place that exists within story. Tales of colossal monsters formed of ice, tribes of fearsome yeti, and ice that is so cold it will steal the magic out of even the most powerful of mages. While the tales of its majesty inspire fear and wonder, they are not often far from the truth.
 

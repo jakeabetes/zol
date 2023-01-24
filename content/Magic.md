@@ -1,7 +1,6 @@
 ---
 title: "Magic"
----# Magic
-Magic in [[Zol]] emanates from [[The Trinity]] from its metaphysical source within the [[Prime Material Plane]]. It manifests in 3 ways called [[The Wills]]. 
+---Magic in [[Zol]] emanates from [[The Trinity]] from its metaphysical source within the [[Prime Material Plane]]. It manifests in 3 ways called [[The Wills]]. 
 
 ![[spheres of magic diagram.png]]
 

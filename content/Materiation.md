@@ -1,7 +1,6 @@
 ---
 title: "Materiation"
----# Materiation
-An affliction caused by long term usage the imperfect implementation of [[Iron Light]]. Causing ones body to slowly degrade to a material state involved in the imperfect runes, causing euphoria and a slow painless death.
+---An affliction caused by long term usage the imperfect implementation of [[Iron Light]]. Causing ones body to slowly degrade to a material state involved in the imperfect runes, causing euphoria and a slow painless death.
 
 ![[materiation.png]]
 *A human artificer suffering from Materiation, causing his torso to reduce to an odorless smoke that fades to nothing almost instantly*

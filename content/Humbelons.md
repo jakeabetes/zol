@@ -1,7 +1,6 @@
 ---
 title: "Humbelons"
----# Humbelons
-Humbelons are a unique symbol within the city of [[Ka'thoor]]. These symbols manifest as simple painted earrings. Each color represents a favor the bearer wishes to give freely to those in need. 
+---Humbelons are a unique symbol within the city of [[Ka'thoor]]. These symbols manifest as simple painted earrings. Each color represents a favor the bearer wishes to give freely to those in need. 
 
 ## List of Humbelon Colors and their Meaning
 | Color | Meaning | Rarity |

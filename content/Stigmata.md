@@ -1,7 +1,6 @@
 ---
 title: "Stigmata"
----# Stigmata
-*The Holy City*
+---*The Holy City*
 
 ![[stigmata skyline 1.png]]
 

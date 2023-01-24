@@ -1,7 +1,6 @@
 ---
 title: "Ohlit"
----# Ohlit
-*Zolaen God of The Sea, Major Deity*
+---*Zolaen God of The Sea, Major Deity*
 ![[Ohlit the great jelly.png]]
 
 Ohlit, the great spirit of the sea. One of the most magnificent of the [[Zolaen Gods]]. Ohlit has domain over his creation, the most vast geographical feature of [[Zol]], the sea.

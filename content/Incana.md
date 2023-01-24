@@ -1,7 +1,6 @@
 ---
 title: "Incana"
----# Incana
-[[Incana]] [[Magic]] is one of the [[Schools of Magic]]. It is quite rare, especially in its most powerful forms. It is magic that involves the manipulation of fate and probability. It focuses the path of [[Nodes]] along the 4th dimension rather than a specific usage of [[Space, Matter, and Energy]].
+---[[Incana]] [[Magic]] is one of the [[Schools of Magic]]. It is quite rare, especially in its most powerful forms. It is magic that involves the manipulation of fate and probability. It focuses the path of [[Nodes]] along the 4th dimension rather than a specific usage of [[Space, Matter, and Energy]].
 
 This manipulation of [[Nodes]] allows a user to effectively increase or decrease luck that is in their very near future. At its most powerful it can even weave prophecies and change destinies. 
 

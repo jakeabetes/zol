@@ -1,7 +1,6 @@
 ---
 title: "Tellab, the Wise"
----# Tellab, The Wise
-*Zolaen God of Wisdom, Major Deity*
+---*Zolaen God of Wisdom, Major Deity*
 ![[Telab The Wise.png]]
 
 He who understands all and seeks for others to wield the same. Tellab, the Wise is a utilitarian god, who's mission is to give Zol the means to gain knowledge and wisdom on their own. He has domain over the knowledge of the world, and how it is grown.

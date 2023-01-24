@@ -1,7 +1,6 @@
 ---
 title: "Adrathar, Father of the Wind"
----# Adrathar, Father of the Wind
-*Wayward God of Storms, Major Deity*
+---*Wayward God of Storms, Major Deity*
 ![[adrathar storm.png]]
 
 He who weaves the wind, demands of the rain, and commands the lightning. [[Adrathar, Father of the Wind]] is one of the most powerful gods. He cares for strength, oaths, and honor. Adrathar is the creator of the storms that blow over [[Zol]].

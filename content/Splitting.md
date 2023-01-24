@@ -1,7 +1,6 @@
 ---
 title: "Splitting"
----# Splitting
-The act of subdividing ones mind to effectively create multiple minds in one. This grants a [[Caster]] the ability to achieve multiple [[Sympathetic bonds]] at one time. These bonds can accomplish multiple separate tasks, or focus on the same task to amplify the effect.
+---The act of subdividing ones mind to effectively create multiple minds in one. This grants a [[Caster]] the ability to achieve multiple [[Sympathetic bonds]] at one time. These bonds can accomplish multiple separate tasks, or focus on the same task to amplify the effect.
 
 - Understanding this concept initially is extremely difficult, let alone learning it. To acquire this ability from the ground up, one must initially form the neural pathways to do so. This is done by very particular cognitive exercises such as:
 	- Convincing ones self that a dropped object with fall upwards, then downwards, then to not fall at all. Then trying to convince ones self that combinations of these will happen simultaneously.

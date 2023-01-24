@@ -1,7 +1,6 @@
 ---
 title: "Introduction"
----# Introduction
-In its [[Origin]], [[Zol]] was spun from the [[Sea of Monsters]] in words spoken by [[The Watcher in The Door]]. Zol is never without strife, beauty, hardship, innovation, danger, majesty, mystery, and adventure.
+---In its [[Origin]], [[Zol]] was spun from the [[Sea of Monsters]] in words spoken by [[The Watcher in The Door]]. Zol is never without strife, beauty, hardship, innovation, danger, majesty, mystery, and adventure.
 
 A world thought to have once been ruled by Elves, Dwarves and Humans. These races, known as [[The Triumvirate]] used the power of [[The Trinity]] to create an advanced and prosperous society. Sprawling cities of life, art and culture once graced Zol. This was all lost in [[The Undoing]].
 

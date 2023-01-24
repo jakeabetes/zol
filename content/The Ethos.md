@@ -1,7 +1,6 @@
 ---
 title: "The Ethos"
----# The Ethos
-*The space in-between the [[Planes]] of Zol*
+---*The space in-between the [[Planes]] of Zol*
 
 The Ethos, a vast expanse that cradles all of [[Zol]]. Only the few who posses great magical power have ever explored it. Technically speaking, [[The Ethos]] is the parent realm that is [[Zol]].
 

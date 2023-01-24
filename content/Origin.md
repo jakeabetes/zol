@@ -1,7 +1,6 @@
 ---
 title: "Origin"
----# Origin
-[[Zol]] is the end of a cosmic cycle called [[The Circle]]. A product of thousands upon thousands of worlds cultivated, and consumed like livestock. Worlds made to sustain cosmic beings called the [[Great Old Ones]]. Amongst these cultivated worlds, one grew strong enough to fight back, and imprison its creator in [[The Great Wall of Roots]]. 
+---[[Zol]] is the end of a cosmic cycle called [[The Circle]]. A product of thousands upon thousands of worlds cultivated, and consumed like livestock. Worlds made to sustain cosmic beings called the [[Great Old Ones]]. Amongst these cultivated worlds, one grew strong enough to fight back, and imprison its creator in [[The Great Wall of Roots]]. 
 
 The being's name was [[Goh'zul]]. In his prison, the Great Old One was forced to slowly starve and rot away. As he did, his body attracted a myriad of creatures from all across the cosmic sea. They gorged on his infinite body for eons, forming The [[Sea of Monsters]]. Each and every being who partook in the flesh of the decaying god gradually lost their physical characteristics, devolving into worm like creatures. 
 

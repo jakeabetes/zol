@@ -1,7 +1,6 @@
 ---
 title: "Holyfield"
----# Holyfield
-![[Holyfield.jpg]]
+---![[Holyfield.jpg]]
 
 The Sacred Land, The First Corner. [[Holyfield]] is a region held high in some teachings of [[Zol]]'s [[Religion]]s. In these teachings, it is thought to be the first place where [[The Watcher in The Door]] began creating the world. Academics will tell you there is no real evidence of this, however the region possesses strange, and unique natural tendencies. Those who go there will also tell you there is an undefinable, gripping emotion that is associated within being in this place. A haunted feeling of beauty, awe, fear, and reverence. Something deep within ones gut they tells them they are not worthy of this place. These strange natural tendencies are known as [[The Hum]], and are most present as a mysterious musical humming 1/3rd of people can hear.
 
