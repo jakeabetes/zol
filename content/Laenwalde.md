@@ -2,24 +2,24 @@
 title: "Laenwalde"
 ---![[Laenwalde.jpg]]
 
-The Unified Kingdoms of the West. The largest political power in all of [[Zol]]. Laenwalde is a kingdom formed of the island of [[Arcadia]], the green hills of [[Eucaren]], and the mysterious sands of [[Saen]].
+The Unified Kingdoms of the West. The largest political power in all of [[Zol]]. Laenwalde is a kingdom formed of the island of [[Arcadia]], the green hills of [[Eucaren]], and the mysterious sands of [[Saen]]. These three regions are bound by code, trade, and military ties. However their citizens do not necessarily see their neighboring regions as *friends*. 
 
-## Cities
+## Regions and Cities
 Laenwalde is comprised of the three unified Kingdoms 
-- **Arcadia**
+- **Arcadia** - A proud island that has a culture deeply seated in military strength, heroism, and worship of the [[Zolaen Gods]].
 	- [[Audran]] - The Ruin City
 	- [[Penthe]] - The City of Glory
 	- [[Ryze]] - The Tower City
-- **Eucaren**
+- **Eucaren** - A pragmatic and communal people who live on the distant coasts of their lush, green, and peaceful slice of the world.
 	- [[Kahdinacht]] - Wine and Luxury
 	- [[Woogis]] - Slow Country Life
 	- [[Reach Run]] - The Central Hub of [[Airships]]
-- **Saen**
+- **Saen** - A gritty and toughened people of the dangerous desert. The people of Saen are those who have not given up the ancient ways of the Badlands.
 	- [[Kosskazoka]] - The Neon City
 	- [[Diddan]] - The Wild West
-	- [[Rockfire]] - The Volcanic City
+	- [[Rockfire]] - The Volcanic Oasis
 
-As well as a shared capital, The Floating City of [[Heliodor]] and its terrestrial sister settlement, [[Nerousea Station]].
+As well as a shared capital, The Floating City of [[Heliodor]] and its terrestrial sister settlement, [[Nerousea Station]] which is located in Eucaren.
 
 ## Wilderness and Climate
 Each of Laenwalde's three regions has its own natural landscape that differs from its neighbors
@@ -45,12 +45,12 @@ The people of each region are stereotyped as follows:
 - **Arcadia** - Thought to be an overly proud and patriotic people. Those who hail from the island think that Arcadia is the 'true' heart of the kingdom as it is where the capital was once from and now homes the strongest military in [[Zol]].
 - **Eucaren** - Thought to be a soft and laid back people. The disproportionate population of [[Halflings]], finest alcohols, and proportionally safest wilderness in all of [[Zol]].
 - **Saen** - Thought to be a rough around the edges people. Gruff gun slinging westerners, dirty beggars of the neon city, or religious devotees of the volcanic temples. 
-The different groups all coexist, but do tend to have a great deal of prejudice. However the people of Eucaren are seen as extremely friendly and unproblematic all across [[Zol]]. They are typically welcomed anywhere.
+The different groups manage a begrudging coexistence, with a great deal of prejudice. Eucaren tends to be a sort of exception here. Its people are seen as simple, but extremely friendly. They are considered unproblematic all across [[Zol]]. They are typically welcomed anywhere.
 
 ## Government, Economy, and Laws
 Laenwalde is ruled by [[King Tatelak II]] and his advisory council. This rule is conducted from the floating city of [[Heliodor]]. The instilment of [[King Tatelak II]] upon his throne in the flying city was done as an effort to rekindle the hope people once had for [[Laenwalde]]. However many feel there is a disconnect between the crown and its people. They were ruled by a council for so long and now feel that they are under the foot of a distant leader. The King's disposition is well intentioned, but in reality he is inexperienced and it has been a large change for [[Laenwalde]].
 
-Laenwalde's economy is quite self sufficient, the kingdom is large enough to provide all resources they reasonably require. There is a fair deal of trade of rare imports and exports from the east.
+Laenwalde's economy is quite self sufficient when it needs to be, the kingdom is large enough to provide all resources they reasonably require. However there is a fair deal of trade of rare imports and exports from the east.
 
 The [[Laenwalde Laws]] are consistent across all regions. This is good for maintaining order, but difficult for some as many feel that the laws should not be enforced as a wide net for all the regions and their cities. They instead push for each region having its own set of laws.
 

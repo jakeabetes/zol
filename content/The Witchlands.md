@@ -12,7 +12,8 @@ The region is taken by naturalists, wildly beastfolk, bandits, outsiders, wizard
 
 ## Points of Interest
 - **Godwood Deep** - The deepest extent of the largest forest in all of [[Zol]], The Godwood, which spans [[The Free Cities of Alderun]], [[Kapesh]], and [[The Witchlands]]. Famously dangerous, the Godwood is sometimes referred to as 'the inside edge of the map' as it is largely unexplored and new things are constantly discovered within it.
-	- **[[The Alktree Haven]]** - A remote convent of like-minded individuals who seek refuge within [[The Witchlands]] 
+	- **The Alk** - A grand and ancient tree. It is the eldest of its magical, endangered species. The tree emits a protective ward over its local region. Other Alktrees exist throughout the region, however they are extremely rare. Their roots descend remarkably deep into [[The Underdark]]. Their wood is said to bring good luck, and almost seems to glow in moonlight. The heartwood of the tree is much stronger than most metals, and is revered in the art of [[Imbuement Perpetuum]]. Some believe the Alktrees are tied to [[The Great Wall of Roots]], but this is mostly based upon folklore. This tree acts as the meeting place for [[The Coven]].
+	- **[[The Alktree Haven]]** - A remote convent of like-minded individuals who seek refuge within [[The Witchlands]]. Built under the protection of a juvenile Alktree.
 	- **The Greatrocks** - A collection of massive boulders located in the very center of [[The Witchlands]].
 	- **Old Barlen** - A collection of old ruined buildings mysteriously located within Godwood Deep. Not quite a town itself, but almost like a chunk of an old forgotten city. No one knows its origin, but it was discovered during The [[Beast Ire]] Plague. A nest of monsters to be avoided at all costs.
 	- **Pine Valley** - A beautiful valley populated by many [[Beastfolk]]
@@ -22,7 +23,7 @@ The region is taken by naturalists, wildly beastfolk, bandits, outsiders, wizard
 - [[Stormwall]]
 	- **Mortal Valley** - A cursed place known to be inhabited by Death [[Witches]].
 - [[Demodemacht]]
-	- **Zorberg** - A tiny, out of place village tucked into the foothills of [[Demodemacht]]. This quaint town is kept safe by the [[Great Hearth Witch Luna Elzamore]]. It is home to the broken outcasts of society she has taken into her care.
+	- **[[Zorberg]]** - A tiny, out of place village tucked into the foothills of [[Demodemacht]]. This quaint town is kept safe by the [[Great Hearth Witch Luna Elzamore]]. It is home to the broken outcasts of society she has taken into her care.
 	- **The Caverns of Ghar Nalon** - A complex cave system that goes deep beneath [[Zol]].
 	- **Temple of the Moons** - A mysterious temple located within the peaks of [[Demodemacht]]. Inhabited by the infamous Sex [[Witches]]. Strangely, even if you know the way to this temple, you can only arrive at dawn. Otherwise it is hidden to any who seek it.
 	- **Axidawn Valley** - The furthest north reaches of [[The Witchlands]]. Tucked into the mountains this valley is home to [[The Cult of the Mothers]]. It is said to be an absurd, and treacherous place.
