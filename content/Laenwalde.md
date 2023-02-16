@@ -61,10 +61,10 @@ The regions of [[Laenwalde]] all have a unique art and culture associated with t
 - **Saen** - known for idealizing the concepts of strength and enduring hardship. Its art manifests as martial combat, weapon craftsmanship, large narrative murals, and sculptures.
 
 ## Academics and Magic
-Academia in [[Laenwalde]] is almost exclusively associated with [[The University]]. An institution that explores all three of [[The Wills]] with a dedicated branch of The University:
-- The [[Arcanum]], focused on the pursuit of [[Arcana]]. Its primary campus located within the city of [[Ryze]].
+Academia in [[Laenwalde]] is almost exclusively associated with [[The University]]. An institution that explores all three of [[The Wills]], each with a dedicated branch of The University:
+- The [[Arcanum]], focused on the pursuit of [[Arcana]]. Its primary campuses located within the city of [[Ryze]] and [[Audran]].
 - The [[Viridium]], focused on the understanding of the natural world through [[Viridescence]]. Its primary campus located in [[Kahdinacht]].
-- The [[Observum]], focused on forming and comprehending mortal bonds with [[Gods]]. Its primary campus located within [[Rockfire]].
+- The [[Observum]], focused on forming and comprehending mortal bonds with [[Gods]]. Its primary campuses located within [[Rockfire]] and [[Penthe]].
 The [[Arcanum]] is by far the largest branch of [[The University]]. This is because [[Arcana]] best fits to conventional academics. Its counterparts deal with two main factors that make its pursuit much more difficult to approach empirically:
 - The experience of using one of these wills ([[Observance]] or [[Viridescence]]) is very subjective and differs from person to person
 - There is no sure-fire method of gaining the ability to use these wills. They require patience, skill, and a rare predisposition to access

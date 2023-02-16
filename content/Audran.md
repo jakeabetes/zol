@@ -46,7 +46,7 @@ One part ruined, one part rebuilt, one part ramshackle slum. The city is fast pa
 | Criminals | Criminal | A massive criminal network exits within the city. Many gangs, alliances, and rivalries fill the alleys of the city with violence and thievery. The underbelly of [[Audran]] is a world of its own, and must be traversed carefully. Its structure is nearly as complex and ever changing as its noble courts. Some of its major players are: The Roving Gang, The Tiefling Mafia, The Unruly, The Nakaza, and many more. |
 | Inquisitors | Law Enforcement | A class of highly trained individuals from [[The First Bastion]], sent to bring order to the city. These high ranking members of the city guard aim to clean up the streets and eliminate crime. However they have been at it for quite some time with little net change. |
 | Students | Academic Station | Students who attend [[Charenbridge]], an academic institution of the [[Arcanum]], a branch of [[The University]]. These individuals are known to come from all backgrounds (usually low born) as [[Charenbridge]] admits all students and does not charge tuition. |
-| Pedagogue | Academic Station | Staff who teach at [[Charenbridge]], an academic institution of the [[Arcanum]], a branch of [[The University]]. These individuals vary from practiced writers, to skilled and deadly [[Arcanists]]. |
+| Professors | Academic Station | Staff who teach at [[Charenbridge]], an academic institution of the [[Arcanum]], a branch of [[The University]]. These individuals vary from practiced writers, to skilled and deadly [[Arcanists]]. |
 
 ## Goods and Services
 | Name | Type | Description |
