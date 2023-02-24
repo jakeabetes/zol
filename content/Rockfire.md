@@ -40,13 +40,15 @@ No city of The Three Corners is known to house one of the [[Gods]], save for [[R
 | Askers           | Academic/Religious Station | Those of the [[The Temple]] who teach, similar to, but not exactly the same as a Professor. Many Askers posses boons of power from a god.                                                                                                                                                                                                                                                       |
 
 ## Goods and Services
-| Name                 | Type                 | Description                                                    |
-| -------------------- | -------------------- | -------------------------------------------------------------- |
-| Castle Infernus      | Keep                 | The city's main keep, an imposing structue of obsidian         |
-| Rockfire Station     | Train Station        | The city's train station                                       |
-| Rockfire Convergence | Teleportation Circle | The city's main teleportation circle. Located within the keep. |
-| Temple Convergence   | Teleportation Circle | [[The Temple]]'s teleportation circle.                         |
-| [[The Temple]]       | College              | A branch of the [[Observum]], an institution under the umbrella of [[The University]]. Focused on the understanding of [[Gods]], located within the city because of its closeness to [[Daetro]].                                                               |
+| Name                 | Type                 | Description                                                                                                                                                                                      |
+| -------------------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Castle Infernus      | Keep                 | The city's main keep, an imposing structue of obsidian                                                                                                                                           |
+| Rockfire Station     | Train Station        | The city's train station                                                                                                                                                                         |
+| Rockfire Convergence | Teleportation Circle | The city's main teleportation circle. Located within the keep.                                                                                                                                   |
+| Temple Convergence   | Teleportation Circle | [[The Temple]]'s teleportation circle.                                                                                                                                                           |
+| [[The Temple]]       | College              | A branch of the [[Observum]], an institution under the umbrella of [[The University]]. Focused on the understanding of [[Gods]], located within the city because of its closeness to [[Daetro]]. |
+| Blacksquare          | Market               | The city's trade district                                                                                                                                                                        |
+| The Active Tap       | Tavern               | A tavern popular with travelers, students and locals alike.                                                                                                                                                                                                 |
 
 ## Authority
 The city is overseen by High Lady Remeera Lorsel, but much influence over the city comes from [[Daetro]] through The Ash Gifted. Politically the crown rules the city, but even the king knows forcing the city one way or another is a tricky gambit. [[Daetro]] allows for the crowns presence within the city, but sees the city as his own.[[Daetro]] would protect the city, but would never fight on the crown's behalf.
