@@ -28,8 +28,8 @@
       {{$split := split $inner "|"}}
       {{$path := index $split 0 | relURL}}
       {{$width := index $split 1}}
-      {{/* Click Zoom:  <div class=\"container\"><input type=\"checkbox\" id=\"zoomCheck-%s\"><label for=\"zoomCheck-%s\"><img src=\"%s\" width=\"%s\" /></label></div>*/}}
-      {{$img := printf "<div class=\"container\"><a href=\"%s\"><img src=\"%s\" width=\"%s\" /></a></div>" $path $path (default "auto" $width)}}
+      {{/* Click Zoom:  <div class=\"container\"><a href=\"%s\"><img src=\"%s\" width=\"%s\" /></a></div>*/}}
+      {{$img := printf "<div class=\"container\"><input type=\"checkbox\" id=\"zoomCheck-%s\"><label for=\"zoomCheck-%s\"><img src=\"%s\" width=\"%s\" /></label></div>" $path $path $path (default "auto" $width)}}
       {{$content = replace $content . $img}}
     {{else}}
       {{$inner := . | strings.TrimPrefix "[[" | strings.TrimSuffix "]]" }}
