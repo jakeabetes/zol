@@ -5,4 +5,4 @@ title: "The Elven-Dwarven Concord"
 
 The text illustrated the possibility of shared history between these individuals. Both groups may have faced the consequences of the humans actions in [[The Undoing]]. This theory acted as a major step stone towards an alliance between the two nations.
 
-The groups formed a concord that allowed them to fruitfully share [[Gethsemane]] and defend it together. Despite the concord, the majority of [[Elves]] and [[Dwarves]] of [[Gethsemane]] do not like one another.
+The groups formed a concord that allowed them to fruitfully share [[Gethsemane]] and defend it together. Despite the concord, the majority of [[Elves]] and [[Dwarves]] of [[Gethsemane]] do not like one another. However there are some who get along quite well, and even live in each other's cities.

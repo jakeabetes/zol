@@ -1,3 +1,83 @@
 ---
 title: "Xerul"
----Rehanoris - castle
+---*The City of the High Elves*
+![[Xerul 3.png]]
+
+The elegant city of [[Xerul]] rests in the center of [[Gethsemane]]. Populated by the proud High Elves, the city is ancient, and resplendent. Surrounded by the lush forest of Yan Nalora, the city is harmonious with the local nature. Its citizens carry a deep love and respect for both their city, and territory. It is one of the many cities within [[Gethsemane]] that is very hard for outsiders to reach, as [[The Great Tracks]] do not contain it within its routes. Because of this, [[Xerul]] is almost mythical to common folk of the other kingdoms.
+
+![[xerul v2.png]]
+
+## Overview
+| Aspect | Description |
+|-|-|
+| Main Opportunity | The city is comparable to a grand work of art, comprised over millennia by the many dedicated hands of [[Elves]]. A sort of utopia for its people. Everything has been designed and thought out to the greatest detail. Citizens spend their whole lives honing a single skill to a level of mastery that surpasses most anything seen across The Three Corners. Those who fit into the social structure of the city, have some of the highest quality-of-living in all of [[Zol]] |
+| Main Challenge | To maintain such a perfect utopian city, many rules have to be implemented at every level. Religious regulations, cultural rules, and judicial laws are placed all throughout the city's society. Actual laws are enforced by the city's leadership, but the vast majority of restrictions placed upon an individual come from the general populace. One may face serious consequences if they are known for noisy disruptions, rude behavior, disrespect of nature, and things of the like. Citizens can exercise the Right of Zsar Daeum, a legal process where a group of 15 or more citizens can call a legal trial for poor behavior of another citizen. If found guilty, the punishment may involve things as light as a public apology, or as grave as banishment from the city. While this right is rarely exercised upon neighbors, its existence shapes the behavior of its citizens. However the law has special implications for outsiders, where the right can be exercised by as few as 3 citizens and usually has graver consequences.  |
+| Climate | Temperate |
+| Cuisine | Fruits, Wine, Farmed Vegetables, Wild Game, Freshwater Fish |
+| Export | Art, High Quality Hand-crafted Goods, Wine |
+| Size | Large |
+| City Leader | Maer Liordan Re'aan |
+| Primary Language(s) | Elvish |
+| Majority Racial Group(s) | High [[Elves]] |
+| Majority Religion(s) | Trinity-Centric |
+
+## Major Features
+| Feature | Description |
+|-|-|
+| Distinguishing Features | Forested, Hilly, Riverside |
+| Architecture | Large Elegant Towers, Complex Detailing, Divine Proportions |
+| Color(s) | White |
+| Symbolism | A circle of 9 birch leaves |
+| Defenses | Very high walls, territory dangerous to outsiders, master archers, hybrid fleet |
+
+## People Groups
+| Group            | Type         | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| ---------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| High Court       | Social Class | The most highly respected members of the city. Those who are of the greatest skill within their profession, and are welcomed into the High Court by the Maer. These individuals are respect as the city's leaders, with the Maer at their head. Members serve terms of 15 years, and may or may not be renewed after that. Society typically likes to have many people move through the position, but the most respected and successful are renewed every decade. There are typically around 50 members of the High Court at a time, and rank is determined by age. |
+| General populace | Social Class | The people of the city. The vast majority. Citizens of [[Xerul]] live lives that common folk of other cities would view as noble and lavish, but here it is merely the general quality of life.                                                                                                                                                                                                                                                                                                                                                                     |
+| Slaves           | Social Class | Those charged with significant crimes who are forced to work and serve in recompense. Not allowed to live within the city, slaves typically reside in mining or lumber camps beyond the walls. Made up mostly of captured thieves and bandits, almost no slaves are from the city.                                                                                                                                                                                                                                                                                  |
+| Mentors          | Career Level | Those who are very skilled within their profession. These individuals take on a single student at a time, and educate them on the ways of their craft.                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Apprentices      | Career Level | Young citizens who are learning the ways of a profession from a mentor. These individuals spend the first centaury of their lives building skills to go on in their own pursuits. These individuals will have multiple mentors, each of which will train them in a different aspect of their career path.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+
+## Goods and Services
+| Name              | Type                 | Description                                                                                                                                           |
+| ----------------- | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Eysdell           | Keep                 | The city's main keep                                                                                                                                  |
+| Xerul Convergence | Teleportation Circle | The city's main teleportation circle. Located within the keep.                                                                                        |
+| Orlnor Market     | Market               | The city's grand market. All stores sell wares of fine quality, and it is expected that customers treat everything for sale as if it were a treasure. |
+| The Silver Dell   | Inn                  | A beautiful Inn, accommodating for the city's guests. Owned by a skilled cook and brewmaster Nala Riviell. An elven master of the culinary arts.      |
+| The Amidon        | Restaurant           | A famed dining establishment, adored by the city's people and their guests. It employs a staff of legendary chefs and is owned by Szerse Yom'al, on of [[Zol]]'s most famous chefs.                                                                                                                                                      |
+
+## Authority
+The city is ruled by Maer Liordan Re'aan, a proud elven ruler of 412 years. He and his high court act as the deciding powers of the city. A Maer is an elven title given to those who reach the highest political rank. A Maer is only removed from this position when they die or are overthrown. A new Maer is decided by the High Court, and must have been a member of the High Court at one point in their lives.
+
+The city has effectively no crime, save for the occasional thief who comes to the city attempting to steal something of value.
+
+[[Xerul]]'s military is of medium size, but is extremely effective. They are armed with the highest quality of equipment for their rank, and are remarkably well trained.
+
+### Laws
+The city enforces its own laws.
+
+| Law                                 | Severity    | Description                                                                                                                      |
+| ----------------------------------- | ----------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| Murder                              | High        | If one kills outside of self defense, or does not have governmental permission. It is a great criminal act                       |
+| Void Worship                        | High        | One cannot conduct worship of the [[Void Gods]]                                                                                  |
+| Detrimental [[Necromancy]]          | High        | Necromantic magic that does not heal is considered a great crime.                                                                |
+| Thievery                            | Medium/High | Theft, breaking and entering, forgery, fraud, etc. is punished in respect to the severity of the crime                           |
+| Assault                             | Medium/High | Harming another without due cause in any manner is punished in respect to the severity of the harm done                          |
+| Organized Worship of Wandering Gods | Medium/High | Conducting worship of [[The Wandering Gods]] in an organized manner is not allowed. One many continue private prayer or worship. |
+| Zsar Daeum                          | Medium      | A law that translates to 'Social Balance', where 15 citizens can band together and bring a single problematic citizen to trial, or 3 citizens can bring a problematic guest of the city to trial.                                                                                         | 
+| Cognitive Enchantment               | Medium      | Manipulating another person's mind via [[Enchantment (School)]] without governmental permission is a crime                       |
+| Slander                             | Low         | Harming the reputation of a staple business or High Court that would cause financial harm, or damage their reputation (especially in regards to their craft) is punishable by a fine, assuming the claims are unfounded.            |
+
+
+## Modern Importance
+[[Xerul]] is viewed as a grand, ancient, and fierce city by those from outside of [[Gethsemane]]. Many commoners would see it as a place of pure myth, if it weren't for their historical influence.
+
+Known for their export of extremely fine goods, powerful military, and xenophobia. 
+
+## Historical Importance
+The city is central to [[Gethsemane]]'s history, especially in terms of warfare. Its prominence in histories and stories makes it almost seem like the capital of [[Gethsemane]], however the region has no such station.
+
+## Other Things of Note
+- [[Xerul]] is not fond of outsiders, but is especially cold to [[Humans]].

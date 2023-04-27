@@ -78,6 +78,8 @@ The city subscribes to the [[Laenwalde Laws]].
 In the current day, the city is known mostly for exporting fine drinks that are sent all over The Three Corners of Civilization. Those who view the city more closely see its over-saturation with important nobles of [[Laenwalde]]. They know it to be a place of naturalistic study, and wild artisans.
 
 ## Historical Importance
+Located within what was originally part of [[Gethsemane]], the region was a safe haven for a few tribes of peaceful [[Halflings]] and [[Gnomes]] for a few hundred years, beginning around the year 3000. The safe haven was granted by the Wood [[Elves]] of [[Laelanor]], and was later given in full when the elves received aid from [[Gethsemane]] during the [[Western War]]. It was an act of kindness, but some believe the [[Elves]] never truly wanted any claim of it due to its latitude being largely equal to that of [[The East Mounts]]. When it was gifted, the tribes constructed the city of [[Kahdinacht]].
+
 For many generations after the destruction of [[Audran]], [[Kahdinacht]] became the defacto capital of [[Laenwalde]]. It still sits high on a pedestal in [[Laenwalde]] culture because of this. 
 
 ## Other Things of Note
