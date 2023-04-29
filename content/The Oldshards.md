@@ -13,7 +13,7 @@ The objects were capable of immense feats such as:
 	- Those reborn would regain old memories at the midway point in their lives
 - Giving strange visions to its followers
 	- Some think these are cryptic dreams, while others believe it visions from the past lives of souls who have gone through it
-- Any child born in proximity to it emerges as a full blooded changeling, regardless of parentage.
+- Any child born in proximity to it emerges as a full blooded changeling, regardless of racial parentage.
 
 To [[The Glassius Reach]], they are very sacred objects. To the other kingdoms they are seen as objects of evil, alien nature.
 
