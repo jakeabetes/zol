@@ -29,6 +29,18 @@ Minor Deities are beings who have a great deal of power that gives them a degree
 
 Major Deities are beings who are vastly more powerful than most other beings. Their power and influence is only kept in check by other Major Deities with a contradictory will, or great efforts of coordinated weaker beings. To these creatures, a single mortal is but a blip in the cosmos. 
 
+## Small Gods
+A term similar to Minor Gods, the title *Small God* is given to beings who are seen as being at the pinnacle of mortal power, or the bare-minimum of godhood. Mostly this consists of beings like:
+- [[Wordbearers]]
+- Grand Insightors of [[The Kybis Assembly]]
+- [[The Page of Cups]]
+- [[Draedon, the Ascended Wizard]]
+- [[King Galliard]] due to his influence over [[The Crown Golems]]
+- The [[Hags]]
+- Members of [[The Coven]] or [[The Cult of the Mothers]]
+
+However some philosophers who write about individuals like Lord Leonell Vanveld of [[Holocene]] as if they are a sort of Small God due to their extreme wealth, or other power they posses. In short, the term *Small God* is not a quantifiable level of influence. It is instead a descriptor used to illustrate the assumed level of one's power, and note the fact that they may walk the line of godhood. 
+
 ## Wordbearers
 Mortals who have achieved the ability to harness [[The First Tongue]] are known as [[Wordbearers]]. They are considered gods by some. It is not known how many [[Wordbearers]] there are, but the ones who are public play a large role in society.
 
@@ -43,3 +55,4 @@ These beings are known of, but bear little modern significance in the day to day
 A complicated topic in a world with so much power, so many gods, and so little that is understood. 
 
 [[Religion]] in [[Zol]] takes many shapes and forms.
+

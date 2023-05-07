@@ -53,9 +53,10 @@ Those who do make it to the surface of [[The Grand Nothing]] usually travel arou
 - **The Drifting Isles** - A flock of magical floating islands that hover above [[The Grand Nothing]]. They suddenly drifted in one day during the early second age and have stayed ever since. They arrange themselves like a giant arrow with its point above the far eastern reaches of The Baradan Canyon. They float around, bump into each other, and rotate places. Some rare islands even have magically endless sources of water on them that baffle academics. The space covered by these islands widens out the further you get from the tip of the arrow, and reach all the way to the horizon. Explorers frequent these islands in search of treasures and secrets, but most of them are just small jungles populated by flying critters, and the occasional tribe of [[Kobolds]] that have moved in.
 	- **The Shaded Stretch**
 		- The area beneath The Drifting Isles. Notable only because the possible rock falls pose a danger.
-- **The Edgeless Deserts and The Shallow Seas** - what lies beyond the mapped edges of [[The Grand Nothing]]. Most of the region that is accessible to [[Zol]] is only possible because of The Belowcean draining. Much of what is known to lie beyond is an ocean that is only a few feet deep, interspersed with small desert islands.
+- **The Edgeless Deserts and The Shallow Seas** - what lies beyond the mapped edges of [[The Grand Nothing]]. Most of the region that is accessible to [[Zol]] is only possible because of The Belowcean draining. Much of what is known to lie beyond is an ocean that is only a few dozen feet deep, interspersed with small desert islands.
 	- **The Shallow Coast**
-	- The closest edge of the Shallow Sea to main land [[Zol]].
+		- The closest edge of the Shallow Sea to main land [[Zol]].
+		- Explored by brave and strange sailors and pirates who seek what lies beyond the horizon
 
 ## Climate
 The region varies from temperate to dry desert. it is worth noting that days within much of [[The Grand Nothing]] are shorter because of the massive cliffs in the west that block out the sun. During the night, the region becomes very cold.

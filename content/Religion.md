@@ -35,11 +35,12 @@ There is a vast number of perspectives from which [[Zol]] and its [[Gods]] are u
 	- *Roughly 5% of [[Zol]]'s population follow this belief system*
 	- This belief system operates based on the assumption that mortals need not revere [[Gods]], as they are merely beings. Their power does not make them holy, only more present in [[Zol]]. The specific ideas differ from person to person, but largely revolves around skepticism towards information about the gods divined through worship.
 
-- ### Worship Obscura
+- ### Exaltation Obscura
 	- *Roughly 5% of [[Zol]]'s population follow this belief system*
 	- This belief system operates consolidates all beliefs that do not subscribe to any other system. This may be the worship of some obscure force that is not understood by [[Zol]] or something of the like. Examples of this are:
 		- The [[Church of The Hum]]
 		- [[The Oldshards]]
+		- Cosmic beings such as the [[Great Old Ones]]
 
 - ### Void Worship
 	- *Roughly 2% of [[Zol]]'s population follow this belief system*

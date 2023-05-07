@@ -18,7 +18,12 @@ The objects were capable of immense feats such as:
 To [[The Glassius Reach]], they are very sacred objects. To the other kingdoms they are seen as objects of evil, alien nature.
 
 [[The Oldshards]] are:
-- [[The Apex]] - Once of [[Yorn et Gaul]], now either lost or destroyed
-- [[The Vertex]] - of [[Corinth]]
+- [[The Apex]] - Once of [[Yorn et Gaul]], now either lost or destroyed. An artifact know to poses influence over matter and energy, along side its other properties as one of [[The Oldshards]]
+	- Symbolized as a tall, narrow trapezoid, with the wider side on top
+- [[The Vertex]] - of [[Corinth]] An artifact know to poses influence over possibility and may even be able to influence time itself, along side its other properties as one of [[The Oldshards]]
+	- Symbolized as a tall, narrow pentagon
 
 Some think these objects are from [[The Before]], while others believe they are not even from [[Zol]] at all, possibly something even older than [[Zol]] itself.
+
+## The Oldshards and The Pattern
+[[The Pattern]], is an ideal held highly within the culture of [[Changelings]]. This 
