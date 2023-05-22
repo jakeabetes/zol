@@ -24,6 +24,7 @@ Gardens, shops, restaurants and theaters line its stone brick streets. Many nobl
 | Cuisine | Fine imported foods, fine wines, farmed good, fish |
 | Export | Wine, art, textile |
 | Size | Medium |
+| Outer Villages| Some |
 | City Leader | High Lady Uraka Jirona |
 | Primary Language(s) | None |
 | Majority Racial Group(s) | None |

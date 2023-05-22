@@ -20,6 +20,7 @@ Archaic, The Eldest city of [[Zol]]. Archaic sits nested in the northern foothil
 | Cuisine | Hearty Meat and Potatoes, Magically Created Foods, Imported Wine, Ale |
 | Export | Education |
 | Size | Medium |
+| Outer Villages| Some |
 | City Leader | Lord Philen Boran |
 | Primary Language(s) | Human, Common |
 | Majority Racial Group(s) | Human |

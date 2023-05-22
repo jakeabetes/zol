@@ -37,6 +37,7 @@ These groups are not distinct from one another, there are citizens who exist all
 | Cuisine | Spicy foods, wild game, dried fruits, fermented foods |
 | Export | Trade Hub, textiles, hides/furs, rare goods |
 | Size | Medium |
+| Outer Villages| Few |
 | City Leader | Elder Err'del Raeshik |
 | Primary Language(s) | Orcish |
 | Majority Racial Group(s) | Orcs |

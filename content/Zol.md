@@ -14,8 +14,8 @@ title: "Zol"
 - Historical Timeline (100%)
 - Regions (100%)
 - Gods (90%)
-- Cities (70%)
-- Interactive Map (5%)
+- Cities (90%)
+- Interactive Map (5%, may not be included in version 1)
 - Lore to fill gaps (characters, objects, events, and other specific concepts of note) (0%)
 - Final Cleanup (0%)
 
@@ -32,9 +32,6 @@ title: "Zol"
 - [[Historical Timeline]]
 - [[Planes]]
 - [[Races]]
-- The Realms of Zol
-	- The Three Corners of Civilization
-	- Lorelhiem
 
 ## The Three Corners of Civilization
 ![[Zol World Map v1.png]]
@@ -76,4 +73,4 @@ and 4 Seas
 ## Lorelhiem
 A Distant and strange feudal land rumored to be far west of The Three Corners of Civilization, beyond the reaches of nautical technology and teleportation magic. A strange ever present fog in the vast sea prevents any magical observation of this place.
 
-(Note: This is the one of the planned future expansions of [[Zol]])
+(Note: This is the one of the planned future expansions of [[Zol]]. I have it hear as a placeholder to illustrate that the world is bigger than what is on this site, and I plan to grow it!)

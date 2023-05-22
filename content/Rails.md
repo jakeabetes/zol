@@ -22,6 +22,7 @@ Rails is also one of the few cities that have the Great Tracks running directly 
 | Cuisine | Multicultural, Imported goods |
 | Export | Labor, [[Trains]]  |
 | Size | Medium |
+| Outer Villages| Many |
 | City Leader | Grand Artificer Janeesa Query |
 | Primary Language(s) | None |
 | Majority Racial Group(s) | None |

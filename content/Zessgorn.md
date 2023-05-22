@@ -30,6 +30,7 @@ Zessgorn is a beautiful costal city, it is known for its plethora of colorful ta
 | Cuisine | Fish, fresh fruits, cheeses, olive oil, spiced bread, and wine |
 | Export | Wine, Fruit, Fish, Textiles, Salt |
 | Size | Large |
+| Outer Villages| Many |
 | City Leader | Esartes Hald |
 | Primary Language(s) | Common |
 | Majority Racial Group(s) | None |

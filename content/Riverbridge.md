@@ -19,6 +19,7 @@ Its name, originally Sea Hold, was mistranslated several times in its constant c
 | Cuisine | Fish, Imported Foods, Farmed Goods, Rum |
 | Export | Fish, Ships |
 | Size | Large |
+| Outer Villages| Few |
 | City Leader | Lady Trell Gallan  |
 | Primary Language(s) | Human, Elvish, and Dwarvish |
 | Majority Racial Group(s) | Humans, Elves, and Dwarves |

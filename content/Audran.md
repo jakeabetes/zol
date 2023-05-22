@@ -22,6 +22,7 @@ One part ruined, one part rebuilt, one part ramshackle slum. The city is fast pa
 | Cuisine | Cultivated Fruits, Farmed Goods, Flatbread and rice based meals |
 | Export | Investments, medicine, coffee, dyes, textiles, paper, books, and ink |
 | Size | Massive |
+| Outer Villages| Many |
 | City Leader | High Lord Beld Bordana |
 | Primary Language(s) | Common |
 | Majority Racial Group(s) | None |

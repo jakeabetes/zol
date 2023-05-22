@@ -6,14 +6,15 @@ Ocean waters filled with bounties entombed in ice. [[The North Sea]] is a region
 
 [[The North Sea]] is thought to span far into the north east, but eventually narrows out to the very distant reaches of [[The Grand Nothing]] and The Bleak Walls Beyond of [[The Korus Arctic]].
 
-The sea does contain a single city that most believe is only legend: [[Yoel Sundarum]].
-
 ## History and Inhabitants
 ![[The North Sea 2.png]]
 
 Those who sail the region know its dangers well. They search for bounties of fish, and valuable resources held within its islands. However one must return to port lest they be destroyed within the [[Greatwinds]].
 
 The few who live in the magic iceberg city of [[Yoel Sundarum]] go to great lengths to ensure their city is safe from storm and sea monster. Even employing special warriors who hunt sea monsters that tread too close to their city.
+
+## Cities
+The only city within [[The North Sea]] is [[Yoel Sundarum]]. A Mythic City of Ice, a distant and isolated place many believe does not even exist. It does not operate within the society of the other cities.
 
 ## Borders
 The sea has coast and cliff upon:

@@ -19,6 +19,7 @@ They city was originally an outpost, called Triumph, placed for the purpose of e
 | Cuisine | Wild Game, Hearty foods |
 | Export | None |
 | Size | Small |
+| Outer Villages| Few |
 | City Leader | Lord Delfin Baron |
 | Primary Language(s) | Human |
 | Majority Racial Group(s) | Human |

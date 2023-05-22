@@ -18,6 +18,7 @@ Similar to its sister elven cities, it is not a place built for outsiders. Howev
 | Cuisine | Largely vegetarian meals, only meat consumed is wild game. Typically prepared in the form of Tapas. |
 | Export | None |
 | Size | Small |
+| Outer Villages| None |
 | City Leader | Maer Sylas Ser'sal |
 | Primary Language(s) | Elvish |
 | Majority Racial Group(s) | Wood [[Elves]] |

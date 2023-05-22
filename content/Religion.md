@@ -21,7 +21,7 @@ There is a vast number of perspectives from which [[Zol]] and its [[Gods]] are u
 	- Additionally, [[Wordbearers]] who serve the greater good are thought to be in alignment with the [[The Trinity]].
 	- Shares harmony with Zolaen-Centric Beliefs
 
-- ### Polytheism
+- ### Monotheism or Polytheism
 	- *Roughly 10% of [[Zol]]'s population follow this belief system*
 	- This belief system recognizes each god as an individual being, and does not judge them based on their pantheon. Followers of this belief typically focus on a single god, or small group of gods based on the individuals selection. This system typically operates under the assumption that [[The Undoing]] was caused by the [[Gods]], but it is not know which gods. So judgement is not cast.
 

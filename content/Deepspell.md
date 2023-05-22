@@ -18,6 +18,7 @@ Deepspell, the Arcane City. Located in [[The Free Cities of Alderun]]. Deepspell
 | Cuisine | Farmed goods, hearty meat-and-potatoes meals, wild game, magically created foods, ales and mead |
 | Export | Education, [[Apparatum]] |
 | Size | Large |
+| Outer Villages| Few |
 | City Leader | Lady Zed Dion |
 | Primary Language(s) | None |
 | Majority Racial Group(s) | None |

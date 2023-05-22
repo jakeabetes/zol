@@ -20,6 +20,7 @@ On the opposite end of things, the fanatical members of society have begun to la
 | Cuisine | Exotic farmed goods, fish, exotic spices |
 | Export | None |
 | Size | Large |
+| Outer Villages| Some |
 | City Leader | Yemodhan Surrite |
 | Primary Language(s) | Changeling |
 | Majority Racial Group(s) | [[Changelings]] |

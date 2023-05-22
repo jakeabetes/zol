@@ -31,6 +31,7 @@ Identifiable by its ivy covered, weathered and off-white stone walls. Hanen is a
 | Cuisine | Farmed goods, hearty meat-and-potatoes meals, wild game, ales and mead |
 | Export | Agriculture, Mercenaries |
 | Size | Small |
+| Outer Villages| Some |
 | City Leader | Poe Abbarand |
 | Primary Language(s) | Common |
 | Majority Racial Group(s) | None |

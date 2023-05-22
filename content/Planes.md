@@ -71,7 +71,9 @@ A planet is a discrete, usually spherical plane that floats freely amongst [[The
 
 Realms are planes that are not necessarily discrete and do not have to subscribe to Euclidean Geometry. They may be infinite, repeating, fractal, or end abruptly at their edges.
 
-In [[The Cosmos]], Parent realms are usually discerned by some sort of barrier between them and the rest of the universe. They typically contain many lesser planes bound to a [[Prime Material Plane]], as well as their own local section of [[The Cosmos]] similar to [[The Ethos]].
+In [[The Cosmos]], Parent realms are usually discerned by some sort of barrier between them and the rest of the universe. They typically contain many lesser planes bound to a [[Prime Material Plane]], as well as their own local section of [[The Cosmos]] similar to [[The Ethos]]. 
+
+As an example: within [[Zol]], [[The Prime]] is the parent realm. Its barrier is [[The Great Wall of Roots]]. The local part of the universe within that barrier is known as [[The Ethos]].
 
 Planets can exist on their own or within a realm. Realms are rarely contained by a planet, but Realms usually contain other realms.
 

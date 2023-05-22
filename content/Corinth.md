@@ -16,6 +16,7 @@ A towering city of sleek black stone, and sharply accented structures. Home to [
 | Cuisine | Exotic farmed goods, fish, exotic spices |
 | Export | Fine goods (sent mostly to [[Yorn et Gaul]], and only in very small part to travelling merchants allowed in the city) |
 | Size | Large |
+| Outer Villages| FSome |
 | City Leader | Shardcaller Osieur Xetac |
 | Primary Language(s) | Changeling |
 | Majority Racial Group(s) | [[Changelings]] |

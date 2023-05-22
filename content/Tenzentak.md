@@ -21,6 +21,7 @@ At the cities eastern edge lies [[The Grand Nothing]], and [[Gilligan's Lift]] w
 | Climate | Temperate/Dry |
 | Cuisine | Spicy Entrees, Flatbreads, Spiced Fruits, Game Foul |
 | Size | Large |
+| Outer Villages| Many |
 | City Leader | Lady Helseena Trodak |
 | Primary Language(s) | Common, Dwarvish |
 | Majority Racial Group(s) | None |

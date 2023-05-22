@@ -18,6 +18,7 @@ A powerful [[Iron Light]] pump moves water up from the Se'dir River to the city'
 | Cuisine | Cultivated Fruits, Farmed Goods, Flatbread and rice based meals |
 | Export | Military Training |
 | Size | Medium |
+| Outer Villages| Some |
 | City Leader | High Lord Draezus Wolf |
 | Primary Language(s) | Common |
 | Majority Racial Group(s) | None |

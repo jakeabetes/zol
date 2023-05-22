@@ -22,6 +22,7 @@ Holocene's east overlooks [[The Grand Nothing]], and houses the [[Pale Lift]] wh
 | Cuisine | Imported farmed goods, hearty meat-and-potatoes meals, wild game, ales and mead |
 | Export | Art, [[Chalkstone]] |
 | Size | Medium |
+| Outer Villages| Some |
 | City Leader | Lord Leonell Vanveld |
 | Primary Language(s) | None |
 | Majority Racial Group(s) | Human |

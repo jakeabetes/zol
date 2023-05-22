@@ -21,6 +21,7 @@ The city is divided into three main sub-cities:
 | Cuisine | Farmed goods, root vegetable based meals, mushrooms |
 | Export | Rare metals, finely crafted goods, [[Mythril]] |
 | Size | Large |
+| Outer Villages| None |
 | City Leader | King Donnis Gherzeram |
 | Primary Language(s) | Dwarven |
 | Majority Racial Group(s) | [[Dwarves]] |

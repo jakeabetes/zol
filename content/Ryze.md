@@ -18,6 +18,7 @@ Its industrious founding [[Gnomes]] created a vibrant community and became the m
 | Cuisine | Cultivated Fruits, Farmed Goods, Flatbread and rice based meals |
 | Export | A staggering variety of factory made goods |
 | Size | Large |
+| Outer Villages| Many |
 | City Leader | High Lady Wezmira Greem |
 | Primary Language(s) | Gnomish, Common |
 | Majority Racial Group(s) | [[Gnomes]] |

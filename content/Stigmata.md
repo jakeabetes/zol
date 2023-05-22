@@ -19,6 +19,7 @@ Most citizens are devout followers of the [[Church of Three Fires]]. The main ob
 | Cuisine | Hearty meat and potatoes, wild game |
 | Export | Fish, Ships |
 | Size | Medium |
+| Outer Villages| Some |
 | City Leader | Lord Sedrick Wroe |
 | Primary Language(s) | Human |
 | Majority Racial Group(s) | Humans |

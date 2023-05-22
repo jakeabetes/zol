@@ -19,6 +19,7 @@ During the day, the city is relatively quaint and quiet. Common folk work the fa
 | Cuisine | Imported foods, wild game, fish, hearty foods, spirits, beer |
 | Export | Fish, spirits |
 | Size | Medium |
+| Outer Villages| Many |
 | City Leader | Lord Hugo Sidgewick |
 | Primary Language(s) | Human |
 | Majority Racial Group(s) | Human |

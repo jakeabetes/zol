@@ -19,6 +19,7 @@ The city is filled with significantly tall buildings, and a handful of megastruc
 | Cuisine | Imports, farmed goods, fish, fruits, a wide cast of alcohols |
 | Export | Lumber, Rare metals |
 | Size | Large |
+| Outer Villages| Many |
 | City Leader | [[King Galliard]] |
 | Primary Language(s) | None |
 | Majority Racial Group(s) | Human |

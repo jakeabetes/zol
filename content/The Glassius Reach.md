@@ -70,7 +70,7 @@ The general society around The Reach is very strict, utilitarian, well mannered.
 The Reach is one of two kingdoms that does not implement [[Trains]] within its borders. Unlike the other kingdom who does not implement [[Trains]], [[The Ward]], The Reach does use [[Iron Light]]. They merely have not implemented the infrastructure. The [[Artificers]] of [[The Glassius Reach]] are behind in terms of advancements due to the isolation they face.
 
 ## Academics and Magic
-Academics and magic are exclusively taught through formal tutelage. Most youth within The Reach are assigned a tutor, called an Abdector, at a young age that is with them all the way to adulthood. An Abdector holds the same importance as parents do in the culture of [[Changelings]]. An Abdector will focus on a main field of study in their teachings. They may teach an individual [[Magic]], general academics, economics, art, or a trade. Many students have the opportunity to dabble in various realms given their Abdector is willing and able to teach them. An individual is allowed to choose their own Abdector.
+Academics and magic are exclusively taught through [[The Eelynn]], a college of two campuses with one in each city. These schools offer teaching to all youth ages 5-18. Those who are promising academics may go further in their scholarship, pursuing magic and/or greater studies.
 
 The Reach also has access to a unique manifestation of the will of [[Observance]]. This is obtained through interfacing with [[The Oldshards]]. What little is understood about this phenomena is extremely well guarded and is not known by many. Those who do have abilities granted by [[The Oldshards]] are quite powerful.
 
