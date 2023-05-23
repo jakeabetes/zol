@@ -14,7 +14,7 @@ title: "Zol"
 - Historical Timeline (100%)
 - Regions (100%)
 - Gods (90%)
-- Cities (90%)
+- Cities (100%)
 - Interactive Map (5%, may not be included in version 1)
 - Lore to fill gaps (characters, objects, events, and other specific concepts of note) (0%)
 - Final Cleanup (0%)
