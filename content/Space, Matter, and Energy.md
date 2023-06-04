@@ -4,7 +4,7 @@ title: "Space, Matter, and Energy"
 - Academic Arcanists understand [[Zol]] an **infinite four dimensional grid of nodes**. Each one of these nodes are fragment [[The Trinity]], and exist in one of the three states: Space, Matter and Energy.
 	- If you were to pick two points in space, each of these points could be represented as one node. In-between these two points there are an infinite number of other nodes.
 	- One does not consider how they are acting on these states directly, this is merely a product of the used [[magic]]. Acting on nodes differs greatly given the state that the node is in:
-		- **Acting on space** can modify gravity, teleport objects, and open portals.
+		- **Acting on space** can modify gravity, teleport objects, alter spatial dimensions, and open portals.
 		- **Acting on matter** can change the form, strength and mass of something.
 		- **Acting on energy** is the most complex, useful, and frequently used task of an arcanist. Energy can be applied, removed, transferred, and observed. The types of energy are
 			- Kinetic

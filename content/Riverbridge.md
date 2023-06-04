@@ -1,16 +1,16 @@
 ---
 title: "Riverbridge"
 ---*The waypoint of the world*
+![[riverbridge 1.png]]
 
 The most fought over city in all of [[Zol]]. [[Riverbridge]] is located on Stalke Island in the center of [[The Narrow Sea]]. Famous for its massive bridges that span east and west to cross [[The Narrow Sea]].
 
-![[riverbridge 1.png]]
-
-Its name, originally Sea Hold, was mistranslated several times in its constant change of rulership back and forth between [[Kapesh]] and [[Gethsemane]] during the [[Triumvirate Battles]]. It is now home to a population mostly made up of equal parts [[Humans]], [[Elves]], and [[Dwarves]]. These parts do not get along very well.
+Its name, originally Sea Hold, was mistranslated and altered several times in its constant change of rulership back and forth between [[Kapesh]] and [[Gethsemane]] during the [[Triumvirate Battles]]. It is now home to a population mostly made up of equal parts [[Humans]], [[Elves]], and [[Dwarves]]. These parts do not get along very well.
 
 ![[riverbridge.png]]
 
 ## Overview
+
 | Aspect | Description |
 |-|-|
 | Main Opportunity | The city's is the most centrally located place in all of [[Zol]], it has little pieces of all of the world's culture all tied within it, and does not have the same feeling of oppressive crown rule as mainland [[Kapesh]]. Many sailors from all over [[The Narrow Sea]] and [[The Archsea]] frequent this city. |
@@ -26,6 +26,7 @@ Its name, originally Sea Hold, was mistranslated several times in its constant c
 | Majority Religion(s) | Trinity-Centric, Zolaen-Centric |
 
 ## Major Features
+
 | Feature | Description |
 |-|-|
 | Distinguishing Features | Island City, Great Bridges, Costal |
@@ -35,6 +36,7 @@ Its name, originally Sea Hold, was mistranslated several times in its constant c
 | Defenses | Naval Fleet, City Garrison |
 
 ## People Groups
+
 | Group | Type | Description |
 |-|-|-|
 | Nobility | Social Class | Those charged by the crown with running the city, or successful business owners. |
@@ -47,6 +49,7 @@ Its name, originally Sea Hold, was mistranslated several times in its constant c
 | Off-Human Population | Racial Group | The 'bystanders' of the city's racial conflicts. Once, Off-Human individuals were horribly mistreated by [[The Triumvirate]], but within [[Riverbridge]] they are strangely the neutral party and are able to freely mingle with any group. The most racist members of the other groups are known to say "at least you're not one of them" to the off humans. As one would expect, most off humans hate [[The Triumvirate]] and their stupid squabble within the city. |
 
 ## Goods and Services
+
  | Name | Type | Description |
  |-|-|-|
  | Driftwood Keep | Keep | The city's keep |
@@ -65,7 +68,7 @@ The city is overseen by Lady Trell Gallan, loyal servant to [[King Galliard]]. L
 The city subscribes to the [[Kapeshian Laws]].
 
 ## Modern Importance
-In modern day the city is a hub of trade between the eastern and western kingdoms of [[Zol]]. It is also the bottleneck for the [[The Great Tracks]] as the bridges that span [[The Narrow Sea]] run through it.
+In modern day the city is a hub of trade between the eastern and western kingdoms of [[Zol]]. It is also the bottleneck for the [[The Iron Tracks]] as the bridges that span [[The Narrow Sea]] run through it.
 
 ## Historical Importance
 [[Riverbridge]] was constantly fought over during the [[Triumvirate Battles]]. It changed hands between both [[Gethsemane]] and [[Kapesh]] many times. Both the city and sections of the great bridges had to be frequently rebuilt.

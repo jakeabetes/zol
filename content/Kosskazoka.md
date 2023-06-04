@@ -8,6 +8,7 @@ title: "Kosskazoka"
 ![[kosskazoka.png]]
 
 ## Overview
+
 | Aspect                   | Description                                                                                                                                                                                                                                                                                                                                                                              |
 | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Main Opportunity         | [[Kosskazoka]] exists in a cultural and geographical sweet spot. It is an old city, with many generations of history and infrastructure. It is a economic powerhouse, bringing resources, infrastructure, and technology. It is located centrally within [[Laenwalde]], bringing travelers, culture, and imports. This makes for a city abundant with opportunity and rich with culture. |
@@ -23,6 +24,7 @@ title: "Kosskazoka"
 | Majority Religion(s)     | None                                                                                                                                                                                                                                                                                                                                                                                     |
 
 ## Major Features
+
 | Feature                 | Description                                                                    |
 | ----------------------- | ------------------------------------------------------------------------------ |
 | Distinguishing Features | Savannah Location, Riverside                                                    |
@@ -32,6 +34,7 @@ title: "Kosskazoka"
 | Defenses                | High walls, artillery, airship fleet, naval fleet                                                                           |
 
 ## People Groups
+
 | Group           | Type         | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | --------------- | ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Nobility        | Social Class | The wealthy members of the city. Gained by political station or success in business, be it craft, trade, or one of the many casinos. Many noble houses have at least one foot in the crime world in one way or another.                                                                                                                                                                                                                                                                                                                                                                                                     |
@@ -45,6 +48,7 @@ title: "Kosskazoka"
 | The Edinokai    | Guild        | A school of martial combat, those of this institution train to become proficient in many forms of combat. Known to output some of the most skilled duelists in all of [[Zol]]                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 
 ## Goods and Services
+
 | Name                   | Type                 | Description                                                                                                                               |
 | ---------------------- | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | Castle Brilliance      | Keep                 | The city's main keep                                                                                                                      |

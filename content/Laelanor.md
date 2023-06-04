@@ -10,6 +10,7 @@ Similar to its sister elven cities, it is not a place built for outsiders. Howev
 ![[laelenor-map.png]]
 
 ## Overview
+
 | Aspect | Description |
 |-|-|
 | Main Opportunity | The city is a place of peace and wisdom. All the city's people spend their early lives learning from [[The Path]], giving all of its citizens skills in medicine, craftsmanship, philosophy, history, mathematics, druidic magic, and combat. A population made up of very well rounded citizens makes for a very capable city. |
@@ -25,6 +26,7 @@ Similar to its sister elven cities, it is not a place built for outsiders. Howev
 | Majority Religion(s) | Trinity-Centric |
 
 ## Major Features
+
 | Feature | Description |
 |-|-|
 | Distinguishing Features | Costal, hilly, built into a massive Provident Oak |
@@ -34,6 +36,7 @@ Similar to its sister elven cities, it is not a place built for outsiders. Howev
 | Defenses | Remote, forested, high-up, combat trained population |
 
 ## People Groups
+
 | Group            | Type             | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | ---------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | High Court       | Social Class     | The most highly respected members of the city. Those who are of the greatest skill within their profession, and are welcomed into the High Court by the Maer. These individuals are respect as the city's leaders, with the Maer at their head. Members serve terms of 15 years, and may or may not be renewed after that. Society typically likes to have many people move through the position, but the most respected and successful are renewed every decade. There are typically around 20 members of the High Court at a time, and rank is determined by age. |
@@ -42,6 +45,7 @@ Similar to its sister elven cities, it is not a place built for outsiders. Howev
 
 
 ## Goods and Services
+
 | Name        | Type           | Description                                                                          |
 | ----------- | -------------- | ------------------------------------------------------------------------------------ |
 | Hailence    | Keep           | The city's main keep                                                                 |
@@ -55,6 +59,7 @@ The Maer has a small, but highly trained soldiers. They are known for their skil
 
 ### Laws
 The city enforces its own laws.
+
 | Law | Severity | Description |
 |-|-|-|
 | Murder                              | High        | If one kills outside of self defense, or does not have governmental permission. It is a great criminal act                       |

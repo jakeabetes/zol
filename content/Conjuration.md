@@ -9,7 +9,7 @@ Users of this type of magic are known to gift power to creatures they summon for
 ## Teleportation
 Teleportation is an extremely valuable skill to the society of [[Zol]]. Costing great deals of [[Gold]], teleportation is the safest and fastest method to move about [[Zol]].
 
-Before [[The Great Tracks]], teleportation was the only consistent and safe way to get from once city to another. Making it only accessible to the rich or powerful [[Caster]]s.
+Before [[The Iron Tracks]], teleportation was the only consistent and safe way to get from once city to another. Making it only accessible to the rich or powerful [[Caster]]s.
 
 Teleportation distance is determined by skill, most who are capable of it can move themselves anywhere within The Three Corners of Civilization. 
 

@@ -14,6 +14,7 @@ The capital was abandoned, but slowly over time people returned and sought refug
 One part ruined, one part rebuilt, one part ramshackle slum. The city is fast paced crowded, overpopulated, exciting, dangerous, and full of opportunity.
 
 ## Overview
+
 | Aspect | Description |
 |-|-|
 | Main Opportunity | The city was re-founded by individuals who chose to make a new life in the ruins of what once was. It is a city by the people, and for the people. Despite the many attempts by the crown to instill order within [[Audran]], it remains chaotic and free. It is a place where anything, good or bad, can occur. |
@@ -29,6 +30,7 @@ One part ruined, one part rebuilt, one part ramshackle slum. The city is fast pa
 | Majority Religion(s) | None |
 
 ## Major Features
+
 | Feature | Description |
 |-|-|
 | Distinguishing Features | A massive lakeside city, textured with aged destruction that has been used as a foundation for new structure. |
@@ -38,6 +40,7 @@ One part ruined, one part rebuilt, one part ramshackle slum. The city is fast pa
 | Defenses | High walls |
 
 ## People Groups
+
 | Group | Type | Description |
 |-|-|-|
 | Nobility | Social Class | The wealthy members of [[Audran]] society. However these nobles are not like nobility of other cities half made up of conventional nobles of good rapport, and half made up of eclectic individuals who made some great success in the city. These two types of nobles blend in court to create a fast paced, gossip-filled knot within society. |
@@ -50,6 +53,7 @@ One part ruined, one part rebuilt, one part ramshackle slum. The city is fast pa
 | Professors | Academic Station | Staff who teach at [[Charenbridge]], an academic institution of the [[Arcanum]], a branch of [[The University]]. These individuals vary from practiced writers, to skilled and deadly [[Arcanists]]. |
 
 ## Goods and Services
+
 | Name | Type | Description |
 |-|-|-|
 | Castle Defiance | Keep | The city's main keep |

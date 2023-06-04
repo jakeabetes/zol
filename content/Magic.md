@@ -27,7 +27,7 @@ The people of [[Zol]] largely base their society and culture around some sort of
 [[Caster]]s are revered and feared because of this. The cultures and mythos of [[Zol]] are so intertwined with magic that no belief or practice is without mention of it.
 
 ## Advancements in Magic
-For almost of history, one could not access magical power unless they followed the specific known rules, or possessed an item that had undergone [[Enchantment]] via superbly powerful magic. This was all changed when the great arcanist [[Mordenkainen]] discovered [[Iron Light]] and established the trade of [[Artificers]].
+For almost of history, one could not access magical power unless they followed the specific known rules, or possessed an item that had undergone [[Enchantment]] via superbly powerful magic. This was all changed when the great arcanist [[Maalvern]] discovered [[Iron Light]] and established the trade of [[Artificers]].
 
 [[Iron Light]] is a sub section of the minor will of [[Arcana]]. It allows one to extend their [[Vizir]] into an object, or channel [[The Trinity]] itself through the object. This is done by using rudimentary runes inscribed in iron plates, allowing for a more simplistic production of magical objects. This invention revolutionized [[Zol]].
 

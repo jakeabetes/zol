@@ -8,6 +8,7 @@ Far from the comforts of the east, [[Diddan]] is a rough and tumble city of sand
 ![[diddan.png]]
 
 ## Overview
+
 | Aspect                   | Description                                                                                                                                                                                                                                                                                                                                                  |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Main Opportunity         | [[Diddan]] is a city founded by those who fled normal society to create a place of their own, where the influence of outside politics and law would not have the draining grasp it has on so much of [[Zol]]. Where the ideals of The Badlands could continue to thrive. Here, infamous rouges called *Cowboys* posses agency not bound by the crown's will. |
@@ -23,6 +24,7 @@ Far from the comforts of the east, [[Diddan]] is a rough and tumble city of sand
 | Majority Religion(s)     | None                                                                                                                                                                                                                                                                                                                                                         |
 
 ## Major Features
+
 | Feature | Description |
 |-|-|
 | Distinguishing Features | Desert location, Oasis city |
@@ -32,6 +34,7 @@ Far from the comforts of the east, [[Diddan]] is a rough and tumble city of sand
 | Defenses | Lawmen, high percentage of armed citizens |
 
 ## People Groups
+
 | Group                | Type         | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | -------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Gentry               | Social Class | The city's nobility. Few in number, these individuals are seen as refined by the city's common people, but rough around the edges to outside nobility. To reach this level of wealth in [[Diddan]], business must be conducted in a less than honest manner                                                                                                                                                                                                                                                                                                                                                               |
@@ -48,6 +51,7 @@ Far from the comforts of the east, [[Diddan]] is a rough and tumble city of sand
 | The Dune Sisters     | Criminal     | One of the many local gangs. A group comprised mostly of women known for robbing incoming and outgoing travelers. Led by Lady Blacklet, a proud and dangerous elf woman.                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
 ## Goods and Services
+
 | Name                        | Type                 | Description                                                                                                                           |
 | --------------------------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | Alluvium Keep               | Keep                 | The city's main keep, formed of natural earthen materials giving an appearance of a massive sandcastle.                                                                                                                  |

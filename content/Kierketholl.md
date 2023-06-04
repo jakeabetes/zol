@@ -1,16 +1,16 @@
 ---
 title: "Kierketholl"
 ---*The Capital City of Humans, Shrouded in Mist*
+![[kierketholl skyline.png]]
 
 The capital of [[Kapesh]] and home to [[King Galliard]]. Dotted with massive, high towers and protected by [[The Crown Golems]]. [[Kierketholl]] has stood against the trials of war and time like no other city.
-
-![[kierketholl skyline.png]]
 
 The city is filled with significantly tall buildings, and a handful of megastructures. Most buildings are at least 4 stories tall while the mega structures are around 30 to 50 stories tall. These complexes are all unique, some of which contain their own microcultures, and individuals who spend nearly their whole lives in a single building.
 
 ![[kierketholl.png]]
 
 ## Overview
+
 | Aspect | Description |
 |-|-|
 | Main Opportunity | A unique, vertical city. Filled with microcultures, nooks, and crannies for anything to be tucked away into. |
@@ -26,6 +26,7 @@ The city is filled with significantly tall buildings, and a handful of megastruc
 | Majority Religion(s) | Trinity-Centric, Zolaen-Centric |
 
 ## Major Features
+
 | Feature | Description |
 |-|-|
 | Distinguishing Features | Megastructures, Mist Covered, Huge, Diverse Despite Human Kingdom |
@@ -35,6 +36,7 @@ The city is filled with significantly tall buildings, and a handful of megastruc
 | Defenses | City Garrison, [[The Crown Golems]], Armed Towers, Fleet of The Scar Delta |
 
 ## People Groups
+
 | Group | Type | Description |
 |-|-|-|
 | Nobility | Social Class | Those charged by the crown with running the city, or successful business owners. |
@@ -49,6 +51,7 @@ The city is filled with significantly tall buildings, and a handful of megastruc
 | The Wraith's Hand | Criminal | The criminal sect which operates within the city. These individuals have infiltrated all of the microcultures within the city, but operate largely out of The Bend. |
 
 ## Goods and Services
+
  | Name | Type | Description |
  |-|-|-|
  | Keep Galliard | Keep/Megastructure | The city's keep. Home to [[King Galliard]] and megastructure which homes the vast majority of the city's nobility. West  most of the megastructures.|

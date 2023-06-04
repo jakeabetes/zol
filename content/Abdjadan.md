@@ -10,6 +10,7 @@ This tension only lasted about a hundred years, and some curious member of both 
 ![[abdjadan.png]]
 
 ## Overview
+
 | Aspect | Description |
 |-|-|
 | Main Opportunity | Abdjadan is an extremely well order city. Its citizens are devout followers of [[Ohlit]]. There is little problem with disorder and crime isn't a factor in the city's daily life. The city appears as a thoroughly planned out, and completed machine. |
@@ -25,6 +26,7 @@ This tension only lasted about a hundred years, and some curious member of both 
 | Majority Religion(s) | Followers of [[Ohlit]] |
 
 ## Major Features
+
 | Feature | Description |
 |-|-|
 | Distinguishing Features | Underwater City |
@@ -34,12 +36,14 @@ This tension only lasted about a hundred years, and some curious member of both 
 | Defenses | Army of [[Abdjadan]] |
 
 ## People Groups
+
 | Group             | Type         | Description                                                                                                                                        |
 | ----------------- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Those of The Ring | Social Class | The city's royalty, or nobility. These individuals are seen as the most favored by [[Ohlit]]. In their culture this seems to be based on bloodline |
 | Commoners         | Social Class | The vast majority. These people are hunters, laborers, soldiers, and crafts persons. They serve their city as best they can to support the efforts to defend                                                                                                                                                   |
 
 ## Goods and Services
+
 | Name          | Type   | Description                  |
 | ------------- | ------ | ---------------------------- |
 | Saraxan Keep  | Keep   | The city's main keep         |

@@ -8,6 +8,7 @@ No city of The Three Corners is known to house one of the [[Gods]], save for [[R
 ![[rockfire.png]]
 
 ## Overview
+
 | Aspect                   | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Main Opportunity         | [[Rockfire]] is the only city within The Three Corners that home a physical manifestation of one of the [[Gods]]. The Fire God [[Daetro]] resides within the neighboring volcano, [[Ta'Dendor]]. A god residing on [[The Mortal Coil]] risks a great deal, but it allows [[Daetro]] to have a very close relationship with his followers. [[Daetro]] is only a minor god, but his power is still tremendous. His influence allows for the people of the city to live plentiful lives, and learn about the nature of [[Gods]] in a unique manner. However [[Daetro]]'s influence stops at the borders of the city's territory              |
@@ -23,6 +24,7 @@ No city of The Three Corners is known to house one of the [[Gods]], save for [[R
 | Majority Religion(s)     | Church of [[Daetro]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 
 ## Major Features
+
 | Feature | Description |
 |-|-|
 | Distinguishing Features | Built at base of Volcano, Oasis City |
@@ -32,6 +34,7 @@ No city of The Three Corners is known to house one of the [[Gods]], save for [[R
 | Defenses | Thick walls, local god |
 
 ## People Groups
+
 | Group            | Type                       | Description                                                                                                                                                                                                                                            |
 | ---------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Nobility         | Social Class               | The wealthy members of the city. Upstanding members of local business or political station. Note that high rank in the Church does not give noble status due to systems of belief.                                                                     |
@@ -41,6 +44,7 @@ No city of The Three Corners is known to house one of the [[Gods]], save for [[R
 | Askers           | Academic/Religious Station | Those of the [[The Temple]] who teach, similar to, but not exactly the same as a Professor. Many Askers posses boons of power from a god.                                                                                                                                                                                                                                                       |
 
 ## Goods and Services
+
 | Name                 | Type                 | Description                                                                                                                                                                                      |
 | -------------------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Castle Infernus      | Keep                 | The city's main keep, an imposing structue of obsidian                                                                                                                                           |

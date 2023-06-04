@@ -2,7 +2,7 @@
 title: "Gethsemane"
 ---![[Gethsemane.jpg]]
 
-The Viridescent Kingdom of [[Gethsemane]]. The land of [[Elves]], [[Dwarves]], and the peaceful [[Genasi]]. [[Gethsemane]] is an old and unvarying kingdom. Outsiders have a difficult time navigating these lands, and [[The Great Tracks]] are barely present here. This makes the whole kingdom feel almost mythical to outsiders. Each city rules itself with its own unique laws. The region as a whole operates under an allegiance between Elven and Dwarven kingdoms, with the peaceful [[Genasi]] as their neighbors.
+The Viridescent Kingdom of [[Gethsemane]]. The land of [[Elves]], [[Dwarves]], and the peaceful [[Genasi]]. [[Gethsemane]] is an old and unvarying kingdom. Outsiders have a difficult time navigating these lands, and [[The Iron Tracks]] are barely present here. This makes the whole kingdom feel almost mythical to outsiders. Each city rules itself with its own unique laws. The region as a whole operates under an allegiance between Elven and Dwarven kingdoms, with the peaceful [[Genasi]] as their neighbors.
 
 Traditions of art, craftsmanship, and magic that date all the way back to [[The Awakening]] are visible all throughout its cities.
 

@@ -8,6 +8,7 @@ Long ago, [[Often]] was the least notable city of [[The Ward]]. However this cha
 ![[often.png]]
 
 ## Overview
+
 | Aspect | Description |
 |-|-|
 | Main Opportunity | Within the city, one can find viking warriors greatly skilled at both swordplay and seafaring. Any individual can join these warriors at [[The Ramshorn]] if they can prove themselves honorable and worthy. The presence of these warriors keep the city safe in an otherwise hostile environment, and fill its mead halls with stories and comradery. |
@@ -23,6 +24,7 @@ Long ago, [[Often]] was the least notable city of [[The Ward]]. However this cha
 | Majority Religion(s) | Monotheistic worship of [[Adrathar, Father of the Wind]] |
 
 ## Major Features
+
 | Feature | Description |
 |-|-|
 | Distinguishing Features | Costal |
@@ -32,6 +34,7 @@ Long ago, [[Often]] was the least notable city of [[The Ward]]. However this cha
 | Defenses | [[The Ramshorn]], large naval fleet, city military, [[The North Honor]], [[Stormblessed]] |
 
 ## People Groups
+
 | Group                        | Type               | Description                                                                                                                                                                                                                                                      |
 | ---------------------------- | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Nobility                     | Social Class       | The upper crust of the city's society. Not as refined as foreign nobility, but obviously more well off than the rest of society. Comprised of the Archon, their supporting council, successful business owners, merchants, and families of long standing wealth. |
@@ -43,6 +46,7 @@ Long ago, [[Often]] was the least notable city of [[The Ward]]. However this cha
 | [[Stormblessed]]             | Misc.              | Individuals who prove themselves to be the most worthy during [[The Enduring]], and are blessed with power by [[Adrathar]]. These individuals receive the utmost respect from their community. They are usually a little on the atypical side personality wise.                                                                                                                                                                                                                                                               |
 
 ## Goods and Services
+
 | Name                 | Type                 | Description                                                                          |
 | -------------------- | -------------------- | ------------------------------------------------------------------------------------ |
 | The Copper Citadel   | Keep                 | The city's main keep                                                                 |

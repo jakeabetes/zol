@@ -57,7 +57,7 @@ At the cities eastern edge lies [[The Grand Nothing]], and [[Gilligan's Lift]] w
  | The Pit | Tavern | Located in the depths of the central Rift, The Pit is has a reputation of being a strange bar filled with shady patrons. Known for its uneven floors caused by the regrowing [[Rift Iron]] veins in the stone below. Run by a one eyed Ogre called 'Runt'. |
  | The Sheathe-Anvil Tavern | Tavern | [[The Bladehammer Guild]]'s private tavern, reserved for guild members. Located within the guild campus. |
  | [[The Bladehammer Guild]] | Guild | The largest operating guild in all of [[Zol]], headquartered in [[Tenzentak]]. The guild is a place for any gifted individual to find work, or for any in need to hire help. The Guild provides a vast number of services like mercenaries, craftsmen, academics, and healers. |
- | Tenzentak Station | Train Station | The city's connection to [[The Great Tracks]]. Located at the cities furthest reaches along the Northroad. |
+ | Tenzentak Station | Train Station | The city's connection to [[The Iron Tracks]]. Located at the cities furthest reaches along the Northroad. |
  | Tenzentak Convergence | Teleportation Circle | The city's primary teleportation circle, located in the Riftkeep |
  | Bladehammer Convergence | Teleportation Circle | [[The Bladehammer Guild]]'s teleportation circle, located within the guild campus |
  | [[Gilligan's Lift]] | Misc | A wonderous feat of engineering. Gilligan's Lift is a giant elevator-like contraption that brings personnel, resources, and equipment from the city down to the surface of [[The Grand Nothing]]. Its operation is overseen by [[The Bladehammer Guild]].|

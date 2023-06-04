@@ -16,6 +16,7 @@ Gardens, shops, restaurants and theaters line its stone brick streets. Many nobl
 ![[kahdinact.png]]
 
 ## Overview
+
 | Aspect | Description |
 |-|-|
 | Main Opportunity | The city is abundant with rich folk, and their fine culture. If one has refined tastes this is the city for you. The money and important presence of important figures brings all things decedent within its walls. |
@@ -31,6 +32,7 @@ Gardens, shops, restaurants and theaters line its stone brick streets. Many nobl
 | Majority Religion(s) | Zolaen-Centric |
 
 ## Major Features
+
 | Feature | Description |
 |-|-|
 | Distinguishing Features | Costal, forested |
@@ -40,6 +42,7 @@ Gardens, shops, restaurants and theaters line its stone brick streets. Many nobl
 | Defenses | High walls, Navy |
 
 ## People Groups
+
 | Group             | Type             | Description                                                                                                                                                                                                                                                                                  |
 | ----------------- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Nobility          | Social Class     | The noble houses of [[Kahdinacht]] are famed for their extravagance, and dramatic court. There are many houses each with their own alliances, and more famed rivalries. The most famous rivalry being between two of the larges houses: [[House Doucaar]] and [[House Tretch]]               |
@@ -53,6 +56,7 @@ Gardens, shops, restaurants and theaters line its stone brick streets. Many nobl
 | Artisans          | Misc.            | Those of the city who pursue a career in arts, their skill mixed with a desire for their craft translates directly to social and economic standing. Some are independent, others are associated with the [[Charm-Zezan Bard College]], some even practice under the employ of a noble house. |
 
 ## Goods and Services
+
 | Name                         | Type                 | Description                                                                                                                                                                                                                                                                                             |
 | ---------------------------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | The Citadel Antoor           | Keep                 | The city's main keep                                                                                                                                                                                                                                                                                    |

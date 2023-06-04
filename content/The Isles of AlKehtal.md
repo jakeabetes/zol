@@ -23,6 +23,7 @@ The South East Island. The largest of the islands. Flotsam is a place of trade, 
 The West Island. The busiest part of the city. Jetsam is the place all pirates think of when looking for a place to plan, plot, repair, rest, fight, fuck, dine, and drink. It is an ugly, dirty, and crowded place. It is impossible for a pirate not to love. Many of its districts are heavily associated with some groups of pirates, and it is important to know where you are going. Lest you find yourself in an place where you are not welcome.
 
 ## Overview
+
 | Aspect | Description |
 |-|-|
 | Main Opportunity | [[The Isles of Al'Kehtal]] are a lawless, exciting, and strange place. Here, pirates can conduct any and all business they wish without the laws of Kingdoms or the threat of getting stabbed in the back thanks to [[The Code]]. |
@@ -38,6 +39,7 @@ The West Island. The busiest part of the city. Jetsam is the place all pirates t
 | Majority Religion(s) | Followers of [[Ohlit]], [[Ellyon and Aradon]] |
 
 ## Major Features
+
 | Feature | Description |
 |-|-|
 | Distinguishing Features | Island |
@@ -47,6 +49,7 @@ The West Island. The busiest part of the city. Jetsam is the place all pirates t
 | Defenses | Extremely high concentration of pirates |
 
 ## People Groups
+
 | Group               | Type         | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | ------------------- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Furled Sail Council | Rank         | The captains of the most influential crews. One can only be brought into the council by invitation from more than half of the council, or by inheriting the spot from a superior that noted you as their successor. Overseeing this group is the Lord Captain. A title given by popular vote amongst council members. This rank gives an individual 2 votes, and ties go in favor of the Lord Captain. This seems like a small thing, but votes frequently reach an even split. This makes having the Lord Captains favor an extremely important thing. The trickle down effect from this paves the way for the whole power struggle amongst pirates. |
@@ -56,6 +59,7 @@ The West Island. The busiest part of the city. Jetsam is the place all pirates t
 | Binds               | Profession   | Those who work in the markets as tax collectors. Binds help facilitate trade amongst pirates and merchants, and take a percentage for the city.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 
 ## Goods and Services
+
 | Name                  | Type            | Island               | Description                                                             |
 | --------------------- | --------------- | -------------------- | ----------------------------------------------------------------------- |
 | Port Keep             | Keep            | Port Keep            | The city's main keep, has an island of its own                          |

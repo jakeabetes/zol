@@ -8,6 +8,7 @@ A towering city of sleek black stone, and sharply accented structures. Home to [
 ![[corinth.png]]
 
 ## Overview
+
 | Aspect | Description |
 |-|-|
 | Main Opportunity | The city is a preserved bastion of Changelings and their unique culture revolving around [[The Vertex]], a perplexing object that seems to break the rules of [[Magic]] and posses a will of its own. [[The Vertex]] grants protection, power and wisdom to those it favors. This culture is built around the [[The Pattern]], a social contract that all changelings are expected to follow. The influence of [[The Pattern]] is a society of extreme order and fairness. Every person is given an education, and local leaders are elected through fair process. |
@@ -23,6 +24,7 @@ A towering city of sleek black stone, and sharply accented structures. Home to [
 | Majority Religion(s) | Exaltation Obscura of [[The Oldshards]] |
 
 ## Major Features
+
 | Feature | Description |
 |-|-|
 | Distinguishing Features | Costal, River valley/Hilltop |
@@ -32,6 +34,7 @@ A towering city of sleek black stone, and sharply accented structures. Home to [
 | Defenses | Remote, hostile terrain, army of [[Changelings]] highly skilled in covert and deceptive warfare, [[The Vertex]], High walls, allies with [[The Word of Wrath]] |
 
 ## People Groups
+
 | Group                     | Type                        | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | ------------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Shardwitnesses            | Religious/Political Station | Those elected to lead the city, and bear witness to the guidance of [[The Vertex]]. This group is the most respected range of citizens, but they live highly regulated lives by the rules of [[The Pattern]]. At their head sits the city's Shardcaller, Osieur Xetac. Shardwitnesses are similar in their influence to foreign nobility, but lead very strict and humble lifestyles. Those who become Shardwitnesses must be nominated many people (peers, mentors, and authorities) and also prove themselves by means of written essay, and engagement in political and philosophical debate.                                                                 |
@@ -41,6 +44,7 @@ A towering city of sleek black stone, and sharply accented structures. Home to [
 | Outsiders                 | Racial Group                | The few non-changeling members of society. In the whole city there are less than 30, and each of them has special permission to live within the city. Typically it is for some service they can provide to [[Corinth]]. Their social lives are very delicate things as [[Changelings]] are not trusting of outsiders.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 
 ## Goods and Services
+
 | Name               | Type                 | Description                                                           |
 | ------------------ | -------------------- | --------------------------------------------------------------------- |
 | Keep Vertex        | Keep                 | The city's main keep, and holding place of [[The Vertex]]             |

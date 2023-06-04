@@ -1,7 +1,6 @@
 ---
 title: "Stigmata"
 ---*The Holy City*
-
 ![[stigmata skyline 1.png]]
 
 The city of prayer. [[Stigmata]] is known for being full of fanatical citizens who follow the [[Church of Three Fires]]. [[Magic]] within the city that does not come from the will of [[Observance]] is seen as offensive, and cannot be performed without express permission from the city's leadership.
@@ -11,6 +10,7 @@ The city of prayer. [[Stigmata]] is known for being full of fanatical citizens w
 Most citizens are devout followers of the [[Church of Three Fires]]. The main object of their worship is the bearer of [[The Word of Fire]]. The [[Wordbearer]] is seen as a god. A sliver of the [[The Trinity]] and its infinite power.
 
 ## Overview
+
 | Aspect | Description |
 |-|-|
 | Main Opportunity | The city is full of devout followers of the [[Church of Three Fires]], and is home to its [[Wordbearer]]. This makes the city very safe and a wonderful place to live if you are one of the church's members. |
@@ -26,6 +26,7 @@ Most citizens are devout followers of the [[Church of Three Fires]]. The main ob
 | Majority Religion(s) | [[Church of Three Fires]] (Trinity-Centric) |
 
 ## Major Features
+
 | Feature | Description |
 |-|-|
 | Distinguishing Features | Costal, Extremely religious |
@@ -35,6 +36,7 @@ Most citizens are devout followers of the [[Church of Three Fires]]. The main ob
 | Defenses | City garrison, naval fleet, [[Wordbearer]] |
 
 ## People Groups
+
 | Group | Type | Description |
 |-|-|-|
 | Nobility | Social Class | Those charged by the crown with running the city, or successful business owners. |
@@ -48,6 +50,7 @@ Most citizens are devout followers of the [[Church of Three Fires]]. The main ob
 | Permitted Will Manipulators | Misc. | A small group of magic users that have been approved and employed by the church to perform [[Magic]] operations involving [[Arcana]] and [[Viridescence]] when needed by the city or church. |
 
 ## Goods and Services
+
  | Name | Type | Description |
  |-|-|-|
  | Cinderkeep | Keep | The city's main keep |
@@ -66,7 +69,7 @@ The city subscribes to the [[Kapeshian Laws]] as well as enforcing its own laws.
 
 | Law | Severity | Description |
 |-|-|-|
-| Disallowance of Arcana and Viridescence | Medium | Individuals are not allowed to utilize [[Arcana]] and [[Viridescence]] without express permission from the church and crown. |
+| Limited use of [[Magic]] | Medium | Individuals are not allowed to utilize [[Magic]] without express permission from the church and crown. |
 | Prohibition of Intoxicants | Medium | Individuals are not allowed to partake in any inebriating substance, unless used in some church approved communion. |
 
 ## Modern Importance

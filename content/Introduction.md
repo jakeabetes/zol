@@ -14,8 +14,8 @@ Some believe the final punishment of the humans was to have their [[Great Magic]
 
 In their new home, the sapient world began to atone, rebuild, relearn what was lost. Ages passed for Zol. What was once a nation of refugees now resembled a society, but with only a fraction of its former glory. In these times, only the strong and powerful had true agency, as the [[Untamed Wilds of Zol]] were too dangerous for the common folk. Zol struggled against the natural forces day in and day out. This all changed when the first spark of [[Iron Light]] was struck.
 
-The powerful mage [[Mordenkainen]] devised a way for the common folk to capture and utilize the magic of [[The Trinity]]. Complex diagrams and runes scratched onto the surface of iron slabs allowed for simple magical devices that changed Zol forever.
+The powerful mage [[Maalvern]] devised a way for the common folk to capture and utilize the magic of [[The Trinity]]. Complex diagrams and runes scratched onto the surface of iron slabs allowed for simple magical devices that changed Zol forever.
 
-Communication devices, agricultural advances, medical wonders, and many other wonderful things were created using [[Iron Light]]. Most notably, [[The Great Tracks]] were built to span the dangerous, and once unpassable distances between nations. Common folk were given the agency over their own fate, and Zol began to prosper for the first time since [[The Undoing]].
+Communication devices, agricultural advances, medical wonders, and many other wonderful things were created using [[Iron Light]]. Most notably, [[The Iron Tracks]] were built to span the dangerous, and once unpassable distances between nations. Common folk were given the agency over their own fate, and Zol began to prosper for the first time since [[The Undoing]].
 
 Now Zol sits, in an unprecedented time of opportunity. A realm formed from the corpse of an infinite being. A developing world wrought with natural mystery, lost history, and unclaimed power. A world where anyone can claim their own destiny.

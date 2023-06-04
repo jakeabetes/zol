@@ -50,7 +50,7 @@ Deepspell, the Arcane City. Located in [[The Free Cities of Alderun]]. Deepspell
  | Kerketh Convergence | Teleportation Circle | The city's main teleportation circle |
  | Deepspell Convergence | Teleportation Circle | The academy's teleportation circle |
  | Deepspell Station | Train Station | They city's main train station |
- | Kerketh Station | Train Station | They academy's own train station. Built for ease of use as the academy was the largest player in [[The Great Tracks]] construction. |
+ | Kerketh Station | Train Station | They academy's own train station. Built for ease of use as the academy was the largest player in [[The Iron Tracks]] construction. |
  | [[Kerketh Academy]] | College | One of [[Zol]]'s three major academic institutions. Kerketh academy is known for its acceptance of anyone who can prove themselves, and ingenuity in the field of [[Iron Light]]. The institution is known for looking foreword into [[Zol]]'s hopeful horizon. |
  | The Apparium | Magic Shop | The city's magic shop, owned by the academy. Known for selling rare magical objects and a wide plethora of [[Apparatum]]. |
  | Three Springs | Residential | A large swathe of rental properties mostly populated by students. |

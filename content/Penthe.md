@@ -10,6 +10,7 @@ title: "Penthe"
 A powerful [[Iron Light]] pump moves water up from the Se'dir River to the city's highest point, where it then flows back down through constructed canals and waterfalls all throughout the area. This infrastructure gives much utility to the population of the city and their day to day operations. Of these operations, the most notable is [[The First Bastion]], a wing of the [[Observum]] where warriors of [[Laenwalde]] are trained to defend their kingdom, and uphold the will of the [[Zolaen Gods]].
 
 ## Overview
+
 | Aspect | Description |
 |-|-|
 | Main Opportunity | The city is a valiant, holy, and beautiful place. Its churches and [[The First Bastion]] provide for all who are in need. The most skilled fighters of [[Laenwalde]]'s army are trained within the city. For those who are in the city's favor it is one of the safest places within [[Zol]]. |
@@ -25,6 +26,7 @@ A powerful [[Iron Light]] pump moves water up from the Se'dir River to the city'
 | Majority Religion(s) | Zolaen-Centric |
 
 ## Major Features
+
 | Feature | Description |
 |-|-|
 | Distinguishing Features | River valley, Inner-city canals and waterfalls |
@@ -34,6 +36,7 @@ A powerful [[Iron Light]] pump moves water up from the Se'dir River to the city'
 | Defenses | [[The First Bastion]], high walls, many patrols, heavy wall mounted artillery, airship fleet |
 
 ## People Groups
+
 | Group | Type | Description |
 |-|-|-|
 | Commoners | Social Class | The working class of the city. The city has the one of the lowest percentages of uncared for citizens in all of [[Zol]] due to the resources provided by the churches and [[The First Bastion]] |
@@ -46,6 +49,7 @@ A powerful [[Iron Light]] pump moves water up from the Se'dir River to the city'
 | [[The First Bastion]] | Military/Religious Guild | A devout, Zolaen-Centric group of trained warriors who fight under the banner of [[Laenwalde]] as the kingdom's most skilled warriors. Helmed by [[Blade Lord Kive Bidell]]. The institution's aim is to train powerful warriors and clerics to defend and uphold the kingdom and the will of the [[Zolaen Gods]]. The guild exists as a branch of the [[Observum]] under the umbrella of [[The University]]. |
 
 ## Goods and Services
+
  | Name | Type | Description |
  |-|-|-|
  | Cliffkeep | Keep | The city's keep, located on a large rock outcropping on the valley's southern slope. |

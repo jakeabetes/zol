@@ -3,6 +3,7 @@ title: "Apparatum"
 ---A word for devices made by [[Iron Light]]. These devices can be quite simple or very complex. Their value scales with complexity, and distance from locations where their production is common place (ex: [[Deepspell]]).
 
 ## Common Apparatum
+
 | Name | Description |
 |-|-|
 | Span Read | A set of 2 devices each with a writing surface and an arm to support a writing utensil. Individuals can send messaged over a great distance by writing on one surface, causing its counterpart to automatically make the same movements. It is crucial both implements are level so movements are transmitted accurately. This means that span reads do not operate well in the sea or sky unless gyroscopic in their make. Devices are connected to each other via signets. Simple span reads have a single hard set partner while the more intricate ones have swappable signets or ones that can be configured to fit the user's needs. Many who utilize span reads will do so through a third party operator (usually a business) that will ensure their message reaches the intended target, assuming their recipient is included within their extensive archives of contacts.|
@@ -13,12 +14,13 @@ title: "Apparatum"
 | Everhard Steel | Metal that can withstand more damage than it should be able to. |
 | Burn Filter | A small devices that evaporates water and reconsolidates it into filtered, drinkable water. These devices are known to be short lived as the they are cheap to produce in a disposable manner, and especially hard to produce a lasting version|
 | Vizir Alarm | A device that makes sounds when a being with a [[Vizir]] enters within its radius |
-| Iron Lighter | A device that produces a small temporary flame |
+| Iron Lighter | A device that produces a small temporary flame without the need of an internal fuel source |
 | Twinned Bells | A set of bells that all toll when any single one of them toll |
 | Chronomantic Clock | A time telling device that leverages the simplest properties of [[Chronomancy]] for its function. |
 | Compass | A device that can be programmed to point north, or at a specific point in space given the device was originally activated at that location. |
 
 ## Complex Apparatum
+
 | Name | Description |
 |-|-|
 | Sending Stone | Devices that have the capability of transmitting voice messages to other sending stones over great distances. Operating similarly to Span Reads, but transmitting sound rather than pen strokes. These devices also require signets in their implementation. |

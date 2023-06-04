@@ -18,6 +18,7 @@ Shimmer is the city of Sun-Walkers, or as their underwater nieghbors like to cal
 The under city of Cowl, known for its wild streets (if you can call them that), and rowdy populace. Within Cowl, only the strong make their way. Those who live below the surface of [[The North Sea]], known as *Fathomers*, idealize strength and power. If you do not prove yourself as capable and strong, you may be looked down upon. Its buildings are formed entirely of ice, and most are filled with water. However a good deal of buildings are not as they are used for things like drinking, cooking, or the usage of fine tools that water would interfere with.
 
 ## Overview
+
 | Aspect | Description |
 |-|-|
 | Main Opportunity | The city is a unique place in [[Zol]], here one can find wisdom, knowledge, craftsmanship, food, and experiences like nowhere else within The Three Corners. It is a place of stories that seems so obscure many think it only exists in rumor. |
@@ -33,6 +34,7 @@ The under city of Cowl, known for its wild streets (if you can call them that), 
 | Majority Religion(s) | None |
 
 ## Major Features
+
 | Feature | Description |
 |-|-|
 | Distinguishing Features | Magical Iceberg City |
@@ -42,6 +44,7 @@ The under city of Cowl, known for its wild streets (if you can call them that), 
 | Defenses | The iceberg itself has an unknown enchantment. Protecting its people from [[Greatwinds]] and slowly regrowing ice to heal any damage done to it. |
 
 ## People Groups
+
 | Group               | Type        | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | ------------------- | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Citizens of Shimmer | Local group | Also known as Sun-Walkers or Fe'tiir, these individuals reside on the surface of [[Yoel Sundarum]]. They are a competitive bunch with one another and are known to idealize success. The economy of [[Yoel Sundarum]] does incorporate coin, but it is more focused on the general idea of bartering. This makes the idea of basing nobility on finance a moot point. So the people of Shimmer look at how well once succeeds in their career, or other pursuit. This informally determined status places one in the society of the upper city. |
@@ -49,6 +52,7 @@ The under city of Cowl, known for its wild streets (if you can call them that), 
 | Half Lunged         | Local group | Individuals who posses the means to both live in water and in air for extended periods of time. This may be some racial trait or some magical enhancement on the body.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 
 ## Goods and Services
+
 | Name            | Type   | Sub-City     | Description                                                                                                                                                        |
 | --------------- | ------ | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Sundarum Ward   | Keep   | Shimmer/Cowl | The city's main keep, a structure so large it tunnels through to both sides of the city                                                                            |

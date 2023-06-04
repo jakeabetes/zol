@@ -11,6 +11,7 @@ During the day, the city is relatively quaint and quiet. Common folk work the fa
 ![[Viscera Skyline 2.png]]
 
 ## Overview
+
 | Aspect | Description |
 |-|-|
 | Main Opportunity | A city full of strange citizens and occult mysteries. The nightlife of the city is vibrant, and there always seems to be something mysterious and fascinating going on. |
@@ -26,6 +27,7 @@ During the day, the city is relatively quaint and quiet. Common folk work the fa
 | Majority Religion(s) | Trinity-Centric |
 
 ## Major Features
+
 | Feature | Description |
 |-|-|
 | Distinguishing Features | Lakeside, Nightlife, Creepy Atmosphere |
@@ -35,6 +37,7 @@ During the day, the city is relatively quaint and quiet. Common folk work the fa
 | Defenses | City Garrison, Purelake Navy |
 
 ## People Groups
+
 | Group | Type | Description |
 |-|-|-|
 | Nobility | Social Class | The high class members of society. Most of which are very eccentric and strange. They are typically very active in the city's nightlife and have a great deal of mythos around them. Some say they are secret cult members following some ancient and evil thing, while others go as far to say that they are secretly monsters who feed on the population. Either way the city lords of Viscera are known for letting them get away with anything they want since before even the [[Alderian Rebellion]]. |
@@ -43,6 +46,7 @@ During the day, the city is relatively quaint and quiet. Common folk work the fa
 | Slaves | Social Class | Those charged with significant crimes who are forced to work and serve in recompense. |
 
 ## Goods and Services
+
  | Name | Type | Description |
  |-|-|-|
  | Castle Twill | Keep | The city's main keep |

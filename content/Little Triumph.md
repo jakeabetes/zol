@@ -1,16 +1,16 @@
 ---
 title: "Little Triumph"
 ---*The worst city*
-
-Built on the utmost edge of [[Kapesh]], surviving against all odds almost as if it were defying the gods themselves. [[Little Triumph]] is a place of little education, constant struggle.
-
 ![[little triumph skyline 1.png]]
+
+Built on the outermost edge of [[Kapesh]], surviving against all odds almost as if it were defying the very gods themselves. [[Little Triumph]] is a place of little education, and constant struggle.
 
 They city was originally an outpost, called Triumph, placed for the purpose of expansion during the lulls of the [[Triumvirate Battles]]. Many of these outposts were constructed on the furthest edges of [[The Witchlands]]. All of these outposts quickly fell to monsters, save for Triumph. Despite regular attacks, disease, and even curses, a small city formed around the outpost.
 
 ![[little_triumph.png]]
 
 ## Overview
+
 | Aspect | Description |
 |-|-|
 | Main Opportunity | None |
@@ -26,6 +26,7 @@ They city was originally an outpost, called Triumph, placed for the purpose of e
 | Majority Religion(s) | Trinity-Centric |
 
 ## Major Features
+
 | Feature | Description |
 |-|-|
 | Distinguishing Features | Very small, surrounded by dangerous forests, isolated, feels 'cursed' |
@@ -35,6 +36,7 @@ They city was originally an outpost, called Triumph, placed for the purpose of e
 | Defenses | Walls, small garrison |
 
 ## People Groups
+
 | Group | Type | Description |
 |-|-|-|
 | Nobility | Social Class | Those charged by the crown with running the city, or successful business owners. |
@@ -43,6 +45,7 @@ They city was originally an outpost, called Triumph, placed for the purpose of e
 | Slaves | Social Class | Those charged with significant crimes who are forced to work and serve in recompense. |
 
 ## Goods and Services
+
  | Name | Type | Description |
  |-|-|-|
  | Castle Triumph | Keep | The City's Keep |

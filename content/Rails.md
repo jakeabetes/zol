@@ -3,7 +3,7 @@ title: "Rails"
 ---*The City of Trains*
 ![[rails 1.png]]
 
-Rails is the birthplace of [[The Great Tracks]], and the largest producer of [[Trains]] in all of [[Zol]].  Located in [[The Free Cities of Alderun]], the city is built from striking red brick and mortar. There are dozens of different manufactures for all things train within Rails. Metal forgers, [[Iron Light]] [[Artificers]], lumber craftsmen, textile workers, glass makers, and merchants are a dime a dozen in Rails. This makes for cut throat competition.
+Rails is the birthplace of [[The Iron Tracks]], and the largest producer of [[Trains]] in all of [[Zol]].  Located in [[The Free Cities of Alderun]], the city is built from striking red brick and mortar. There are dozens of different manufactures for all things train within Rails. Metal forgers, [[Iron Light]] [[Artificers]], lumber craftsmen, textile workers, glass makers, and merchants are a dime a dozen in Rails. This makes for cut throat competition.
 
 ![[rails.png]]
 
@@ -11,12 +11,12 @@ What would appear as a quaint, busybody town to an outsider, is known as a devio
 
 ![[rails 2.png]]
 
-Rails is also one of the few cities that have the Great Tracks running directly through the cities center.
+Rails is also one of the few cities that have [[The Iron Tracks]] running directly through the cities center.
 
 ## Overview
 | Aspect | Description |
 |-|-|
-| Main Opportunity | An extremely industrial city with a the utmost appreciation for craftsmanship. Its economy, made up from guilds of merchants and laborers, thrives due to [[Zol]]'s dependence upon [[The Great Tracks]]. Most production and maintenance of [[Trains]] in [[Zol]] occurs in [[Rails]]. |
+| Main Opportunity | An extremely industrial city with a the utmost appreciation for craftsmanship. Its economy, made up from guilds of merchants and laborers, thrives due to [[Zol]]'s dependence upon [[The Iron Tracks]]. Most production and maintenance of [[Trains]] in [[Zol]] occurs in [[Rails]]. |
 | Main Challenge | The city's fast moving businesses are in constant competition with each other. Over the years this has spawned cutthroat competition between mobs that secretly run most of the city's commerce behind the scenes. Additionally, the constant coming and going of trains from all over [[Zol]] makes this city a smugglers paradise. |
 | Climate | Temperate |
 | Cuisine | Multicultural, Imported goods |
@@ -46,7 +46,7 @@ Rails is also one of the few cities that have the Great Tracks running directly 
 | The Iron Union | Workers Guild | The largest workers guild. Largely known to be backed by The Iron Mob. Known to be by the people and for the people. |
 | The Artificers Guild | Workers Guild | A guild under the support of [[Kerketh Academy]]. Members must be accredited by one of [[Zol]]'s academic institutions. |
 | The Merchants Guild | Workers Guild | A guild made up by nearly a quarter of the city's merchants. Largely known to be backed by the Dragonkin Mob. |
-| The Rail-works Guild | Workers Guild | A guild made up of common workers, skilled artificers, and merchants. It runs an educational institution for the purpose of training those who wish to enter the rail trade. While smaller in size this guild is quite influential as all conductors of [[The Great Tracks]] are members to it. Known to be backed by the Volden Mob. |
+| The Rail-works Guild | Workers Guild | A guild made up of common workers, skilled artificers, and merchants. It runs an educational institution for the purpose of training those who wish to enter the rail trade. While smaller in size this guild is quite influential as all conductors of [[The Iron Tracks]] are members to it. Known to be backed by the Volden Mob. |
 | The Iron Mob | Criminal | Headed by Paros Dalth, a mean, no nonsense human man. This mob frequently employs members of the guild it backs, The Iron Union. This gives them the largest number of goons out of all the major mobs. |
 | The Dragonkin Mob | Criminal | Headed by Astos Belkan, a proud and well dressed dragonborn man. This mob is the richest of its peers due to its backing of The Merchants Guild, giving them the highest quality of resources. |
 | The Volden Mob | Criminal | Headed by Vellen Volden, a seemingly scatterbrained and silly artificer who is swift and brutal when it comes to running her mob. This mob has the most loyal and almost cult-like following as many members of its backed institution, The Rail-workers Academy are recruited into the mob during their education. |
@@ -76,7 +76,7 @@ Rails is also one of the few cities that have the Great Tracks running directly 
 ## Authority
 The city is overseen by the [[Alderian Seat]] Grand Artificer Janeesa Query. She, her nobility, and her garrison keep a general appearance of order to the city, despite the heavy mob presence. This is because the mobs themselves hold each other at knifepoint. 
 
-Soon after the origin of [[The Great Tracks]], crime surged in the city. This continued for a few decades of chaos as profitability of [[The Great Tracks]] grew. Eventually it reached a point where some criminal organizations that backed legitimate trade were able to become wealthy. Enough so that they were able to dig in with a sense of permanency and order.
+Soon after the origin of [[The Iron Tracks]], crime surged in the city. This continued for a few decades of chaos as profitability of [[The Iron Tracks]] grew. Eventually it reached a point where some criminal organizations that backed legitimate trade were able to become wealthy. Enough so that they were able to dig in with a sense of permanency and order.
 
 When this occurred bloodshed between mobs and the garrison changed from frequent, chaotic and brutal, to well-planned, swift, and impactful events. Mobs have to tread carefully as to not being wars between them. This makes Rails a strangely ordered city, despite the massive criminal network.
 
@@ -84,11 +84,11 @@ When this occurred bloodshed between mobs and the garrison changed from frequent
 The city subscribes to the [[Alderian Laws]].
 
 ## Modern Importance
-[[Rails]] is [[Zol]]'s eastern hub of all things related to [[The Great Tracks]]. This is because the original development of the tracks began within this city. It became a hub of skill, and commerce for the trade. Other city's attempted to begin their own versions of this trade, but nearly all merchants and craftsmen all flocked to [[Rails]] as it was much more profitable. The only other comparable city is the western city of [[Ryze]] in [[Laenwalde]].
+[[Rails]] is [[Zol]]'s eastern hub of all things related to [[The Iron Tracks]]. This is because the original development of the tracks began within this city. It became a hub of skill, and commerce for the trade. Other city's attempted to begin their own versions of this trade, but nearly all merchants and craftsmen all flocked to [[Rails]] as it was much more profitable. The only other comparable city is the western city of [[Ryze]] in [[Laenwalde]].
 
 This pattern over time has developed a methodology for [[Trains]]. All planned routes of trains over time are planned to pass through [[Rails]] and [[Ryze]]. When they arrive maintenance and improvements are done before they are sent on another planned route. Because of this, if a train car has an issue far from one of the cities, it is usually abandoned.
 
 Since most land based shipping occurs via train, [[Rails]] is also a hub for criminal smuggling.
 
 ## Historical Importance
-They city's name *Rails* was originally pronounced *Ra-ee-liss*, but after the creation of [[The Great Tracks]], foreigners mispronounced the name due to the rails which [[Trains]] move upon. The misattributed name sake stuck.
+They city's name *Rails* was originally pronounced *Ra-ee-liss*, but after the creation of [[The Iron Tracks]], foreigners mispronounced the name due to the rails which [[Trains]] move upon. The misattributed name sake stuck.

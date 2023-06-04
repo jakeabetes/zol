@@ -8,6 +8,7 @@ Surrounded by hilly farmland, [[Fike]] is the most populated of the north-easter
 ![[fike.png]]
 
 ## Overview
+
 | Aspect | Description |
 |-|-|
 | Main Opportunity | Fike is plentiful with resources. It has a thriving economy from with its neighbor [[Often]], and foreign trade. It is a place where one can easily find work and home within the north. |
@@ -23,6 +24,7 @@ Surrounded by hilly farmland, [[Fike]] is the most populated of the north-easter
 | Majority Religion(s) | Monotheistic worship of [[Adrathar, Father of the Wind]] |
 
 ## Major Features
+
 | Feature | Description |
 |-|-|
 | Distinguishing Features | Costal |
@@ -32,6 +34,7 @@ Surrounded by hilly farmland, [[Fike]] is the most populated of the north-easter
 | Defenses | Walls, Navy, [[The North Honor]] |
 
 ## People Groups
+
 | Group                        | Type         | Description                                                                                                                                                                                                                                                                                                                                                                                                      |
 | ---------------------------- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Nobility                     | Social Class | The upper crust of the city's society. Not as refined as foreign nobility, but obviously more well off than the rest of society. Comprised of the Archon, their supporting council, successful business owners, merchants, and families of long standing wealth.                                                                                                                                                 |
@@ -45,6 +48,7 @@ Surrounded by hilly farmland, [[Fike]] is the most populated of the north-easter
 
 
 ## Goods and Services
+
 | Name                 | Type                 | Description                                                                                         |
 | -------------------- | -------------------- | --------------------------------------------------------------------------------------------------- |
 | Castle Yarms         | Keep                 | The city's main keep                                                                                |

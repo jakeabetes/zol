@@ -13,7 +13,7 @@ There are many gods that exist in [[Zol]], all with different intentions, morali
 The gods themselves have complex relationships with their peers that are not well understood by the civilizations of [[Zol]], society has organized them into pantheons to better discuss them.
 
 ## Main Pantheons
-The main pantheons are:
+
 Pantheon | Description
 ------------ | ------------
 The [[Zolaen Gods]] | The creators of [[Zol]]. A pantheon of gods who act with [[The Watcher in The Door]] as their king. Doing everything they can to see his image of [[Zol]] come to fruition.

@@ -12,6 +12,7 @@ On the opposite end of things, the fanatical members of society have begun to la
 ![[yorn_et_gaul.png]]
 
 ## Overview
+
 | Aspect | Description |
 |-|-|
 | Main Opportunity | The city is an open wound on the world. While tragic, it gives a direct view into the heart of such a unique people and culture. Witnessing the daily life of [[Yorn et Gaul]] is like looking through geological layers of history all the way back to [[The Awakening]], and possibly even before. The [[Changelings]] have such a long standing, well documented history of their people. It begins when the [[Changelings]] found themselves in possession of [[The Oldshards]] after [[The Awakening]]. Bearing no memories, they possessed a strange reverence and understanding of the relics, despite their lack of memories. All their traditions were built around them, and the removal of [[The Apex]] exposes the nature of [[Zol]] and its people in a very tangible way. |
@@ -27,6 +28,7 @@ On the opposite end of things, the fanatical members of society have begun to la
 | Majority Religion(s) | Exaltation Obscura of [[The Oldshards]] |
 
 ## Major Features
+
 | Feature | Description |
 |-|-|
 | Distinguishing Features | Costal, River valley/Hilltop |
@@ -36,6 +38,7 @@ On the opposite end of things, the fanatical members of society have begun to la
 | Defenses | Remote, hostile terrain, army of [[Changelings]] highly skilled in covert and deceptive warfare, High walls, allies with [[The Word of Wrath]] |
 
 ## People Groups
+
 | Group                     | Type                        | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | ------------------------- | --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Shardwitnesses            | Religious/Political Station | Those elected to lead the city, and bear witness to the guidance of [[The Apex]]. However now that the city's oldshard is missing, this group now acts to guide and manage the city as best than can in its absence. They are a group that is formed of the most respected range of citizens, they live highly regulated lives by the rules of [[The Pattern]]. At their head sits the city's Shardcaller, Yemodhan Surrite. Shardwitnesses are similar in their influence to foreign nobility, but lead very strict and humble lifestyles. Those who become Shardwitnesses must be nominated many people (peers, mentors, and authorities) and also prove themselves by means of written essay, and engagement in political and philosophical debate.                                                                                             |
@@ -50,6 +53,7 @@ On the opposite end of things, the fanatical members of society have begun to la
 | The Formless              | Criminal                    | A small gang of very secretive criminals who have begun operating within [[Yorn et Gaul]], spawned by very fanatical, progressive changelings                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 
 ## Goods and Services
+
 | Name                | Type                 | Description                                                      |
 | ------------------- | -------------------- | ---------------------------------------------------------------- |
 | Keep Apex           | Keep                 | The city's main keep                                             |

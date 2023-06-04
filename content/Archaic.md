@@ -12,6 +12,7 @@ Archaic, The Eldest city of [[Zol]]. Archaic sits nested in the northern foothil
 ![[archaic archives.png]]
 
 ## Overview
+
 | Aspect | Description |
 |-|-|
 | Main Opportunity | Home to [[The Kybis Assembly]], the city is known to hold secrets of the past that the institution seeks to unravel. These unlocked secrets tell us much about [[Zol]] and [[The Old Tongue]]. Within the city lies [[The Archives]], holding texts from all over [[Zol]] since the undoing, and rumors of ones from possibly even before that. |
@@ -27,6 +28,7 @@ Archaic, The Eldest city of [[Zol]]. Archaic sits nested in the northern foothil
 | Majority Religion(s) | Trinity-Centric |
 
 ## Major Features
+
 | Feature | Description |
 |-|-|
 | Distinguishing Features | Mountain Location, Uncomfortable Atmosphere, Well Guarded, [[The Kybis Assembly]] |
@@ -36,6 +38,7 @@ Archaic, The Eldest city of [[Zol]]. Archaic sits nested in the northern foothil
 | Defenses | Mountain Location, City Garrison, Assembly Mages, High Walls |
 
 ## People Groups
+
 | Group | Type | Description |
 |-|-|-|
 | Nobility | Social Class | Those charged by the crown with running the city, or successful business owners. |
@@ -48,6 +51,7 @@ Archaic, The Eldest city of [[Zol]]. Archaic sits nested in the northern foothil
 | Grand Insightors | Social Class/Academic Station | The grand master level within [[The Kybis Assembly]]. These individuals are surrounded by legend and mystery. They are of the most skilled mages within [[Zol]], and their sole responsibility is to seek the deep and eldritch knowledge hidden within the world. Many of these individuals do not even associate with anyone below the rank of Insightor. |
 
 ## Goods and Services
+
  | Name                     | Type                 | Description                                                                                                                                                                                                                                                                                               |
  | ------------------------ | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
  | Flatstone Keep           | Keep                 | The city's keep.                                                                                                                                                                                                                                                                                          |

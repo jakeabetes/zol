@@ -17,6 +17,8 @@ Name | Domain
 [[Ayamot]] | Justice
 [[Ohlit]] | Sea
 
+Additionally, [[Bethar]] of the [[Wayward Gods]] is often associated with the [[Zolaen Gods]]. However scripture does not speak of him as one of the [[Zolaen Gods]], but does speak of his relationship with them. [[Bethar]] is often honored in places where the [[Zolaen Gods]] are as well.
+
 ## The Goal of the Zolaen Gods
 The followers of the [[Zolaen Gods]] believe that their intentions are to make [[Zol]] into a paradise. A long and difficult challenge that requires much faith and sacrifice. The [[Zolaen Gods]] bear the responsibility of making the difficult choices that are required to form this perfect world.
 

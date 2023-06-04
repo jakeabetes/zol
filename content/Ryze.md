@@ -10,6 +10,7 @@ Its industrious founding [[Gnomes]] created a vibrant community and became the m
 ![[ryze.png]]
 
 ## Overview
+
 | Aspect | Description |
 |-|-|
 | Main Opportunity | [[Ryze]] and its people move like clockwork in its day to day operations. So much time and effort has gone into efficiency within the complex city (save for the simplification of civil planning regarding its streets). Finding work and home within [[Ryze]] is not nearly the challenge it is in most cities. There are endless opportunities to work in factories, workshops, shipping yards, and things of the like. They say if something can be built by the hand of mortals, they make it in [[Ryze]] |
@@ -25,6 +26,7 @@ Its industrious founding [[Gnomes]] created a vibrant community and became the m
 | Majority Religion(s) | Zolaen-Centric |
 
 ## Major Features
+
 | Feature | Description |
 |-|-|
 | Distinguishing Features | Built in a shallow crater the city has a bowl-shape to its topography. Recognizable by its riverside location in the center of the Arcadian Planes. |
@@ -34,6 +36,7 @@ Its industrious founding [[Gnomes]] created a vibrant community and became the m
 | Defenses | Heavy artillery, airship fleet, sloped approach on all sides |
 
 ## People Groups
+
 | Group | Type | Description |
 |-|-|-|
 | Nobility | Social Class | The high class members of the city. Those who own production lines, trade agreements, merchant operations, or are renowned Skillmasters. |
@@ -47,10 +50,11 @@ Its industrious founding [[Gnomes]] created a vibrant community and became the m
 | Criminals | Criminal | Those who lurk within the narrow places of [[Ryze]], conducting thievery, trade of contraband and other nefarious deeds. The state of criminal activity in modern day involves little rivalry and infighting. Many claim it to be oddly civil. Most operations turn towards an individual called [[The Rust Queen]] as their crime lord. |
 
 ## Goods and Services
+
 | Name | Type | Description |
 |-|-|-|
 | Keep Likal | Keep | The city's main keep |
-| Ryze Station | Train Station | The city's train station, notably located underground in the subterranean levels of [[Brass Seldor]]. It is the only city to have [[The Great Tracks]] pass underneath it. |
+| Ryze Station | Train Station | The city's train station, notably located underground in the subterranean levels of [[Brass Seldor]]. It is the only city to have [[The Iron Tracks]] pass underneath it. |
 | Ryze Convergence | Teleportation Circle | The city's main teleportation circle. Located within the keep. |
 | Brass Convergence | Teleportation Circle | The city's main teleportation circle. Located within [[Brass Seldor]]. |
 | [[Brass Seldor]] | Mega Structure | The massive tower at the city's center. Its bottom layers consist of complex workshops and housing, its mid section is [[The Brass Hall]], and its top floors are home to the nobility. However the tower does not only extend upwards, it descends deep underground as well containing the Train Station, Dungeon, warehouses and many strange mysteries. Some claim tunnels extend from it heading all about the city, and that it even reaches [[The Underdark]]. |

@@ -1,6 +1,6 @@
 ---
 title: "Iron Light"
----Iron Light is a unique and efficient methodology used to simplify the usage of [[Arcana]] in the application of [[Enchantment]]. Named after the tell tale violet glow the application gives off, [[Iron Light]] was discovered by the great Arcanist and Academic, [[Mordenkainen]]. Its conception was what began the [[Second Age]].
+---Iron Light is a unique and efficient methodology used to simplify the usage of [[Arcana]] in the application of [[Enchantment]]. Named after the tell tale violet glow the application gives off, [[Iron Light]] was discovered by the great Arcanist and Academic, [[Maalvern]]. Its conception was what began the [[Second Age]].
 
 ![[Iron Light Artificing.png]]
 
@@ -13,7 +13,7 @@ In its most simple form [[Iron Light]] devices, also known as [[Apparatum]], are
 ## Examples of Apparatum
 Some devices made with [[Iron Light]] are quite simple. Blades that dull very slowly, stoves that heat without fire, lamps that glow without fuel, or even simple refrigeration.
 
-Others are quite complex and powerful. Allowing for things like usage at range, multi-device cooperation, prosthesis, and mathematical estimation. Examples of this are long distance communication devices, flying machines, [[Warforged]], [[Automail]], weather and navigational systems, and even the [[Trains]] of [[The Great Tracks]].
+Others are quite complex and powerful. Allowing for things like usage at range, multi-device cooperation, prosthesis, and mathematical estimation. Examples of this are long distance communication devices, flying machines, [[Warforged]], [[Automail]], weather and navigational systems, and even the [[Trains]] of [[The Iron Tracks]].
 
 ## Production and Economic/Societal Value of Apparatum
 The creation of Apparatum is proportional to skill, quality of materials, and complexity of the design. Some designs take hours, while other take days or weeks. Individuals who create [[Apparatum]] are known as [[Artificers]].
@@ -32,9 +32,9 @@ The name, which references the purple light the runes emanate when active had al
 A very popular and reliable technique was discovered for short term Iron Light solutions. A special material called [[Chalkstone]] was found to be very compatible with iron and allows for quick, and relatively accurate creation of [[Apparatum]] that last a small number of months. This is commonly used in novice work, prototyping, mass production, and education. Unfortunately devices made with chalkstone are easily destroyed by water damage.
 
 ## Discovery
-The Arcanist [[Mordenkainen]] discovered [[Iron Light]] at the end of the [[First Age]]. He observed common patterns in the damage created by [[Magical Backfire]]. By intentionally increasing the damage of [[Magical Backfire]], he was able to spot runes amongst the damage.
+The Arcanist [[Maalvern]] discovered [[Iron Light]] at the end of the [[First Age]]. He observed common patterns in the damage created by [[Magical Backfire]]. By intentionally increasing the damage of [[Magical Backfire]], he was able to spot runes amongst the damage.
 
-One of these runes was found to appear elsewhere. In [[Necromancy]], a phenomenon called a [[Death Scar]] matched exactly to [[Mordenkainen]]'s findings. This led to many other successive discoveries of similar nature. These found runes would later be called the [[Ferric Alphabet]].
+One of these runes was found to appear elsewhere. In [[Necromancy]], a phenomenon called a [[Death Scar]] matched exactly to [[Maalvern]]'s findings. This led to many other successive discoveries of similar nature. These found runes would later be called the [[Ferric Alphabet]].
 
 After much experimentation with the runes, their interaction with iron was discovered. A decade of experimentation led to a single working lamp, and a basic theory of [[Iron Light]].
 
@@ -54,7 +54,7 @@ The alphabet is thought to be incomplete, and many academics spend their lives s
 
 [[Materiation]] causes the afflicted's body to slowly change to a different material state. It is most often seen amongst [[artificers]] and those who operate complex [[Apparatum]] as a part of their career.
 
-This could manifest as holes in the body that slowly pour out smoke, appendages that become plantlike, or famously like the conductors of [[The Great Tracks]] who turn to iron. Though gruesome, the condition is painless and described by the victims as euphoric.
+This could manifest as holes in the body that slowly pour out smoke, appendages that become plantlike, or famously like the conductors of [[The Iron Tracks]] who turn to iron. Though gruesome, the condition is painless and described by the victims as euphoric.
 
 ## Iron Light in relation to Imbuement Perpetuum
 [[Iron Light]] [[Enchantment]] is limited due to the fact it depends on the Vizir of an individual. Its more powerful counterpart, [[Imbuement Perpetuum]], is not limited in this way. Objects of this nature are much more rare and powerful.

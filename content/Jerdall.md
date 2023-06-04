@@ -8,6 +8,7 @@ Deep below the forest glades of [[Gethsemane]] lies the tall  cavern city of [[J
 ![[jerdall.png]]
 
 ## Overview
+
 | Aspect                   | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Main Opportunity         | Citizens of [[Jerda'll]] posses [[The Acrylons]], a unique form of musical communication that creates an interconnected society amongst the [[Drow]]. The city's people can react and respond to the song they hear around them. An uneducated eye may think the city moves like a machine, where each person fits into a functional box and their songs mesh together like the teeth of gears. The truth is more like the innerworkings of nature. There is an everchanging flow to the city, but you can see its truths if you know how to listen for it. |
@@ -23,6 +24,7 @@ Deep below the forest glades of [[Gethsemane]] lies the tall  cavern city of [[J
 | Majority Religion(s)     | Trinity-Centric                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 
 ## Major Features
+
 | Feature | Description |
 |-|-|
 | Distinguishing Features | Subterranean, no sunlight of any kind, illumination from bioluminescent moss |
@@ -32,6 +34,7 @@ Deep below the forest glades of [[Gethsemane]] lies the tall  cavern city of [[J
 | Defenses | The Maw, Subterranean |
 
 ## People Groups
+
 | Group | Type | Description |
 |-|-|-|
 | High Court       | Social Class | The most highly respected members of the city. Those who are of the greatest skill within their profession, and are welcomed into the High Court by the Maer. These individuals are respect as the city's leaders, with the Maer at their head. Members serve terms of 15 years, and may or may not be renewed after that. Society typically likes to have many people move through the position, but the most respected and successful are renewed every decade. There are typically around 50 members of the High Court at a time, and rank is determined by age. |
@@ -42,6 +45,7 @@ Deep below the forest glades of [[Gethsemane]] lies the tall  cavern city of [[J
 
 
 ## Goods and Services
+
 | Name                 | Type                 | Description                                                                                                                                                                                                   |
 | -------------------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Tikyri'ax            | Keep                 | The city's main keep                                                                                                                                                                                          |
