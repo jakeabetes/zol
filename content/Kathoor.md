@@ -29,6 +29,7 @@ This group has no formal name, but Bloodkeepers refer to them as Bloodless. Some
 These groups are not distinct from one another, there are citizens who exist all over this spectrum. There are even some Bloodkeepers who bear [[Humbelons]]. However, most who exist on this spectrum are closer to the extremes. There is no major conflict between these groups, largely due to the passive nature of those who bear [[Humbelons]], but a tension is obviously visible at times.
 
 ## Overview
+
 | Aspect | Description |
 |-|-|
 | Main Opportunity | The city provides a very unique hub of trade, and an even more unique culture. Many people of Ka'thoor give so willingly that you can probably find any good or service one might need in the city. Alternatively a legion of brave and proud warriors called Bloodkeepers protect the city, and commonly engage in contests of strength and skill within The Kala'dola, the famous colosseum. |
@@ -44,6 +45,7 @@ These groups are not distinct from one another, there are citizens who exist all
 | Majority Religion(s) | Zolaen-Centric, Wanderer-Centric |
 
 ## Major Features
+
 | Feature | Description |
 |-|-|
 | Distinguishing Features | Border-City, Foothill Location, Chaotic, Cramped |
@@ -53,6 +55,7 @@ These groups are not distinct from one another, there are citizens who exist all
 | Defenses | Bloodkeeper Warriors, Defensible location, Informal alliance with [[Beastfolk]] |
 
 ## People Groups
+
 | Group | Type | Description |
 |-|-|-|
 | City Elders | Leaders | Those who are chosen by the city's people to lead them. None of which are allowed to live lavishly. Most of these individuals bear [[Humbelons]] |

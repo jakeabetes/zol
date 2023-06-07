@@ -29,17 +29,18 @@ Similar to [[High Elves]], wood elves are know for the characteristically larger
 | Significant Locations | [[Gethsemane]], [[Laelanor]] |
 
 # Drow
-*FLAVORTEXTWITHIMGBELOW*
-
+*Those of [[The Underdark]]*
+![[Drow.png]]
 
 ## Description
-TEXT
+[[Drow]] differ slightly than other elves. They have skin that varies from light grey to deep black, and stark white hair. They are exceptionally adapted to living underground, and are quite sensitive to sunlight
 
 | Trait | Info |
 | --- | --- |
-| Lifespan |  |
-| Height |  |
-| Significant Locations |  |
+| Lifespan | 300-350 years |
+| Height | 5'9"-7' |
+| Significant Locations | [[Gethsemane]], [[Jerda'll]], [[The Underdark]] |
 
-## Additional Info
-- TEXT
+# Additional Info
+- To those who subscribe to the theory of [[The Triumvirate]], [[Elves]] are the embodiment of [[Viridescence]]
+- [[Drow]] exceptional at seeing in the dark, but this makes it difficult for them to see in sunlight. However [[Drow]] have secondary eyelids that can act as a light filter for their eyes. This gives them an appearance of having no pupils when a their secondary lids are visible.

@@ -20,6 +20,8 @@ The second largest of the trio, The Desert Moon. Majesty's surface is covered wi
 
 Great stellar expeditions have been made by powerful arcanists to harness these resources. Unfortunately these were rarely met with success as the planet is inhabited by colossal omnivorous worms.
 
+Majesty also has a large shadow that passes over its surface in a regular pattern. This makes the moon appear in different phases like: full, half, crescent and new. No one know the exact nature of this ever flowing shadow. 
+
 ## Luna
 The largest of the three moons, The Shifting Fate. Luna has strange properties that baffle scholars to this day. Its stony, crater-covered surface warps and changes with each passing day.
 
