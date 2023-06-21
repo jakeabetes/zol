@@ -80,7 +80,7 @@ The city is ruled by High Lady Uraka Jirona, a ruler with deep pockets and a lar
 The city subscribes to the [[Laenwalde Laws]].
 
 ## Modern Importance
-In the current day, the city is known mostly for exporting fine drinks that are sent all over The Three Corners of Civilization. Those who view the city more closely see its over-saturation with important nobles of [[Laenwalde]]. They know it to be a place of naturalistic study, and wild artisans.
+In the current day, the city is known mostly for exporting fine drinks that are sent all over [[The Three Corners]] of Civilization. Those who view the city more closely see its over-saturation with important nobles of [[Laenwalde]]. They know it to be a place of naturalistic study, and wild artisans.
 
 ## Historical Importance
 Located within what was originally part of [[Gethsemane]], the region was a safe haven for a few tribes of peaceful [[Halflings]] and [[Gnomes]] for a few hundred years, beginning around the year 3000. The safe haven was granted by the Wood [[Elves]] of [[Laelanor]], and was later given in full when the elves received aid from [[Gethsemane]] during the [[Western War]]. It was an act of kindness, but some believe the [[Elves]] never truly wanted any claim of it due to its latitude being largely equal to that of [[The East Mounts]]. When it was gifted, the tribes constructed the city of [[Kahdinacht]].

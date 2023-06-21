@@ -5,7 +5,7 @@ title: "Ryze"
 
 In the center of the city of brass, copper, and iron lies a tower, called [[Brass Seldor]]. The building is so tall it contains near half the city's population. It was originally built by a long dead organization of [[Arcanists]] in the early to mid [[First Age]]. These [[Arcanists]], called [[The Circle of Ezer]], were powerful conquerors of The Badlands. They built the megastructure atop geothermal vents to harness their kinetic and heat energy to use in their grand schemes. Fortunately for The Badlands, [[The Undari]] slayed [[The Circle of Ezer]]. Their complex lair was taken over by masses of nomadic tribes seeking refuge. One tribe in particular, [[Clan Yiniro]] was a very clever group of [[Gnomes]] who were able to unlock the secrets that made the tower function as a home. It was quickly filled by all who sought its resources and protection. When the tower was at capacity, the citizens began to build a town around its base that eventually grew into the city of [[Ryze]].
 
-Its industrious founding [[Gnomes]] created a vibrant community and became the majority population of the city. The citizens have built upon the base of [[Brass Seldor]] and expanded upon its complexity and ingenuity. [[Ryze]] has become the city of production within The Three Corners. If something is mass produced, it is likely made here.
+Its industrious founding [[Gnomes]] created a vibrant community and became the majority population of the city. The citizens have built upon the base of [[Brass Seldor]] and expanded upon its complexity and ingenuity. [[Ryze]] has become the city of production within [[The Three Corners]]. If something is mass produced, it is likely made here.
 
 ![[ryze.png]]
 

@@ -3,7 +3,7 @@ title: "Abaddon"
 ---*Wandering God, Moral of Courage*
 ![[Abbadon.png]]
 
-The one armed warrior god. The angel of rebellion. [[Abaddon]], also known as *Crackle*, bears the moral of Courage. He is a very controversial figure in [[Zol]] as he is seen as both an ideal hero, and an insighter of rebellion. To stand ever-strong against oppression is the only sure way to hold back growing darkness.
+The one armed warrior god. The angel of rebellion. [[Abaddon]], known as *Crackle* in the Aarakocran Tongue, bears the moral of Courage. He is a very controversial figure in [[Zol]] as he is seen as both an ideal hero, and an insighter of rebellion. To stand ever-strong against oppression is the only sure way to hold back growing darkness.
 
 ## Depiction
 A Cockatiel [[Aarakocra]]-like being with only his single left arm, and a lightning bolt pattern on the right side of his face. Typically depicted holding a sword that resembles a feather and bearing golden armor. 

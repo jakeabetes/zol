@@ -3,7 +3,7 @@ title: "Penthe"
 ---*The Angel Blessed City of Glory
 ![[Penthe skyline.png]]
 
-[[Penthe]] (pronounced *pen-thay*), is a city built to honor the [[Zolaen Gods]]. A home so beautiful, it has garnered the endorsement of [[Iyowne]], a powerful angel. Founded in the mid [[First Age]] by a group of devout warrior monks called [[The Undari]], [[Penthe]] is now a beautiful city located on the slopes of the Se'dir River Valley. It is the westmost city in all the Three Corners.
+[[Penthe]] (pronounced *pen-thay*), is a city built to honor the [[Zolaen Gods]]. A home so beautiful, it has garnered the endorsement of [[Iyowne]], a powerful angel. Founded in the mid [[First Age]] by a group of devout warrior monks called [[The Undari]], [[Penthe]] is now a beautiful city located on the slopes of the Se'dir River Valley. It is the westmost city in all [[The Three Corners]].
 
 ![[penthe.png]]
 

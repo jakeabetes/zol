@@ -14,4 +14,4 @@ A cast of dragon-blooded people. The exact nature of their existence is not know
 | Significant Locations | None |
 
 ## Additional Info
-- [[Dragonborn]] face prejudice in [[The Ward]] due to their history surrounding [[The Dragon War]]
+- [[Dragonborn]] face prejudice, most notably in [[The Ward]], due to the fallout of [[The Dragon War]]

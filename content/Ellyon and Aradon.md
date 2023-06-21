@@ -28,4 +28,4 @@ They do this by sending omens as warnings, or beasts and forces of nature to det
 [[Ellyon and Aradon]] reside in [[The Immortal Ocean]].
 
 ## Worshipers
-These beings are payed prayer, respect and sacrifice by sailors both of sea and sky. Some organized churches exists on the coasts, but the most common physical manifestation of this deity is beaded necklaces worn by many sailors. 
+These beings are payed prayer, respect and sacrifice by sailors both of sea and sky. Some organized churches exists on the coasts, but the most common physical manifestation of this deity is beaded necklaces worn by many sailors. Due to their association with [[Ohlit]], their worship is typically allowed anywhere worship of the [[Zolaen Gods]] is.

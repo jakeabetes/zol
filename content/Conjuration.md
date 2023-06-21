@@ -11,7 +11,7 @@ Teleportation is an extremely valuable skill to the society of [[Zol]]. Costing 
 
 Before [[The Iron Tracks]], teleportation was the only consistent and safe way to get from once city to another. Making it only accessible to the rich or powerful [[Caster]]s.
 
-Teleportation distance is determined by skill, most who are capable of it can move themselves anywhere within The Three Corners of Civilization. 
+Teleportation distance is determined by skill, most who are capable of it can move themselves anywhere within [[The Three Corners of Civilization]]. 
 
 This limit on teleportation does make it ineffective for long distance expeditions into places like [[The Vast Sea]] and [[The Grand Nothing]]. One may argue that you could teleport very far, rest, then teleport again. This strategy however is unfortunately ineffective.
 

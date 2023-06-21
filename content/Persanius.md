@@ -21,7 +21,7 @@ Said to appear as an aged human man with a bald head and a long grey beard. Some
 [[Persanius]] is said to reside within a grand strange machine within [[The Unknown Realm]]. It is a sprawling and strange structure of an unknown purpose.
 
 ## Behavior
-[[Persanius]] has a reputation of maintaining an impassive demeanor. Never raising his voice, or exercising wrath. He aims to maintain that action is carried out compassionately. If an individual is cruel, and that cruelty be understood, and maybe even overcome? He is known to interact with those who are already very compassionate, or could use a compassionate influence in their life.
+[[Persanius]] has a reputation of maintaining an impassive demeanor. Never raising his voice, or exercising wrath. He aims to maintain that action is carried out compassionately. If an individual is cruel, he teaches the asking of questions like: can that cruelty be understood, and maybe even overcome? He is known to interact with those who are already very compassionate, or could use a compassionate influence in their life.
 
 ## Worshipers
 Those who follow [[Persanius]] are know to be very thoughtful individuals, and are often pacifists. They seek not to avoid conflict, but circumvent it. Within [[Persanius]]' scripture it is clearly written that violence itself is not evil, but it is the final choice. Those who follow his message carry this very closely to heart.

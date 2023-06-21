@@ -71,13 +71,13 @@ Lady Trodak seeks to maintain the economy to support the efforts of those who ve
 
 The authority of Lady Trodak wavers the deeper in the rift you go. The lowborn people mostly live by their own rules and codes, only occasionally being harassed by the garrison.
 
-### Laws
+## Laws
 The city subscribes to the [[Alderian Laws]].
 
 ## Modern Importance
 In its current day an age, the city is the most accessible means for one to venture into [[The Grand Nothing]]. Many travel here to seek out the treasures hidden in the ruins of the old world.
 
-It is also home to the headquarters of [[The Bladehammer Guild]]. The guild is the largest operating party of mercenaries, scholars, craftsmen, and politicians. The guild is made up of many subgroups that have legitimacy all over [[Zol]]. Those who take up arms with the guild are given the agency to do much in the kingdoms of The Three Corners of Civilization.
+It is also home to the headquarters of [[The Bladehammer Guild]]. The guild is the largest operating party of mercenaries, scholars, craftsmen, and politicians. The guild is made up of many subgroups that have legitimacy all over [[Zol]]. Those who take up arms with the guild are given the agency to do much in the kingdoms of [[The Three Corners of Civilization]].
 
 ## Historical Importance
 [[Tenzentak]] was one of the first cities to be founded in [[Zol]]. Its location on the cliffs of [[The Grand Nothing]] was instrumental in [[The Dragon War]]. This was due to the strong up drafting winds that rise from the cliff. These gusts made for difficult sustained airborne combat for dragons.

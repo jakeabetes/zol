@@ -8,9 +8,10 @@ The sister city to the floating capital of [[Heliodor]]. Geographically within [
 ![[heliodor - nerousea_station_.png]]
 
 ## Overview
+
 | Aspect | Description |
 |-|-|
-| Main Opportunity | The city breathes in and out with the flow of the capital above. In the morning, workers flood out of the city to serve in [[Heliodor]], and return to their homes at days end. Resources and important individuals flow in and out of the area like the tide. The humble city has an atmosphere of importance despite its size. |
+| Main Opportunity | The city breathes in and out with the flow of the capital above. In the morning, workers flood out of the city to serve in [[Heliodor]], and return to their homes at days end. Resources and important individuals flow through the station like a river. The humble city has an atmosphere of importance despite its size. |
 | Main Challenge | The city lives in the shadow of [[Heliodor]]. Figuratively and literally. As much opportunity exists within [[Nerousea Station]], sometimes citizens can't help but feeling lowly in comparison to the capital above. The desires and consumption of the grand capital can have unfortunate biproducts for the city below.  |
 | Climate | Temperate/Dry |
 | Cuisine | Farmed good, fish, breads, and pastries |
@@ -22,6 +23,7 @@ The sister city to the floating capital of [[Heliodor]]. Geographically within [
 | Majority Religion(s) | Zolaen-Centric |
 
 ## Major Features
+
 | Feature | Description |
 |-|-|
 | Distinguishing Features | Costal, Riverside, Forested |
@@ -31,6 +33,7 @@ The sister city to the floating capital of [[Heliodor]]. Geographically within [
 | Defenses | Walls, proximity to well defended capital |
 
 ## People Groups
+
 | Group     | Type         | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | --------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Nobility  | Social Class | The wealthy members of the city, charged with the operation of the station. A small group of very proud individuals who see themselves as very important. However outside parties view them as those who either 'didn't quite make it' to the capital, or those who are unfavored by more important nobility and are pushed out of the capital as punishment.                                                                                                                                                                                                                                           |
@@ -39,6 +42,7 @@ The sister city to the floating capital of [[Heliodor]]. Geographically within [
 | Slaves    | Social Class | Those charged with significant crimes who are forced to work and serve in recompense. Not allowed in the city above. Jobs that would be performed by slaves in a typical city within [[Laenwalde]] are instead done by commoners within [[Heliodor]].                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
 ## Goods and Services
+
 | Name                   | Type                 | Description                                                                                                                                                                                                                            |
 | ---------------------- | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Station Hall           | Pseudo-Keep          | The city's main governmental building, located within the center of The Station. Contains offices for political figures in its upper floors and services related to comings and goings of passengers or cargo to and from [[Heliodor]] |
@@ -50,7 +54,7 @@ The sister city to the floating capital of [[Heliodor]]. Geographically within [
 | Heaven's Shadow        | Tavern               | A tavern popular with locals.                                                                                                                                                                                                                                       |
 
 ## Authority
-The city is overlooked by Lord Segume Maude. Lord Maude is notably not a High Lord. The city is under the jurisdiction of the capital, [[Heliodor]]. Making the true power of the city [[King Tatelak II]]. However this is technically the case for all city's of [[Laenwalde]], so it doesn't make much of a functional difference here. However the public opinion of the ruling powers within [[Nerousea Station]] is that they do not posses true political power. Many view them as if they are lowly compared to other nobility.
+The city is overlooked by Lord Segume Maude. Lord Maude is notably not a High Lord. The city is under the jurisdiction of the capital, [[Heliodor]]. Making the true power of the city [[King Tatelak II]]. However this is technically the case for all city's of [[Laenwalde]], so it doesn't make much of a functional difference here. However the public opinion of the ruling powers within [[Nerousea Station]] is that they do not posses true political sway. Many view them as if they are lowly compared to other nobility.
 
 Lord Maude himself does well with the stations management. However he is surrounded by many rumors of him being resentful towards his position and the king. 
 
@@ -61,7 +65,7 @@ The city subscribes to the [[Laenwalde Laws]]
 In modern day, the city is merely seen as a waypoint. Most don't even consider it a true city.
 
 ## Historical Importance
-It is the youngest city in all of The Three Corners even more so than [[Heliodor]] itself. Built to serve as a proxy and gateway for the flying city, [[Nerousea Station]] finds itself growing slowly but surely as more and more opportunities emerge.
+It is the youngest city in all of [[The Three Corners]] even more so than [[Heliodor]] itself. Built to serve as a proxy and gateway for the flying city, [[Nerousea Station]] finds itself growing slowly but surely as more and more opportunities emerge.
 
 ## Other Things of Note
-- Its name, Nerousea, is regularly confused with [[The Narrow Sea]]. This comes from an old conflict of nomenclature. Long ago, sailors of the western seas would call the stretch of sea containing the Arcadian Strait, the Iron Strait, and Gharl's strait *The Narrow Sea*. While the east would refer to the central sea of The Three Corners [[The Narrow Sea]] or *Ver'Selidan*, the old elven name. Over many years of different cultural influences, the east won the battle over the name within history books. However many old and stubborn sailors [[Laenwalde]] hung onto the phrase for many years since. Now the term is typically only used to refer to where the three straits meet. The accents of Laen sailors tend to muddle words together, hence the pronunciation and later spelling becoming *Nerousea* instead of *Narrow Sea*.
+- Its name, Nerousea, is regularly confused with [[The Narrow Sea]]. This comes from an old conflict of nomenclature. Long ago, sailors of the western seas would call the stretch of sea containing the Arcadian Strait, the Iron Strait, and Gharl's strait *The Narrow Sea*. While the east would refer to the central sea of [[The Three Corners]] [[The Narrow Sea]] or *Ver'Selidan*, the old elven name. Over many years of different cultural influences, the east won the battle over the name within history books. However many old and stubborn sailors [[Laenwalde]] hung onto the phrase for many years since. Now the term is typically only used to refer to where the three straits meet. The accents of Laen sailors tend to muddle words together, hence the pronunciation and later spelling becoming *Nerousea* instead of *Narrow Sea*.

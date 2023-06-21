@@ -10,7 +10,7 @@ The most widely known entities that exist in [[The Underdark]] are:
 - The Belowcean of [[The Grand Nothing]]
 
 ## History and Inhabitants
-Traversal through most of [[The Underdark]] is dangerous, cramped, confusing, and of course *dark*. This makes it an undesirable place for most explorers to venture into. The cities of The Three Corners that reside within are only just below the surface, information about what lies below them is folklore to most people.
+Traversal through most of [[The Underdark]] is dangerous, cramped, confusing, and of course *dark*. This makes it an undesirable place for most explorers to venture into. The cities of [[The Three Corners]] that reside within are only just below the surface, information about what lies below them is folklore to most people.
 
 However there are some records and rumors about what lurks deep below [[Zol]], and some scholars claiming to have found portals to [[Damnation]] itself.
 

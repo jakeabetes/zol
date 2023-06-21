@@ -2,7 +2,7 @@
 title: "Laenwalde"
 ---![[Laenwalde.jpg]]
 
-The Unified Kingdoms of the West. The largest political power in all of [[Zol]]. Laenwalde is a kingdom formed of the island of [[Arcadia]], the green hills of [[Eucaren]], and the mysterious sands of [[Saen]]. These three regions are bound by code, trade, and military ties. However their citizens do not necessarily see their neighboring regions as *friends*. 
+The Unified Kingdoms of the West. The largest political power in all of [[Zol]]. Laenwalde is a kingdom formed of the island of [[Arcadia]], the green hills of [[Eucaren]], and the flowing sands of [[Saen]]. These three regions are bound by code, trade, and military ties. However their citizens do not necessarily see their neighboring regions as *friends*. 
 
 ## Regions and Cities
 Laenwalde is comprised of the three unified Kingdoms 
@@ -14,7 +14,7 @@ Laenwalde is comprised of the three unified Kingdoms
 	- [[Kahdinacht]] - Wine and Luxury
 	- [[Woogis]] - Slow Country Life
 	- [[Reach Run]] - The Central Hub of [[Airships]]
-- **Saen** - A gritty and toughened people of the dangerous desert. The people of Saen are those who have not given up the ancient ways of the Badlands.
+- **Saen** - A gritty and toughened people of the dangerous desert. Many of the people of Saen hold true to the ancient ways of [[The Badlands]].
 	- [[Kosskazoka]] - The Neon City
 	- [[Diddan]] - The Wild West
 	- [[Rockfire]] - The Volcanic Oasis
@@ -24,8 +24,8 @@ As well as a shared capital, The Floating City of [[Heliodor]] and its terrestri
 ## Wilderness and Climate
 Each of Laenwalde's three regions has its own natural landscape that differs from its neighbors
 - **Arcadia** - A well mapped and inhabited island. The wilderness of the island is tamed more than most places of [[Zol]], but still presents moderate danger for those unprepared. It's north is full of the snowcapped peaks of [[The Auroran Summits]] which are inhabited by territorial [[Dragons]].
-- **Eucaren** - The wilderness of Eucaren is most associated with the beautiful Madre'ells. A vast expanse of forest covered hills. Known to be the most tame wilderness in all of [[Zol]], this region supplies the people of Eucaren with many resources. While reasonably safe, there are some great threats that reside in the deepest parts of the forest. Its north east contains [[The East Mounts]], a remarkably dangerous mountain range that is thought to be cursed in the teachings of [[Elves]]. Its north west extends into Yaa'fedell, the forest of the wood elves. This territory was gifted to Eucaren long ago as a thankful gift from the [[Elves]] of [[Gethsemane]] for their aid in war against [[The Glassius Reach]]. In the center of the region lie 2 ruined cities: Aefadel, and Lamour. Two cities destroyed in the various conflicts of the region.
-- **Saen** - The Desert of The Three Corners. Saen is possesses great sand dunes, Oases, the mesas of [[The Kodoros]], active volcanoes, and [[The Savanah]]. Its wilderness is extremely hostile but holds resources and treasure that can only be obtained within its sands. While the region is a challenge to traverse, an advancement in Apparatum technology known as [[Skimmers]] have made navigating the desert much easier.
+- **Eucaren** - The wilderness of Eucaren is most associated with the beautiful Madre'ells. A vast expanse of forest covered hills. Known to be considerably tame at the edges of its wilderness, this region supplies the people of Eucaren with many resources. While reasonably safe, there are some great threats that reside in the deepest parts of the forest. Its north east contains [[The East Mounts]], a remarkably dangerous mountain range that is thought to be cursed in the teachings of [[Elves]]. Its north west extends into Yaa'fedell, the forest of the wood elves. This territory was gifted to Eucaren long ago as a thankful gift from the [[Elves]] of [[Gethsemane]] for their aid in war against [[The Glassius Reach]]. In the center of the region lie 2 ruined cities: Aefadel, and Lamour. Both were destroyed in the various conflicts of the region.
+- **Saen** - The Desert of [[The Three Corners]]. Saen is possesses great sand dunes, oases, the mesas of [[The Kodoros]], active volcanoes, and [[The Savanah]]. Its wilderness is extremely hostile but holds resources and treasure that can only be obtained within its sands. While the region is a challenge to traverse, an advancement in Apparatum technology known as [[Skimmers]] have made navigating the desert much easier.
 
 All of Laenwalde is notably covered in ruins of old forts, castles, towns and other settlements. This is because of the frequent destruction that occurred during [[The Taming of the Badlands]].
 

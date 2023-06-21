@@ -48,7 +48,7 @@ Within the Free Cities, academics are associated with [[Kerketh Academy]]. An in
 There is also a fair degree of education and apprenticeship that occurs at [[The Bladehammer Guild]]. As well as the occasional private tutelage is conducted here and there.
 
 ## Political Climate
-The Free Cities are on good terms with almost all kingdoms of The Three Corners save for their neighbor [[Kapesh]]. The relationship with [[Kapesh]] is difficult due to their history, but in modern times it has resolved to reluctant amicability.
+The Free Cities are on good terms with almost all kingdoms of [[The Three Corners]] save for their neighbor [[Kapesh]]. The relationship with [[Kapesh]] is difficult due to their history, but in modern times it has resolved to reluctant amicability.
 
 Within the Kingdom, the various cities have complicated relationships. The court of The Free Cities constantly changes friendships and rivalries, however there are a few constants amongst the chaos. [[Zessgorn]] is a notably difficult city to organize as its crime has gotten far out of hand, and [[Holocene]] does not play nicely with the overall mission of The Free Cities as their nobility is known for exploiting the less fortunate.
 

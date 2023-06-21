@@ -21,7 +21,7 @@ Overall, [[The Ward]] is a rough and rugged place, shaped by the forces of natur
 There is also the icy city of myth and rumor, [[Yoel Sundarum]]. However many believe it does not even exist.
 
 ## Wilderness and Climate
-[[The Ward]] is famously rocked by devastating storms on a weekly basis. These storms, thought to be sent by [[Adrathar, Father of the Wind]] are said to be of a divine purpose. Regardless of their intention, the winds would destroy any other part of The Three Corners in a single day. However [[The Ward]] is no normal kingdom. Millennia of destructive winds have shaped the kingdom, its people, and its wilderness into something nigh unbreakable. 
+[[The Ward]] is famously rocked by devastating storms on a weekly basis. These storms, thought to be sent by [[Adrathar, Father of the Wind]] are said to be of a divine purpose. Regardless of their intention, the winds would destroy any other part of [[The Three Corners]] in a single day. However [[The Ward]] is no normal kingdom. Millennia of destructive winds have shaped the kingdom, its people, and its wilderness into something nigh unbreakable. 
 
 The Storms themselves come on a semi regular basis. The slight irregularity of their arrival is not well understood, but their coming is heralded by individuals of a profession known as [[Stormcallers]]. This task was made easier when it was discovered that Luna, on of [[The Moons]] of [[Zol]] displayed regular patterns on its shifting surface when the storm is 3 days out. This allowed [[Stormcallers]] to better approximate the approach and greatly reduced the casualties of the profession.
 
@@ -88,7 +88,7 @@ Those who follow in [[Adrathar]] say he sends the storms to *prepare his people 
 ## Academics and Magic
 Much education and apprenticeship within [[The Ward]] is conducted via private tutelage. Mentors will either accept payment for their services, or will seek out pupils and offer them teaching. It is a great honor to be offered such a gift and is almost never turned down. [[The Ward]] is not academically gifted compared to much of the other kingdoms, but there are a small handful of academics who are incredibly well accredited.
 
-There is one academic institution within [[The Ward]], [[The College of Hoss]]. It is dwarfed compared to [[The University]], [[The Kybis Assembly]], and [[Kerketh Academy]]. However it does offer some very unique teachings. The college is a dark any mysterious place located on the very edge of The Three Corners. It rarely takes on students, and is known to be almost a sister-school to [[The Kybis Assembly]].
+There is one academic institution within [[The Ward]], [[The College of Hoss]]. It is dwarfed compared to [[The University]], [[The Kybis Assembly]], and [[Kerketh Academy]]. However it does offer some very unique teachings. The college is a dark any mysterious place located on the very edge of [[The Three Corners]]. It rarely takes on students, and is known to be almost a sister-school to [[The Kybis Assembly]].
 
 ## Political Climate
 On good terms with its nearby kingdoms, [[The Ward]] is currently pressured only by its internal struggle between. [[Hoss]] and its rival allied cities of [[Often]] and [[Fike]].

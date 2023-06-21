@@ -25,7 +25,7 @@ Resides in [[The Pure Forest]], the same realm as [[The Lifeweaver]]. Ralatas is
 Followers of Ralatas are usually mystics, druids, tribes, and other social oddities. Formal worship is not practiced. Relations with Ralatas manifest more as a way of life involving hunts, and spending most of ones time in the natural world.
 
 ## State of Princedom
-Ralatas succeeded his father [[Kerndall]] when the once king attempted to expand his domain by converting society to beasts. He did so by manufacturing a disease called [[Beast Ire]]. A condition that caused madness and mutations. Converting mortals into feral beasts who hunted their own kin. Devouring hundreds and spreading the disease to others.
+Ralatas succeeded his father [[Kerndall]] when the once king attempted to expand his domain by converting society to beasts. He did so by accidentally manufacturing a disease called [[Beast Ire]]. A condition that caused madness and mutations. Converting mortals into feral beasts who hunted their own kin. Devouring hundreds and spreading the disease to others.
 
 The disease eventually mutated in such a way where it could infect beasts as well. Causing them to take on horrifying forms. [[Kerndall]] was forced to contain the ailment within himself to save [[Zol]]. Maddening him and turning him into a horrible monster now under the control of [[The Wasp Eater]].
 

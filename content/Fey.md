@@ -23,7 +23,7 @@ These [[Elves]], known as [[Eladrin]] were once [[High Elves]] of the [[Prime Ma
 
 Those who live in the [[Fey]] are xenophobic, any being who is uninvited to their home is met with significant resistance upon seeking entrance.
 
-Other more reclusive or rare races like [[Fairies]], and [[Saytrs]] also hail from this realm. Some of which live amongst the city of [[Hymnal]].
+Other more reclusive or rare races like [[Fairies]] also hail from this realm. Some of which live amongst the city of [[Hymnal]].
 
 Strangely, iron is hated amongst those native to the [[Fey]]. Academics do not know why this is, but [[Fey]] natives experience great pain when in contact with the substance and can even claim to smell a putrid scent off of those who have worn iron recently. [[Iron Light]] is very uncommon within the [[Fey]] due to this fact.
 

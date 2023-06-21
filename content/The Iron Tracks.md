@@ -4,7 +4,7 @@ title: "The Iron Tracks"
 ![[The Great Tracks.png]]
 
 ## Construction
-The Great Iron Tracks are a wonderous feat of engineering. Designed by the combined efforts of [[The University]], [[Kerketh Academy]] and [[The Kybis Assembly]]. A complex combination of [[Iron Light]] and infrastructure that spans The Three Corners of Civilization. A network of [[Trains]] that allows for anyone, powerful or not, to cross [[Zol]].
+The Great Iron Tracks are a wonderous feat of engineering. Designed by the combined efforts of [[The University]], [[Kerketh Academy]] and [[The Kybis Assembly]]. A complex combination of [[Iron Light]] and infrastructure that spans [[The Three Corners of Civilization]]. A network of [[Trains]] that allows for anyone, powerful or not, to cross [[Zol]].
 
 Originally conceptualized for the purpose of unifying the people of [[Zol]]. Allowing for common folk to cross the too-dangerous wilds with ease. This vision was met with resistance from the more conservative members of society. However, even they could not deny the immense economical benefits it would create.
 

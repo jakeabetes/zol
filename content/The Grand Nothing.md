@@ -18,7 +18,7 @@ Explorers, nomads, and bandits have taken to the region quite well. Originally o
 There are other rumored ways down:
 - A set of narrow stairs supposedly carved into the cliff
 - Cave systems that lead out into the region and back up to the surface
-- Secret magical portals hidden within the campuses of the various academic institutions of The Three Corners.
+- Secret magical portals hidden within the campuses of the various academic institutions of [[The Three Corners]].
 However their existence is probably just that, a rumor.
 
 Those who do make it to the surface of [[The Grand Nothing]] usually travel around by way of [[Skimmers]]. A high speed vehicle with appearance similar to some [[Airships]]. Rather than massive ships that fly high in the sky, [[Skimmers]] hover only a few feet above the ground and travel at extremely high velocity.
@@ -62,7 +62,7 @@ Those who do make it to the surface of [[The Grand Nothing]] usually travel arou
 The region varies from temperate to dry desert. it is worth noting that days within much of [[The Grand Nothing]] are shorter because of the massive cliffs in the west that block out the sun. During the night, the region becomes very cold.
 
 ## History and Inhabitants
-To ask the true history of [[The Grand Nothing]] is to ask the greatest mystery within The Three Corners of Civilization. What event evoked [[The Undoing]]? What was the world like before the destruction? Why does its desolation manifest in such a strange way?
+To ask the true history of [[The Grand Nothing]] is to ask the greatest mystery within [[The Three Corners]] of Civilization. What event evoked [[The Undoing]]? What was the world like before the destruction? Why does its desolation manifest in such a strange way?
 
 The answers to the questions are still almost entirely a mystery, but there are a few known facts and a vast pile of speculation. The known **facts** about [[The Grand Nothing]] and [[Old Zol]] are:
 - There used to be **a once great society, with kingdoms, magic, and technology so grand** they make modern day [[Zol]] seem almost primitive.
@@ -72,10 +72,10 @@ The answers to the questions are still almost entirely a mystery, but there are 
 
 The most prominent **speculations** of [[The Grand Nothing]] and [[Old Zol]] are:
 - **There were only [[Humans]], [[Elves]], and [[Dwarves]] within the old world**, and the newer races were a product of [[The Undoing]]. This is speculated because no evidence of other races has been found. It has stemmed problematic beliefs such as [[Great Magic]], [[The Triumvirate]], [[Human Sovereigntists]] and things of the like.
-- **It is thought that the area of [[The Grand Nothing]] closest to The Three Corners was a very rural place**, and that **there may be a great lost city somewhere out in the shallow seas**.
+- **It is thought that the area of [[The Grand Nothing]] closest to [[The Three Corners]] was a very rural place**, and that **there may be a great lost city somewhere out in the shallow seas**.
 - **Old society may have had a very close relationship with the [[Gods]].** The ways in which they are mentioned in deciphered texts make it seem like they walked amongst the people of the old world.
 
-In modern day, the only people to exist within [[The Grand Nothing]] are those who ventured there. After [[The Undoing]], there were no sapient beings within the region, at least near The Three Corners that are known of.
+In modern day, the only people to exist within [[The Grand Nothing]] are those who ventured there. After [[The Undoing]], there were no sapient beings within the region, at least near [[The Three Corners]] that are known of.
 
 ## Borders
 The region borders the cliffs of:

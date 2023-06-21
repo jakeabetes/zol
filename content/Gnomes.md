@@ -4,7 +4,7 @@ title: "Gnomes"
 ![[Gnome.png]]
 
 ## Description
-Gnomes are known to be busy-bodies. Known to have gifted minds and skilled hands that make them gifted thinkers and craftsmen. Despite their small size they are known for their bravery.
+Gnomes have a reputation as busy-bodies. Known to have gifted minds and skilled hands that make them great thinkers and craftsmen. Despite their small size they are famous for their bravery.
 
 | Trait | Info |
 | --- | --- |

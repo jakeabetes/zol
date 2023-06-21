@@ -6,7 +6,7 @@ title: "Planes"
 
 [[Planes]] were first created from the [[Sea of Monsters]] by [[The Watcher in The Door]]. [[The Watcher]] did not transform the majority of the [[Sea of Monsters]] into [[Zol]], but did manage to harness a great deal of it. What is left of the [[Sea of Monsters]] is now known as [[The Void]].
 
-All planes in [[Zol]] are are anchored to the [[Prime Material Plane]], which is the resting place of [[The Trinity]], and home to The Three Corners of Civilization.
+All planes in [[Zol]] are are anchored to the [[Prime Material Plane]], which is the resting place of [[The Trinity]], and home to [[The Three Corners of Civilization]].
 
 All planes float amongst [[The Ethos]], the local section of the universe that stops at [[The Great Wall of Roots]]. Beyond that lies [[The Cosmos]] which spans on forever.
 

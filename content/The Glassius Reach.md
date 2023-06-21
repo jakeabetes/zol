@@ -2,7 +2,7 @@
 title: "The Glassius Reach"
 ---![[The Glassius Reach.jpg]]
 
-Geographically and politically isolated, The Reach is cut off from the rest of the world by [[The Peaks of Myth'ira]] and the treacherous [[Wrath Wastes]]. [[The Glassius Reach]] is the most alien of the kingdoms within The Three Corners. Both its wilderness, and its people are unlike any other. Inhabited by [[Changelings]], and scorned by all of [[Zol]], the Reach holds many mysteries.
+Geographically and politically isolated, The Reach is cut off from the rest of the world by [[The Peaks of Myth'ira]] and the treacherous [[Wrath Wastes]]. [[The Glassius Reach]] is the most alien of the kingdoms within [[The Three Corners]]. Both its wilderness, and its people are unlike any other. Inhabited by [[Changelings]], and scorned by all of [[Zol]], the Reach holds many mysteries.
 
 The most notable mystery being [[The Oldshards]]. Two strange relics which the culture and society of [[Changelings]] is based around.
 
@@ -75,7 +75,7 @@ Academics and magic are exclusively taught through [[The Eelynn]], a college of 
 The Reach also has access to a unique manifestation of the will of [[Observance]]. This is obtained through interfacing with [[The Oldshards]]. What little is understood about this phenomena is extremely well guarded and is not known by many. Those who do have abilities granted by [[The Oldshards]] are quite powerful.
 
 ## Political Climate
-[[The Glassius Reach]] has faced much destruction in its recent history. The Kingdom has a general hatred for the outside world, especially [[Gethsemane]] and [[Laenwalde]]. The much of the The Three Corners returns the same sentiment. The Reach is however a small kingdom compared to its enemies, so it remains well defended in its borders.
+[[The Glassius Reach]] has faced much destruction in its recent history. The Kingdom has a general hatred for the outside world, especially [[Gethsemane]] and [[Laenwalde]]. The much of the [[The Three Corners]] returns the same sentiment. The Reach is however a small kingdom compared to its enemies, so it remains well defended in its borders.
 
 The City of [[Yorn et Gaul]] faces a grim present. [[The Apex]], an object central and holy to the city was lost in the [[Western War]]. However the importance of this object was so great to these people. They still worship the grounds where it was once held. They leave much of their holy buildings in their war-torn state as a remined of what they faced. Many seek to restore what was lost while others feel that the kingdom needs to change to adapt to the new world.
 

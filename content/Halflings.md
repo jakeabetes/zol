@@ -10,7 +10,7 @@ title: "Halflings"
 | --- | --- |
 | Lifespan | 80-100 years |
 | Height | 3'8" - 4'5" |
-| Significant Locations |  |
+| Significant Locations | [[Woogis]] |
 
 ## Additional Info
 - Some believe that [[Halflings]] are good luck

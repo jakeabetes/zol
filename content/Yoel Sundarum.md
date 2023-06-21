@@ -21,7 +21,7 @@ The under city of Cowl, known for its wild streets (if you can call them that), 
 
 | Aspect | Description |
 |-|-|
-| Main Opportunity | The city is a unique place in [[Zol]], here one can find wisdom, knowledge, craftsmanship, food, and experiences like nowhere else within The Three Corners. It is a place of stories that seems so obscure many think it only exists in rumor. |
+| Main Opportunity | The city is a unique place in [[Zol]], here one can find wisdom, knowledge, craftsmanship, food, and experiences like nowhere else within [[The Three Corners]]. It is a place of stories that seems so obscure many think it only exists in rumor. |
 | Main Challenge | The city is disconnected from the outside world, and it always has been. It has been living within a bubble and is completely unconcerned with what goes on outside. Within this bubble, it has developed a sort of city wide cabin-fever that can be felt all throughout its culture. Shimmer and Cowl do not get along as a whole, and it has come to blows in the past.|
 | Climate | Arctic |
 | Cuisine | Fish, sea-based vegetation, small portion of gathered vegetation from small nearby islands |

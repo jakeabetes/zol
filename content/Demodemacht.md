@@ -2,7 +2,7 @@
 title: "Demodemacht"
 ---![[Demodemacht.png]]
 
-The grandest mountains in all of The Three Corners. [[Demodemacht]]'s perilous peaks are the largest in all the realm. Their grandeur is the setting for many-a-tale in the eastern cultures. Known for its unique and treacherous terrain, including narrow passageways, steep cliffs, and deep canyons. The range is also home to a variety of mythical creatures, including massive birds the size of houses, [[Giants]], griffins, and of course [[Dragons]]. The peaks of [[Demodemacht]] are said to be so high that they touch [[The Cliffs of Aeordel]].
+The grandest mountain range in [[The Three Corners]]. [[Demodemacht]]'s perilous peaks are the largest in all the realm. Their grandeur is the setting for many-a-tale in the eastern culture. Known for its unique and treacherous terrain, including narrow passageways, complex caves, steep cliffs, and deep canyons. The range is also home to a variety of powerful creatures, including massive birds the size of houses, [[Giants]], griffins, and of course [[Dragons]]. The peaks of [[Demodemacht]] are said to be so high that they touch [[The Cliffs of Aeordel]].
 
 Some say the range is also home to a powerful and ancient order of monks who reside in secluded monasteries on the peaks. They are said to possess great wisdom and spiritual power, and are rumored to be able to control the world around them through physical power and mental fortitude.
 

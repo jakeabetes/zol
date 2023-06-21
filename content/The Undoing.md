@@ -4,7 +4,7 @@ title: "The Undoing"
 
 [[The Undoing]] is the name for the event which destroyed all of [[Old Zol]] and created [[The Grand Nothing]]. No one knows what caused it. Some believe it was the wrath of the [[Zolaen Gods]] who sought to punish all of [[Zol]] for the actions of the [[Humans]], others believe it was the [[The Wandering Gods]] who came to take [[Zol]] from their own. There are those who think it to be the actions of [[Void Gods]] or even some other force not understood by modern [[Zol]].
 
-Regardless of the cause, [[The Undoing]] destroyed tracts of land so vast that it is not known the extent of its destruction. All living beings who resided within were teleported away from the destroyed landscape, and were deposited in the Three Corners of Civilization.
+Regardless of the cause, [[The Undoing]] destroyed tracts of land so vast that it is not known the extent of its destruction. All living beings who resided within were teleported away from the destroyed landscape, and were deposited in [[The Three Corners of Civilization]].
 
 All memories of the old world were taken. Luckily, basic skills, names, relationships, and languages were retained giving a better chance at survival. Oddly, a shared language was spoken by all people, the language of [[Common]]. It is not known if this was something from [[The Before]], or an artifact of [[The Undoing]].
 

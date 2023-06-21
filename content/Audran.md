@@ -85,7 +85,7 @@ The city subscribes to the [[Laenwalde Laws]].
 In current day and age, the city is a massive place where anyone can slip away into. They will find some notch or corner they fit into within its wall. It may not be a good palace, but they will fit in somewhere.
 
 ## Historical Importance
-Once the beacon of prosperity within The Three Corners, the city was struck with a horrible destruction during an event called The Day of Madness. 
+Once the beacon of prosperity within [[The Three Corners]], the city was struck with a horrible destruction during an event called The Day of Madness. 
 
 *For more information on this please read the below section named: The Destruction of Audran - The Day of Madness*
 

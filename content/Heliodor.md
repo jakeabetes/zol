@@ -8,6 +8,7 @@ Constructed in holy defiance of the [[Void Gods]] after [[The Castle of Bodies]]
 ![[heliodor.png]]
 
 ## Overview
+
 | Aspect                   | Description                                                                                                                                                                                                                                                                                                                                                                                                     |
 | ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Main Opportunity         | [[Heliodor]] is a city that feels like it is on top of the world. Figuratively and literally. It is full of hundreds of important people who come and go like the inner working of some great societal machine. Being in the city feels like being inside the heart of society itself. The shops, inns, and other services are of the highest quality, and it is all built to cater to the needs of its guests. |
@@ -23,6 +24,7 @@ Constructed in holy defiance of the [[Void Gods]] after [[The Castle of Bodies]]
 | Majority Religion(s)     | Zolaen-Centric                                                                                                                                                                                                                                                                                                                                                                                                            |
 
 ## Major Features
+
 | Feature | Description |
 |-|-|
 | Distinguishing Features | Flying City |
@@ -32,6 +34,7 @@ Constructed in holy defiance of the [[Void Gods]] after [[The Castle of Bodies]]
 | Defenses | Airship fleet, aeronautical flight capabilities, teleportation, heavy artillery, Kingsguard |
 
 ## People Groups
+
 | Group              | Type             | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | ------------------ | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | High Nobility      | Social Class     | The top of the top within the noble circles of [[Laenwalde]]. High Lords, High Ladies, Merchant Tycoons, Guild Leaders, Upper ranking members from [[The University]], Military Leaders, Foreign Diplomats, and people of the like. The kingdom and city look to these people for direction. At the top of their hierarchy sits [[King Tatelak II]] and his Golden Council.                                                                                                                                                                                                                                                                            |
@@ -41,6 +44,7 @@ Constructed in holy defiance of the [[Void Gods]] after [[The Castle of Bodies]]
 | The Golden Council | Occupation       | Those responsible with counseling the king. They are the most powerful within their domain.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 
 ## Goods and Services
+
 | Name                 | Type                 | Description                                                                                                                                                                |
 | -------------------- | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Laenkeep             | Keep                 | The city's main keep, and home to [[King Tatelak II]]. It is a valiant and tall structure that reaches far into the heavens.                                               |
@@ -48,7 +52,7 @@ Constructed in holy defiance of the [[Void Gods]] after [[The Castle of Bodies]]
 | The Hall of Lenses   | Misc.                | A structure within the main keep that contains an array of arcane devices, each with a lens that allows a user to peer at an overhead view of each [[Laenwalde]]'s cities. |
 | The Hook             | Aeronautical Port    | A large structure that extends out from the main city which acts as an aeronautical port                                                                                   |
 | The Gem Market       | Market               | The city's luxurious market, containing the highest qualities *and* prices.                                                                                                |
-| Aeordel Wine House   | Tavern               | A very fine wine house, containing wines and spirits from all over The Three Corners                                                                                       |
+| Aeordel Wine House   | Tavern               | A very fine wine house, containing wines and spirits from all over [[The Three Corners]]                                                                                       |
 | The Wyvern's Wing    | Restaurant           | One of The Three Corner's finest restaurants. Getting a table at this venue is extremely difficult, and a mark of true importance.                                         |
 | The Gilded Shield    | Tavern               | A tavern popular with off duty Kingsguard. Located in the shallowest level of The Bellows.                                                                                 |
 | The Bellows          | Misc                 | The infrastructure that maintains the city. A complex nexus of tunnels filled with [[Imbuement Perpetuum]], [[Apparatum]] and mechanical devices which keep the city aloft and running smoothly.                                                                                                                                                                            |

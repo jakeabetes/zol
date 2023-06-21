@@ -2,9 +2,9 @@
 title: "The Archsea"
 ---![[The Archsea.jpg]]
 
-The waters that bind the kingdoms of [[Zol]]. [[The Archsea]] is the central most body of water within The Three Corners. It is abundant with ships, sea life, and sea monsters. Many make lives for themselves on its coasts, some even do so beneath its waves in the enigmatic city of [[Abdjadan]].
+The waters that bind the kingdoms of [[Zol]]. [[The Archsea]] is the central most body of water within [[The Three Corners]]. It is abundant with ships, sea life, and sea monsters. Many make lives for themselves on its coasts, some even do so beneath its waves in the enigmatic city of [[Abdjadan]].
 
-Pirates, merchants, fishermen, and adventurers have made great use of the sea that has supported life in The Three Corners since [[The Awakening]].
+Pirates, merchants, fishermen, and adventurers have made great use of the sea that has supported life in [[The Three Corners]] since [[The Awakening]].
 
 ## Points of Interest
 - **[[Abdjadan]]** - A mystifying city built on the ocean floor. Its presence was not known until the early parts of the [[Second Age]]. Populated by a cast of water breathing [[Races]], the city has an extreme hatred of the surface world and does not allow outsiders.
