@@ -3,9 +3,9 @@ title: "Riverbridge"
 ---*The waypoint of the world*
 ![[riverbridge 1.png]]
 
-The most fought over city in all of [[Zol]]. [[Riverbridge]] is located on Stalke Island in the center of [[The Narrow Sea]]. Famous for its massive bridges that span east and west to cross [[The Narrow Sea]].
+The most fought over city in all of [[Zol]]. [[Riverbridge]] is located on Ile Sterza in the center of [[The Narrow Sea]]. Famous for its massive bridges that span east and west to cross [[The Narrow Sea]].
 
-Its name, originally Sea Hold, was mistranslated and altered several times in its constant change of rulership back and forth between [[Kapesh]] and [[Gethsemane]] during the [[Triumvirate Battles]]. It is now home to a population mostly made up of equal parts [[Humans]], [[Elves]], and [[Dwarves]]. These parts do not get along very well.
+Its name, originally Saedis Vaarin, was mistranslated and altered several times in its constant change of rulership back and forth between [[Kapesh]] and [[Gethsemane]] during the [[Triumvirate Battles]]. However it was originally part of [[Gethsemane]]. It is now home to a population mostly made up of equal parts [[Humans]], [[Elves]], and [[Dwarves]]. These parts do not get along very well.
 
 ![[riverbridge.png]]
 

@@ -8,4 +8,6 @@ Music and laughter can always be heard echoing down its halls. Smelling of incen
 
 An infinitely sprawling temple built on a shallow pool of reflective water. Its grounds are covered in beautiful architecture, sculptures, tapestries, murals and gardens.
 
+In scripture, it is referred to as a temple, or palace. However many depictions make it appear as a massive bathhouse.
+
 Inhabited by [[Yanneran]] and his chosen dead, there is always celebrations going on here of some sort. Legend says the palace is designed for you to get lost in. Mortals who wander for too long slowly lose their vessel, dissolving into one of they many celebrating souls.

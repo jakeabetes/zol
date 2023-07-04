@@ -7,15 +7,15 @@ All who enter Zessgorn must fit into the hierarchy of the city. Each person must
 Each cup is unique, and given by a ring bearer themselves. If a ring bearer would die, their patrons would go to their successor.
 
 ## Origin of Zessgorn's Cups
-Before [[The Page of Cups]] came top power, [[Zessgorn]] sat in a state of careful balance since the end of [[The Dragon War]]. Even the [[Alderian Rebellion]] did not disrupt its long standing traditions.
+Before [[The Page of Cups]] came to power, [[Zessgorn]] had sat in a state of careful balance since the end of [[The Dragon War]]. Even the [[Alderian Rebellion]] did little to disrupt its long standing traditions.
 
 The city operated by relying on the rule of those who bore the Empress and Emperor rings. These rulers, along with the other Herald Ring Bearers oversaw the city. They kept order by the aid of the Empowered Ring Bearers. As generations progressed, rings were passed to chosen successors.
 
 The Lesser Rings were scattered amongst the common population to ensure the people of the city would never be without their own agency to push back against the ruling powers if they ever abused their own rings.
 
-It was thought that [[The Page of Cups]] ring had a simple power, it allowed an individual to attune with an above average amount of magical objects. Most people's [[Vizir]] allows them attune to around 3, but the ring added capacity for one or two.
+It was thought that [[The Page of Cups]] ring had a simple power, it allowed an individual to [[Attenuation]] with an above average amount of magical objects. Most people's [[Vizir]] allows them attune to around 3, but the ring added capacity for one or two more.
 
-This changed when [[Rali Trunsarr]] discovered that [[The Page of Cups]] ring allowed her to attune to any number of the lesser rings, she enacted a plan to take the city for herself. She fought, stole, and bought all the lesser rings she could. This granted her strength, skill, luck, and magical powers. The lesser rings, while relatively unremarkable on their own compared to the Empowering rings, had a multiplicative effect. Rali's own personal power rose almost to a level of a [[Wordbearer]].
+This changed when [[Rali Trunsarr]] discovered that [[The Page of Cups]] ring allowed her to attune to any number of the lesser rings, she enacted a plan to take the city for herself. She fought, stole, and bought all the lesser rings she could. This granted her strength, skill, luck, and magical powers. The lesser rings, while relatively unremarkable on their own compared to the Empowering rings, had a multiplicative effect. Rali's own personal power rose almost to that of a [[Wordbearer]].
 
 This sudden change to the power structure sparked civil war and riots within the city. [[Tarot Ring Bearers]] turned on one another as people tried to seize power or return order. The people of [[Zessgorn]] soon discovered that if one of the [[Tarot Ring Bearers]] kills one of their peers, it destroys the ring of the victim. This only increased tensions. Many rings were destroyed by assassinations or lost by the hands of fleeing [[Tarot Ring Bearers]].
 

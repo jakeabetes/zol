@@ -41,7 +41,7 @@ Similar to [[High Elves]], wood elves are know for the characteristically larger
 | Height | 5'9"-7' |
 | Significant Locations | [[Gethsemane]], [[Jerda'll]], [[The Underdark]] |
 
-# Additional Info
+## Additional Info
 - To those who subscribe to the theory of [[The Triumvirate]], [[Elves]] are the embodiment of [[Viridescence]]
 - [[Drow]] exceptional at seeing in the dark, but this makes it difficult for them to see in sunlight. However [[Drow]] have secondary eyelids that can act as a light filter for their eyes. This gives them an appearance of having no pupils when their secondary lids are visible.
 - Different casts of elves cannot reproduce with one another due to genetic incompatibilities. It is not known why this is, but there are many philosophical, and religious beliefs that have branched from it.

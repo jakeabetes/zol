@@ -3,9 +3,9 @@ title: "Yoel Sundarum"
 ---*The Secluded Iceberg City*
 ![[Yoel Sundarum 2.png]]
 
-It is not known how long [[Yoel Sundarum]] has been around for, and many outsiders think it to be a myth. What little records were kept about it have been destroyed in the many civil battles that have occurred over the city's history. Some think it to be a few thousand years old, some think it is as old as [[The Awakening]], and then there are those who believe it predates [[The Undoing]] itself. No one understand the magical forces that keep city's ice unmoving and unchanging, or how it knows to dip beneath the surface during [[Greatwinds]], trapping pockets of air in its major buildings to provide for its non-aquatic citizens.
+It is not known how long [[Yoel Sundarum]] has been around for, and many outsiders think it to be a myth. What little records were kept about it have been destroyed in the many civil battles that have occurred over the city's history. Some think it to be a few thousand years old, some think it is as old as [[The Awakening]], and then there are those who believe it predates [[The Undoing]] itself. No one understand the magical forces that keep city's ice unmoving and unchanging, or how it knows to dip beneath the surface during [[Greatwinds]], capable of trapping pockets of air in its major buildings to provide for its non-aquatic citizens.
 
-It is a strange place of two rival worlds: the surface district of Shimmer, and its subaquatic counterpart Cowl. While interconnected, these two sides of the city are very different. They are attached by deep pools that bore the whole way through the iceberg located throughout the city. In this odd civilization [[Triton]], [[Beastfolk]], [[Aarakocra]], and a cast of other various races live unharmoniously in its self-contained ecosystem.
+It is a strange place of two rival worlds: the surface district of Shimmer, and its subaquatic counterpart, Cowl. While interconnected, these two sides of the city are very different. They are attached by deep pools located throughout the city that bore the whole way through the iceberg, bridging the two sides. In this odd civilization [[Triton]], [[Beastfolk]], [[Aarakocra]], and a cast of other various races live unharmoniously in its self-contained ecosystem.
 
 ## Shimmer
 ![[yoel_sundarum_-_shimmer.png]]
@@ -15,7 +15,7 @@ Shimmer is the city of Sun-Walkers, or as their underwater nieghbors like to cal
 ## Cowl
 ![[yoel_sundarum_-_cowl.png]]
 
-The under city of Cowl, known for its wild streets (if you can call them that), and rowdy populace. Within Cowl, only the strong make their way. Those who live below the surface of [[The North Sea]], known as *Fathomers*, idealize strength and power. If you do not prove yourself as capable and strong, you may be looked down upon. Its buildings are formed entirely of ice, and most are filled with water. However a good deal of buildings are not as they are used for things like drinking, cooking, or the usage of fine tools that water would interfere with.
+The under city of Cowl, known for its wild streets (although the district has no roads), and rowdy populace. Within Cowl, only the strong make their way. Those who live below the surface of [[The North Sea]], known as *Fathomers*, idealize strength and power. If you do not prove yourself as capable and strong, you may be looked down upon. Its buildings are formed entirely of ice, and most are filled with water. However a good deal of buildings are air-filled as they are used for things like drinking, cooking, or the usage of fine tools or fire that water would interfere with.
 
 ## Overview
 
@@ -30,7 +30,7 @@ The under city of Cowl, known for its wild streets (if you can call them that), 
 | Outer Villages| None |
 | City Leader | King Mandreg |
 | Primary Language(s) | Triton, Aarakocran, Common |
-| Majority Racial Group(s) | [[Triton]], [[Beastfolk]], [[Aarakocra]] |
+| Majority Racial Group(s) | [[Triton]], [[Beastfolk]], [[Aarakocra]], Subaqueous Hand Signs |
 | Majority Religion(s) | None |
 
 ## Major Features
@@ -67,17 +67,10 @@ Within the city there is little formal law, but there is ruling power. Over the 
 The current ruler is King Mandreg (a mononym), who is a Beastfolk man with a physiology similar to that of a walrus.  He originated from Shimmer, but was a powerful warrior in his youth. He was the leader for an unnamed band of mercenaries which he used to gain power during a period of unrest. His success as a leader gained him the respect of Shimmer, and his strength gave him the respect of Cowl. He has ruled over both cities for many years.
 
 ### Laws
-The city does not have formal laws, but there is an understanding of what can, and cannot do. When crossing these lines, one can expect governmental punishment, typically execution or imprisonment. 
-
-| Law | Severity | Description |
-|-|-|-|
-| Murder                                     | High        | If one kills outside of self defense, it is a great criminal act                                                                                                                                                           |
-| Void Worship                               | High        | One cannot conduct worship of the [[Void Gods]]                                                                                                                                                                                                                      |
-| Thievery                                   | Medium/High | Theft, breaking and entering, forgery, fraud, etc. is punished in respect to the severity of the crime                                                                                                                                                               |
-
+The city does not have formal laws, but there is an understanding of what can, and cannot be done. When crossing these lines in a public way, those with some form of authority usually bring the hammer down. 
 
 ## Modern Importance
-In modern day, [[Yoel Sundarum]] is a place of stories. One third of the common folk believe it to be legend, one third argues for its existence, and the final third have never even heard of it. However it truly does exist. Its mechanisms of infrastructure maintained by the iceberg, and its strange socioeconomic climate baffle and intrigue travelling scholars who manage to find it floating out in [[The North Sea]].
+In modern day, [[Yoel Sundarum]] is thought to be a place from stories. One third of the common folk believe it to be legend, one third argues for its existence, and the final third have never even heard of it. However it truly does exist. Its mechanisms of infrastructure maintained by the iceberg, and its strange socioeconomic climate baffle and intrigue travelling scholars who manage to find it floating out in [[The North Sea]].
 
 The city is not hostile to outsiders, but one would not say they are friendly either. When arriving in [[Yoel Sundarum]], the locals will quickly size you up and determine how to treat you based on your actions.
 
@@ -86,3 +79,5 @@ The city has no historical importance in the grand scheme of things. However in 
 
 ## Other Things of Note
 - Most liquor within the city is comes from fermented seaweeds
+- Subaqueous Hand Signs are a wide cast of gestures used for non-verbal communication underwater. These hand signs are unique to [[Yoel Sundarum]].
+- Buildings in Cowl that are air-filled use a complex system of pipes, and cracks in the ice to ensure air can reach these structures.

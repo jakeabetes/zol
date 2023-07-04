@@ -11,3 +11,6 @@ title: "Eladrin"
 | Lifespan | 400 years |
 | Height | 6'5"-7'3" |
 | Significant Locations | [[Fey]] |
+
+## Additional Info
+- [[Eladrin]], like [[Fairies]], hate the smell of Iron.

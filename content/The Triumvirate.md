@@ -6,6 +6,6 @@ The latter theory is largely based on artifacts uncovered from [[The Grand Nothi
 
 Much is inferred based on these 2 main facts. The information is also paired with many other smaller discoveries like biological traits, and what little history is available from the time directly after [[The Awakening]], before [[The Dragon War]]. Because of this, it is assumed that The Undoing was caused by Humans. 
 
-As punishment their longevity (also referred to as [[Great Magic]] in this context) was taken from them. This lost power was fragmented into the [[Off-Human]] races. This theory charges many polarized beliefs in many cultures, and is to blame for many dark parts of history. Including slavery, unethical arcane practices, and wars like the [[Triumvirate Battles]] or the [[Alderian Rebellion]].
+As punishment, their longevity (also referred to as [[Great Magic]] in this context) was taken from them. This lost power was fragmented into the [[Off-Human]] races. This theory charges many polarized beliefs in many cultures, and is to blame for many dark parts of history. Including slavery, unethical arcane practices, and wars like the [[Triumvirate Battles]] or the [[Alderian Rebellion]].
 
 There are many facts that contest this belief as well which include: longevity in Off-Human races, the fact that most of this is based on very little archeological information, and there being no modern racial difference in the proficiency of harnessing The Trinity's powers.

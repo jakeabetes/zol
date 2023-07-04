@@ -13,7 +13,7 @@ Name | Domain
 [[The Shroud of the Void]] | Darkness
 [[The Wasp Eater]] | Plague
 [[The Bloodshed Presence]] | War
-[[Aldem, King of all Hells]] | Devils
+[[Aldem, King of all Hells]] | Hell
 [[Zelatt, The Draconic Amalgam]] | Chaos
 [[Uroga, Hag of the Sea]] | Fathoms
 [[The Castle of Bodies]] | Wrath, Madness

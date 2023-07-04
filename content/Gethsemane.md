@@ -33,7 +33,7 @@ It wasn't until much later (the year 2811) that the [[Elves]] and [[Dwarves]] di
 
 In the late [[First Age]], [[Gethsemane]] and their ally [[Laenwalde]] faced a great deal of political infighting. When investigated, the source of this infighting seemed to stem from [[Changelings]] of [[The Glassius Reach]] masking as important members of their society. This sparked a conflict known as the [[Western War]] where [[Gethsemane]] and [[Laenwalde]] led a counter attack on The Reach. It amounted to one of The Reach's cities, [[Yorn et Gaul]], nearly being destroyed. The conflict stopped when a very powerful [[Wordbearer]] called [[Ehmalog, Word of Wrath]] entered the fray to the defense of [[The Glassius Reach]].
 
-Eventually in the early [[Second Age]] [[Kapesh]] and [[Gethsemane]] set aside their differences and formed the [[The Triumvirate]] Concord to end their fighting.
+Eventually in the early [[Second Age]] [[Kapesh]] and [[Gethsemane]] set aside their differences and formed the [[The Triumvirate]] Concord to end their fighting. [[Gethsemane]] was now focused on its new enemy to the North.
 
 ## Inhabitants
 Largely populated with [[Elves]], [[Dwarves]], and a small population of [[Genasi]].
@@ -42,14 +42,14 @@ Save for the [[Genasi]] city of [[Ep Drukar]], [[Gethsemane]] is an extremely pr
 
 There are members of other [[Races]] sprinkled throughout the kingdom, but these individuals are seen as outsiders. At best, they may be welcomed in if they have something special like a well honed skill or gift to offer elven society. However they are more often ignored, or disliked.
 
-[[Elves]] and [[Dwarves]] have a mutual respect but tend to view each other as *lesser*. Elves think dwarves are bull headed, slow witted, and do not have appreciation for the beauty in art. Dwarves think elves are weak bodied, frivolous, and unproductive beings. They do cohabitate in some cities, but usually in neighborhoods dominated by members of their own race.
+[[Elves]] and [[Dwarves]] have a mutual respect but tend to view each other as *lesser*. Elves think dwarves are bull headed, slow witted, and do not have appreciation for beauty and art. Dwarves think elves are weak bodied, frivolous, and unproductive beings. They do cohabitate in some cities, but usually in neighborhoods dominated by members of their own race.
 
 [[Genasi]] are people of tradition. They reside high in [[The Peaks of Myth'ira]]. Rarely leaving their territory, they went undiscovered for many many years. When they were found, the cities of [[Gethsemane]] determined that they were a peaceful group and would be welcomed into their borders. In reality, very little changed. The [[Genasi]] remained in their home and the [[Elves]] and [[Dwarves]] didn't bother them for the most part. A few curious members from each population did mingle and explore each other's cities. This behavior sparked a small movement of [[Genasi]] who venture out on pilgrimages into the far kingdoms.
 
 ## Government, Economy, and Laws
 The Kingdom of [[Gethsemane]] are not governed by a single figure. Each city governs itself and its surrounding territory. The kingdoms do not operate as a council like [[The Free Cities of Alderun]], but rather a very strong, millennia old alliance.
 
-Each city cares for its citizens in its own way. Those who have legitimate citizenship do not go without. Even if they are not financially stable. In Elven society it is very rare someone does not strive to contribute in some way to their city. Those who are unable to contribute still easily find food, shelter, and medicine (but its likely they would be looked down upon if they are able bodied). In dwarven society work is assigned if it is not sought out, and disobeying these assignments is seen as criminal. The [[Genasi]] have a socialist approach to their city and their slow way of life rarely raises issues. In all cases the sick and elderly are taken care of without question.
+Each city cares for its citizens in its own way. Those who have legitimate citizenship do not go without. Even if they are not financially stable. In Elven society it is very rare someone does not strive to contribute in some way to their city. Those who are unable to contribute still easily find food, shelter, and medicine (but its likely they would be looked down upon if they are able bodied). In dwarven society, work is assigned if it is not sought out. Disobeying these assignments is seen as greatly offensive and even criminal at times. The [[Genasi]] have a socialist approach to their city and their slow way of life rarely raises issues. In all cases the sick and elderly are taken care of without question.
 
 Each city is responsible for creating and upholding their own laws.
 

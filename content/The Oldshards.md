@@ -26,4 +26,4 @@ To [[The Glassius Reach]], they are very sacred objects. To the other kingdoms t
 Some think these objects are from [[The Before]], while others believe they are not even from [[Zol]] at all, possibly something even older than [[Zol]] itself.
 
 ## The Oldshards and The Pattern
-[[The Pattern]], is an ideal held highly within the culture of [[Changelings]]. This 
+[[The Pattern]], is an ideal held highly within the culture of [[Changelings]]. It is based on behaviors Changeling scholars believe appease [[The Oldshards]]. 

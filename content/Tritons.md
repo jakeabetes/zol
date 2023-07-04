@@ -4,7 +4,7 @@ title: "Tritons"
 ![[Triton.png]]
 
 ## Description
-[[Triton]] come in many shapes and sizes. Some appear very fish-like, while others appear more like humans or elves covered in scales. [[Triton]] have an aquatic, and normal respiratory system allowing them to live both on land and below water.
+[[Triton]] come in many shapes and sizes. Some appear very fish-like, while others appear more like humans or elves covered in scales. [[Triton]] have an aquatic, and normal respiratory system allowing them to live both on land and below water. They even have the ability to speak underwater using unique membranes in their throat.
 
 | Trait | Info |
 | --- | --- |

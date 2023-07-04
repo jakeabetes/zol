@@ -17,7 +17,7 @@ Known for guiding his followers in their learning both academic and philosophica
 Tellab is very tactful in his influence, sending envoys and followers on very exact missions. He always bases his decision in utilitarian morals, meaning he will choose destruction for some if it will save the many.
 
 ## Realm
-Tellab resides in [[The Cliffs of Aeordel]] spending his days in its grand archives that contain an uncountable amount of texts that can only be read by those who have been granted Tellab's favor.
+Tellab resides in [[The Cliffs of Aeordel]] spending his days in its grand archives that contain an uncountable amount of texts that can only be read by those who have been granted Tellab's favor in death.
 
 ## Worshipers
 Followers of Tellab are typically found in academia and other forms of study. Temples constructed for his worship are almost always incorporated into studies, archives, and libraries.

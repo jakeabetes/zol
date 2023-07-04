@@ -21,13 +21,13 @@ There are many planes in [[Zol]]. Below is the list of known major planes.
 		- A dark and mysterious reflection of the [[Prime Material Plane]]. An echo where shadows and thorns grow from a hauntingly beautiful, and extremely dangerous landscape.
 	- [[The Elemental Planes]]
 		- The fraying edges of the [[Prime Material Plane]], where the elemental forces of nature stop overlapping one another. Appearing on diagrams like the drawing of a child who has colored outside of the lines. [[The Elemental Planes]] jut out of the [[Prime Material Plane]] creating worlds that solely embody a single aspect of nature. They are strange realms rarely traversed by foreigners.
+	- - [[The Moons]]
+		- A group of ancient planets that once existed freely in [[The Cosmos]], but were consumed by [[Goh'zul]]. Before he could fully digest them, he was defeated. Leaving a set of strange ruined worlds that orbit one another in [[Zol]]'s sky.
+		- [[The Forgotten Heavens]]
+			- A subplane of [[The Moons]]. The once abandoned divine plane attached to these ancient worlds. Now inhabited by [[The Night Empress]] and her court. **This plane itself is not on the mortal coil.**
 - **The Outer Planes** - Planes that are not bound by [[The Mortal Coil]]
 	- [[The Cliffs of Aeordel]]
 		- The Castle of [[The Watcher]] and his close allies
-	- [[The Moons]]
-		- A group of ancient planets that once existed freely in [[The Cosmos]], but were consumed by [[Goh'zul]]. Before he could fully digest them, he was defeated. Leaving a set of strange ruined worlds that orbit one another in [[Zol]]'s sky.
-		- [[The Forgotten Heavens]]
-			- A subplane of [[The Moons]]. The once abandoned divine plane attached to these ancient worlds. Now inhabited by [[The Night Empress]] and her court.
 	- [[The Palace of Drole]]
 		- An endless palace inhabited by [[Yanneran]] and his chosen dead. A place of constant celebration and art.
 	- [[Limbo]]

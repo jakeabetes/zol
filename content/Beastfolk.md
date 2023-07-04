@@ -18,7 +18,7 @@ Some of the known bestial heritages are:
 
 Often the name [[Beastfolk]] will be adapted to better fit the charactristics of an individual such as: Ratfolk, Bearfolk, et cetera.
 
-There is however a common confusion that causes much discourse in [[Zol]]. [[Beastfolk]] are a product of [[Speciation Magica]], the product of magical happenstance that produces a whole race of beings. Before [[Beastfolk]] came to exist, many other animal like beings existed. These races now get commonly referred to as [[Beastfolk]], but are in fact physiologically, culturally, and historically different from [[Beastfolk]]. These [[Races]] are:
+There is however a common confusion that causes much discourse in [[Zol]]. [[Beastfolk]] are a product of [[Speciatum Magica]], the product of magical happenstance that produces a whole race of beings. Before [[Beastfolk]] came to exist, many other animal like beings existed. These races now get commonly referred to as [[Beastfolk]], but are in fact physiologically, culturally, and historically different from [[Beastfolk]]. These [[Races]] are:
 - [[Harengon]]
 - [[Tabaxi]]
 - [[Aarakocra]]

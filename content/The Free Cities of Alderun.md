@@ -16,13 +16,9 @@ Once known as South Kapesh, Alderun has a history of oppression and rebellion. D
 ## Wilderness and Climate
 Diverse like no other region of its size, The Alderian wilds contains a menagerie of animals, plants, and monsters that differ wildly as one travels from [[Zessgorn]] to [[Holocene]].
 
-The regions diversity gives much opportunity to its people, but its monsters cause for many problems. The Cities of Alderun spend much of their resources focusing on inner workings of their urban centers. This leaves the wilds an untamed and lawless place.
+The regions diversity gives much opportunity to its people, but its monsters cause for many problems. The Cities of Alderun spend much of their resources focusing on inner workings of their urban centers. This leaves the wilds an untamed and lawless place. Criminals and monsters roam the remote places of Alderun. While not as dangerous as its western neighbor, [[Kapesh]]. One would not want to be caught off the safe path in these wilds.
 
-Criminals and monsters roam the remote places of Alderun. While not as dangerous as its western neighbor, [[Kapesh]]. One would not want to be caught off the safe path in these wilds.
-
-Geographical features vary from gorgeous coast lines, rolling hills, spanning rivers, large lakes, and the ever strange cliffs of [[The Grand Nothing]].
-
-Its climates vary from the tropical coasts near [[Zessgorn]] to the frigid stretch of the Dyed Forest.
+Geographical features vary from gorgeous coast lines, rolling hills, spanning rivers, large lakes, and the ever strange cliffs of [[The Grand Nothing]]. -Its climates vary from the tropical coasts near [[Zessgorn]] to the frigid stretch of the Dyed Forest.
 
 ## History
 During the [[First Age]], [[Human Sovereigntists]] claimed that the Off-Humans must live a life of servitude under the Human population. The [[Humans]] of Kapesh enforced themselves as 'higher beings' over the [[Off-Human]] races. The oppressed people were forced to undergo oppressions, slavery, and in some cases even dark experiments. These tests were intended to discover a way to restore the [[Great Magic]] of the humans by recombining the Off-Humans with their once hosts. The humans were understandably met with resistance.

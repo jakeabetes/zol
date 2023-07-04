@@ -22,3 +22,4 @@ This war was so damaging to [[Changelings]], it has politically divided them fro
 
 ## Additional Info
 - The way [[Changelings]] adapt their form is not an [[Illusion]], but an actual [[Transmutation]] of their bodies. These changes take time to adopt (usually a few minutes), depending on the skill of the changeling
+- Those who believe in [[Great Magic]] think [[Changelings]] hold the aspect of ancient [[Humans]] that caused them to commit the ultimate sin which sparked [[The Undoing]]. It is said by these individuals that [[Changelings]] hold ancient human's deception.

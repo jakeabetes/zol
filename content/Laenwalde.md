@@ -45,7 +45,8 @@ The people of each region are stereotyped as follows:
 - **Arcadia** - Thought to be an overly proud and patriotic people. Those who hail from the island think that Arcadia is the 'true' heart of the kingdom as it is where the capital was once from and now homes the strongest military in [[Zol]].
 - **Eucaren** - Thought to be a soft and laid back people. The disproportionate population of [[Halflings]], finest alcohols, and proportionally safest wilderness in all of [[Zol]].
 - **Saen** - Thought to be a rough around the edges people. Gruff gun slinging westerners, dirty beggars of the neon city, or religious devotees of the volcanic temples. 
-The different groups manage a begrudging coexistence, with a great deal of prejudice. Eucaren tends to be a sort of exception here. Its people are seen as simple, but extremely friendly. They are considered unproblematic all across [[Zol]]. They are typically welcomed anywhere.
+
+The different groups manage a begrudging coexistence, with a great deal of prejudice. Eucaren tends to be a sort of exception to this. Its people are seen as simple, but extremely friendly. They are considered unproblematic all across [[Zol]]. They are typically welcomed anywhere.
 
 ## Government, Economy, and Laws
 Laenwalde is ruled by [[King Tatelak II]] and his advisory council. This rule is conducted from the floating city of [[Heliodor]]. The instilment of [[King Tatelak II]] upon his throne in the flying city was done as an effort to rekindle the hope people once had for [[Laenwalde]]. However many feel there is a disconnect between the crown and its people. They were ruled by a council for so long and now feel that they are under the foot of a distant leader. The King's disposition is well intentioned, but in reality he is inexperienced and it has been a large change for [[Laenwalde]].
@@ -65,6 +66,7 @@ Academia in [[Laenwalde]] is almost exclusively associated with [[The University
 - The [[Arcanum]], focused on the pursuit of [[Arcana]]. Its primary campuses located within the city of [[Ryze]] and [[Audran]].
 - The [[Viridium]], focused on the understanding of the natural world through [[Viridescence]]. Its primary campus located in [[Kahdinacht]].
 - The [[Observum]], focused on forming and comprehending mortal bonds with [[Gods]]. Its primary campuses located within [[Rockfire]] and [[Penthe]].
+- 
 The [[Arcanum]] is by far the largest branch of [[The University]]. This is because [[Arcana]] best fits to conventional academics. Its counterparts deal with two main factors that make its pursuit much more difficult to approach empirically:
 - The experience of using one of these wills ([[Observance]] or [[Viridescence]]) is very subjective and differs from person to person
 - There is no sure-fire method of gaining the ability to use these wills. They require patience, skill, and a rare predisposition to access

@@ -24,18 +24,18 @@ The known properties of The Void are:
 - [[The Void]] has distinct depths.
 	- [[Damnation]] is thought to be the most shallow part of [[The Void]]
 	- The deeper one ventures into [[The Void]] the more dangerous and inescapable it becomes.
-- Death in the void is unique. Academics are not sure if it exists on [[The Mortal Coil]], but interrogated [[Demons]] revealed that if one dies in [[The Void]], their soul becomes homed to it and they are banished deep within its confines.
-	- Effectively if one dies in [[The Void]], they are locked within permanently.
+- Death in the void is unique. Academics are not sure if it exists on [[The Mortal Coil]], but interrogated [[Demons]] revealed that if one dies in [[The Void]], their soul becomes homed to it and both their vessel and soul are sent deep within its confines.
+	- Effectively if one dies in [[The Void]], they are locked within permanently. Even to the greatest of mortal magic.
 
 ## Damnation
-[[Damnation]] is a subplane of [[The Void]] and seems to feed off the unclaimed souls of the [[Prime Material Plane]].
+[[Damnation]] is a subplane of [[The Void]] and seems to feed off the souls of the [[Prime Material Plane]]'s dead.
 
 ## Demons and Fiends
 Residing the the greater Void are many horrible beings called [[Demons]]. They come in great varieties and almost all have destructive intentions.
 
 Within the subplane of [[Damnation]] resides a similar but distinctly different cast of beings called [[Fiends]]. To an uneducated eye they would seem the same as [[Demons]]. However there is a sole difference that divides them.
 
-[[Fiends]] are beings bound by oath to serve [[Aldem, King of all Hells]]. If they are caught by a greater demon betraying him their souls are instantly destroyed. Most [[Fiends]] are endlessly loyal to Aldem because of this.
+[[Fiends]] are beings bound by oath to serve [[Aldem, King of all Hells]]. If they are caught by a greater demon betraying him their souls are sent for destruction. Most [[Fiends]] are endlessly loyal to Aldem because of this.
 
 [[Demons]] however are not bound to serve a master if they do not choose to. This gives [[Demons]] a sense of pride over fiends that has forged a unique hatred between the 2 groups over many ages.
 

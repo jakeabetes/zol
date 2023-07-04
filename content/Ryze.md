@@ -85,3 +85,4 @@ It was also the city responsible for the creation of [[Heliodor]], the floating 
 ## Other Things of Note
 - Its inhabitants are known for their unmatched work ethic. While the sun is up, the gears of [[Ryze]] are turning. However when the sun goes down it is a much different story. The workers hang up their gloves and flood the taverns and streets. Every night feels like a sort of festival. People drink, dance and eat as if they were celebrating a good days work.
 - Ryze is the Gnomish word for tower.
+- The bridge between [[Ryze]] and [[Nerousea Station]] is another one of the city's famed feats of engineering. Fittingly named *The Strait Bridge*, is a long, thin bridge constructed of steel beams bent into supporting arches that repeat many, many times over along the whole span of The Arcadian Strait.

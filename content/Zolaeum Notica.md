@@ -11,7 +11,7 @@ It contains:
 - An explanation of [[Magic]]
 - A list of known [[Planes]] and how they manifest
 
-The text was distributed to the masses. It was printed on cheap paper and made to be as small as possible. This allowed for efficient and cheap distribution. It also caused many nobles and scholars to disregard or mock it.
+The text was distributed to the masses. Translated into many languages, the text was printed on inexpensive paper and made to be as small as possible. This allowed for efficient and cheap and broad distribution. It also caused many nobles and scholars to disregard or mock it.
 
 This text was so influential because until this point, many of [[Zol]]'s people were in the dark about how their world functioned. Most people relied on word of mouth, religious dogma and folklore to understand their home.
 

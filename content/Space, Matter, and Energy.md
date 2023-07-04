@@ -1,18 +1,18 @@
 ---
 title: "Space, Matter, and Energy"
----The 3 aspects of existence in [[Zol]]. These three concepts are all one and the same, merely in different states. These states can be bound and influenced, or shifted to another state using [[Sympathetic bonds]].
+---The 3 aspects of existence in [[Zol]]. These three concepts are all one and the same, merely in different states. These states can be bound, influenced, or shifted to another state using [[Sympathetic bonds]].
 - Academic Arcanists understand [[Zol]] an **infinite four dimensional grid of nodes**. Each one of these nodes are fragment [[The Trinity]], and exist in one of the three states: Space, Matter and Energy.
 	- If you were to pick two points in space, each of these points could be represented as one node. In-between these two points there are an infinite number of other nodes.
-	- One does not consider how they are acting on these states directly, this is merely a product of the used [[magic]]. Acting on nodes differs greatly given the state that the node is in:
-		- **Acting on space** can modify gravity, teleport objects, alter spatial dimensions, and open portals.
-		- **Acting on matter** can change the form, strength and mass of something.
-		- **Acting on energy** is the most complex, useful, and frequently used task of an arcanist. Energy can be applied, removed, transferred, and observed. The types of energy are
+	- One does not consider how they are acting on these states directly, this is merely a product of the used [[Magic]]. Acting on nodes differs greatly given the state that the node is in:
+		- **Acting on space** can do things like modify gravity, teleport objects, alter spatial dimensions, and open portals.
+		- **Acting on matter** can do things like change the form, strength and mass of something.
+		- **Acting on energy** is the most complex, useful, and frequently used ability of an arcanist. Energy can be applied, removed, transferred, and observed. The types of energy are
 			- Kinetic
 				- Energy that moves things. It is produced in a number of different ways, but largely is based around the motion of matter. Can be transferred quite easily with [[Sympathetic bonds]]. It used to both apply forces, and create/mask sound.
 			- Heat
 				- Different, but intersectional with the Elemental energy of fire. Heat energy is the energy created reactions, be it magical, biological, or alchemical. Heat energy can be channeled in and out of systems in large quantities with only a single bond.
 			- Light
-				- Energy that is produced by most alchemical reactions, and the presence of [[magic]]. It can both illuminate and darken. Used to create illusions, make things invisible, illuminate rooms,  and mask things in darkness.
+				- Energy that is produced by most alchemical reactions, and often by the presence of [[Magic]]. It can both illuminate and darken. Used to create illusions, make things invisible, illuminate rooms,  and mask things in darkness.
 			- Gravitational
 				- The force of attraction between objects, and [[Zol]] itself. This is ever-present, but objects can be cut of from it partially, or entirely by skilled arcanists. This energy can be synthesized, manipulated, or nullified for interesting results.
 			- Magnetic
@@ -41,7 +41,7 @@ title: "Space, Matter, and Energy"
 			- Informational
 				- All things emit a unique wavelength of energy based on the nature of their existence in [[Zol]] as a product of [[The First Tongue]]. This wavelength can be observed and translated into usable information in many different ways. 
 		- **Shifting states**
-			- Changing a node's state to another varies in difficulty, but can be the most useful trick for an arcanist if done correctly. This practice is far out of reach for a beginner [[caster]], but is thought to be what makes an individual into a true arcanist.
+			- Changing a node's state to another varies in difficulty, but can be the most useful trick for an arcanist if done correctly. This practice is far out of reach for a beginner [[Caster]], but is thought to be what makes an individual into a true arcanist.
 			- Space can be turned to massive amounts of energy, the light of a candle can be used to form a suit of armor made from ice, an arrow flying for ones throat can be turned into harmless wind.
 			- Nodes changed eventually return to [[The Ethos]] to  revert back to their original state decided upon by [[The First Tongue]]. The amount of time before this reversion is based on the intention and skill of the [[Caster]]. Once they return to their state they rejoin the planes to undergo this lifecycle again.
 

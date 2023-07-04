@@ -1,6 +1,6 @@
 ---
 title: "The Rings of Tarot"
----The Rings of Tarot are a set of magically forged rings created by the [[The Tarot]] people, during the founding of [[Zessgorn]]. These rings were meant to be given to the leaders, and protectors of the city. Granting them [[magic]] power of leadership, and strength.
+---The Rings of Tarot are a set of magically forged rings created by the [[The Tarot]] people during the founding of [[Zessgorn]]. These rings were meant to be given to the leaders, and protectors of the city. Granting them [[Magic]] power of leadership, and strength.
 
 The societal benefit was functional at a time, but in modern history they have fallen from their previous grace. Bastardized by the greedy. What was once a pedestal for the city to stand upon has become a crutch for [[Zessgorn]].
 

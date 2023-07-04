@@ -5,9 +5,9 @@ title: "The Shroud of the Void"
 
 The Culmination of Darkness, The Consumer, The Great Deceiver, [[The Anti-Trinity]]. A being of many names and many mysteries.
 
-[[The Shroud of the Void]] is a god who's existence is not fully understood. Some even believe that he does not truly exist at all, and the theories and mythos around him is merely a tool used by mortals to give name to something they do not understand.
+[[The Shroud of the Void]] is a god who's existence is not fully understood. Some even believe that he does not truly exist at all, and that the theories and mythos around him is merely a tool used by mortals to give name to something they do not understand.
 
-[[The Shroud of the Void]] is the omnipotent shadow figure who lurks in the darkest depths of [[Zol]]. The unseen hand who sews all destruction and chaos that occurs in [[Zol]], and the master of all [[Fiends]].
+[[The Shroud of the Void]] is the omnipotent shadowy figure who lurks in the darkest depths of [[Zol]]. The unseen hand who sews all destruction and chaos that occurs in [[Zol]], and the master of all [[Fiends]].
 
 ## Depiction
 [[The Shroud of the Void]] is usually depicted as a cloaked figure, who's robes are formed of writhing dark tentacles that span out into a sea of formless horror.

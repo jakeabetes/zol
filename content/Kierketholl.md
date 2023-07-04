@@ -3,7 +3,7 @@ title: "Kierketholl"
 ---*The Capital City of Humans, Shrouded in Mist*
 ![[kierketholl skyline.png]]
 
-The capital of [[Kapesh]] and home to [[King Galliard]]. Dotted with massive, high towers and protected by [[The Crown Golems]]. [[Kierketholl]] has stood against the trials of war and time like no other city.
+The capital of [[Kapesh]] and home to [[King Galliard]]. Dotted with massive, high towers and protected by [[The Crown Titans]]. [[Kierketholl]] has stood against the trials of war and time like no other city.
 
 The city is filled with significantly tall buildings, and a handful of megastructures. Most buildings are at least 4 stories tall while the mega structures are around 30 to 50 stories tall. These complexes are all unique, some of which contain their own microcultures, and individuals who spend nearly their whole lives in a single building.
 
@@ -33,7 +33,7 @@ The city is filled with significantly tall buildings, and a handful of megastruc
 | Architecture | Tall beige stone buildings covered in moss and ivy |
 | Color(s) | Black and Gold |
 | Symbolism | A large tower with a half sun peaking out from behind it |
-| Defenses | City Garrison, [[The Crown Golems]], Armed Towers, Fleet of The Scar Delta |
+| Defenses | City Garrison, [[The Crown Titans]], Armed Towers, Fleet of The Scar Delta |
 
 ## People Groups
 
@@ -81,7 +81,7 @@ The city subscribes to the [[Kapeshian Laws]].
 Kierketholl is the capital of [[Kapesh]] and home to many. Despite it being a human kingdom, the sheer size of the city, and relatively costal location has made it relatively diverse compared to the other cities of [[Kapesh]].
 
 ## Historical Importance
-Despite many of attacks during the [[Triumvirate Battles]], the city has held against every attempted attack. This is largely because of [[The Crown Golems]], a magically constructed army that responds only to [[King Galliard]]'s command.
+Despite many of attacks during the [[Triumvirate Battles]], the city has held against every attempted attack. This is largely because of [[The Crown Titans]], a powerful legion of fighters that responds only to [[King Galliard]]'s command.
 
 ## Other Things of Note
 - The Megastructures of the city were constructed by Grand Arcanist Nalia Xin, who specialized in Structural [[Transmutation]]. The same arcanist who created [[Riverbridge]]'s Great Bridges that span the [[The Narrow Sea]].

@@ -3,10 +3,10 @@ title: "The Ratking"
 ---*Wandering God, Moral of Unrestraint*
 ![[The Ratking.png]]
 
-To fall in line is to betray the beauty of chaos and the gifts of an uncertain fate. [[The Ratking]], also known as *Ronk* bears the moral of unrestraint. Known for a confusing and chaotic nature that encourages individuals to break from from the restraints of society and order that prevent them from becoming something grand.
+To fall in line is to betray the beauty of chaos and the gifts of an uncertain fate. [[The Ratking]], also known as *Ronk* bears the moral of unrestraint. Known for a confusing and chaotic nature. He encourages individuals to break from from the restraints of society and order that prevent them from becoming something grand.
 
 ## Depiction
-Consistently depicted as a Ratfolk, [[The Ratking]] is known for wearing grand robes that are made from trinkets of unknown nature upon close inspection, as well as a golden crown referred to as the 'Esber Crown' in scripture.
+Consistently depicted as a being that looks similar to a Ratfolk, [[The Ratking]] is known for wearing grand robes that are gilded trinkets of unknown nature, as well as a golden crown referred to as the 'Esber Crown' in scripture.
 
 Additionally [[The Ratking]] is also said to have a powerful beast as a companion. An amphibian like being known as [[Inyinya Ibu]]. Its nature is not understood, but it is said to appear as a massive bullfrog.
 

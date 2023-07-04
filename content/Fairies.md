@@ -20,3 +20,4 @@ There are many different types of [[Fairies]]. All of differing sizes, dispositi
 
 ## Additional Info
 - Sometimes the term Fairy is used to describe those who come from the [[Fey]], and the term Foe is used to describe those who come from the [[Fell]].
+- [[Fairies]], like [[Eladrin]], hate the smell of Iron.

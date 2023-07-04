@@ -10,7 +10,7 @@ Name | Moral
 ------------ | ------------
 [[The Iron Father]] | Dedication
 [[The Ancestor]] | Origin
-[[Agon & Ra'Queen]] | Oaths
+[[Agon and Ra'Queen]] | Oaths
 [[The Ratking]] | Unrestraint
 [[Cadence]] | Adaptability
 [[Abaddon]] | Courage
@@ -45,4 +45,4 @@ There are sub groups for each of the wandering gods, but the are known to freque
 ## Minor or Major Deities?
 Most [[Gods]] are categorized as either Minor or Major deities. The Wandering Gods are not fit well into this metric as academics are not aware of the extent of their power.
 
-The Wandering Gods operate with an influence similar to that of Minor deities, but openly resist Major deities. It is not know if these behaviors are caused by limited power, coordination between gods, or oaths sworn. They do not seem to follow the rules most powerful beings do.
+The Wandering Gods operate with an influence similar to that of Minor deities, but openly defy Major deities. Since they do not enact their will like other gods, it is difficult to judge their power. They do not seem to follow the rules most powerful beings do.

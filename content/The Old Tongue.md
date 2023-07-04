@@ -1,19 +1,19 @@
 ---
 title: "The Old Tongue"
----The Old Tongue evolved from its predecessor, [[The First Tongue]]. Similar to its parent, The Old Tongue is for lack of a better term, a language. Unlike modern language, The Old Tongue must be spoken with more than just words, and often involves no words at all.
+---The Old Tongue evolved from its predecessor, [[The First Tongue]]. Similar to its parent, The Old Tongue is for lack of a better term, a language. Unlike modern language, The Old Tongue must be spoken with more than just words, and occasionally involves no words at all.
 
-As an example, the modern language of [[Common]] must be spoken with the correct pronunciation, grammar, inflection, cadence, et cetera. The Old Tongue must be spoken with knowledge, emotion, will, artistry, movement, faith, and a strong [[Vizir]]. There are words in The Old Tongue, but they are fathoms more complicated than a mere dialect.
+As an example, the modern language of [[Common]] must be spoken with the correct pronunciation, grammar, inflection, cadence, et cetera. The Old Tongue must be spoken with great knowledge, emotion, will, artistry, movement, faith, and a mighty [[Vizir]]. There are words in The Old Tongue, but they are fathoms more complicated than a mere dialect.
 
-The Old Tongue can be used to harness great [[Magic]] via access to [[The Wills]]. Those who know even a small fragment of it are called [[Speakers]]. Access to this power is rare in [[Zol]], most people encounter only a single Speaker in their lives.
+The Old Tongue can be used to harness wonderous [[Magic]] via access to [[The Wills]]. Those who know even a small fragment of it are called [[Speakers]]. Access to this power is rare in [[Zol]], most people encounter only a single Speaker in their lives.
 
 ## Usage and Learning
-Binding [[The Wills]] with the power of The Old Tongue is a step above binding them with one's [[Vizir]]. While the former requires great focus, and convincing ones mind of a reality different than that of what is occurring around them, The Old Tongues feels more akin to that of fairy tale magic. Rather than forcing ones will to bleed out into reality, reality naturally bends to fit to ones will. Almost as if it is doing what it is told. It is theorized The Old Tongue temporarily re-binds one's [[Vizir]] to [[The Trinity]] itself.
+Binding [[The Wills]] with the power of The Old Tongue is a step above binding them with one's [[Vizir]]. While the former requires great focus, and convincing ones mind of a reality different than that of what is occurring around them, The Old Tongues feels more akin to that of fairy tale magic. Rather than forcing ones will to bleed out into reality, reality naturally bends to fit to ones will. Almost as if it is working as your ally. It is theorized The Old Tongue temporarily re-binds one's [[Vizir]] to [[The Trinity]] itself.
 
 Learning The Old Tongue in any capacity changes a person. From their emotions to their very brain structure and physiology. Especially in the case of [[Arcana]]. Many who study in this field lose themselves to madness. Any being that possesses a Vizir may learn The Old Tongue.
 
-Additionally, learning The Old Tongue does not come from books or lessons like other language. An individual must discover pieces of it on their own, almost like rediscovering forgotten memories. Great practice with one's [[Vizir]] is known to increase the likelihood of discovery. It is found by great willpower, dedication, craft, study, acts of heroism, and even traumatic experiences on occasion. Every individual uses it in a manner unique to them.
+Additionally, learning The Old Tongue does not come from books or lessons like other language. An individual must discover pieces of it on their own, almost like rediscovering forgotten memories. Great practice with one's [[Vizir]] is known to increase the likelihood of discovery, but it is truly found by great willpower, dedication, craft, study, acts of heroism, and even traumatic experiences on occasion. Every individual uses it in a manner unique to themselves.
 
-No one person knows the entirety of The Old Tongue, and it is theorized to be boundless. It is only referred to as a language as many [[Speakers]] have described it as such. Due to its nature it is very hard to record. Some [[Speakers]] have tried to make records, and collections of it, but they are kept very secretively. A runic language called [[Ralldung]] was developed for this purpose. 
+No one person knows the entirety of The Old Tongue, and it is thought by some to be boundless. It is only referred to as a language as many [[Speakers]] have described it as such. Due to its nature it is very hard to record. Some [[Speakers]] have tried to make records, and collections of it, but they are kept very secretively. A runic language called [[Ralldung]] was developed for this purpose. 
 
 Many also do not wish to share their secrets, as the power takes much to wield, and could do wrong in unprepared hands. Others merely do not want the unworthy to benefit from their hard work.
 
@@ -22,7 +22,7 @@ Many individuals describe their first experience with the Old Tongue as somethin
 
 Every account of it has these commonalties, but with a unique difference from person to person. Some say they are able to harness magic in a way only possible during the first encounter. Others say they witness events from the past, future, or other worlds. Some even claim to hear the words of the gods, or strange secrets spoken by [[Zol]] itself.
 
-After the feeling leaves, may people are left feeling emotional or lost. The feeling never returns with the same intensity. As one masters their craft in The Old Tongues their normal experience of reality begins to grow closer and closer to that of the first time.
+After the feeling leaves, may people are left feeling emotional or lost. The feeling never returns with the same intensity. As one masters their craft in The Old Tongues their normal experience of reality begins to grow closer and closer to that of the first time in a permanent way.
 
 It is believed that knowing something in The Old Tongue is the first step in learning it in [[The First Tongue]], but this is based more on intuition than fact.
 

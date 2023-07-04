@@ -3,7 +3,7 @@ title: "The Isles of Al'Kehtal"
 ---*The Island City of Pirates*
 ![[Isles of Al Kehtal.png]]
 
-Built from the remains of ships torn asunder by waves or combat, [[The Isles of Al'Kehtal]] is a haven for the pirates of [[The Three Corners]]. It is a city where all ships and crews must set aside rivalries, lay down their arms to do trade, resupply, and have a drink. There is no King, or Queen of [[The Isles of Al'Kehtal]]. However there is a ruling body known as The Furled Sail Council, made up of the most influential captains amongst the community. This group operates under a very flexible, but important ruleset. No one has a record of when it started, or who wrote the original rules but [[The Code]] binds all pirates.
+Built from the remains of ships torn asunder by waves or combat, [[The Isles of Al'Kehtal]] is a haven for the pirates of [[The Three Corners]]. It is a city where all ships and crews must set aside rivalries, lay down their arms to do trade, resupply, and have a drink. There is no King, or Queen of [[The Isles of Al'Kehtal]]. However there is a ruling body known as The Furled Sail Council, made up of the most influential captains amongst the community, lead by the Lord Captain. This group operates under a very flexible, but important ruleset. No one has a record of when it started, or who wrote the original rules but [[The Code]] binds all pirates.
 
 The city is broken up into three main islands:
 
@@ -36,7 +36,7 @@ The West Island. The busiest part of the city. Jetsam is the place all pirates t
 | City Leader | Lord Captain Kaskoe Kollik |
 | Primary Language(s) | None |
 | Majority Racial Group(s) | None |
-| Majority Religion(s) | Followers of [[Ohlit]], [[Ellyon and Aradon]] |
+| Majority Religion(s) | Followers of [[Ohlit]], [[Ellyon and Aradon]], [[Agon and Ra'Queen]], [[Cadence]] |
 
 ## Major Features
 
@@ -68,9 +68,9 @@ The West Island. The busiest part of the city. Jetsam is the place all pirates t
 | Bastard Rock          | Market          | Flotsam              | The city's largest market. Here trade is conducted through Binds, where the city takes a maximum of 5% of your profits. Many brave foreign merchants will come here in hopes to find some rare goods to trade elsewhere.                                                                         |
 
 ## Authority
-The city is overseen by the Lord Captain Kaskoe Kollik, a clever Tiefling man, and the Furled Sail Council. This group makes decisions on how best business should be conducted in relation to external threats like the military of kingdoms, or sea monsters. They are also responsible for making decisions on punishments relating to pirates breaking [[The Code]]. These things are all done by vote, the Lord Captain gets 2 votes, and ties go in favor of the Lord Captain.
+The city is overseen by the Lord Captain Kaskoe Kollik, a clever Tiefling man. As well as his Furled Sail Council. This group makes decisions on how best business should be conducted in relation to external threats like the military of kingdoms, or sea monsters. They are also responsible for making decisions on punishments relating to pirates breaking [[The Code]]. These things are all done by vote, the Lord Captain gets 2 votes, and ties go in favor of the Lord Captain.
 
-### Laws
+## Laws
 The city subscribes to [[The Code]]. A set of flexible, but very important laws to the pirates of the city.
 
 | Rule                       | Description                                                                                                                                                                                                                                                                                                                                                                               |
@@ -89,3 +89,4 @@ The islands have little historical influence, but were a notable safe haven duri
 
 ## Other Things of Note
 - The city is known to regularly break out into large brawls in the tavern districts
+- Many will tie complex sailors knots to keep their blades sheathed, or their guns holstered to adhere to The Rule of Stashed Swords 

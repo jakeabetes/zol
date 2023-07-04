@@ -2,7 +2,7 @@
 title: "The Underdark"
 ---![[The Underdark.png]]
 
-The vast nexus of caves the spans underneath [[Zol]]. No one knows the width and depth to which these caves reach, but it is thought that less than 1% of it has been mapped. It is said to contain cities, oceans, and other colossal anomalies that are all intertwined by complex weaving caves. Academics believe that at its greatest depths it leads over into [[The Void]], and travelling laterally can cause one to enter Temperament of [[The Elemental Planes]]. Many fear [[The Underdark]], and for good reason. There exists an old dwarven saying, that essentially says: *"Fear what lurks below [[Zol]], for not even The [[Gods]] know what resides down there"*.
+The vast nexus of caves the spans underneath [[Zol]]. No one knows the width and depth to which these caves reach, but it is thought that less than 1% of it has been mapped. It is said to contain cities, oceans, and other colossal anomalies that are all intertwined by complex weaving caves. Academics believe that at its greatest depths it leads directly into [[The Void]], and travelling laterally can cause one to enter Temperament of [[The Elemental Planes]]. Many fear [[The Underdark]], and for good reason. There exists an old dwarven saying, that essentially says: *"Fear what lurks below [[Zol]], for not even The [[Gods]] know what resides down there"*.
 
 The most widely known entities that exist in [[The Underdark]] are:
 - [[Jerda'll]]

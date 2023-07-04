@@ -1,6 +1,6 @@
 ---
 title: "Kapesh"
----![[Kapesh.jpg]]
+---![[Kapesh v2.jpg]]
 
 The Human Kingdom. Known for its resilience, arcane knowledge, and deep seated religious culture. The Kingdom is under the reign of the [[Galliard Crown]], and most of its people follow the [[Church of Three Fires]]. Kapesh has fought many a battle against both of its neighboring kingdom, and faced the dangers of [[Zol]] more fully than most other places. It has stood the test of time and has the scars to prove it.
 
@@ -26,7 +26,7 @@ Kapesh's borders once included what is now the [[The Free Cities of Alderun]]. W
 
 There is lots of superstition that regards humans as cursed, this belief is furthered by the problems that Kapesh has faced over the course of its existence. A kingdom located in a considerably inhospitable region filled with monsters, as well as a frankly volatile population. It has faced unique and isolated plagues and famine at various times through out its history. 
 
-They are also known for waging war in the past against [[Gethsemane]] multiple times. Known as The [[Triumvirate Battles]], the conflicts never amounted to much other than unnecessary deaths. The only territory that has ever changed hands in this exchange was Stalke Island and the city of [[Riverbridge]].
+They are also known for waging war in the past against [[Gethsemane]] multiple times. Known as The [[Triumvirate Battles]], the conflicts never amounted to much other than unnecessary deaths. The only territory that has ever changed hands in this exchange was Ile Sterza and the city of [[Riverbridge]].
 
 Kapesh is home to many practitioners of [[Arcana]], most notably at [[The Kybis Assembly]]. Little fact is written on what exactly occurs there. On its surface it is a scholarly place of magic. The rumor mill however, spins stories of arcanists who tamper with the dark unknown forces of Zol.
 
@@ -38,11 +38,13 @@ Those who live out in the wilds are either sturdy bandits, or natives to [[The W
 Monsters and thieves make straying from the roads of [[Kapesh]] dangerous for all who cannot hold their own.
 
 ## Government, Economy, and Laws
-The Kingdom is ruled by the [[Galliard Crown]]. [[King Galliard]] was brought to power when the discovery was made that the Galliard Bloodline had the ability to control [[The Crown Golems]]. This caused the Galliard line to be married into the royal lineage, and after a few generations they were seen as the most powerful family in all of [[Kapesh]].
+The Kingdom is ruled by the [[Galliard Crown]]. The [[Galliard Crown]] was brought to power when [[The Crown Titans]] were discovered. [[The Crown Titans]] are a strange, but powerful phenomena. They are a legion of 6 individuals who have been bestowed a power that allows them to assume a massive, and uniquely powerful forms. These powers are bestowed by a single individual called [[The Gallan]]. No one knows what gives [[The Gallan]] such power, but many attribute it to a divine source. It is understood that the powers that [[The Gallan]] posses are passed down through bloodlines. Only one Gallan exists at a time.
 
-The kingdoms economy favors only the wealthy. Many low born work hard days for little coin, while the nobility accumulate wealth. 
+The Galliard bloodline are the keepers of this power. When this was discovered, the Galliard bloodline was quickly married into noble families. Their power and cunning brought them to the status of the most powerful family in all of [[Kapesh]], and the rulers soon after.
 
-These systems are upheld by the [[Kapeshian Laws]]. Which protects its citizens and bolsters the wealthy with devices like slave labor.
+The kingdom's economy favors only the wealthy. Many low born work hard days for little coin, while the nobility accumulate wealth. 
+
+These systems are upheld by the [[Kapeshian Laws]]. Which protects its citizens and bolsters the wealthy with social devices like slave labor.
 
 ## Arts, Culture, and Religion
 [[Kapesh]] is not known for being particularly artistic itself, but it one of the largest consumers of imported arts. The art and culture that does exist largely consists of literature and religious art.

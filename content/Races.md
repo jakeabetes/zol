@@ -17,20 +17,20 @@ The races of [[Zol]] are:
 | [[Goblins]] | Uncommon | [[Off-Human]] |
 | [[Goliaths]] | Uncommon | [[Off-Human]] |
 | [[Dragonborn]] | Rare | [[Off-Human]] |
-| [[Warforged]] | Rare | [[Speciation Magica]] |
-| [[Beastfolk]] | Rare | [[Speciation Magica]] |
+| [[Warforged]] | Rare | [[Speciatum Magica]] |
+| [[Beastfolk]] | Rare | [[Speciatum Magica]] |
 | [[Harengons]] | Rare | [[Off-Human]] |
 | [[Kobolds]] | Rare | [[Off-Human]] |
 | [[Tabaxi]] | Rare | [[Off-Human]] |
 | [[Tritons]] | Very Rare | [[Off-Human]] |
 | [[Genasi]] | Very Rare | [[Off-Human]] |
 | [[Changelings]] | Very Rare | [[Off-Human]] |
-| [[Eladrin]] | Very Rare | [[Speciation Magica]] |
+| [[Eladrin]] | Very Rare | [[Speciatum Magica]] |
 | [[Firbolgs]] | Very Rare | [[Off-Human]] |
 | [[Owlin]] | Very Rare | [[Off-Human]] |
 | [[Grung]] | Very Rare | [[Off-Human]] |
-| [[Kenku]] | Extremely Rare | [[Speciation Magica]] |
-| [[Plasmoid]] | Extremely Rare | [[Speciation Magica]] |
+| [[Kenku]] | Extremely Rare | [[Speciatum Magica]] |
+| [[Plasmoid]] | Extremely Rare | [[Speciatum Magica]] |
 | [[Fairies]] | Extremely Rare | Unknown |
 | [[Aasimar]] | Extremely Rare | Unknown |
 | [[Lunite]] | Extremely Rare | Unknown |

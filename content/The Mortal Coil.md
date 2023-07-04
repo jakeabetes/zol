@@ -12,8 +12,8 @@ title: "The Mortal Coil"
 [[The Mortal Coil]] is bound to a specific set of rules that determine the function of life and death across all [[Planes]] of [[Zol]].
 - Beforelife
 	- little is known of the Beforelife, but it is thought that souls grow freely from [[Nodes]] in [[The Ethos]]. These souls are selected at random by [[The Mortal Coil]] to be bound to vessels. This binding begins Life.
-	- Souls in this state are thought to be non-sentient, and only become true beings when they are bound to a vessel.
-		- This is not the case for souls that are sent for rebirth after death. In this scenario, the souls-to-be-reborn are considered comatose, living beings. 
+	- Souls in this state are thought to be non-sentient, and only become true beings when they are bound to a vessel at the moment of birth.
+		- This is not the case for souls that are sent for rebirth after death. In this scenario, the souls-to-be-reborn are considered comatose beings in a state of pseudo-life. 
 - Life
 	- Life begins when a vessel is fully created and a soul is bound to it. This can manifest in a number of ways
 		- Successfully completed reproduction
@@ -38,13 +38,12 @@ title: "The Mortal Coil"
 		- Damage to the soul so great it destroys the soul
 			- This is the rarest death, as the soul is nigh indestructible. If this occurs there is no way to bring the being back to life.
 	- If Death does occur, there are cases where magic can be used to restore life, given that the circumstances are correct.
-		- If one does successfully restore life, the being will return with a scar from [[The Mortal Coil]] called a Mortality Rune ![[Mortality Runes.png]]
-	- Death cannot occur on a plane where [[The Mortal Coil]] is not present, save for the case of a soul being destroyed. A death off the mortal coils usually results in banishment to [[The Ethos]], [[The Void]], the [[Prime Material Plane]], or the plane from which they originated. They arrive on the brink of death. 
-	  
-	  This is not always the case as some planes like [[Absurdia]] have their own rules about death off [[The Mortal Coil]].
-		- Any living thing can die so long as it is under the effect of [[The Mortal Coil]]
-		- Something that is defined as ***Immortal*** is not killed by old age, and can withstand colossal amounts of trauma to their vessel, soul, and the bond between them without succumbing to death.
-			- This principal is why the [[Gods]] spend most of their time outside of [[The Mortal Coil]], as it gives them much security from other powerful beings who would see them dead.
+		- If one does successfully restore life, the being will return with a scar from [[The Mortal Coil]] called a Mortality Rune. A single instance of this creates one, but multiple restorations chain these markings in a line. ![[Mortality Runes.png]]
+	- Death cannot occur on a plane where [[The Mortal Coil]] is not present, save for the case of a soul being destroyed. A death off the mortal coils usually results in banishment to [[The Ethos]], [[The Void]], the [[Prime Material Plane]], or the plane from which they originated. They arrive on the brink of death. This is not always the case as some planes like [[Absurdia]] have their own rules about death off of [[The Mortal Coil]].
+	- Something that is defined as ***Immortal*** is not killed by old age, and can withstand colossal amounts of trauma to their vessel, soul, and the bond between them without succumbing to death.
+		- Any living thing can die so long as it is under the full effect of [[The Mortal Coil]]
+		- This principal is why the [[Gods]] spend most of their time outside of [[The Mortal Coil]], as it gives them much security from other powerful beings who would see them dead.
+		- There is also a theory that the mortal coil weakens extremely powerful beings like [[Gods]]. Some think this is why the [[Zolaen Gods]] do not grace [[The Prime]].
 - Afterlife
 	- When death occurs, the soul (if intact) leaves the vessel. It is then guided by [[The Coilwalker]] to a new phase of existence based on the way the soul acted in its lifetime.
 	- The paths a soul can take are:
@@ -54,7 +53,7 @@ title: "The Mortal Coil"
 		- Rebirth
 			- Beings who undergo rebirth are sent back into [[The Ethos]] for their soul to be randomly selected for life again. If this occurs they are reborn with small slivers of their past lives interwoven into their being.
 			- Slivers of past lives stay with souls, but are largely born without an sense of past life.
-				- [[Magic]] investigation can expose truths about past lives.
+				- Powerful [[Magic]] investigation can expose truths about past lives.
 			- Many things can spark rebirth. Magical influence, the will of a god, or even if the soul itself truly seeks it.
 			- Beings who undergo rebirth many times often go on to do great things.
 		- [[Limbo]]
@@ -65,10 +64,14 @@ title: "The Mortal Coil"
 		- Punishment
 			- If a soul has led a dark life, [[The Coilwalker]] brings it to [[Damnation]] upon death.
 			- It is thought that [[The Coilwalker]] struck an accord with [[Aldem, King of all Hells]]. This deal allows for [[Aldem, King of all Hells]] to claim some form of power from the deaths of [[Zol]]. In exchange he is to carry out the punishment for souls marked by [[The Coilwalker]].
-			- Punishment varies in severity. Sometimes it is a light and temporary punishment like manual labor for a few hundred years. After which the damned are allowed to reside in [[Apolyatum]], the highest layer of [[Damnation]], the city of the dead.
+			- Punishment varies in severity. Sometimes it is a lesser and/or temporary punishment. After which the damned are allowed to reside in [[Apolyatum]], the highest layer of [[Damnation]], the city of the dead.
 				- Other times it is a more severe, and eternal punishment
 		- [[Obliteration]]
-			- If a soul is deemed too dangerous for [[Zol]], [[The Coilwalker]] will send a soul to the lowest layer of [[Damnation]]. A small and dark place called [[Obliteration]]. Here, giant beings made from obsidian destroy the souls sent to them with mighty hammers forged by Aldem himself.
+			- If a soul is deemed too dangerous for [[Zol]], [[The Coilwalker]] will send a soul to the lowest layer of [[Damnation]]. A small, dark, and horrible place called [[Obliteration]]. Here, giant beings made from obsidian destroy the souls sent to them with mighty hammers forged by Aldem himself.
+		- Misc
+			- Sometimes strange things can happen to souls. 
+				- Some arcanists have claimed to have trapped souls using magic.
+				- Others believe that some souls go on to become other things like [[Sylfs]].
 
 ## Anti-Life
 Occasionally a powerful vessel or soul will exist without its bonded counterpart, and will somehow continue to function in a strange manner akin to Life. There are likely many things that can cause this, but few are known:
@@ -82,13 +85,14 @@ The result is a physical being who acts in one of two ways
 	- The resulting being will attempt to continue their "life", but they do so without all of their emotions or memories in tact, resulting in strange behavior. Sometimes the physical body of this creature will also become monstrous in appearance.
 	- Anti-life is reversible for Echoes if a soul can be rebound to its vessel, returning the being to normal Life again.
 - Undead
-	- Vessels who have fully died, then given an artificial soul fabricated via [[Necromancy]].
-	- This creates a being subservient to the will of its souls creator
+	- Vessels who have fully died, then given an artificial soul, or have their soul reattached via [[Necromancy]].
+		- When a vessel is not under the influence of a soul, it opens the body up to being magically enhanced in ways that would be otherwise impossible.
+	- This usually creates a being subservient to the will of its souls creator.
 	- The strength of the resulting being is dependent on the state of the vessel, and the skill of the souls creator.
 	- These beings are typically more susceptible to further deaths as the bond between vessel and soul is not perfect.
 		- But the severed artificial soul can be easily reattached and sometimes will do so on its own.
 
-Beings who experience Anti-Life are immortal by the rules of [[The Mortal Coil]] as they do not age and have greatly increased fortitude in many cases. A [[Lich]] is a being who does this to themselves intentionally, usually to gain immortality and pursue the dark side of [[Arcana]].
+Beings who experience Anti-Life are immortal by the rules of [[The Mortal Coil]] as they do not age and have greatly increased fortitude in many cases. A [[Lich]] is a being who does this to themselves intentionally, usually to gain immortality to further pursue the dark side of [[Arcana]].
 
 
 ## The Mortal Realms

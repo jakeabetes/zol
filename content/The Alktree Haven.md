@@ -8,7 +8,7 @@ title: "The Alktree Haven"
 Above all else [[The Alktree Haven]] values peace, and the celebration of individuality. Its reputation is known all across [[Zol]] despite its small size. It is known as a place where anyone can seek refuge, knowledge and companions. So long as you bring good intentions to the tree, you will be met with open arms. 
 
 ## Origin
-The haven began as a place of refuge during the [[Alderian Rebellion]]. Many who did not want to fight fled into the dangerous [[The Witchlands]]. So many of these people, driven from their homes, were lost to the dangers of the wilds. However, a small few discovered the haven guarded by a [[magic]] tree that warded off monsters.
+The haven began as a place of refuge during the [[Alderian Rebellion]]. Many who did not want to fight fled into the dangerous [[The Witchlands]]. So many of these people, driven from their homes, were lost to the dangers of the wilds. However, a small few discovered the haven guarded by a [[Magic]] tree that warded off monsters.
 
 It became a home for many, shared experiences amongst its residents drove them to aid anyone who needed it. Slowly but surely it grew in size and reputation. Its was given the name of a lost friend who had died protecting its grounds from bandits.
 

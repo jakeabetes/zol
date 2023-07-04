@@ -2,15 +2,11 @@
 title: "The Taming of the Badlands"
 ---Western [[Zol]] was originally populated with the most diverse set of beings in [[The Awakening]]. The myriad of people and chaos made for a wild expanse with little to no governing forces. The region was dubbed The Badlands, and few civilized people ventured there.
 
-Eventually some groups gained enough power to establish themselves as coherent powers. As more and more of these groups formed, The Badlands became a feudal battleground. Small cities rose and fell constantly, dotting the area with ruins.
+Eventually some groups gained enough power to establish themselves as coherent powers. As more and more of these groups formed, The Badlands became a feudal battleground. Small cities rose and fell constantly, dotting the area with ruins. Some groups rose high enough to gain legitimacy. It was at this point it became politically advantageous for the [[Elves]] of [[Gethsemane]] to support certain parties. They lent aid to the kingdoms of [[Halflings]] and [[Gnomes]] who would go on to conquer and found [[Eucaren]].
 
-Some groups rose high enough to gain legitimacy. It was at this point it became politically advantageous for the [[Elves]] of [[Gethsemane]] to support certain parties. They lent aid to the kingdoms of [[Halflings]] and [[Gnomes]] who would go on to conquer and found [[Eucaren]].
+[[Eucaren]] was originally on track to be part of [[Gethsemane]], but the [[Elves]] held back, as feared something that lied in [[The East Mounts]]. This development caused the rest of The Badlands to organize in response. The diverse kingdoms of [[Saen]] and [[Arcadia]] were founded soon after. These regions fought one another for quite some time. It was clear that [[Eucaren]] was much better off with the aid of [[Gethsemane]]. [[Saen]] had little in terms of resources due to their desert environment, so the made an alliance with [[Arcadia]]. This alliance gave the two regions enough capacity to take [[Eucaren]] from [[Gethsemane]].
 
-[[Eucaren]] was originally on track to be part of [[Gethsemane]]. This development caused the rest of The Badlands to organize in response. The diverse kingdoms of [[Saen]] and [[Arcadia]] were founded soon after.
-
-These regions fought one another for quite some time. It was clear that [[Eucaren]] was much better off with the aid of [[Gethsemane]]. [[Saen]] had little in terms of resources due to their desert environment, so the made an alliance with [[Arcadia]]. This alliance gave the two regions enough capacity to take [[Eucaren]] from [[Gethsemane]].
-
-There was a long time of disagreement, but a halfling politician and scholar named Perrial Galanor spent much time writing and speaking to the populations of the three kingdoms. She unified them under their shared history of The Badlands, and sought for separation from the [[Dwarves]] and [[Elves]] of [[Gethsemane]] due to the their treatment of [[Off-Human]] peoples. The kingdom was named [[Laenwalde]], the gnomish word for perseverance.
+There was a long time of disagreement, but a halfling politician and scholar named Perrial Galanor spent much time writing and speaking to the populations of the three kingdoms. She unified them under their shared history of The Badlands, and sought for separation from the [[Dwarves]] and [[Elves]] of [[Gethsemane]] due to the their dangerous wars with [[Kapesh]]. The kingdom was named [[Laenwalde]], the gnomish word for perseverance.
 
 Perrial Galanor worked closely with the leaders of [[Eucaren]], [[Saen]] and [[Arcadia]]. They were (respectively) Elrose Virrand a halfling woman, Tyran Urla a half elven man, and Fievar Cardanax a human man. These rulers wrote laws, trade agreements, and policies that would unify the three kingdoms.
 
@@ -24,7 +20,7 @@ Laenwalde was founded in the year of 3201 and had three years of glory. The vast
 
 Sadly this did not last long. Elrose Virrand was killed by a jealous lover, Tyran Urla fell ill with a mysterious sickness that made him unable to conduct much of his work and reduced his lifespan, and The King himself was accidentally killed breaking up a fight between drunk city guards. This threw [[Laenwalde]] into confusion. The people of the three kingdoms quickly grew anxious and unrest was seen in all classes of people.
 
-The region was stuck in a halfcocked state and quickly shifted into chaos. King Resh Tatelak had no succession plan. The unity so many had worked for was on the verge of being lost for good, then Resh Tatelak's brother, Radavar Tatelak, next in line to the throne and leader of the King's army took the region by force despite his very legitimate claim.
+The region was stuck in a halfcocked state, and quickly shifted into chaos. King Resh Tatelak had no succession plan. The unity so many had worked for was on the verge of being lost for good, then Resh Tatelak's brother, Radavar Tatelak, next in line to the throne and leader of the King's army took the region by force despite his relatively legitimate claim.
 
 Radavar was by no means a politician, but was an excellent military leader. Once the kingdoms had their chaos quelled, Radavar took the crown as king of [[Laenwalde]]. He implemented his own version of what was to be his brothers rule, but in a manner that some would argue benefitted him a little too well. He greatly dampened the influence of his brothers advisors and had many done away with. This made for the largest kingdom in all of [[Zol]], under a rule of one specific man.
 
