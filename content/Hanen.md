@@ -38,6 +38,7 @@ Identifiable by its ivy covered, weathered and off-white stone walls. Hanen is a
 | Majority Religion(s) | Wanderer-Centric |
 
 ## Major Features
+
 | Feature | Description |
 |-|-|
 | Distinguishing Features | Overgrown war-worn structures, Lakeside |
@@ -47,6 +48,7 @@ Identifiable by its ivy covered, weathered and off-white stone walls. Hanen is a
 | Defenses | Lake-Navy, City Garrison, 'Gifted' Elites |
 
 ## People Groups
+
 | Group | Type | Description |
 |-|-|-|
 | Nobility | Social Class | The wealthy and politician class, many of which have 'gifts' due to their family influence over time. |
@@ -55,6 +57,7 @@ Identifiable by its ivy covered, weathered and off-white stone walls. Hanen is a
 | Church of the Wanderers | Religious | One of the largest congregations of [[Sworn Wanderers]] in all of [[Zol]]. Notable as much of [[Zol]] resists the Wanderer-Centric beliefs. |
 
 ## Goods and Services
+
  | Name | Type | Description |
  |-|-|-|
  | The Citadel | Keep | The city's keep |
@@ -76,7 +79,7 @@ The city subscribes to the [[Alderian Laws]] as well as enforcing its own laws.
 
 | Law | Severity | Description |
 |-|-|-|
-| Misuse of 'gifts' | Medium | If one uses their 'gift' to harm, intimidate, or manipulate another without due cause they are to be jailed in the keep's dungeon. (Note that despite this laws existence, it is rarely enforced. If it is enforced, the sentencing is very short.) |
+| Misuse of 'gifts' | Medium | If one uses their 'gift' to harm, intimidate, or manipulate another without due cause they are to be jailed in the keep's dungeon. (Note that despite this laws existence, it is rarely enforced. If it is enforced, the sentencing is usually very lax.) |
 
 ## Modern Importance
 In modern day, Hanen is known for giving rise to many strong warriors that make an impact all across [[Zol]]. 

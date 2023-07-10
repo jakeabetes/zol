@@ -64,7 +64,7 @@ Holocene's east overlooks [[The Grand Nothing]], and houses the [[Pale Lift]] wh
  | Kerketh Academy: Holocene Campus | College | A small campus located within the inner city. Attended by nobles, and largely conducts private tutelage. |
 
 ## Authority
-The city is well protected by is massive garrison of soldiers. Under the ever watching gaze of Lord Leonell Vanveld, a clever and charismatic human man. The Lord's pockets are rumored to be bottomless. Many thing Lord Leonell Vanveld is the richest person in all of [[Zol]].
+The city is well protected by is massive garrison of soldiers. Under the ever watching gaze of Lord Leonell Vanveld, a clever and charismatic human man. The Lord's pockets are rumored to be bottomless. Many think Lord Leonell Vanveld is the richest person in all of [[Zol]].
 
 Long ago. During the [[Alderian Rebellion]], the city gave up their rule willingly to the rebels. At the time this seemed an act of grace, or possibly fear. In modern day, many believe it to be a long drawn out plan by the nobility to preserve the rule they have always had. Albeit modified to match the modern political climate.
 

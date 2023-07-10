@@ -5,7 +5,7 @@ title: "Kierketholl"
 
 The capital of [[Kapesh]] and home to [[King Galliard]]. Dotted with massive, high towers and protected by [[The Crown Titans]]. [[Kierketholl]] has stood against the trials of war and time like no other city.
 
-The city is filled with significantly tall buildings, and a handful of megastructures. Most buildings are at least 4 stories tall while the mega structures are around 30 to 50 stories tall. These complexes are all unique, some of which contain their own microcultures, and individuals who spend nearly their whole lives in a single building.
+The city is filled with significantly tall buildings, and a handful of megastructures. Most buildings are at least 4 stories tall while the mega structures are around 30 to 50 stories tall. These complexes are all unique, some of which contain their own microcultures, and individuals who spend nearly their whole lives living in a single building.
 
 ![[kierketholl.png]]
 

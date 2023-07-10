@@ -61,7 +61,7 @@ Surrounded by hilly farmland, [[Fike]] is the most populated of the north-easter
 | Pappy's              | Tavern               | A very small basement tavern known for its associations with the Threp gang                                                                                                    |
 
 ## Authority
-Ruled by Archon Adalith Percy, a half elf man that is largely dislike by his subjects. The Archon of Fike is rumored to be corrupt and has his pockets lined by local gangs and other shady groups. Regardless of his status, he is supported by his own military and by [[Often]] through [[The North Honor]]. These resources give him reasonable hold over the large and chaotic northern city.
+Ruled by Archon Adalith Percy, a half elf man that is largely disliked by his subjects. The Archon of Fike is rumored to be corrupt and has his pockets lined by local gangs and other shady groups. Regardless of his status, he is supported by his own military and by [[Often]] through [[The North Honor]]. These resources give him reasonable hold over the large and chaotic northern city.
 
 ### Laws
 The city enforces its own laws

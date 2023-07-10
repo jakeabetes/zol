@@ -22,14 +22,14 @@ As use of [[The First Tongue]] is nigh impossible, other methods of harnessing t
 ![[Magic Diagram.png]]
 
 ## Magic and Society
-The people of [[Zol]] largely base their society and culture around some sort of magic. Safety and technology at a high level depend almost entirely on magic. This creates a strange dynamic for most of the population as only about 4% of individuals have the capacity to harness magic via gifts or training.
+The people of [[Zol]] largely base their society and culture around some sort of magic. Safety and technology at a high level depend almost entirely on magic. This creates a strange dynamic for most of the population as only about 5% of individuals have the capacity to harness magic via gifts or training.
 
 [[Caster]]s are revered and feared because of this. The cultures and mythos of [[Zol]] are so intertwined with magic that no belief or practice is without mention of it.
 
 ## Advancements in Magic
 For almost all of history, one could not access magical power unless they followed the specific known rules, bore some gift, or possessed an item that had undergone [[Enchantment]] via superbly powerful magic called [[Imbuement Perpetuum]]. This was all changed when the great arcanist [[Maalvern]] discovered [[Iron Light]] and established the trade of [[Artificers]].
 
-[[Iron Light]] is a sub section of the minor will of [[Arcana]]. It allows one to extend their [[Vizir]] into an object, or channel [[The Trinity]] itself through the object. This is done by using rudimentary runes inscribed in iron plates, allowing for a more simplistic production of magical objects. This invention revolutionized [[Zol]].
+[[Iron Light]] is a sub section of the minor will of [[Arcana]]. It allows one to extend their [[Vizir]] into an object, and produce a magical result. This is done by using rudimentary runes inscribed in iron plates, allowing for a more simplistic production of magical objects. This invention revolutionized [[Zol]].
 
 ## Limitations and Weaknesses of Magic
 While powerful, Magic is not a boundless tool. In all cases, a [[Caster]] acts as a conduit for [[The Trinity]]. Acting as this conduit requires capacity and fortitude called **Equipoise**, respective to the given task.  

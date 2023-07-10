@@ -17,7 +17,7 @@ A towering city of sleek black stone, and sharply accented structures. Home to [
 | Cuisine | Exotic farmed goods, fish, exotic spices |
 | Export | Fine goods (sent mostly to [[Yorn et Gaul]], and only in very small part to travelling merchants allowed in the city) |
 | Size | Large |
-| Outer Villages| FSome |
+| Outer Villages| Some |
 | City Leader | Shardcaller Osieur Xetac |
 | Primary Language(s) | Changeling |
 | Majority Racial Group(s) | [[Changelings]] |
@@ -49,9 +49,9 @@ A towering city of sleek black stone, and sharply accented structures. Home to [
 | ------------------ | -------------------- | --------------------------------------------------------------------- |
 | Keep Vertex        | Keep                 | The city's main keep, and holding place of [[The Vertex]]             |
 | Vertex Convergence | Teleportation Circle | The city's main teleportation circle. Located within the keep.        |
-| Silver Docks       | Market               | One of the cities markets. Located on the shore of [[The Narrow Sea]] |
+| Silver Docks       | Market               | One of the city's markets. Located on the shore of [[The Narrow Sea]] |
 | Palse Zezac        | Tavern               | A drinking establishment frequented by the local population           |
-| [[The Eelynn]]     | College              | A place of study for all [[Changelings]] of the city. Every citizen of [[Corinth]] studies here for at least some part of their youth, and some even go further to become full fledged members. These members go on to study magic, philosophy, and various other branches of academia. All of this study is viewed through the lens of [[The Oldshards]], and the worlds relationship to them.                                                                      |
+| [[The Eelynn]]     | College              | A place of study for all [[Changelings]] of the city. Every citizen of [[Corinth]] studies here for at least some part of their youth, and some even go further to become full fledged members. These members go on to study magic, philosophy, and various other branches of academia. All of this study is viewed through the lens of [[The Oldshards]], and the world's relationship to the relics.                                                                      |
 
 ## Authority
 The city is ruled by Shardcaller Osieur Xetac, an extremely well respected leader of advanced age. Osieur is a very wise ruler and has maintained the order of [[Corinth]] for many years. The Shardcaller of [[Corinth]] has a formidable army at their command, and has secured the region well in the years after the [[Western War]].

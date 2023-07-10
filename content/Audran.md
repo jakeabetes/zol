@@ -7,7 +7,7 @@ The largest city in all of [[Zol]]. [[Audran]] was once the prosperous capital o
 
 The Day of Madness was a sudden event that involved [[The Castle of Bodies]] suddenly attacking [[Audran]]. Until that point, no one even knew [[The Castle of Bodies]] existed. Its presence drove the vast majority of the city's people into a blood frenzy. People blindly fought, killed and destroyed anything they could. The whole event only lasted a short while, but wholly ruined the city and its people.
 
-The capital was abandoned, but slowly over time people returned and sought refuge in its ruins. Disorganized and ramshackle rebuilding began. Eventually it created a new and unique place where the great city once stood. It would never become the capital again, but is now home to a very rich, and diverse culture.
+The capital was abandoned, but slowly over time people returned and sought refuge in its ruins. Disorganized and ramshackle rebuilding began. Eventually, the combined efforts of many created a new and unique place where the great city once stood. It would never become the capital again, but is now home to a very unique, rich, and diverse culture.
 
 ![[audran.png]]
 
@@ -18,7 +18,7 @@ One part ruined, one part rebuilt, one part ramshackle slum. The city is fast pa
 | Aspect | Description |
 |-|-|
 | Main Opportunity | The city was re-founded by individuals who chose to make a new life in the ruins of what once was. It is a city by the people, and for the people. Despite the many attempts by the crown to instill order within [[Audran]], it remains chaotic and free. It is a place where anything, good or bad, can occur. |
-| Main Challenge | Governing the city is extremely difficult. Its ever sprawling, overcrowded streets make a perfect environment for crime and chaos. Straying where one should not within [[Audran]] is very dangerous. |
+| Main Challenge | Governing the city is extremely difficult. Its ever-sprawling, overcrowded streets make a perfect environment for crime and chaos. Straying where one should not within [[Audran]] is very dangerous. |
 | Climate | Temperate |
 | Cuisine | Cultivated Fruits, Farmed Goods, Flatbread and rice based meals |
 | Export | Investments, medicine, coffee, dyes, textiles, paper, books, and ink |
@@ -96,7 +96,7 @@ Before the event, none knew of [[The Castle of Bodies]]' existence. One of the s
 
 When it appeared, it blocked out the sun and exercised its influence on the minds of [[Audran]]'s people. Almost all who were exposed to it were immediately pushed to madness and violence. The city quickly became a bloody riot. Friend turned on friend as everyone within began to do all they could to destroy the city and its people.
 
-Brave heroes dispatched themselves as quickly as they could, luckily none of which were driven mad upon arrival. They fought the Void God, as it dispatched an army of monstrous demons with horrific physiology.
+Brave heroes dispatched themselves as quickly as they could, luckily none of which were driven mad upon arrival, as it seemed the cognitive effect from the Void God was only exercised at its moment of arrival. They fought the Void God, as it dispatched an army of monstrous demons with horrific physiology from within its body.
 
 The heroes did all they could to wound the strange being, in a manner similar to razing a city. Then without warning, the city vanished.
 
@@ -106,6 +106,6 @@ The vast majority left the city, and it remained a ghost town for generations. H
 
 Originally only unorganized factions of bandits, forlorn, and nomads. As more people arrived a society naturally began to reform. After a few generations, the governing bodies of [[Laenwalde]] recognized it as a city once again.
 
-It had been rebuilt to a degree, Fallen down sections of stone walls were rebuilt with lumber, rubble piles were stacked and reused as building material, and waterways were cleared of pollutants.
+It had been rebuilt to a degree. Fallen down sections of stone walls were rebuilt with lumber, rubble piles were stacked and reused as building material, and waterways were cleared of pollutants.
 
-Later research and divination revealed [[The Castle of Bodies]]' nature. The attack was deemed as a freak occurrence, and people began to call [[Audran]] home again. However it scars would never be forgotten and it was no longer the capital. [[Kahdinacht]] had taken its place as the defunct capital, and [[Heliodor]] would later be its successor.
+Later research and divination revealed [[The Castle of Bodies]]' nature. The attack was deemed as a freak occurrence, and people began to call [[Audran]] home again. However it scars would never be forgotten and it was no longer the capital. [[Kahdinacht]] had taken its place as the defacto capital, and [[Heliodor]] would later be its successor.

@@ -14,7 +14,7 @@ All planes float amongst [[The Ethos]], the local section of the universe that s
 There are many planes in [[Zol]]. Below is the list of known major planes.
 - **The Mortal Planes** - Planes bound by the rule of [[The Mortal Coil]]
 	- [[Prime Material Plane]]
-		- The heart of [[Zol]] and resting place of [[The Trinity]]. Being the source of all magical power, and the anchor for all other planes, it is the focal point for all of [[Zol]].
+		- The heart of [[Zol]] and resting place of [[The Trinity]]. Being the source of all magical power, and the anchor for all other planes, it is the focal point for all of [[Zol]]. Often referred to as the anchor realm.
 	- [[Fey]]
 		- A fantastical reflection of the [[Prime Material Plane]]. An echo where nature an beauty run rampant. While enticing, the [[Fey]] is very dangerous.
 	- [[Fell]]
@@ -69,11 +69,11 @@ Example: [[Artificers]] create the common [[Apparatum]] known as a Bag of Holdin
 ## The Two Types of Planes: Planets and Realms
 A planet is a discrete, usually spherical plane that floats freely amongst [[The Cosmos]]. [[The Moons]] of [[Zol]] are a good example of this. Planets typically have some central point of gravity that keeps objects on its surface. Planets do not usually have other planes bound to them in any way other than gravitational orbit of other planets.
 
-Realms are planes that are not necessarily discrete and do not have to subscribe to Euclidean Geometry. They may be infinite, repeating, fractal, or end abruptly at their edges.
+Realms are planes that are not necessarily discrete and do not have to subscribe to Euclidean Geometry. They may be infinite, repeating/fractal, or end abruptly at their edges.
 
 In [[The Cosmos]], Parent realms are usually discerned by some sort of barrier between them and the rest of the universe. They typically contain many lesser planes bound to a [[Prime Material Plane]], as well as their own local section of [[The Cosmos]] similar to [[The Ethos]]. 
 
-As an example: within [[Zol]], [[The Prime]] is the parent realm. Its barrier is [[The Great Wall of Roots]]. The local part of the universe within that barrier is known as [[The Ethos]].
+As an example: [[Zol]] is the parent realm, [[The Prime]] is the anchor realm, as the majority of planes within [[Zol]] are directly bound to it. Its barrier is [[The Great Wall of Roots]]. The local part of the universe within that barrier is known as [[The Ethos]].
 
 Planets can exist on their own or within a realm. Realms are rarely contained by a planet, but Realms usually contain other realms.
 

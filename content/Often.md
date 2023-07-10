@@ -83,4 +83,4 @@ In modern day, [[Often]] is most know for [[The Ramshorn]]. The warriors that co
 Historically, [[Often]] has not played a major role outside of [[The Ward]]. Within the history of the kingdom, it fought during [[The Dragon War]]. It was assumed by many to fall to the [[Dragons]], but its stone walls and brave fighters proved greater than the challenge posed.
 
 ## Other Things of Note
-- [[Stormdew]] is minor acidic as it ferments, making the copper roofs shine after it is blown away in the abrasive [[Greatwinds]]
+- [[Stormdew]] is minorly acidic as it ferments, making the copper roofs shine after it is blown away in the abrasive [[Greatwinds]]

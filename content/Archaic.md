@@ -48,7 +48,7 @@ Archaic, The Eldest city of [[Zol]]. Archaic sits nested in the northern foothil
 | Students | Social Class/Academic Station | Those at the lowest level of education within the Assembly. These students gain entry to the school via very high tuition costs and recommendation letters, or by direct invitation from an Insightor or reputable Preceptor. There is a comradery amongst students but it is usually overshadowed by the competition between peers. |
 | Preceptors | Social Class/Academic Station | The second highest level within [[The Kybis Assembly]]. These individuals are researchers given resources by the academy, and act as the professors of the more entry-level classes. This rank is typically granted when a student has learned a few words of [[The Old Tongue]].|
 | Insightors | Social Class/Academic Station | The masters level within [[The Kybis Assembly]]. These individuals are charged with overseeing the daily ins and outs of the Assembly as well as the education of the student body. Acting as the professors for the more high ranking courses these individuals typically know many words of [[The Old Tongue]]. |
-| Grand Insightors | Social Class/Academic Station | The grand master level within [[The Kybis Assembly]]. These individuals are surrounded by legend and mystery. They are of the most skilled mages within [[Zol]], and their sole responsibility is to seek the deep and eldritch knowledge hidden within the world. Many of these individuals do not even associate with anyone below the rank of Insightor. |
+| Grand Insightors | Social Class/Academic Station | The grand master level within [[The Kybis Assembly]]. These individuals are surrounded by legend and mystery. Some people (even some students) think they do not exist. They are of the most skilled mages within [[Zol]], and their sole responsibility is to seek the deep and eldritch knowledge hidden within the world. Many of these individuals do not even associate with anyone below the rank of Insightor. |
 
 ## Goods and Services
 
@@ -69,7 +69,7 @@ The city is overseen by Lord Philen Boran, servant to [[King Galliard]]. Lord Bo
 Notably within the city, [[The Kybis Assembly]] does not respond to the authority of Lord Boran, but instead only listens to the [[Galliard Crown]] itself. Some within the city believe that the Grand Insightors have more authority than the city lord himself.
 
 ### Laws
-The city subscribes to the [[Kapeshian Laws]], but many say the Assembly does not have these laws forced upon them.
+The city subscribes to the [[Kapeshian Laws]], but many say the Assembly does not have these laws forced upon them like other organizations within the city.
 
 ## Modern Importance
 In modern day [[Archaic]] is seen as a powerful resource to [[Kapesh]]. This is due to the influence of [[The Kybis Assembly]] on the grand scale. The assembly is much smaller in numbers than [[Kerketh Academy]] or [[The University]], but its members are statistically much more skilled and dangerous.
@@ -83,3 +83,4 @@ Archaic is the oldest city in all of [[Zol]].
 
 ## Other Things of Note
 - Those cast out from the Assembly are typically executed publicly if there is due cause, or die under mysterious circumstances if their departure does not merit execution.
+- The [[Fey]] city of [[Hymnal]] and the [[Fell]] city of [[Dislimn]] are located in the same place as [[Archaic]] in their respective planes.

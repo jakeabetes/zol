@@ -1,6 +1,6 @@
 ---
 title: "Penthe"
----*The Angel Blessed City of Glory
+---*The Angel Blessed City of Glory*
 ![[Penthe skyline.png]]
 
 [[Penthe]] (pronounced *pen-thay*), is a city built to honor the [[Zolaen Gods]]. A home so beautiful, it has garnered the endorsement of [[Iyowne]], a powerful angel. Founded in the mid [[First Age]] by a group of devout warrior monks called [[The Undari]], [[Penthe]] is now a beautiful city located on the slopes of the Se'dir River Valley. It is the westmost city in all [[The Three Corners]].
@@ -68,7 +68,7 @@ The city is under rule of High Lord Draezus Wolf and his council. The city is kn
 
 Second to the High Lord, is [[Blade Lord Kive Bidell]]. The Blade Lord is leader of [[The First Bastion]]. The Blade Lord responds only to the command of High Lords and the King himself.
 
-Beyond that, rank within the church is just as seriously as government rank. If a priest were to command something of you, it would be the same as if an officer were to. However you would have no *legal* precedent to follow it, just a serious societal on.
+Beyond that, rank within the church is just as seriously as government rank. If a priest were to command something of you, it would be the same as if an officer were to. However you would have no *legal* precedent to follow it, just a serious societal one.
 
 ### Laws
 The city subscribes to the [[Laenwalde Laws]].

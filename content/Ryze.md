@@ -3,9 +3,9 @@ title: "Ryze"
 ---*The Steam Powered City of Industry*
 ![[ryze skyline.png]]
 
-In the center of the city of brass, copper, and iron lies a tower, called [[Brass Seldor]]. The building is so tall it contains near half the city's population. It was originally built by a long dead organization of [[Arcanists]] in the early to mid [[First Age]]. These [[Arcanists]], called [[The Circle of Ezer]], were powerful conquerors of The Badlands. They built the megastructure atop geothermal vents to harness their kinetic and heat energy to use in their grand schemes. Fortunately for The Badlands, [[The Undari]] slayed [[The Circle of Ezer]]. Their complex lair was taken over by masses of nomadic tribes seeking refuge. One tribe in particular, [[Clan Yiniro]] was a very clever group of [[Gnomes]] who were able to unlock the secrets that made the tower function as a home. It was quickly filled by all who sought its resources and protection. When the tower was at capacity, the citizens began to build a town around its base that eventually grew into the city of [[Ryze]].
+In the center of the city of steel, copper, and iron lies a tower, called [[Brass Taldora]]. The building is so tall it contains a third of the city's population. It was originally built by a long dead organization of [[Arcanists]] in the early to mid [[First Age]]. These [[Arcanists]], called [[The Circle of Ezer]], were powerful conquerors of The Badlands. They built the megastructure atop geothermal vents to harness their kinetic and heat energy to use in their grand schemes. Fortunately for The Badlands, [[The Undari]] slayed [[The Circle of Ezer]]. Their complex lair was taken over by masses of nomadic tribes seeking refuge. One tribe in particular, [[Clan Yiniro]] was a very clever group of [[Gnomes]] who were able to unlock the secrets that made the tower function as a home. It was quickly filled by all who sought its resources and protection. When the tower was at capacity, the citizens began to build a town around its base that eventually grew into the city of [[Ryze]].
 
-Its industrious founding [[Gnomes]] created a vibrant community and became the majority population of the city. The citizens have built upon the base of [[Brass Seldor]] and expanded upon its complexity and ingenuity. [[Ryze]] has become the city of production within [[The Three Corners]]. If something is mass produced, it is likely made here.
+Its industrious founding [[Gnomes]] created a vibrant community and became the majority population of the city. The citizens have built upon the base of [[Brass Taldora]] and expanded upon its complexity and ingenuity. [[Ryze]] has become the city of production within [[The Three Corners]]. If something is mass produced, it is likely made here.
 
 ![[ryze.png]]
 
@@ -47,26 +47,26 @@ Its industrious founding [[Gnomes]] created a vibrant community and became the m
 | Apprentices | Academic Station/Career Level | Those who follow the teachings of Skillmasters. Either at a place of business, or within [[The Brass Hall]]. |
 | Professors | Academic Station | Those who give lectures and lessons not regarding craft at [[The Brass Hall]] |
 | Students | Academic Station | Students, not focused on craft who attend [[The Brass Hall]] |
-| Criminals | Criminal | Those who lurk within the narrow places of [[Ryze]], conducting thievery, trade of contraband and other nefarious deeds. The state of criminal activity in modern day involves little rivalry and infighting. Many claim it to be oddly civil. Most operations turn towards an individual called [[The Rust Queen]] as their crime lord. |
+| Criminals | Criminal | Those who lurk within the narrow places of [[Ryze]], conducting thievery, trade of contraband and other nefarious deeds. The state of criminal activity in modern day involves only moderate rivalry and infighting. Many claim it to be oddly civil for the most part. Most operations turn towards an individual called [[The Rust Queen]] as their crime lord. |
 
 ## Goods and Services
 
 | Name | Type | Description |
 |-|-|-|
 | Keep Likal | Keep | The city's main keep |
-| Ryze Station | Train Station | The city's train station, notably located underground in the subterranean levels of [[Brass Seldor]]. It is the only city to have [[The Iron Tracks]] pass underneath it. |
+| Ryze Station | Train Station | The city's train station, notably located underground in the subterranean levels of [[Brass Taldora]]. It is the only city to have [[The Iron Tracks]] pass underneath it. |
 | Ryze Convergence | Teleportation Circle | The city's main teleportation circle. Located within the keep. |
-| Brass Convergence | Teleportation Circle | The city's main teleportation circle. Located within [[Brass Seldor]]. |
-| [[Brass Seldor]] | Mega Structure | The massive tower at the city's center. Its bottom layers consist of complex workshops and housing, its mid section is [[The Brass Hall]], and its top floors are home to the nobility. However the tower does not only extend upwards, it descends deep underground as well containing the Train Station, Dungeon, warehouses and many strange mysteries. Some claim tunnels extend from it heading all about the city, and that it even reaches [[The Underdark]]. |
+| Brass Convergence | Teleportation Circle | The city's main teleportation circle. Located within [[Brass Taldora]]. |
+| [[Brass Taldora]] | Mega Structure | The massive tower at the city's center. Its bottom layers consist of complex workshops and housing, its mid section is [[The Brass Hall]], and its top floors are home to the nobility. However the tower does not only extend upwards, it descends deep underground as well containing the Train Station, Dungeon, warehouses and many strange mysteries. Some claim tunnels extend from it heading all about the city, and that it even reaches [[The Underdark]]. |
 | [[The Brass Hall]] | College | An institution of craftsmanship, and advanced arcane pursuits. This school focuses on Artificary, Discovery, and the advanced practice of [[Arcana]]. Part of the [[Arcanum]] under the umbrella of [[The University]]. Headed by [[Grandmaster Whiles Gennador]] |
 | North Bowl | Industrial District | The region of inner city dedicated to the production of goods. |
 | Forlorn Market | Market | A market district of general goods, filled with clouds of harmless steam that blow over from The North Bowl |
 | Brass Alley | Market | A twisting mess of pipe-lined streets. Filled with sellers of cheap goods, and rare gizmos only found in [[Ryze]] |
-| Viewmarket | Market | A market in the upper levels of [[Brass Seldor]]. Filled with the finest wares, and the best examples of craftsmanship in all of [[Laenwalde]] |
+| Viewmarket | Market | A market in the upper levels of [[Brass Taldora]]. Filled with the finest wares, and the best examples of craftsmanship in all of [[Laenwalde]] |
 | The Metal Splinter | Tavern | A huge tavern on the border of The North and South Bowls, popular with many factory workers |
 | De'mooneys | Tavern | A tavern adored by students |
-| The Velsiteken Brewery | Tavern | The finest alehouse in the city, located in the top layers of [[Brass Seldor]]. |
-| The Stackups | Dormitory | A tall building on the southeast corner of [[Brass Seldor]] used as student housing. Provides meal and bunk. |
+| The Velsiteken Brewery | Tavern | The finest alehouse in the city, located in the top layers of [[Brass Taldora]]. |
+| The Stackups | Dormitory | A tall building on the southeast corner of [[Brass Taldora]] used as student housing. Provides meal and bunk. |
 
 ## Authority
 Overseen by High Lady Wezmira Greem, [[Ryze]] is a considerably organized city with respect to its chaotic appearance. Infrastructure is well placed, work is available, and crime is dealt with in a passable manner. Lots of this is attributed to its majority population of [[Gnomes]]. The city employs a reasonably present guard, but it is difficult to patrol such a complicated streetway.
@@ -78,7 +78,7 @@ The city subscribes to the [[Laenwalde Laws]]
 In modern day, [[Ryze]] is simply the place where things are made.  Bottles, bandages, cannon balls, nails, pans, pipes, plates, string, tools, watches, wheels, and anything else you could name. This isn't to say these aren't also made elsewhere, merely there are many production lines in the city which create and ship-out these goods all over [[Zol]].
 
 ## Historical Importance
-[[Ryze]] was founded in [[Brass Seldor]], the structure left behind by [[The Circle of Ezer]]. A group of dangerous arcanists who were defeated by [[The Undari]]. Over time it became a bastion of creation, production, and education thanks to the hard work of its many citizens and ruling powers.
+[[Ryze]] was founded in [[Brass Taldora]], the structure left behind by [[The Circle of Ezer]]. A group of dangerous arcanists who were defeated by [[The Undari]]. Over time it became a bastion of creation, production, and education thanks to the hard work of its many citizens and ruling powers.
 
 It was also the city responsible for the creation of [[Heliodor]], the floating city in the sky. [[Heliodor]] was constructed over many years outside the limits of [[Ryze]]. Many-a worker would commute to the construction site day in and day out to put together one of the great marvels of modern [[Zol]].
 
