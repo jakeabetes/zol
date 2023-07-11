@@ -45,7 +45,7 @@ Most citizens are devout followers of the [[Church of Three Fires]]. The main ob
 | Slaves | Social Class | Those charged with significant crimes who are forced to work and serve in recompense. |
 | Church Followers | Religious Group | The people of the city who follow the [[Church of Three Fires]]. Most of which are fanatical. This group makes up 80% of the city's population |
 | Priests | Religious Group | Those in charge of maintaining the [[Church of Three Fires]]. There are various levels of authority within this group, but all are highly respected within the city. |
-| Non-Believers | Religious Group | Not truly an organized group, but a term used to group those who do not follow the church. These individuals are regularly harassed (and sometimes worse) by the members of the church. This group is likely larger than it appears as many people join the church merely by name as a social survival tactic. |
+| Non-Believers | Religious Group | Not an organized group, but a term used for those who do not follow the church. These individuals are regularly harassed (and sometimes worse) by the members of the church. This group is likely larger than it appears as many people join the church merely by name as a social survival tactic. |
 | The Cathedral's Shadow | Criminal | A criminal underground that was spawned from the need of [[Arcana]] and [[Viridescence]] in a city where it is largely illegal. It has grown from a small operation of spells and incantations to a widespread and very secretive criminal underbelly. |
 | Permitted Will Manipulators | Misc. | A small group of magic users that have been approved and employed by the church to perform [[Magic]] operations involving [[Arcana]] and [[Viridescence]] when needed by the city or church. |
 
@@ -74,3 +74,9 @@ The city subscribes to the [[Kapeshian Laws]] as well as enforcing its own laws.
 
 ## Modern Importance
 In modern day many view the city as slightly *disturbing* with its strong views. It does however remain prominent on the worlds stage as it is home to [[The Word of Fire]].
+
+## Historical Importance
+The city has always been seen as a devout extension of the [[Galliard Crown]], and is the hub of the kingdom's religious belief. It has also always been the home to [[The Word of Fire]].
+
+## Other Things of Note
+- [[Apparatum]] are allowed in the city only under express permission from the church. This usually manifest as infrastructure, [[Warforged]], defense, and [[Automail]]. However, the nobility are not held to this rule with the same strictness as most. 

@@ -1,14 +1,13 @@
 ---
 title: "Viscera"
 ---*The city that never sleeps*
-![[Viscera Skyline 1.png]]
+![[Viscera Skyline 3.png]]
+
 Located on the border of the dangerous and magical Witchlands, tucked into the foothills of [[Demodemacht]], and built on the shore of The Purelakes. [[Viscera]] has a reputation for being an exceptionally strange city, especially when it comes to its nobility and night life.
 
 ![[viscera.png]]
 
 During the day, the city is relatively quaint and quiet. Common folk work the farms and business bumbles away normally. This all fades away to strange parties, distant hysterical laughter, and growls of monsters (if you believe the rumors). Some say that it is urban legend, while others tell stories of curses from [[The Witchlands]] or that the veil between the [[Fell]] and [[Fey]] is thinner in [[Viscera]].
-
-![[Viscera Skyline 2.png]]
 
 ## Overview
 
@@ -67,5 +66,8 @@ The city subscribes to the [[Kapeshian Laws]].
 ## Modern Importance
 In modern day, [[Viscera]] is known to be a place worth visiting for  [[Kapesh]] nobility. Its balls and parties are very extravagant. A small portion of nobles who visit the city decide they want to live there permanently. An even smaller portion disappear entirely.
 
+## Historical Importance
+[[Viscera]] was one of the cities hit the hardest by the [[Beast Ire]] plague.
+
 ## Other Things of Note
-- Many people go missing within the city, mainly slaves and beggars.
+- Many people go missing within the city, mainly travellers, slaves and beggars.

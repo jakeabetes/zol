@@ -28,6 +28,7 @@ At the cities eastern edge lies [[The Grand Nothing]], and [[Gilligan's Lift]] w
 | Majority Religion(s) | Zolaen-Centric |
 
 ## Major Features
+
 | Feature | Description |
 |-|-|
 | Distinguishing Features | Built on the literal edge of the cliffs, thousands of feet above [[The Grand Nothing]]. The City economy is built around the export of [[Rift Iron]] which is mined from crevasses in the city's center |
@@ -37,15 +38,17 @@ At the cities eastern edge lies [[The Grand Nothing]], and [[Gilligan's Lift]] w
 | Defenses | High defensible walls, Eastern facing ballista set to take down airship attacks, and the Tenzentak Garrison (provided by [[The Bladehammer Guild]]) equipped with mediocre rift iron gear that provides an above average level of defense. |
 
 ## People Groups
+
 | Group | Type | Description |
 |-|-|-|
 | Nobleborn | Social Class | The nobility of the city are those highly associated with trade, government, and passage to [[The Grand Nothing]] |
 | Midborn | Social Class | Those who have run-of-the-mill jobs. Living in the lower city and in its [[Gate Town]]. |
 | Lowborn | Social Class | Those who live in the slums of the rifts. The sick, addicted, uneducated, or just plain unlucky. Working poor paying jobs related to the mines, or begging for scraps. Many Lowborn suffer from afflictions caused by [[Rift Smog]] |
 | [[The Bladehammer Guild]] | Guild | A massive guild that controls [[Gilligan's Lift]]. The Guild operates all over eastern [[Zol]]. It is made up of many subgroups, all with unique goals that support overarching dream of the whole guild: 'Create a better [[Zol]]' |
-| The Unhealed Dagger | Criminal | The overarching term for the diverse criminal nexus that operates in the depth of the city's rifts. There is no sole leading party, the name merely sums up the group as a whole. |
+| The Unhealed Dagger | Criminal | The overarching term for the diverse criminal nexus that operates in the depth of the city's rifts. It was once an organized crime syndicate, but no longer has a sole leading party, the name now merely sums up local criminals as a whole. |
 
 ## Goods and Services
+
  | Name | Type | Description |
  |-|-|-|
  | Riftkeep | Keep | The city's main keep |
@@ -55,7 +58,7 @@ At the cities eastern edge lies [[The Grand Nothing]], and [[Gilligan's Lift]] w
  | The View | Tavern | A large and popular tavern for the middle class located on the cliff's edge in Smogtown. Run by a soft-spoken Dwarf man called Kalb Rike. |
  | Immarum | Tavern | A high class drinking and dining establishment for the nobility. Located in the Rift-Top Square. |
  | The Pit | Tavern | Located in the depths of the central Rift, The Pit is has a reputation of being a strange bar filled with shady patrons. Known for its uneven floors caused by the regrowing [[Rift Iron]] veins in the stone below. Run by a one eyed Ogre called 'Runt'. |
- | The Sheathe-Anvil Tavern | Tavern | [[The Bladehammer Guild]]'s private tavern, reserved for guild members. Located within the guild campus. |
+ | The Sheathed Anvil Tavern | Tavern | [[The Bladehammer Guild]]'s private tavern, reserved for guild members. Located within the guild campus. |
  | [[The Bladehammer Guild]] | Guild | The largest operating guild in all of [[Zol]], headquartered in [[Tenzentak]]. The guild is a place for any gifted individual to find work, or for any in need to hire help. The Guild provides a vast number of services like mercenaries, craftsmen, academics, and healers. |
  | Tenzentak Station | Train Station | The city's connection to [[The Iron Tracks]]. Located at the cities furthest reaches along the Northroad. |
  | Tenzentak Convergence | Teleportation Circle | The city's primary teleportation circle, located in the Riftkeep |
