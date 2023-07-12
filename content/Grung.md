@@ -12,4 +12,4 @@ They are frog-like beings. Born a simple greyish color, each of them takes on a 
 | --- | --- |
 | Lifespan | 60-100 years |
 | Height | 3'-4'2" |
-| Significant Locations | None |
+| Significant Locations | Ilse of Jexies in [[The Archsea]] |

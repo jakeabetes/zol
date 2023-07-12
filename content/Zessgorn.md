@@ -22,6 +22,7 @@ Zessgorn is a beautiful costal city, it is known for its plethora of colorful ta
 
 
 ## Overview
+
 | Aspect | Description |
 |-|-|
 | Main Opportunity | While governed by the [[Alderian Seat]] on paper, the city follows ancient traditions regarding [[The Rings of Tarot]]. This makes for a city of with multiple people of high, competitive authority given by their possessed ring. People pay allegiance to these [[Tarot Ring Bearers]] in exchange for membership amongst their house. This includes benefits like social status, food, housing, protection, careers, and community. |
@@ -37,6 +38,7 @@ Zessgorn is a beautiful costal city, it is known for its plethora of colorful ta
 | Majority Religion(s) | Zolaen-Centric |
 
 ## Major Features
+
 | Feature | Description |
 |-|-|
 | Distinguishing Features | Costal, vibrant, and the city's [[Skytrack]] |
@@ -46,17 +48,19 @@ Zessgorn is a beautiful costal city, it is known for its plethora of colorful ta
 | Defenses | Large naval fleet, City garrison, House forces, [[Tarot Ring Bearers]] |
 
 ## People Groups
+
 | Group | Type | Description |
 |-|-|-|
-| House Empress | Tarot House | The house of the [[Alderian Seat]] (the bearer of The Empress Ring of Tarot). This house contains only nobility, conducts their business very formally and by the books. Joining this house is no mere task of simple payment. One must be invited. This house also contains The Ring of Judgement, who's bearer conducts the court of law. |
-| House Cups | Tarot House | The wealthiest and second largest house of [[Zessgorn]]. Headed by [[The Page of Cups]], this house contains people of all social classes. It is the most powerful of the houses and has a reputation for criminal operations. Many view this as the city's true governing power. |
-| House Temperance | Tarot House | The means of production. This house is headed by The bearer of The Temperance Ring of Tarot this house owns the city's dock and is largely made up of working class individuals. This house controls the cities exports. |
-| House Hermitage | Tarot House | The house of the common folk. This house was formed in opposition to the need to join a Tarot House to achieve protection. Led by the bearer of The Hermit Ring of Tarot, this house is made up of the common folk as the house's taxes are by far the smallest. It is a passive house compared to its peers, but largest in numbers. |
+| House Empress | Tarot House | The house of the [[Alderian Seat]] (the bearer of The Empress Ring of Tarot). This house contains only nobility, conducts their business very formally and by the books. Joining this house is no mere task of simple payment. One must be invited. This house also contains The Ring of Judgement, who's bearer conducts the court of law. Many argue it is the most powerful house in [[Zessgorn]] currently. This house is denoted by the [[Ferric Alphabet]] symbol for City. |
+| House Cups | Tarot House | The wealthiest and second largest house of [[Zessgorn]]. Headed by [[The Page of Cups]], this house contains people of all social classes. It is the most arguably the most powerful of the houses and has a reputation for criminal operations. Many view this as the city's true governing power. This house is denoted by the [[Ferric Alphabet]] symbol for Wine. |
+| House Temperance | Tarot House | The means of production. This house is headed by The bearer of The Temperance Ring of Tarot this house owns the city's dock and is largely made up of working class individuals. This house controls the cities exports. This house is denoted by the [[Ferric Alphabet]] symbol for Water. |
+| House Hermitage | Tarot House | The house of the common folk. This house was formed in opposition to the need to join a Tarot House to achieve protection. Led by the bearer of The Hermit Ring of Tarot, this house is made up of the common folk as the house's taxes are by far the smallest. It is a passive house compared to its peers, but largest in numbers. This house is denoted by the [[Ferric Alphabet]] symbol for Location. |
 | Herald Ring Bearers | Misc. | Individuals who posses one of the Herald Rings of [[The Rings of Tarot]]. These people are of the highest standing in [[Zessgorn]]. |
 | Empowering Ring Bearers | Misc. | Individuals who posses one of the Empowering Rings of [[The Rings of Tarot]]. These people are of high standing in [[Zessgorn]]. Most of which act as lieutenants for their respective houses, save for The Hermit who heads their own house. |
 | Lesser Ring Bearers | Misc. | A defunct group of individuals who possessed one of the Lesser Rings of [[The Rings of Tarot]]. These people were of common standing in [[Zessgorn]]. Originally intended to be pillars of community by usage of their ring, [[The Page of Cups]] now holds all known Lesser Rings. |
 
 ## Goods and Services
+
  | Name | Type | Description |
  |-|-|-|
  | The Tarotkeep | Keep | The city's keep and headquarters of House Empress |
@@ -94,10 +98,10 @@ In reality, the city is now know governed by its four houses:
 	- Contains rings:
 		- **Paige of Cups Ring** - [[Rali Trunsarr]], an elven woman appearing of middle age
 			- All known lesser rings
-		- **The Fool Ring** - Calanir Wanderer, a mischievous and slippery human man of extremely quick wit. He constantly gets himself into trouble while simultaneously manipulating all around him. Brother to Marcus Wanderer and seeming romantic partner of [[The Page of Cups]].
+		- **The Fool Ring** - Calanir Wanderer, a mischievous and slippery human man of extremely quick wit. He constantly gets himself into trouble while simultaneously manipulating all around him. Brother to Marcus Wanderer and seemingly the romantic partner of [[The Page of Cups]].
 		- **The Sun Ring** - A man who simply goes by the name of 'The Sun'. No one knows their origin. They are mute, and fiercely loyal to [[The Page of Cups]].
 
-### Laws
+## Laws
 The city subscribes to the [[Alderian Laws]].
 
 ## Modern Importance
@@ -110,8 +114,8 @@ During major historical events like [[The Dragon War]], the [[Beast Ire]] plague
 
 
 ## Other Things of Note
-- Being within the city, and being without house membership is known as being *Cupless*. Cupless individuals have a very difficult time finding places to stay,  shop, or eat. These individuals are also typically preyed upon by petty criminals.
+- Being within the city, and/or being without house membership is known as being *Cupless*. Cupless individuals have a very difficult time finding places to stay,  shop, or eat. These individuals are also typically preyed upon by petty criminals.
 - House membership is typically acquired by paying taxes to one of the houses, or giving some great gift or service to it.
 	- One can also purchase temporary membership if they are visiting the city.
 - The city's dock is also a hub of pirate trade, but is done covertly to avoid prosecution.
-	- Whole ships and their crew are all associated under the captain's cup
+	- Whole ships and their crew who trade here are all associated under the captain's cup. There is a small organization on [[The Isles of Al'Kehtal]] that coordinates this relationship.

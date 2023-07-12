@@ -72,7 +72,7 @@ The answers to the questions are still almost entirely a mystery, but there are 
 
 The most prominent **speculations** of [[The Grand Nothing]] and [[Old Zol]] are:
 - **There were only [[Humans]], [[Elves]], and [[Dwarves]] within the old world**, and the newer races were a product of [[The Undoing]]. This is speculated because no evidence of other races has been found. It has stemmed problematic beliefs such as [[Great Magic]], [[The Triumvirate]], [[Human Sovereigntists]] and things of the like.
-- **It is thought that the area of [[The Grand Nothing]] closest to [[The Three Corners]] was a very rural place**, and that **there may be a great lost city somewhere out in the shallow seas**.
+- **It is thought that the area of [[The Grand Nothing]] closest to [[The Three Corners]] was a very rural or possibly even remote place**. Anthropologists believe based on the nature of found ruins that **there may be a great lost city somewhere out in the shallow seas**, as the surviving locations would have likely required some form of nearby infrastructure to function long term. However this is just speculation.
 - **Old society may have had a very close relationship with the [[Gods]].** The ways in which they are mentioned in deciphered texts make it seem like they walked amongst the people of the old world.
 
 In modern day, the only people to exist within [[The Grand Nothing]] are those who ventured there. After [[The Undoing]], there were no sapient beings within the region, at least near [[The Three Corners]] that are known of.

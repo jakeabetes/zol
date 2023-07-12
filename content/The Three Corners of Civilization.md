@@ -17,22 +17,22 @@ A land bound by dangerous and impassible wilds, [[The Three Corners of Civilizat
 - [[The Kulpis Desert]] - The second corner
 - [[The Korus Arctic]] - The third corner
 - [[The Grand Nothing]] - The missing corner
-- [[The Witchlands]]
-- [[The Underdark]]
+- [[The Witchlands]] - The untamable wilderness
+- [[The Underdark]] - The depths feared by mortal and god alike
 - Mountain Ranges
-	- [[The Auroran Summits]]
-	- [[The Kodoros]]
-	- [[The Blades]]
-	- [[The East Mounts]]
-	- [[The Peaks of Myth'ira]]
-	- [[Demodemacht]]
-	- [[Stormwall]]
-	- [[The Fetterpeak Mountains]]
+	- [[The Auroran Summits]] - The peaks which pierce the veil
+	- [[The Kodoros]] - The strange and twisted canyon
+	- [[The Blades]] - The border of life, death, and obscurity
+	- [[The East Mounts]] - The feared mountain of curses
+	- [[The Peaks of Myth'ira]] - The great dwarven mountains
+	- [[Demodemacht]] - The legendary peaks of the gods
+	- [[Stormwall]] - The great wind break of the north
+	- [[The Fetterpeak Mountains]] - The academic's mountains
 - Seas
-	- [[The Vast Sea]]
-	- [[The Archsea]]
-	- [[The North Sea]]
-	- [[The Narrow Sea]]
+	- [[The Vast Sea]] - The great and endless sea of the east
+	- [[The Archsea]] - The central sea of pirates and adventure
+	- [[The North Sea]] - The treacherous and icy sea of the north
+	- [[The Narrow Sea]] - The thin sea of warfare and shipwrecks
 
 
 *In the future, I plan to include more locations than just [[The Three Corners of Civilization]], but for now this is the sole known civilization in [[Zol]]*
