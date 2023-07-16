@@ -33,7 +33,7 @@ Major Deities are beings who are vastly more powerful than most other beings. Th
 A term similar to Minor Gods, the title *Small God* is given to beings who are seen as being at the pinnacle of mortal power, or the bare-minimum of godhood. Mostly this consists of beings like:
 - [[Wordbearers]]
 - Grand Insightors of [[The Kybis Assembly]]
-- [[The Page of Cups]]
+- [[The Paige of Cups]]
 - [[Draedon, the Ascended Wizard]]
 - [[King Galliard]] due to his influence over [[The Crown Titans]]
 - The [[Hags]]

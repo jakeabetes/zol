@@ -10,6 +10,7 @@ Deepspell, the Arcane City. Located in [[The Free Cities of Alderun]]. Deepspell
 [[Kerketh Academy]] is known for its ingenuity in the field of Artificing. Its [[Artificers]] are some of the best in the world. The city's close proximity to the campus has filled its homes and businesses with [[Apparatum]]. Varying from simple appliances that, to complex devices that revolutionize ones way of life. The only city comparable to its ingenuity is the far western city of [[Ryze]]. 
 
 ## Overview
+
 | Aspect | Description |
 |-|-|
 | Main Opportunity | Deepspell is located far within the [[The Fetterpeak Mountains]], and is full of those who seek the scholarly pursuit of [[Arcana]]. Most of which have a genuine adoration for the city. This makes for a city only a fool would invade. The Academy floods the city with a steady economy and [[Apparatum]] that revolutionize the city. Anyone who can prove themselves (and afford tuition) may learn the ways of magic here. |
@@ -25,6 +26,7 @@ Deepspell, the Arcane City. Located in [[The Free Cities of Alderun]]. Deepspell
 | Majority Religion(s) | Trinity-Centric, Polytheism |
 
 ## Major Features
+
 | Feature | Description |
 |-|-|
 | Distinguishing Features | Mountain location, large population compared to small size, [[Kerketh Academy]] |
@@ -34,6 +36,7 @@ Deepspell, the Arcane City. Located in [[The Free Cities of Alderun]]. Deepspell
 | Defenses | Surrounding mountains, High concentration of [[Caster]]s, city garrison |
 
 ## People Groups
+
 | Group | Type | Description |
 |-|-|-|
 | Cityfolk | Social Class | The common folk of the city with no academic merit. Varys from mid to low class |
@@ -44,6 +47,7 @@ Deepspell, the Arcane City. Located in [[The Free Cities of Alderun]]. Deepspell
 | The Discredited | Social Class/Criminal | Those who have been thrown out of the academy for malpractice, or violating some other rule. These individuals are avoided by those involved with the academy like the plague. However these indivduals are not bounded by rules like those of the academy. Some of these individuals provide secret criminal services. |
 
 ## Goods and Services
+
  | Name | Type | Description |
  |-|-|-|
  | Castle Illio | Keep | The city's main keep |

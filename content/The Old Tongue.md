@@ -13,7 +13,7 @@ Learning The Old Tongue in any capacity changes a person. From their emotions to
 
 Additionally, learning The Old Tongue does not come from books or lessons like other language. An individual must discover pieces of it on their own, almost like rediscovering forgotten memories. Great practice with one's [[Vizir]] is known to increase the likelihood of discovery, but it is truly found by great willpower, dedication, craft, study, acts of heroism, and even traumatic experiences on occasion. Every individual uses it in a manner unique to themselves.
 
-No one person knows the entirety of The Old Tongue, and it is thought by some to be boundless. It is only referred to as a language as many [[Speakers]] have described it as such. Due to its nature it is very hard to record. Some [[Speakers]] have tried to make records, and collections of it, but they are kept very secretively. A runic language called [[Ralldung]] was developed for this purpose. 
+No one person knows the entirety of The Old Tongue, and it is thought by some to be boundless. It is only referred to as a language as many [[Speakers]] have described it as such. Due to its nature it is very hard to record. However, [[Speakers]] have discovered a written version of [[The Old Tongue]], and have been able to use it in [[Imbuement Perpetuum]]. The runes and diagrams associated with [[The Oldshards]] are called [[Iszertion]], and it is a well kept secret. Even if one was to find it, if the[[The Old Tongue]], the harbor no chance at making sense of [[Iszertion]].
 
 Many also do not wish to share their secrets, as the power takes much to wield, and could do wrong in unprepared hands. Others merely do not want the unworthy to benefit from their hard work.
 

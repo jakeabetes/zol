@@ -66,6 +66,7 @@ These groups are not distinct from one another, there are citizens who exist all
 | Beastfolk | Economic Group | Traders who live in [[The Witchlands]] and venture down into the city to trade. They bear unique and rare goods, but have an almost alien air to them compared to common folk. |
 
 ## Goods and Services
+
  | Name | Type | Description |
  |-|-|-|
  | The Fortress | Keep | The city's main keep. Does not act as a home for the city's leadership, merely a place of meeting. |

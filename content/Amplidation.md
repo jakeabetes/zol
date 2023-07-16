@@ -4,7 +4,7 @@ title: "Amplidation"
 
 [[Amplidation]] is quite difficult as it requires the user to not only create new physical properties, but lessen or completely sever their targets connection to the physical properties of [[Zol]]. The latter takes an extremely high degree of accuracy and training to perfect.
 
-Most commonly, Amplidation is used to manipulate gravitational [[energy]]. There are 4 different types of gravitational bindings using [[Sympathetic bonds]]. These are:
+Most commonly, Amplidation is used to manipulate gravitational [[Energy]]. There are 4 different types of gravitational bindings using [[Sympathetic bonds]]. These are:
 - Objective Ties
 	- Causing a target to have gravity towards another
 - Directional Ties

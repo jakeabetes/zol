@@ -14,6 +14,7 @@ The generosity stops at the city's breach. The city's [[Gate Town]], known as Th
 Holocene's east overlooks [[The Grand Nothing]], and houses the [[Pale Lift]] which is actively being constructed.
 
 ## Overview
+
 | Aspect | Description |
 |-|-|
 | Main Opportunity | The city has the longest standing economy in all of [[The Free Cities of Alderun]]. This has allowed for the creation of a beautiful city, rich with art and culture. All individuals who live within the city receive a universal income allowing them to undertake any career they choose. |
@@ -29,6 +30,7 @@ Holocene's east overlooks [[The Grand Nothing]], and houses the [[Pale Lift]] wh
 | Majority Religion(s) | Zolaen-Centric |
 
 ## Major Features
+
 | Feature | Description |
 |-|-|
 | Distinguishing Features | Cliffside, Hilltop, Massive Gate Town |
@@ -38,6 +40,7 @@ Holocene's east overlooks [[The Grand Nothing]], and houses the [[Pale Lift]] wh
 | Defenses | City garrison, sloped approach |
 
 ## People Groups
+
 | Group | Type | Description |
 |-|-|-|
 | High Nobility | Social Class | Those who control the city, and its finances. They are given this power and status due to political station or ownership of Chalkstone Mines |
@@ -47,6 +50,7 @@ Holocene's east overlooks [[The Grand Nothing]], and houses the [[Pale Lift]] wh
 | The Grey Council | Pseudo-Political Faction | A group run by well respected community members of the gate town. This group, while seen as illegitimate by [[The Free Cities of Alderun]], acts as a governing body for those who live outside the walls. Headed by Palona Greyfoot, a wise halfling woman. |
 
 ## Goods and Services
+
  | Name | Type | Description |
  |-|-|-|
  | The Pale Ward | Keep | The city's main keep and campus of beautiful buildings that house the high nobility. |

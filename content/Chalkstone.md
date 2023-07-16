@@ -1,0 +1,7 @@
+---
+title: "Chalkstone"
+---A unique white stone found only in a few places all over [[Zol]], most abundantly near [[Holocene]]. No one knows the geological process that creates it, however it is extremely useful. The stone itself is minorly magical. It is extremely hard, unless fully submerged in water for a few long moments. At which point it becomes very chalk-like and brittle. For the longest time it was revered in architecture and [[Alchemy]], but [[Artificers]] discovered its greatest use to date in the mid [[Second Age]].
+
+[[Chalkstone]] can be used to create [[Iron Light]] when it is used as a writing implement on iron slabs. This revolutionized the trade, and made production much easier, as inscribing iron is very difficult, and does not leave room for error. However [[Chalkstone]] [[Apparatum]] degrade quickly over a few years, and completely fail when submerged in water.
+
+[[Chalkstone]] is also strangely found in massive monoliths all over [[Zol]]. No one knows how they got there, but they are ancient, and some believe they predate [[The Undoing]]. Some have been harvested for their valuable material, but they can still be found on old trails, or deep in the woods. Many believe they are good luck. Sometimes there is only a single monolith, other times there are many. Each one has a unique shape. There are usually deposits of [[Chalkstone]] underground where monoliths can be found.

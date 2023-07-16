@@ -14,6 +14,7 @@ What would appear as a quaint, busybody town to an outsider, is known as a devio
 Rails is also one of the few cities that have [[The Iron Tracks]] running directly through the cities center.
 
 ## Overview
+
 | Aspect | Description |
 |-|-|
 | Main Opportunity | An extremely industrial city with a the utmost appreciation for craftsmanship. Its economy, made up from guilds of merchants and laborers, thrives due to [[Zol]]'s dependence upon [[The Iron Tracks]]. Most production and maintenance of [[Trains]] in [[Zol]] occurs in [[Rails]]. |
@@ -74,7 +75,7 @@ Rails is also one of the few cities that have [[The Iron Tracks]] running direct
  | The Yard | Misc. | Located in central Trackmaker Lot, The Yard is the hub of train manufacturing and repair. |
 
 ## Authority
-The city is overseen by the [[Alderian Seat]] Grand Artificer Janeesa Query. She, her nobility, and her garrison keep a general appearance of order to the city, despite the heavy mob presence. This is because the mobs themselves hold each other at knifepoint. 
+The city is overseen by the [[Alderian Seat]] Grand Artificer Janeesa Query. A tall and proud human woman, fairly young for an [[Alderian Seat]]. She, her nobility, and her garrison keep a general appearance of order to the city, despite the heavy mob presence. This is because the mobs themselves hold each other at knifepoint. 
 
 Soon after the origin of [[The Iron Tracks]], crime surged in the city. This continued for a few decades of chaos as profitability of [[The Iron Tracks]] grew. Eventually it reached a point where some criminal organizations that backed legitimate trade were able to become wealthy. Enough so that they were able to dig in with a sense of permanency and order.
 

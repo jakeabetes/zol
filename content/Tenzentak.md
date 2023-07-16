@@ -66,7 +66,7 @@ At the cities eastern edge lies [[The Grand Nothing]], and [[Gilligan's Lift]] w
  | [[Gilligan's Lift]] | Misc | A wonderous feat of engineering. Gilligan's Lift is a giant elevator-like contraption that brings personnel, resources, and equipment from the city down to the surface of [[The Grand Nothing]]. Its operation is overseen by [[The Bladehammer Guild]].|
 
 ## Authority
-The city is led by Lady Helseena Trodak, the [[Alderian Seat]] of [[Tenzentak]]. Her rule (in her own words) is one of 'balance'. [[Tenzentak]] faces unique challenges being the hub of outreach into [[The Grand Nothing]]. 
+The city is led by Lady Helseena Trodak, the [[Alderian Seat]] of [[Tenzentak]]. Lady Trodak is a headstrong Dwarf of her later years. Her rule (in her own words) is one of 'balance'. [[Tenzentak]] faces unique challenges being the hub of outreach into [[The Grand Nothing]]. 
 
 Lady Trodak seeks to maintain the economy to support the efforts of those who venture out into [[The Grand Nothing]]. In doing so she requires the export of [[Rift Iron]]. Unfortunately the mining and refinement of the material is the source of many of the city's issues. 
 

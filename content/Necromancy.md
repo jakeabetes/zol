@@ -1,6 +1,6 @@
 ---
 title: "Necromancy"
----[[Necromancy]] is one of the [[Schools of Magic]]. It is magic that involves meddling with a living or dead creatures life-force. Its name, comes from '*necro*' the human word for death. This name was associated with the school early-on as it wasn't discovered until later that healing magic, called *Amelioration*, gave off the same Informational [[energy]] as [[Necromancy]]. [[Necromancy]] stuck as the name as many scholars argued that even healing has to do with the recomposition of life force; however some who practice the older arts still call healing magic Amelioration. 
+---[[Necromancy]] is one of the [[Schools of Magic]]. It is magic that involves meddling with a living or dead creatures life-force. Its name, comes from '*necro*' the human word for death. This name was associated with the school early-on as it wasn't discovered until later that healing magic, called *Amelioration*, gave off the same Informational [[Energy]] as [[Necromancy]]. [[Necromancy]] stuck as the name as many scholars argued that even healing has to do with the recomposition of life force; however some who practice the older arts still call healing magic Amelioration. 
 
 It is considered to be the most controversial school as it possesses the power of healing wounds and disease, but can also extend ones life far beyond that of a normal mortal, or even bring the dead back to life. With [[Necromancy]], one can toy with the bond between soul, and vessel.
 

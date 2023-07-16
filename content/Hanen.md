@@ -32,7 +32,7 @@ Identifiable by its ivy covered, weathered and off-white stone walls. Hanen is a
 | Export | Agriculture, Mercenaries |
 | Size | Small |
 | Outer Villages| Some |
-| City Leader | Poe Abbarand |
+| City Leader | Lord Poe Abbarand |
 | Primary Language(s) | Common |
 | Majority Racial Group(s) | None |
 | Majority Religion(s) | Wanderer-Centric |
