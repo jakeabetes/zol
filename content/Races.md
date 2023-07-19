@@ -34,6 +34,7 @@ The races of [[Zol]] are:
 | [[Fairies]] | Extremely Rare | Unknown |
 | [[Aasimar]] | Extremely Rare | Unknown |
 | [[Lunite]] | Extremely Rare | Unknown |
+| [[Illithids]] | Extremely Rare | Alien |
 
 *Note that the rarity of races is with respect to normal society in in [[The Prime]], in terms of encountering strangers Common races would be something most people see on the daily, Uncommon would be a few times in a week or month, Rare would be every few months or a year. In the greater scales of Very Rare or Extremely Rare it would likely be once every few years, once in a life time, or one may never encounter them at all.*
 
