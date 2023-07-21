@@ -11,7 +11,7 @@ The land of the dead, and the punishment of [[Zol]]. [[Damnation]] is a subplane
 Damnation is home to [[Fiends]], and the souls of the dead. These beings exist in all over Damnation in many different environments, all ruled by [[Aldem, King of all Hells]].
 
 ## Apolyatum, The City of The Dead
-The resting place for souls not fit for punishment. It is the highest layer of [[Damnation]]. Manifesting as a vast city in colossal cavern. An ever present grey fog looms overheard. The fog sheds a faint yellow light when it nears the ground providing the only natural illumination in Apolyatum.
+The resting place for souls not fit for punishment. It is the highest layer of [[Damnation]]. Manifesting as a vast city in a colossal cavern. An ever present grey fog looms overheard. The fog sheds a faint yellow light when it nears the ground providing the only natural illumination in Apolyatum.
 
 ![[Apolyatum.png]]
 
