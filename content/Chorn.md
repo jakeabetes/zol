@@ -15,7 +15,7 @@ A massive yeti-like being with large rams horns. [[Chorn]] is often depicted wea
 [[Chorn]] is associated with:
 - [[The Korus Arctic]]
 - Time
-- [[Yeti]]
+- Yeti
 - Monastic Traditions
 - Nature
 	- There is much debate of this in theology. Some claim him to be a god of nature, others disagree. Scripture is unclear.

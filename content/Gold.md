@@ -1,3 +1,0 @@
----
-title: "Gold"
----See [[Currency]].

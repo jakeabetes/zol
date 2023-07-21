@@ -2,7 +2,7 @@
 title: "The Old Tongue"
 ---The Old Tongue evolved from its predecessor, [[The First Tongue]]. Similar to its parent, The Old Tongue is for lack of a better term, a language. Unlike modern language, The Old Tongue must be spoken with more than just words, and occasionally involves no words at all.
 
-As an example, the modern language of [[Common]] must be spoken with the correct pronunciation, grammar, inflection, cadence, et cetera. The Old Tongue must be spoken with great knowledge, emotion, will, artistry, movement, faith, and a mighty [[Vizir]]. There are words in The Old Tongue, but they are fathoms more complicated than a mere dialect.
+As an example, the modern language of Common must be spoken with the correct pronunciation, grammar, inflection, cadence, et cetera. The Old Tongue must be spoken with great knowledge, emotion, will, artistry, movement, faith, and a mighty [[Vizir]]. There are words in The Old Tongue, but they are fathoms more complicated than a mere dialect.
 
 The Old Tongue can be used to harness wonderous [[Magic]] via access to [[The Wills]]. Those who know even a small fragment of it are called [[Speakers]]. Access to this power is rare in [[Zol]], most people encounter only a single Speaker in their lives.
 

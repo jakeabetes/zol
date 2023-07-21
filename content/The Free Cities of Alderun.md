@@ -21,7 +21,7 @@ The regions diversity gives much opportunity to its people, but its monsters cau
 Geographical features vary from gorgeous coast lines, rolling hills, spanning rivers, large lakes, and the ever strange cliffs of [[The Grand Nothing]]. -Its climates vary from the tropical coasts near [[Zessgorn]] to the frigid stretch of the Dyed Forest.
 
 ## History
-During the [[First Age]], [[Human Sovereigntists]] claimed that the Off-Humans must live a life of servitude under the Human population. The [[Humans]] of Kapesh enforced themselves as 'higher beings' over the [[Off-Human]] races. The oppressed people were forced to undergo oppressions, slavery, and in some cases even dark experiments. These tests were intended to discover a way to restore the [[Great Magic]] of the humans by recombining the Off-Humans with their once hosts. The humans were understandably met with resistance.
+During the [[First Age]], human sovereigntists claimed that the Off-Humans must live a life of servitude under the Human population. The [[Humans]] of Kapesh enforced themselves as 'higher beings' over the [[Off-Human]] races. The oppressed people were forced to undergo oppressions, slavery, and in some cases even dark experiments. These tests were intended to discover a way to restore the [[Great Magic]] of the humans by recombining the Off-Humans with their once hosts. The humans were understandably met with resistance.
 
 Rebellions against the humans rose and fell. The true overturning of South Kapesh was not until [[Eirmond the Brave]] rose to glory. Eirmond was a stellar fighter, and a great leader to the Off-Human People.  A [[Half-Orc]] man, born in [[Ka'thoor]]. He won Alderun, city-by-city, a civil war that is now known as the [[Alderian Rebellion]].
 

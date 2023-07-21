@@ -15,8 +15,8 @@ Traversal through most of [[The Underdark]] is dangerous, cramped, confusing, an
 However there are some records and rumors about what lurks deep below [[Zol]], and some scholars claiming to have found portals to [[Damnation]] itself.
 
 Some of these pieces of information include:
-- A race of sapient fungus based beings called [[Myconids]] that have a small, humble society.
-- A race of massive furry monster-like people called the [[Oddians]], each with their own unique shape, size, coat pattern, and horns. While appearing fearsome they are actually quite friendly so the stories say.
+- A race of sapient fungus based beings called Myconids that have a small, humble society.
+- A race of massive furry monster-like people called the Oddians, each with their own unique shape, size, coat pattern, and horns. While appearing fearsome they are actually quite friendly so the stories say.
 - A city of Fire [[Giants]] built within a volcanic pool.
 - The ruins of some ancient city below [[The Ward]].
 - Massive sleeping beasts the size of whole city districts.

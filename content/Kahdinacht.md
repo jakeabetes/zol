@@ -66,7 +66,7 @@ Gardens, shops, restaurants and theaters line its stone brick streets. Many nobl
 | Conservatory's Convergence | Teleportation Circle | [[The Conservatory]]'s teleportation circle. |
 | Alsheram Square | Market | The city's grand market, full of fine shops and high quality general goods. Prices range here from extravagant to reasonable for the common folk. It is one of the largest market squares in all of [[Zol]] |
 | Boxingmark | Market | The city's outer market. For the less fortunate citizens. |
-| [[The Conservatory]] | College | The main campus of the [[Viridium]], a branch of [[The University]] focused on research of the natural world, and the Will of [[Viridescence]]. Here students called Rel'dir are taught by professors known as Se'kir. Here people can study medicine, biology, and magic given that they are inclined. Headed by [[High Se'kir Fjor Mizella]]. |
+| [[The Conservatory]] | College | The main campus of the [[Viridium]], a branch of [[The University]] focused on research of the natural world, and the Will of [[Viridescence]]. Here students called Rel'dir are taught by professors known as Se'kir. Here people can study medicine, biology, and magic given that they are inclined. Headed by High Se'kir Fjor Mizella. |
 | [[Zezan Bard College]] | Guild | A school of the arts located at the river's delta within the city. |
 | Hester Wine House | Winery | The city's finest winery |
 | The Pommellian | Restaurant | The city's finest dining establishment |

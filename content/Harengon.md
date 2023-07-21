@@ -1,0 +1,3 @@
+---
+title: "Harengon"
+---See [[Harengons]]

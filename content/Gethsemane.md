@@ -14,7 +14,7 @@ Traditions of art, craftsmanship, and magic that date all the way back to [[The 
 - [[Ep Drukar]]
 
 ## Wilderness and Climate
-[[Gethsemane]] is a lush and beautiful land. It's dominated largely by [[The Forest of Yan Nalora]]. A wood of massive trees, crystal streams, as well as strange and dangerous creatures. Tucked into the north are its two mountain cities. The peak city of [[Ep Drukar]], and the subterranean city of [[Mod Dranor]]. These cities are located in [[The Peaks of Myth'ira]], a grand and perilous range of mountains overlook the garden kingdom.
+[[Gethsemane]] is a lush and beautiful land. It's dominated largely by The Forest of Yan Nalora. A wood of massive trees, crystal streams, as well as strange and dangerous creatures. Tucked into the north are its two mountain cities. The peak city of [[Ep Drukar]], and the subterranean city of [[Mod Dranor]]. These cities are located in [[The Peaks of Myth'ira]], a grand and perilous range of mountains overlook the garden kingdom.
 
 A second subterranean city is located near central [[Gethsemane]]. [[Jerda'll]] is a kingdom of [[Drow]] built within the colossal caves that wind beneath the land called [[The Underdark]]. A mysterious natural world filled with underground lakes and rivers.
 
@@ -31,7 +31,7 @@ Across [[The Narrow Sea]], lies the kingdom of [[Kapesh]]. They would go on to b
 
 It wasn't until much later (the year 2811) that the [[Elves]] and [[Dwarves]] discovered that there was a whole city of [[Genasi]] located within the far west peaks of the mountains. This came as a surprise to all parties involved, but there was no major issues that arose as the [[Genasi]]'s lifestyle and demeanor was already very on par with the rest of the kingdom. The [[Genasi]] were determined to be [[Off-Human]] by the elves, a label problematic within the conflicts surrounding the [[Triumvirate Battles]]. However [[Gethsemane]] decided to let the city be as they had remained in the mountains for over two thousand years without ever causing even a quarter of a problem.
 
-In the late [[First Age]], [[Gethsemane]] and their ally [[Laenwalde]] faced a great deal of political infighting. When investigated, the source of this infighting seemed to stem from [[Changelings]] of [[The Glassius Reach]] masking as important members of their society. This sparked a conflict known as the [[Western War]] where [[Gethsemane]] and [[Laenwalde]] led a counter attack on The Reach. It amounted to one of The Reach's cities, [[Yorn et Gaul]], nearly being destroyed. The conflict stopped when a very powerful [[Wordbearer]] called [[Ehmalog, Word of Wrath]] entered the fray to the defense of [[The Glassius Reach]].
+In the late [[First Age]], [[Gethsemane]] and their ally [[Laenwalde]] faced a great deal of political infighting. When investigated, the source of this infighting seemed to stem from [[Changelings]] of [[The Glassius Reach]] masking as important members of their society. This sparked a conflict known as the [[Western War]] where [[Gethsemane]] and [[Laenwalde]] led a counter attack on The Reach. It amounted to one of The Reach's cities, [[Yorn et Gaul]], nearly being destroyed. The conflict stopped when a very powerful [[Wordbearer]] called Ehmalog, Word of Wrath entered the fray to the defense of [[The Glassius Reach]].
 
 Eventually in the early [[Second Age]] [[Kapesh]] and [[Gethsemane]] set aside their differences and formed the [[The Triumvirate]] Concord to end their fighting. [[Gethsemane]] was now focused on its new enemy to the North.
 

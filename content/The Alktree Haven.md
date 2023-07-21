@@ -15,7 +15,7 @@ It became a home for many, shared experiences amongst its residents drove them t
 ## Structure
 The haven has few rules and a very loose hierarchy.
 - ### Leadership
-	- Two individuals act as the head of the organization. [[Hal Draen]] a soft spoken, old and powerful druid (and member of The Coven), and the eccentric [[Poldan Rike]] a gifted sorcerer. These two are well respected by many-a-traveler.
+	- Two individuals act as the head of the organization. Hal Draen a soft spoken, old and powerful druid (and member of The Coven), and the eccentric Poldan Rike a gifted sorcerer. These two are well respected by many-a-traveler.
 - ### Size
 	- The haven itself does not have any formal membership, but at any given time there are typically a few hundred people on its grounds at any given time. There are however a few thousand who have considered it a home at some point in their life.
 - ### Rules

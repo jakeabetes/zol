@@ -24,7 +24,7 @@ Some brave [[Changelings]] venture out into the the other kingdoms as proud memb
 
 During the late [[First Age]], [[Laenwalde]] and [[Gethsemane]] faced a great deal of political infighting. Evidence of this pointed to the interference of [[Changelings]] masking as important members of western society. [[Laenwalde]] and [[Gethsemane]] began proffering threats towards [[The Glassius Reach]]. [[The Glassius Reach]] denied these claims. When the supposed sabotage did not stop, the nations declared a war that would grow to fame as the [[Western War]].
 
-Fought mostly in the treacherous Pits of Zeralis, this war increased in intensity over a relatively short period and eventually amounted in the destruction of [[Yorn et Gaul]] and the emergence of [[Ehmalog, Word of Wrath]]. A [[Wordbearer]] of unknown origin who protects [[The Glassius Reach]] with his life.
+Fought mostly in the treacherous Pits of Zeralis, this war increased in intensity over a relatively short period and eventually amounted in the destruction of [[Yorn et Gaul]] and the emergence of Ehmalog, Word of Wrath. A [[Wordbearer]] of unknown origin who protects [[The Glassius Reach]] with his life.
 
 One of the major results of this war was the loss of [[The Apex]], one of [[The Oldshards]]. An object so central to the culture of [[Changelings]] that it has caused irreparable damage to their religion and culture. One recent example of this is some [[Changelings]] born within the city of [[Yorn et Gaul]] do not have the ability to change their form.
 
@@ -50,7 +50,7 @@ Elected officials are seen as being 'owned' by the people of the city. The live 
 
 The [[Shardcallers]] of The reach are Yemodhan Surrite of [[Yorn et Gaul]] and Osieur Xetac of [[Corinth]].
 
-The Reach has a socialist approach to its economy, and uses its own denomination of crystalline [[Currency]] called a [[Glassmark]] which is divided into 4 types of coin:
+The Reach has a socialist approach to its economy, and uses its own denomination of crystalline currency called a Glassmark which is divided into 4 types of coin:
 - **Quartermark** - A small clear crystal cut into hexagons from quartz called, bearing similar value to a copper coin
 - **Halfmark** - A medium sized yellow crystal cut into pentagons from citrine, bearing similar value to a silver coin
 - **Nearmark** - A medium sized green crystal cut into squares from fluorite, bearing similar value to a gold coin

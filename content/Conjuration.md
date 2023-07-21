@@ -5,7 +5,7 @@ title: "Conjuration"
 Users of this type of magic are known to gift power to creatures they summon for their aid in daily life, transportation, and even battle. In most cases, creatures killed after being summoned through conjuration are returned to their previous location rather than dying. Evidence shows this to be some product of [[The Mortal Coil]], but scholars frequently debate this.
 
 ## Teleportation
-Teleportation is an extremely valuable skill to the society of [[Zol]]. It costs a great amount of [[Gold]] to hire a [[Caster]] for teleportation. Teleportation is the fastest method to move about [[Zol]], but it does pose a unique set of risks.
+Teleportation is an extremely valuable skill to the society of [[Zol]]. It costs a great amount of gold to hire a [[Caster]] for teleportation. Teleportation is the fastest method to move about [[Zol]], but it does pose a unique set of risks.
 
 Before [[The Iron Tracks]], teleportation was the only consistent and safe way to get from once city to another. Making it only accessible to the rich or powerful [[Caster]]s. Maximum teleportation distance is determined by skill, most who are capable of it can move themselves anywhere within [[The Three Corners of Civilization]]. 
 

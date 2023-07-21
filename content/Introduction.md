@@ -12,7 +12,7 @@ Regardless of which force caused it. [[The Undoing]] obliterated uncountable tra
 
 Some believe the final punishment of the humans was to have their [[Great Magic]] stripped from them, and fractured. From this revoked magic, the gods created a cast of new races to bear the burden of humanity's sin. These would known as the [[Off-Human]] Races.
 
-In their new home, the sapient world began to atone, rebuild, relearn what was lost. Ages passed for [[Zol]]. What was once a society of refugees now resembled a civilization, but with only a fraction of its former glory. In these times, only the strong and powerful had agency, as the [[Untamed Wilds of Zol]] were too dangerous for the common folk. Zol struggled against the natural forces day in and day out. This hardship lasted millennia, but it all changed when the first spark of [[Iron Light]] was struck.
+In their new home, the sapient world began to atone, rebuild, relearn what was lost. Ages passed for [[Zol]]. What was once a society of refugees now resembled a civilization, but with only a fraction of its former glory. In these times, only the strong and powerful had agency, as the untamed wilds of Zol were too dangerous for the common folk. Zol struggled against the natural forces day in and day out. This hardship lasted millennia, but it all changed when the first spark of [[Iron Light]] was struck.
 
 The powerful mage [[Maalvern]] devised a way for the common folk to capture and utilize the [[Magic]] of [[The Trinity]], without the need of great skill, or blessings. Complex diagrams and runes scratched onto the surface of iron slabs allowed for simple magical devices called [[Apparatum]] that changed Zol forever.
 

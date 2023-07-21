@@ -8,7 +8,7 @@ title: "The Watcher in The Door"
 The Watcher is seen as [[Zol]]'s founder, protector, and visionary by his followers. He guides [[Zol]] through chaos and suffering to a true and perfect paradise. Those who follow him and his will be reborn in the perfect world, and those who stray into sin will forgotten to time.
 
 ## Depiction
-The Watcher is depicted in 2 ways. The first and more simple is as an ordinary man. This may be of any age or creed. His skin is covered in scars from his battle with [[The Wretch]]. His sword, [[Voidbane]], is always present in some form.
+The Watcher is depicted in 2 ways. The first and more simple is as an ordinary man. This may be of any age or creed. His skin is covered in scars from his battle with [[The Wretch]]. His sword, Voidbane, is always present in some form.
 
 His second form is one of legend. Described as an endless sea of celestial light and power. Scripture tells of mortals who were blinded when they gazed upon this form in the flesh. Clergy who claimed to have seen this form in dreams or visions describe an experience of passion, awe, and fear beyond that of anything else.
 

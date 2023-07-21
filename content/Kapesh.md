@@ -38,7 +38,7 @@ Those who live out in the wilds are either sturdy bandits, or natives to [[The W
 Monsters and thieves make straying from the roads of [[Kapesh]] dangerous for all who cannot hold their own.
 
 ## Government, Economy, and Laws
-The Kingdom is ruled by the [[Galliard Crown]]. The [[Galliard Crown]] was brought to power when [[The Crown Titans]] were discovered. [[The Crown Titans]] are a strange, but powerful phenomena. They are a legion of 6 individuals who have been bestowed a power that allows them to assume a massive, and uniquely powerful forms. These powers are bestowed by a single individual called [[The Gallan]]. No one knows what gives [[The Gallan]] such power, but many attribute it to a divine source. It is understood that the powers that [[The Gallan]] posses are passed down through bloodlines. Only one Gallan exists at a time.
+The Kingdom is ruled by the [[Galliard Crown]]. The [[Galliard Crown]] was brought to power when [[The Crown Titans]] were discovered. [[The Crown Titans]] are a strange, but powerful phenomena. They are a legion of 5 individuals who have been bestowed a power that allows them to assume a massive, and uniquely powerful forms. These powers are bestowed by a single individual called The Crux. No one knows what gives The Crux such power, but many attribute it to a divine source. It is understood that the powers that The Crux posses are passed down through bloodlines. Only one Gallan exists at a time.
 
 The Galliard bloodline are the keepers of this power. When this was discovered, the Galliard bloodline was quickly married into noble families. Their power and cunning brought them to the status of the most powerful family in all of [[Kapesh]], and the rulers soon after.
 

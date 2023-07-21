@@ -91,11 +91,11 @@ The clashing of kingdoms stretched on for just over one hundred years, before th
 
 Once the dust settled it was realized that [[The Apex]], one of [[The Oldshards]], was destroyed (however some think that it was stolen). At this time, it was seeming like [[The Glassius Reach]] would soon be conquered. This changed when a [[Wordbearer]] of unknown origin entered the fray.
 
-[[Ehmalog, Word of Wrath]] came to the aid of [[The Glassius Reach]]. It is not known why he did this, nor where he came from. The [[Wordbearer]]'s capacity for killing was like no other. He single-handedly slaughtered the invaders armies in droves. Even [[Faraday, Word of Armaments]] could not defeat him.
+Ehmalog, Word of Wrath came to the aid of [[The Glassius Reach]]. It is not known why he did this, nor where he came from. The [[Wordbearer]]'s capacity for killing was like no other. He single-handedly slaughtered the invaders armies in droves. Even Faraday, Word of Armaments could not defeat him.
 
 The invaders armies were forced to withdraw. [[Yorn et Gaul]] was retaken by [[Changelings]]. However the city's wound, its loss of [[The Apex]], would never heal.
 
-Even to this day [[Ehmalog, Word of Wrath]], is said to stalk the mountain pass in a tract of land called the [[Wrath Wastes]]. He kills those he deems trespassers of [[The Glassius Reach]]. None know why he does this for the [[Changelings]], but without his aid they would have surely fallen.
+Even to this day Ehmalog, Word of Wrath, is said to stalk the mountain pass in a tract of land called the [[Wrath Wastes]]. He kills those he deems trespassers of [[The Glassius Reach]]. None know why he does this for the [[Changelings]], but without his aid they would have surely fallen.
 
 ## Other Things of Note
 - The city is the nearest of all to [[Holyfield]], and as a result has much folklore about it. This includes things like strange people called 'Nots' who come to the city and steal away children and bring them to [[Holyfield]]. Others think the place where spirits go until they are reborn. Regardless it is avoided by most.

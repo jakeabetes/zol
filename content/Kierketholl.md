@@ -86,3 +86,4 @@ Despite many of attacks during the [[Triumvirate Battles]], the city has held ag
 ## Other Things of Note
 - The Megastructures of the city were constructed by Grand Arcanist Nalia Xin, who specialized in Structural [[Transmutation]]. The same arcanist who created [[Riverbridge]]'s Great Bridges that span the [[The Narrow Sea]].
 - The relationships amongst the human and non human population within the city are tense, and not overshadowed by the strange cultures of the mega structures
+- Many people believe in a strange creature that lurks in the city's sewers call [[The Oodillid]]

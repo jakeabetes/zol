@@ -23,6 +23,6 @@ The rebels eventually retook [[Ka'thoor]], and all attention was turned on [[Ten
 ## The Founding of The Free Cities of Alderun
 After [[Tenzentak]] was taken by rebels, [[Kapesh]] attempted to retake [[Ka'thoor]] and [[Deepspell]], but were unsuccessful. The region was in a state of chaos, but had a hopeful air to it.
 
-Eirmond and representatives from the cities met in [[Rails]] to establish a new government. The [[Alderian Council]] was formed for this purpose. A group of representatives, one from each of the cities, to serve the purpose of maintaining each city, and upholding the laws and values. The region was renamed [[The Free Cities of Alderun]], Alderun meaning *hope* in [[Orcish]].
+Eirmond and representatives from the cities met in [[Rails]] to establish a new government. The [[Alderian Council]] was formed for this purpose. A group of representatives, one from each of the cities, to serve the purpose of maintaining each city, and upholding the laws and values. The region was renamed [[The Free Cities of Alderun]], Alderun meaning *hope* in Orcish.
 
 [[Kapesh]] did not recognize them as a kingdom for many years, but eventually caved to political and military pressures.

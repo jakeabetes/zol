@@ -8,7 +8,7 @@ To fall in line is to betray the beauty of chaos and the gifts of an uncertain f
 ## Depiction
 Consistently depicted as a being that looks similar to a Ratfolk, [[The Ratking]] is known for wearing grand robes that are gilded trinkets of unknown nature, as well as a golden crown referred to as the 'Esber Crown' in scripture.
 
-Additionally [[The Ratking]] is also said to have a powerful beast as a companion. An amphibian like being known as [[Inyinya Ibu]]. Its nature is not understood, but it is said to appear as a massive bullfrog.
+Additionally [[The Ratking]] is also said to have a powerful beast as a companion. An amphibian like being known as Inyinya Ibu. Its nature is not understood, but it is said to appear as a massive bullfrog.
 
 ## Moral
 Unrestraint is a difficult thing to perfect. When one thinks of an unrestrained person, they typically think of a volatile and damaging person. However with kindness, unrestraint can guide one to enlightenment, and strip away the burdens of society.
