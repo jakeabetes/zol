@@ -62,10 +62,10 @@ The city is ruled by [[King Tatelak II]] himself. Crown of [[Laenwalde]]. He is 
 
 The Golden Council are as follows:
 - **King's Advisor** - Kings Advisor Edmond Vaultry, A wise old elf man. A position that is only outranked by the king himself.
-- **Council of Arms** - [[Blade Lord Kive Bidell]], A proud human man of moderate age, and great tactical skill. Charged with maintaining all terrestrial military.
+- **Council of Arms** - [[Blade Lord Kive Bidell]], A proud human man of moderate age, and great tactical skill. Charged with maintaining all terrestrial military. Head of [[The First Bastion]].
 - **Council of Navy** - Lord Wilton Reeves, A young, but promising lord. Charged with maintaining all naval military.
-- **Council of Aeronaut** - Lady Gale Windstrom, an Aarakocran woman of many years of experience. Charged with maintaining all aeronautical military .
-- **Council of Coin** - High Lady Uraka Jirona, a halfling woman with a silver tongue and golden pockets. Responsible for maintaining the crown's coin. Also ruler of [[Kahdinacht]].
+- **Council of Aeronaut** - Lady Gale Windstrom, an Aarakocran woman of many years of experience. Charged with maintaining all aeronautical military.
+- **Council of Coin** - High Lady Uraka Jirona, a halfling woman with a silver tongue and deep pockets of her own. Responsible for maintaining the crown's coin. Also ruler of [[Kahdinacht]].
 - **Council of Arcana** - [[Grandmaster Whiles Gennador]], the famed Human Arcanist. An aged human man, and head of [[The Brass Hall]]. The most prestigious institution of the [[Arcanum]], a branch of [[The University]]. Brother to [[High Priest Tarsin Gennador]]. Charged with providing council in ongoings involving the arcane.
 - **Council of Viridescence** - [[High Se'kir Fjor Mizella]], a tabaxi woman of great wisdom. Head of [[The Conservatory]]. Charged with providing council in ongoings involving the viridescent. 
 - **Council of Observance** - [[High Priest Tarsin Gennador]], the head of the Zolaen Church within [[Laenwalde]]. An aged human man. Brother to [[Grandmaster Whiles Gennador]]. Charged with providing council ongoings involving the [[Gods]].

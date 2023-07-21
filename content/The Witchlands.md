@@ -23,7 +23,7 @@ The region is taken by naturalists, wildly beastfolk, bandits, outsiders, wizard
 - [[Stormwall]]
 	- **Mortal Valley** - A cursed place known to be inhabited by Death [[Witches]].
 - [[Demodemacht]]
-	- **[[Zorberg]]** - A tiny, out of place village tucked into the foothills of [[Demodemacht]]. This quaint town is kept safe by the [[Great Hearth Witch Luna Elzamore]]. It is home to the broken outcasts of society she has taken into her care.
+	- **[[Zorberg]]** - A tiny, out of place village tucked into the foothills of [[Demodemacht]]. This quaint town is kept safe by the Hearth Witch Luna Elzamore. It is home to the broken outcasts of society she has taken into her care.
 	- **The Caverns of Ghar Nalon** - A complex cave system that goes deep beneath [[Zol]].
 	- **Temple of the Moons** - A mysterious temple located within the peaks of [[Demodemacht]]. Inhabited by the eclectic Sex [[Witches]]. Strangely, even if you know the way to this temple, you can only arrive at dawn. Otherwise it is hidden to any who seek it.
 	- **Axidawn Valley** - The furthest north reaches of [[The Witchlands]]. Tucked into the mountains this valley is home to [[The Cult of the Mothers]]. It is said to be an absurd, and treacherous place.

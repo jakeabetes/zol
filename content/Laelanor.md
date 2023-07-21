@@ -61,15 +61,16 @@ The Maer has a small, but highly trained soldiers. They are known for their skil
 The city enforces its own laws.
 
 | Law | Severity | Description |
-|-|-|-|
-| Murder                              | High        | If one kills outside of self defense, or does not have governmental permission. It is a great criminal act                       |
-| Void Worship                        | High        | One cannot conduct worship of the [[Void Gods]]                                                                                  |
-| Detrimental [[Necromancy]]          | High        | Necromantic magic that does not heal is considered a great crime.                                                                |
-| Thievery                            | Medium/High | Theft, breaking and entering, forgery, fraud, etc. is punished in respect to the severity of the crime                           |
-| Assault                             | Medium/High | Harming another without due cause in any manner is punished in respect to the severity of the harm done                          |
+| --- | --- | --- |
+| Murder | High | If one kills outside of self defense, or does not have governmental permission. It is a great criminal act |
+| Void Worship | High | One cannot conduct worship of the [[Void Gods]] |
+| Detrimental [[Necromancy]] | High | Necromantic magic that does not heal is considered a great crime. |
+| [[Antidescence]] | High | The usage of [[Antidescence]] is a great crime to the people of the city |
+| Thievery | Medium/High | Theft, breaking and entering, forgery, fraud, etc. is punished in respect to the severity of the crime |
+| Assault | Medium/High | Harming another without due cause in any manner is punished in respect to the severity of the harm done |
 | Organized Worship of Wandering Gods | Medium/High | Conducting worship of [[The Wandering Gods]] in an organized manner is not allowed. One many continue private prayer or worship. |
-| Intrusion                          | Medium      | A law that disallows outsiders that do not have express permission from the ruling powers of the city, unless they are exercising The Rite of Creszar.                                                                                         | 
-| Cognitive Enchantment               | Medium      | Manipulating another person's mind via [[Enchantment (School)]] without governmental permission is a crime                       |
+| Intrusion | Medium | A law that disallows outsiders that do not have express permission from the ruling powers of the city, unless they are exercising The Rite of Creszar. |
+| Cognitive Enchantment | Medium | Manipulating another person's mind via [[Enchantment (School)]] without governmental permission is a crime |
 
 ## Modern Importance
 In modern day, [[Laelanor]] is very isolated. Most interactions it has with the outside world are with travelling merchants, or those on a pilgrimage for healing, wisdom, or foreign treasures. It is quite difficult to navigate the dangerous forests surrounding the city, and it is almost required that one has a guide when travelling to [[Laelanor]].

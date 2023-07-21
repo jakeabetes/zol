@@ -43,10 +43,10 @@ Its industrious founding [[Gnomes]] created a vibrant community and became the m
 | Workers | Social Class | The vast majority. There is more work opportunities than people in the city, giving most people means to and end, assuming that they do not face some other struggle that prevents them from working. |
 | Rustheelers | Social Class | The beggar class of the city. Named after the rust stains on the cuff of their pants. These individuals are few in numbers compared to most cities due to the abundance of available labor. If one is a Rustheel, they likely suffer from disease, disability, addiction, or are not within their working years. |
 | Slaves | Social Class | Those charged with significant crimes who are forced to work and serve in recompense. |
-| Skillmasters | Academic Station/Career Level | Individuals who are at the highest skill level of their respective craft. These individuals lead workshop, run production lines, or teach trades at [[The Brass Hall]] |
+| Skillmasters | Academic Station/Career Level | Individuals who are at the highest skill level of their respective craft, usually associated with artificary. These individuals lead workshop, run production lines, or teach at [[The Brass Hall]] |
 | Apprentices | Academic Station/Career Level | Those who follow the teachings of Skillmasters. Either at a place of business, or within [[The Brass Hall]]. |
-| Professors | Academic Station | Those who give lectures and lessons not regarding craft at [[The Brass Hall]] |
-| Students | Academic Station | Students, not focused on craft who attend [[The Brass Hall]] |
+| Professors | Academic Station | Those who give lectures and lessons not regarding artificary at [[The Brass Hall]] |
+| Students | Academic Station | Students, they do not have to be focused on artificary in their attendance of [[The Brass Hall]] |
 | Criminals | Criminal | Those who lurk within the narrow places of [[Ryze]], conducting thievery, trade of contraband and other nefarious deeds. The state of criminal activity in modern day involves only moderate rivalry and infighting. Many claim it to be oddly civil for the most part. Most operations turn towards an individual called [[The Rust Queen]] as their crime lord. |
 
 ## Goods and Services

@@ -49,8 +49,8 @@ One part ruined, one part rebuilt, one part ramshackle slum. The city is fast pa
 | Slaves | Social Class | Those charged with significant crimes who are forced to work and serve in recompense. |
 | Criminals | Criminal | A massive criminal network exists within the city. Many gangs, alliances, and rivalries fill the alleys of the city with violence and thievery. The underbelly of [[Audran]] is a world of its own, and must be traversed carefully. Its structure is nearly as complex and ever changing as its noble courts. Some of its major players are: The Roving Gang, The Tiefling Mafia, The Unruly, The Nakaza, and many more. |
 | Inquisitors | Law Enforcement | A class of highly trained individuals from [[The First Bastion]], sent to bring order to the city. These high ranking members of the city guard aim to clean up the streets and eliminate crime. However they have been at it for quite some time with little net change. |
-| Students | Academic Station | Students who attend [[Charenbridge]], an academic institution of the [[Arcanum]], a branch of [[The University]]. These individuals are known to come from all backgrounds (usually low born) as [[Charenbridge]] admits all students and does not charge tuition. |
-| Professors | Academic Station | Staff who teach at [[Charenbridge]], an academic institution of the [[Arcanum]], a branch of [[The University]]. These individuals vary from practiced writers, to skilled and deadly [[Arcanists]]. |
+| Students | Academic Station | Students who attend [[Jhenbridge]], an academic institution of the [[Arcanum]], a branch of [[The University]]. These individuals are known to come from all backgrounds (usually low born) as [[Jhenbridge]] admits all students and does not charge tuition. |
+| Professors | Academic Station | Staff who teach at [[Jhenbridge]], an academic institution of the [[Arcanum]], a branch of [[The University]]. These individuals vary from practiced writers, to skilled and deadly [[Arcanists]]. |
 
 ## Goods and Services
 
@@ -60,7 +60,7 @@ One part ruined, one part rebuilt, one part ramshackle slum. The city is fast pa
 | Audran Station | Train Station | The city's train station |
 | Audran Convergence | Teleportation Circle | The city's main teleportation circle. Located within the keep. |
 | Upper District | Inner-walled District | An inner walled section of the city that has been entirely restored. Home to the highest degree of nobility, shops, and taverns. |
-| [[Charenbridge]] | College | An academic institution of [[The University]] that exists as the most well-known manifestation of the [[Arcanum]]. At this institution, anyone can obtain an education at no cost. However if they wish to have a long and fruitful academic career, they must perform well in their classes, and commit many hours of work to [[The University]]. Located in Charside, a district of the city nicknamed after the college. |
+| [[Jhenbridge]] | College | An academic institution of [[The University]] that exists as the most well-known manifestation of the [[Arcanum]]. At this institution, anyone can obtain an education at no cost for their first year. However if they wish to have a long and fruitful academic career, they must perform well in their classes, and commit many hours of work to [[The University]]. Located in Charside. |
 | Pulp Markets | Market | A market frequented by students |
 | Port Squares | Market | The markets located closet to the lakeports |
 | Tent Alleys | Market | The many many markets located all over the city in narrow alleyways that sell things that would surprise even the [[Gods]]. |

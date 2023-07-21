@@ -7,7 +7,7 @@ title: "Penthe"
 
 ![[penthe.png]]
 
-A powerful [[Iron Light]] pump moves water up from the Se'dir River to the city's highest point, where it then flows back down through constructed canals and waterfalls all throughout the area. This infrastructure gives much utility to the population of the city and their day to day operations. Of these operations, the most notable is [[The First Bastion]], a wing of the [[Observum]] where warriors of [[Laenwalde]] are trained to defend their kingdom, and uphold the will of the [[Zolaen Gods]].
+A powerful pump constructed using [[Imbuement Perpetuum]] moves water up from the Se'dir River to the city's highest point, where it then flows back down through constructed canals and waterfalls all throughout the area. This infrastructure gives much utility to the population of the city and their day to day operations. Of these operations, the most notable is [[The First Bastion]], a wing of the [[Observum]] where warriors of [[Laenwalde]] are trained to defend their kingdom, and uphold the will of the [[Zolaen Gods]].
 
 ## Overview
 
@@ -56,12 +56,12 @@ A powerful [[Iron Light]] pump moves water up from the Se'dir River to the city'
  | Penthe Station | Train Station | The city's train station |
  | Penthe Convergence | Teleportation Circle | The city's main teleportation circle, located on the grounds of Cliffkeep |
  | Bastion Convergence | Teleportation Circle | [[The First Bastion]]'s teleportation circle |
- | Highsquare | Market | The city's nicest market for the wealthiest individuals. Located next to Cliff keep at the city's highest peak upon its horn-shaped outcropping. It is also the location of the [[Iron Light]] pump which sends water flowing down all through out the city |
+ | Highsquare | Market | The city's nicest market for the wealthiest individuals. Located next to Cliff keep at the city's highest peak upon its horn-shaped outcropping. It is also the location of the pump which sends water flowing down all through out the city |
  | The Ivy Markets | Market | The city's more common markets. The various markets, divided by good sold are located within Ivy Gate |
  | Iyowne's Pressing | Tavern | A tavern frequented by the nobility of the city. Said to be located nearest to the visitation point of the angel [[Iyowne]] |
  | Khalborit's Alehouse | Tavern | An Alehouse popular with Devout commoners of the city. Located within Smokepole |
  | Cottonheath Inn | Tavern | A small and dingy inn, frequented by the shunned member's of the city's society. Music and conversation does not frequent this place like the other taverns of the city. Located at the rivers edge in Cottonheath. |
- | [[The First Bastion]] | Guild | A valiant structure of golden, swirling adornment detailing and white stone. Located at the center of Victory. |
+ | [[The First Bastion]] | Guild | A valiant structure of golden, swirling adornment detailing and white stone. Located at the center of Victory. A branch of The [[Observum]]. |
 
 ## Authority
 The city is under rule of High Lord Draezus Wolf and his council. The city is known for respecting the crown of [[Laenwalde]] so truly and honorably, there are rhymes and jokes written about it.
