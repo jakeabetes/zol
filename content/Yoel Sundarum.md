@@ -29,8 +29,8 @@ The under city of Cowl, known for its wild streets (although the district has no
 | Size | Medium |
 | Outer Villages| None |
 | City Leader | King Mandreg |
-| Primary Language(s) | Triton, Aarakocran, Common |
-| Majority Racial Group(s) | [[Triton]], [[Beastfolk]], [[Aarakocra]], Subaqueous Hand Signs |
+| Primary Language(s) | Triton, Aarakocran, Common, Subaqueous Hand Signs |
+| Majority Racial Group(s) | [[Triton]], [[Beastfolk]], [[Aarakocra]] |
 | Majority Religion(s) | None |
 
 ## Major Features

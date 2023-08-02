@@ -10,7 +10,7 @@ Spawned from [[Mechanicum Immaculatum]] during the early 4th millennium. Some sa
 
 [[Warforged]] who are created for the purpose of serving, do so willingly. The beings themselves do not seem opposed to their original purpose. However those who are not created for a purpose have been observed pursuing greater meaning. Some even 'liberate' other [[Warforged]]. This is done by subduing servile [[Warforged]] and making modifications to their [[Iron Light]] runes within. These 'liberated' [[Warforged]] also go on to pursue greater meaning.
 
-Occasionally, [[Warforged]] will go 'rouge'. This is caused by issues with or damage to their [[Iron Light]] configurations. Nine times out of ten, this results in violent outbursts, and thoughts of insanity for these [Warforged]. A rogue [[Warforged]] is an extremely dangerous thing.
+Occasionally, [[Warforged]] will go 'rouge'. This is caused by issues with or damage to their [[Iron Light]] configurations. Nine times out of ten, this results in violent outbursts, and thoughts of insanity for these [[Warforged]]. A rogue [[Warforged]] is an extremely dangerous thing.
 
 [[Warforged]] can be all shapes and sizes, perhaps in the most literal sense. In fact, the first [[Warforged]] was a highly complex writing utensil created during the discovery of [[Mechanicum Immaculatum]] at [[The University]]. They are constructed to best fulfil their purpose, but most have the ability to swap out non-integral parts such as arms and legs.
 

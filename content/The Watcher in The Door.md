@@ -3,6 +3,8 @@ title: "The Watcher in The Door"
 ---*Supreme Zolaen God of Light, Major Deity*
 ![[The Watcher in the Door.png]]
 
+*"Come light, come darkness and sky. Come stillness, come ocean and storm. I bind you by mind, soul and vessel. Come balance, come nature, and order. No longer shall you writhe. Come justice, come majesty and art. For the the door shall never be feared again. I am salvation, I am peace, I am The Watcher In the Door"*
+
 [[The Watcher in The Door]], also known as [[The Watcher]], is the being who spun [[Zol]] from the [[Sea of Monsters]] by speaking [[The First Tongue]]. He created the pantheon of [[Zolaen Gods]]. [[Zolaen Scripture]] says [[The Watcher]] was also the first being ever consumed by [[Goh'zul]], the being who's corpse became [[Zol]].
 
 The Watcher is seen as [[Zol]]'s founder, protector, and visionary by his followers. He guides [[Zol]] through chaos and suffering to a true and perfect paradise. Those who follow him and his will be reborn in the perfect world, and those who stray into sin will forgotten to time.
