@@ -3,7 +3,7 @@ title: "Zol"
 ---***Welcome to the world of [[Zol]], by Jacob Turner***
 ![[Titlecard.png]] 
 
-# Quick Links
+# Explore Zol
 - **[[Introduction]]** - *A synopsis of the world*
 - **[Regions](The%20Three%20Corners%20of%20Civilization.md)** - *The geographical locations within the world*
 - **[[Cities]]** - An index of all cities located within the world
