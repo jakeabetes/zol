@@ -25,11 +25,12 @@ In most civilized cities, there are common [[Apparatum]] that exist for use in b
 ## Advancements in Iron Light
 Iron light was originally limited to a small set of [[Ferric Alphabet]] runes, and slow production via iron engraving. Soon after the name was widely adopted, more symbols and compatible materials, and techniques were discovered.
 
-The mediums to support Iron light spread to carpentry, glass working, alchemy, leathercraft, weaving, painting, smiting, and various others. Each with their own pros and cons. However some materials like obsidian and silver are inert.
-
-The name, which references the purple light the runes emanate when active had already stuck. Fortunately, all techniques require some iron to be present to work. Be it metal inlay, infused materials, or special tools used in creation.
+The mediums to support Iron light spread to carpentry, glass working, alchemy, leathercraft, weaving, painting, smiting, and various others. Each with their own pros and cons. However some materials like obsidian and silver are inert. All mediums must be imbued with a great deal of pure iron to function. [[Apparatum]] created using materials other than pure iron are rare. All techniques require some iron to be present to work. Be it metal inlay, infused materials. Usually requiring special tools.
 
 A very popular and reliable technique was discovered for short term Iron Light solutions. A special material called [[Chalkstone]] was found to be very compatible with iron and allows for quick, and relatively accurate creation of [[Apparatum]] that last a small number of months. This is commonly used in novice work, prototyping, mass production, and education. Unfortunately devices made with chalkstone are easily destroyed by things like water damage, or other environmental hazards.
+
+## Oxidization
+Oxidization is a huge problem for [[Iron Light]]. Iron, when exposed to the elements, begins to rust. Oxidization occurs 33% faster when the iron bears even a single rune from the [[Ferric Alphabet]]. To combat this, regular maintenance is required. Many [[Artificers]] pay their bills by upkeeping the [[Apparatum]] of their customers. If rust is allowed to develop for too long, it will permanently damage the runes.
 
 ## Discovery
 The Arcanist [[Maalvern]] discovered [[Iron Light]] at the end of the [[First Age]]. He observed common patterns in the damage created by [[Magical Backfire]]. By intentionally increasing the damage of [[Magical Backfire]], he was able to spot runes amongst the damage.

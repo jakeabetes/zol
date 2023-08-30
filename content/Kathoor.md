@@ -44,7 +44,7 @@ These groups are not entirely distinct from one another, there are citizens who 
 | City Leader | Elder Err'del Raeshik |
 | Primary Language(s) | Orcish |
 | Majority Racial Group(s) | Orcs |
-| Majority Religion(s) | Zolaen-Centric, Wanderer-Centric |
+| Majority Religion(s) | Zolaen-Centric |
 
 ## Major Features
 

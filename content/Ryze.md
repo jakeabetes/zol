@@ -21,7 +21,7 @@ Its industrious founding [[Gnomes]] created a vibrant community and became the m
 | Size | Large |
 | Outer Villages| Many |
 | City Leader | High Lady Wezmira Greem |
-| Primary Language(s) | Gnomish, Common |
+| Primary Language(s) | Smallfolk, Common |
 | Majority Racial Group(s) | [[Gnomes]] |
 | Majority Religion(s) | Zolaen-Centric |
 

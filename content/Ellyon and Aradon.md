@@ -12,7 +12,7 @@ Millennia ago, these beings were thought to only concern themselves with the on 
 ## Depiction
 Ellyon is depicted as a giant elegant mermaid like being, who soars gracefully and sings beautiful, yet haunting songs.
 
-Aradon is a colossal whale like being whos flesh is marred by thousands of old scars.
+Aradon is a colossal whale or manta ray like being whos flesh is marred by thousands of old scars.
 
 Witness accounts tell of these beings swimming gracefully through the sea, or soaring weightlessly through the sky.
 

@@ -1,16 +1,14 @@
 ---
 title: "Ohlit"
 ---*Zolaen God of The Sea, Major Deity*
-![[Ohlit the great jelly.png]]
+![[Ohlit.png]]
 
 Ohlit, the great spirit of the sea. One of the most magnificent of the [[Zolaen Gods]]. Ohlit has domain over his creation, the most vast geographical feature of [[Zol]], the sea.
 
 Ohlit is the guardian of [[Zol]] in its war against the darkness that lurks in the fathoms deep below the oceans surface. Where [[Zol]]'s border gives way to [[The Void]].
 
 ## Depiction
-Ohlit appears as colossal sea creature of many forms. Most notably a jellyfish, whale, school of fish, or manta ray. Typically accompanied by a cast of creatures in the same, but smaller form as Ohlit.
-
-![[The Great Manta Ohlit.png]]
+Ohlit appears as colossal sea creature of many forms. Most notably a jellyfish, whale, school of fish, or manta ray. Typically accompanied by a cast of creatures in the same, but smaller form as he.
 
 ## Symbolism
 Denoted by a symbol of a manta ray with a sun on its back.

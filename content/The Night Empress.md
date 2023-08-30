@@ -1,12 +1,12 @@
 ---
 title: "The Night Empress"
 ---*Zolaen God of Night and The Moons, Major Deity*
-![[The Night Empress.png]]
+![[nightempress.png]]
 
 Known for their mystery and matronly nature, [[The Night Empress]] is the cryptic mother who sits amongst the [[Zolaen Gods]]. She has dominion over the strange world night creates, and those who pass through it.
 
 ## Depiction
-Depicted as a [[Drow]]-like woman of purple or blue skin with long flowing hair. She is usually typically drawn clothing, and the edges of her being do not appear well defined, almost vapor-like at her boundary. She appears as if she is super-imposed against the shadows of night.
+Depicted as a [[Drow]]-like woman of purple, dark-grey, or blue skin with long flowing hair. She is usually typically drawn clothing, and the edges of her being do not appear well defined, almost vapor-like at her boundary. She appears as if she is super-imposed against the shadows of night.
 
 Sometimes her presence is subtle, like a shifting shadow. Other times she is known to occupy the whole of the night sky.
 

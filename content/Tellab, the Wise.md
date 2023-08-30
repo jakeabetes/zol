@@ -1,12 +1,12 @@
 ---
 title: "Tellab, the Wise"
 ---*Zolaen God of Wisdom, Major Deity*
-![[Telab The Wise.png]]
+![[Tellab The Wise.png]]
 
-He who understands all and seeks for others to wield the same. Tellab, the Wise is a utilitarian god, who's mission is to give Zol the means to gain knowledge and wisdom on their own. He has domain over the knowledge of the world, and how it is grown.
+He who understands all and seeks for others to do the same. Tellab, the Wise is a utilitarian god, who's mission is to give Zol the means to gain knowledge and wisdom and knowledge on their own. He has domain over the knowledge of the world, and how it is grown.
 
 ## Depiction
-Tellab is depicted as an old humanoid man with flowing robes that dissipate into smoke. His face is blurred and relatively formless, save for a grey beard. While appearing with less grandeur than many of the other [[Zolaen Gods]],  his presence is still awe striking in its own quiet way.
+Tellab is depicted as an old humanoid man with flowing robes that dissipate into smoke. His face is often drawn as a kindly old man with a grey beard. While appearing with less grandeur than many of the other [[Zolaen Gods]],  his presence is still awe striking in its own quiet way.
 
 ## Symbolism
 Denoted by the symbol of an inkwell bearing a small sun-like rune.
