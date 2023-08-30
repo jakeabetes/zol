@@ -3,7 +3,7 @@ title: "Nerousea Station"
 ---*The Gateway to the Sky*
 ![[Nerousea Station Skyline.png]]
 
-The sister city to the floating capital of [[Heliodor]]. Geographically within [[Eucaren]], but considered under the jurisdiction of [[Heliodor]], Nerousea station was originally constructed with the express purpose of acting as a commerce and transportation hub for the capital. Being so centrally located and associated with the capital, it quickly grew into a small city in its own right. Many people view it as part of the capital itself, but it has its own distinct citizens and culture that make it a unique city.
+The sister city to the floating capital of [[Heliodor]]. Geographically within [[Eucaren]], but considered under the jurisdiction of [[Heliodor]], Nerousea station was originally constructed with the express purpose of acting as a commerce and transportation hub for the capital. Being so centrally located and associated with the capital, it quickly grew into a small city in its own right. However it is extremely young for a city, and faces many issues that Heliodor does not due to its privilege as a flying city. These issues manifest as bandits, monsters, and overpopulation. Many people view it as part of the capital itself, but it has its own distinct citizens and culture that make it a unique city.
 
 ![[heliodor - nerousea_station_.png]]
 
@@ -12,7 +12,7 @@ The sister city to the floating capital of [[Heliodor]]. Geographically within [
 | Aspect | Description |
 |-|-|
 | Main Opportunity | The city breathes in and out with the flow of the capital above. In the morning, workers flood out of the city to serve in [[Heliodor]], and return to their homes at days end. Resources and important individuals flow through the station like a river. The humble city has an atmosphere of importance despite its size. |
-| Main Challenge | The city lives in the shadow of [[Heliodor]]. Figuratively and literally. As much opportunity exists within [[Nerousea Station]], sometimes citizens can't help but feeling lowly in comparison to the capital above. The desires and consumption of the grand capital can have unfortunate biproducts for the city below.  |
+| Main Challenge | The city lives in the shadow of [[Heliodor]]. Figuratively and literally. As much opportunity exists within [[Nerousea Station]], sometimes citizens can't help but feeling lowly in comparison to the capital above. The desires and consumption of the grand capital can have unfortunate biproducts for the city below. Being an extremely young city, it is incapable of handling many of its problems with grace.  |
 | Climate | Temperate/Dry |
 | Cuisine | Farmed good, fish, breads, and pastries |
 | Export | None |

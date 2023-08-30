@@ -1,6 +1,6 @@
 ---
 title: "Zol"
----***Welcome to the world of [[Zol]], by Jacob Turner***
+---***Welcome to the world of [[Zol]], by Jacob AE Turner***
 ![[Titlecard.png]] 
 
 # Explore Zol
@@ -12,6 +12,7 @@ title: "Zol"
 - **[[Planes]]** - *The interconnected worlds within worlds*
 - **[[Races]]** - *The sapient beings of the world*
 - **[[Magic]]** - *The mechanics of the force that drives everything*
+- **[[Miscellaneous Topics]]** - *Useful information about the world* 
 
 *For more information about the creation of Zol, and rules about its usage, please read the [[Disclaimer]]*
 

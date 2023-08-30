@@ -7,7 +7,7 @@ title: "Elves"
 ![[High Elf.png]]
 
 ## Description
-[[High Elves]] are known for their tall, slender builds and naturally athletic physiology. They are resistant to many diseases and other afflictions. The world labels them as wise and skilled, but pretentious and lost in their old ways.
+[[High Elves]] are known for their tall, slender builds and naturally athletic physiology. They are resistant to many diseases and other afflictions. The world labels them as wise and skilled, but pretentious and lost in their old ways. Amongst elves, they are defined most notably by their pointed ears ended in a more rounded shape.
 
 | Trait | Info |
 | --- | --- |
@@ -20,7 +20,7 @@ title: "Elves"
 ![[Wood Elf.png]]
 
 ## Description
-Similar to [[High Elves]], wood elves are know for the characteristically larger ears, and nimble forms. They make up the smallest demographic of [[Elves]] and have a reputation of living very naturalistic lives, and partaking in druidic tradition.
+Similar to [[High Elves]], wood elves are know for the characteristically larger, pointed ears, and their nimble forms. They make up the smallest demographic of [[Elves]] and have a reputation of living very naturalistic lives, often partaking in druidic traditions.
 
 | Trait | Info |
 | --- | --- |
@@ -33,7 +33,7 @@ Similar to [[High Elves]], wood elves are know for the characteristically larger
 ![[Drow.png]]
 
 ## Description
-[[Drow]] differ slightly than other elves. They have skin that varies from light grey to deep black, and stark white hair. They are exceptionally adapted to living underground, and are quite sensitive to sunlight
+[[Drow]] differ slightly than other elves. They have skin that varies from light grey to deep black, and stark white hair. They are exceptionally adapted to living underground, and are quite sensitive to sunlight. They are also known for their affinity for singing, and their sacred songs known as [[The Acrylons]].
 
 | Trait | Info |
 | --- | --- |
@@ -44,4 +44,4 @@ Similar to [[High Elves]], wood elves are know for the characteristically larger
 ## Additional Info
 - To those who subscribe to the theory of [[The Triumvirate]], [[Elves]] are the embodiment of [[Viridescence]]
 - [[Drow]] exceptional at seeing in the dark, but this makes it difficult for them to see in sunlight. However [[Drow]] have secondary eyelids that can act as a light filter for their eyes. This gives them an appearance of having no pupils when their secondary lids are visible.
-- Different casts of elves cannot reproduce with one another due to genetic incompatibilities. It is not known why this is, but there are many philosophical, and religious beliefs that have branched from it.
+- Different casts of elves cannot reproduce with one another due to genetic incompatibilities. It is not known why this is, but there are many philosophical, and religious beliefs that have branched from it. In the early days after [[Zol]], some thought them to be different races entirely. However, the informational [[Energy]] given off by [[Elves]] confirms them to each be one third of a greater whole.

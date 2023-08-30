@@ -13,7 +13,7 @@ The city operated by relying on the rule of those who bore the Empress and Emper
 
 The Lesser Rings were scattered amongst the common population to ensure the people of the city would never be without their own agency to push back against the ruling powers if they ever abused their own rings.
 
-It was thought that [[The Paige of Cups]] ring had a simple power, it allowed an individual to [[Attenuation]] with an above average amount of magical objects. Most people's [[Vizir]] allows them attune to around 3, but the ring added capacity for one or two more.
+It was thought that [[The Paige of Cups]] ring had a simple power, it allowed an individual to [[Attunement]] with an above average amount of magical objects. Most people's [[Vizir]] allows them attune to around 3, but the ring added capacity for one or two more.
 
 This changed when [[Rali Trunsarr]] discovered that [[The Paige of Cups]] ring allowed her to attune to any number of the lesser rings, she enacted a plan to take the city for herself. She fought, stole, and bought all the lesser rings she could. This granted her strength, skill, luck, and magical powers. The lesser rings, while relatively unremarkable on their own compared to the Empowering rings, had a multiplicative effect. Rali's own personal power rose almost to that of a [[Wordbearer]].
 

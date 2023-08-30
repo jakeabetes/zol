@@ -13,13 +13,13 @@ The design and production of engines was given to the city of [[Rails]] due to i
 Droves of workers and garrisons had to perform long and drawn out missions to construct railways between cities. Monsters and beasts of the wilds would attack the workers daily. The only reason so many did the labor was the high wages for rail workers and security detail.
 
 ## Modern Function
-In the current day and age, the [[Trains]] are integral to society. Moving exports and passengers of all types. They move at such high velocity any creature or structure in their path is obliterated.
+In the current day and age, the [[Trains]] are integral to society. Moving exports and passengers of all types. The trains themselves are quite wide, with a typical car having the dimensions of 20ft by 80ft. They move at a high velocity any creature or structure in their path is typically obliterated.
 
-Running on the power of [[Nodes]] in a state of [[Space]], drawing them in at the nose of the train and converting them into motion. The operation of the complex [[Apparatum]] is performed by a conductor.
+Running on the power of [[Nodes]] in a state of [[Space]], drawing them in at the nose of the train and converting them into motion. The operation of the complex [[Apparatum]] is performed by a conductor. The [[Iron Light]] configurations used in most trains causes a reaction which makes the engine become extremely cold. If an engine gets too cold it can damage, and possibly ruin it. To combat this, trains use simple coal fire engines to keep the engines hot.
 
 There is a monetary cost for using the [[Trains]], either as a passenger or using them for transporting goods. In either case, there is a spectrum of services all at different costs. This allows for even the less fortunate to use [[The Iron Tracks]] if they are able to save for it.
 
-The [[Trains]] move hundreds of cars long night and day. In almost all cases the tracks run outside of a cities walls, stopping at a local station. Their incoming is felt as rumbling earth, and a distinct, low hum.
+The [[Trains]] move hundreds of cars long night and day. In almost all cases the tracks run outside of a cities walls, stopping at a local station. Their incoming is felt as rumbling earth, and a distinct humming sound.
 
 ## Notable Exceptions
 Some cities, or kingdoms do not use [[The Iron Tracks]]. Be it religious beliefs, geographical location, or cultural differences.

@@ -24,3 +24,6 @@ A rare phenomenon observed most commonly amongst mages in battle. This phenomeno
 When one 'burns' their [[Vizir]] they go into a sort of trance, and experience the sensation of extreme heat within their chest. Iron within the vicinity is pushed back upon slightly like a repelled magnet, and silver is pulled towards the 'burner'. Individuals near a 'burner' can actually feel the repelling sensation, this is likely because of the trace amounts of iron within most people bodies. The force emitted from this individual is typically only great enough to knock over a stack of coins.
 
 While most commonly observed amongst mages, there have been record of warriors emitting the same repelling force in battle.
+
+## Vizir and Lifespan
+It is not known why, but a stronger [[Vizir]] tends to extend ones lifespan naturally. This seems to vary on a case by case basis. Some powerful individuals have been known to live almost 3 to 5 times as long as expected.

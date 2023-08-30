@@ -18,7 +18,7 @@ Rails is also one of the few cities that have [[The Iron Tracks]] running direct
 | Aspect | Description |
 |-|-|
 | Main Opportunity | An extremely industrial city with a the utmost appreciation for craftsmanship. Its economy, made up from guilds of merchants and laborers, thrives due to [[Zol]]'s dependence upon [[The Iron Tracks]]. Most production and maintenance of [[Trains]] in [[Zol]] occurs in [[Rails]]. |
-| Main Challenge | The city's fast moving businesses are in constant competition with each other. Over the years this has spawned cutthroat competition between mobs that secretly run most of the city's commerce behind the scenes. Additionally, the constant coming and going of trains from all over [[Zol]] makes this city a smugglers paradise. |
+| Main Challenge | The city's fast moving businesses are in constant competition with each other. Over the years this has spawned cutthroat competition between mobs that secretly run most of the city's commerce behind the scenes. Additionally, the constant coming and going of trains from all over [[Zol]] makes this city a smugglers paradise. Many think of the city as a brilliant red hub of trade, but many of its corners have been saturated with crime, blackened by soot and smoke. |
 | Climate | Temperate |
 | Cuisine | Multicultural, Imported goods |
 | Export | Labor, [[Trains]]  |

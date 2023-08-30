@@ -46,7 +46,7 @@ Holocene's east overlooks [[The Grand Nothing]], and houses the [[Pale Lift]] wh
 | High Nobility | Social Class | Those who control the city, and its finances. They are given this power and status due to political station or ownership of Chalkstone Mines |
 | Wall-Walkers | Social Class | Those who live within the city full time. They may have been born into it, or brought into it because of some merit. The name was given by those who live in the Gate Town, forced to watch the nobility walk the high walls in the distance. |
 | Peasantry | Social Class | Those who live in the slums of the Gate Town. Many work lowly jobs as miners or farmers. These individuals drink the unfiltered water from the city's spring. Causing a slow development of [[Chalkstone]] addiction. The substance has no effect in small doses, but one faces extreme withdrawal without it. |
-| Orella Bard College | Guild | The artists and entertainers of the inner city. These individuals pay handsomely (or have a patron pay for them) to enroll here, and train to be great in their craft. |
+| [[Orella Bard College]] | Guild | The artists and entertainers of the inner city. These individuals pay handsomely (or have a patron pay for them) to enroll here, and train to be great in their craft. |
 | The Grey Council | Pseudo-Political Faction | A group run by well respected community members of the gate town. This group, while seen as illegitimate by [[The Free Cities of Alderun]], acts as a governing body for those who live outside the walls. Headed by Palona Greyfoot, a wise halfling woman. |
 
 ## Goods and Services

@@ -39,7 +39,7 @@ A term similar to Minor Gods, the title *Small God* is given to beings who are s
 - The [[Hags]]
 - Members of [[The Coven]] or [[The Cult of the Mothers]]
 
-However some philosophers who write about individuals like Lord Leonell Vanveld of [[Holocene]] as if they are a sort of Small God due to their extreme wealth, or other power they posses. In short, the term *Small God* is not a quantifiable level of influence. It is instead a descriptor used to illustrate the assumed level of one's power, and note the fact that they bear god-like influence. 
+However some philosophers who write about individuals like Lord Leonell Vanveld of [[Holocene]] as if they are a sort of Small God due to their extreme wealth, or other power they posses. In short, the term *Small God* is not a quantifiable level of influence. It is instead a descriptor used to illustrate the assumed level of one's power, and note the fact that they bear god-like influence. Sometimes referred to as *Empyreans*.
 
 ## Wordbearers
 Mortals who have achieved the ability to harness [[The First Tongue]] are known as [[Wordbearers]]. They are considered gods by some. It is not known how many [[Wordbearers]] there are, but the ones who are public play a large role in society.

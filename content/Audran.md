@@ -109,3 +109,6 @@ Originally only unorganized factions of bandits, forlorn, and nomads. As more pe
 It had been rebuilt to a degree. Fallen down sections of stone walls were rebuilt with lumber, rubble piles were stacked and reused as building material, and waterways were cleared of pollutants.
 
 Later research and divination revealed [[The Castle of Bodies]]' nature. The attack was deemed as a freak occurrence, and people began to call [[Audran]] home again. However it scars would never be forgotten and it was no longer the capital. [[Kahdinacht]] had taken its place as the defacto capital, and [[Heliodor]] would later be its successor.
+
+## Other Things of Note
+- It has the largest city population within [[The Three Corners]]

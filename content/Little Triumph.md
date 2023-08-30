@@ -14,7 +14,7 @@ They city was originally an outpost, called Triumph, placed for the purpose of e
 | Aspect | Description |
 |-|-|
 | Main Opportunity | None |
-| Main Challenge | Nature itself seems to hate this city, but despite its best attempts to wipe it off the map Little Triumph remains true. The people of the city are extremely racist and held in old human ways of thinking. It is joked that [[King Galliard]] constantly forgets that the city even exists. |
+| Main Challenge | Nature itself seems to hate this city, but despite its best attempts to wipe it off the map Little Triumph remains true. The people of the city are extremely bigoted and held in old human ways of thinking. It is joked that [[King Galliard]] forgets that the city even exists. |
 | Climate | Temperate/Continental |
 | Cuisine | Wild Game, Hearty foods |
 | Export | None |
@@ -66,3 +66,4 @@ The city subscribes to the [[Kapeshian Laws]].
 ## Other Things of Note
 - It is dangerous to go outside the city, especially at night
 - Non humans will face difficulty in the city, some are even turned away
+- It has the smallest city population within [[The Three Corners]]

@@ -6,5 +6,7 @@ Ideally, one wants to be within the walls if they fear the dangers of [[Zol]]. H
 
 A similar phenomenon to this is [[Outer Villages]], which are more a product of agriculture than [[Gate Town]]s are a product of other forms of commerce. Both are populated almost exclusively by lowly commoners, and are usually the first to feel the wrath of warfare when it finds a city. Additionally, since there is no physical barrier stopping bandits and monsters from entering, these communities often find themselves at the mercy of these dangers.
 
+Another related concept is [[Estates]] which are walled properties of land outside of the city, usually owned by the rich. These differ from [[Gate Towns]] and [[Outer Villages]] due to the fact they have many more defenses.
+
 
 
