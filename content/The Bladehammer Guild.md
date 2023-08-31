@@ -1,6 +1,8 @@
 ---
 title: "The Bladehammer Guild"
----Those who fight for a better [[Zol]]. [[The Bladehammer Guild]] is the largest guild in all [[The Three Corners]]. It is an organization recognized by every city, even [[The Glassius Reach]] knows their mission. Located on the very edge of [[The Grand Nothing]] in [[Tenzentak]]. 
+---*Fighting For and Forging Fair*
+
+Those who fight for a better [[Zol]]. [[The Bladehammer Guild]] is the largest guild in all [[The Three Corners]]. It is an organization recognized by every city, even [[The Glassius Reach]] knows their mission. Located on the very edge of [[The Grand Nothing]] in [[Tenzentak]]. 
 
 The guild is made up of a core organization, and many factions within. Individuals can join up with [[The Bladehammer Guild]], and become members of one, or many of its internal factions. Full members of [[The Bladehammer Guild]] receive a thin flat medallion with a unique magical signature. No one of the public knows how these are made, and the signature is very hard to falsify. The faces of the medallions look like hammered metal, and the edges are bordered like a coin.
 
@@ -23,7 +25,7 @@ The guild is a massive and complex organization. It is headed by Captain Helg Co
 - ### Rules
 	- Do not betray one's medallion.
 - ### Admission
-	- Joining [[The Bladehammer Guild]] is a difficult, but worthwhile task. Many high ranking members of the guild will carry orange tickets called guild passes with them. If they see someone in the world they think is worth of the guild, they can give them one of these tickets. A guild pass will take on from anywhere in [[The Three Corners]] to [[Tenzentak]] by way of [[The Iron Tracks]]. Once at [[The Bladehammer Guild]], these fresh faces can sign up for a job. These jobs act as a challenge, if the member of the guild they do the job for is happy with their performance, they are welcomed in as a permanent member. The factions within however each have their own rule about new members joining with them.
+	- Joining [[The Bladehammer Guild]] is a difficult, but worthwhile task. Many high ranking members of the guild will carry orange tickets called guild tickets with them. If they see someone in the world they think is worthy of the guild, they can give them one of these tickets. A guild ticket will take on from anywhere in [[The Three Corners]] to [[Tenzentak]] by way of [[The Iron Tracks]]. Once at [[The Bladehammer Guild]], these fresh faces can sign up for a job. These jobs act as a challenge, if the member of the guild they do the job for is happy with their performance, they are welcomed in as a permanent member. The factions within however each have their own rule about new members joining with them.
 - ### Symbolism
 	- A crossed sword and smith's hammer
 
