@@ -19,7 +19,7 @@ The guild is a massive and complex organization. It is headed by Captain Helg Co
 - ### Leadership
 	- Captain Helg Corsair, who is a well respected dwarven man with a scarred face. As well as his supporting council.
 - ### Size
-	- The Guild is around 8 thousand strong
+	- The Guild is around 4 thousand strong, but greatly distributed all across [[The Three Corners]].
 - ### Rules
 	- Do not betray one's medallion.
 - ### Admission
