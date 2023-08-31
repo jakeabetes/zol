@@ -34,7 +34,7 @@ title: "Cities"
 - [[Laenwalde]]
 	- Capital
 		- [[Holocene]]
-		- [[Nerousea Station]]
+		- [[Elysium Station]]
 	- [[Eucaren]]
 		- [[Kahdinacht]]
 		- [[Woogis]]

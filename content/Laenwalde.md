@@ -1,6 +1,6 @@
 ---
 title: "Laenwalde"
----![[Laenwalde.jpg]]
+---![[Laenwalde v3.jpg]]
 
 The Unified Kingdoms of the West. The largest political power in all of [[Zol]]. Laenwalde is a kingdom formed of the island of [[Arcadia]], the green hills of [[Eucaren]], and the flowing sands of [[Saen]]. These three regions are bound by code, trade, and military ties. However their citizens do not necessarily see their neighboring regions as *friends*. 
 
@@ -19,7 +19,7 @@ Laenwalde is comprised of the three unified Kingdoms
 	- [[Diddan]] - The Wild West
 	- [[Rockfire]] - The Volcanic Oasis
 
-As well as a shared capital, The Floating City of [[Heliodor]] and its terrestrial sister settlement, [[Nerousea Station]] which is located in Eucaren.
+As well as a shared capital, The Floating City of [[Heliodor]] and its terrestrial sister settlement, [[Elysium Station]] which is located in Eucaren.
 
 ## Wilderness and Climate
 Each of Laenwalde's three regions has its own natural landscape that differs from its neighbors
