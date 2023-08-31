@@ -31,6 +31,7 @@ The races of [[Zol]] are:
 | [[Grung]] | Very Rare | [[Off-Human]] |
 | [[Kenku]] | Extremely Rare | [[Speciatum Magica]] |
 | [[Plasmoid]] | Extremely Rare | [[Speciatum Magica]] |
+| [[Shades]] | Extremely Rare | [[Speciatum Magica]] |
 | [[Fairies]] | Extremely Rare | Unknown |
 | [[Aasimar]] | Extremely Rare | Unknown |
 | [[Lunite]] | Extremely Rare | Unknown |

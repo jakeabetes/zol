@@ -33,7 +33,9 @@ Some devices implement a modular signets so they can be configured to communicat
 Due to their need to be unique, many [[Artificers]] adopt a unique style to their signets, using them almost like a signature. Hence the name.
 
 ## Runic Common
-Runic Common is a cypher originally from [[The Ward]] and has been popularized by philosophers and artists. It creates a one-to-one relationship between the common alphabet and the [[Ferric Alphabet]]. It bears no magical significance and was largely developed for religion and arts. Many scholars have great distaste for it, but it bears a significance to many all across [[Zol]].
+Runic Common is a cypher originally from [[The Ward]] and has been popularized by philosophers and artists. It creates a one-to-one relationship between the common alphabet and the [[Ferric Alphabet]]. It bears no magical significance and was largely developed for religion and arts. Many scholars have great distaste for it, but it bears a cultural significance to many all across [[Zol]].
+
+![[Runic Common.png]]
 
 ## Relation to Iszertion
 Many have sought to form a connection between [[Iszertion]] and [[Iron Light]]. However there does not seem to be a correlation.
