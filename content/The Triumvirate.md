@@ -8,4 +8,4 @@ Much is inferred based on these 2 main facts. The information is also paired wit
 
 As punishment, their longevity (also referred to as [[Great Magic]] in this context) was taken from them. This lost power was fragmented into the [[Off-Human]] races. This theory charges many polarized beliefs in many cultures, and is to blame for many dark parts of history. Including slavery, unethical arcane practices, and wars like the [[Triumvirate Battles]] or the [[Alderian Rebellion]].
 
-There are many facts that contest this belief as well which include: longevity in Off-Human races, the fact that most of this is based on very little archeological information, and there being no modern racial difference in the proficiency of harnessing The Trinity's powers.
+There are many facts that contest this belief as well which include: longevity in Off-Human races, the fact that most of this is based on very little archeological information, the diverse difference of [[Language]] present after [[The Awakening]], and there being no modern true biological differences in the proficiency of harnessing The Trinity's powers when regarding the races en masse.

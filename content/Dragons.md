@@ -30,6 +30,8 @@ Spawned from the body of [[Zelatt]], [[Chromatic Dragons]] are the most common t
 - Black Dragons - Acidic [[Energy]]
 - Purple Dragons - Cognitive [[Energy]]
 
+[[Chromatic Dragons]] which are born directly from [[Zelatt]] are called Fractal Dragons. They are extremely powerful, and have unique powers.
+
 [[Chromatic Dragons]] are known for their hate towards [[Metallic Dragons]]
 
 ## Metallic Dragons

@@ -84,6 +84,9 @@ title: "Language"
 	- Seraphic
 		- The language that is spoken by the celestials of gods. Many celestials, who act as acolytes for different gods, all speak Seraphic. Because of this, some scholars suspect it something developed by gods for the purpose of communication between beings of this nature.
 
+## Inferences About Old Zol and Language
+Many people of [[Zol]] believe in the concept of [[The Triumvirate]]. However the diversity of [[Language]] which exists within [[Zol]] (which was catalogued during [[The Rebuilding]]) spans a wide range of dialects. Some think this is a product of [[The Undoing]], others believe they are artifacts of [[Old Zol]]. A few even believe that they were composed shortly after [[The Awakening]]. However, linguists believe this to be inaccurate. It is widely known that all people knew the language of Common, and it would not have been practical for them to devise new means of communication. If they did, it would have likely been rooted in Common. However no other language is rooted in Common as far as scholars can tell. 
+
 ## The First Tongue and The Old Tongue Viewed as Languages
 There is some confusion surrounding the nature of [[The First Tongue]] and [[The Old Tongue]] when compared to other language. Standard language carries the purpose of communication, while [[The First Tongue]] and [[The Old Tongue]] carry immense magical power. These magical "languages" are not forms of communication, but are rather understood as foundational pieces of reality.
 
