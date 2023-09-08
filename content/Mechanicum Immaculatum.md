@@ -13,3 +13,8 @@ These [[Warforged]] would then go on to damage other [[Warforged]], causing a ch
 Soon after slaves began to be replaced by the much more efficient mechanical counterpart. The name [[Warforged]] stuck even though they were longer just used for battle.
 
 No one knows exactly how [[Mechanicum Immaculatum]] works. The phenomenon poses an unending list of academic and philosophical questions [[Zol]] has yet to answer.
+
+## Limitations to Mechanicum Immaculatum
+Sapient beings created through [[Mechanicum Immaculatum]] can be made with physical or magical abilities, however there seems to be diminishing returns with the powers invested into them during their creation. It is very difficult to create a [[Warforged]] that is as powerful as a master of martial arts, or a well trained arcanist. However their power can increase after they gain a soul in the same way other living creatures can.
+
+Strangely, [[Apparatum]] created by [[Warforged]] cannot undergo [[Mechanicum Immaculatum]]. This means [[Warforged]] cannot reproduce on their own. It is not known why this is.

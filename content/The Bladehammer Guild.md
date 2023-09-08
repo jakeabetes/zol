@@ -17,15 +17,19 @@ The ideals of [[The Bladehammer Guild]] paint a picture of a unified [[Zol]]. Th
 Founded by the [[Alderian Council]]. Its name,  *Bladehammer*, comes from the ideal of rebuilding and reclaiming the world by hammer and steel.
 
 ## Structure
-The guild is a massive and complex organization. It is headed by Captain Helg Corsair, and his supporting council made up of the leaders of every sub faction, and other influential members of the guild.
+The guild is a massive and complex organization. It is headed by Captain Helg Corsair, and his supporting council made up of the leaders of every sub faction, and other influential members of the guild. Within the guild, all start as guild members. There are many ways to contribute as a guild member, such as: combat, academia, medicine, strategy, economics, trade, and craft. Those who prove themselves as high quality guild members are given a "marked" slate. An upgraded slate bearing the symbol of the guild. Members of this rank are called "Full Marked". Promising leaders of the guild become Guild Minds. Their slate is given a red band to show their rank.
+
+Full Marked Guild Members are allowed to recommend individuals for admission by way of guild ticket (See Admission). Guild Minds have the responsibility of dispatching guild resources on missions.
+
 - ### Leadership
-	- Captain Helg Corsair, who is a well respected dwarven man with a scarred face. As well as his supporting council.
+	- Captain Helg Corsair, who is a well respected dwarven man with a scarred face. As well as his supporting council of Guild Minds.
 - ### Size
 	- The Guild is around 4 thousand strong, but greatly distributed all across [[The Three Corners]].
 - ### Rules
 	- Do not betray one's medallion.
 - ### Admission
 	- Joining [[The Bladehammer Guild]] is a difficult, but worthwhile task. Many high ranking members of the guild will carry orange tickets called guild tickets with them. If they see someone in the world they think is worthy of the guild, they can give them one of these tickets. A guild ticket will take on from anywhere in [[The Three Corners]] to [[Tenzentak]] by way of [[The Iron Tracks]]. Once at [[The Bladehammer Guild]], these fresh faces can sign up for a job. These jobs act as a challenge, if the member of the guild they do the job for is happy with their performance, they are welcomed in as a permanent member. The factions within however each have their own rule about new members joining with them.
+	- Many new members will often find a mentor within the guild. This person helps them navigate the complex political landscape of the guild.
 - ### Symbolism
 	- A crossed sword and smith's hammer
 

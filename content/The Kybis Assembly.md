@@ -17,7 +17,7 @@ The School is not the largest of its kind, but it is known to be one of the most
 - ### Leadership
 	- The schools day to day is handled by Insightors, but it is said the true mission of [[The Kybis Assembly]] is decided by The Grand Insightors, if they even exist.
 - ### Size
-	- The school is around three to four thousand members, however not all of them are on the schools grounds at one time.
+	- The school is around one to tow thousand members, however not all of them are on the schools grounds at one time.
 - ### Rules
 	- The school is extremely strict, and it of the greatest importance that its members do not share its secrets with outsiders
 - ### Admission

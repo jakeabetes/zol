@@ -31,7 +31,7 @@ During the unification efforts of [[The Badlands]], these academics were instrum
 		- [[Viridium]] - High Se'kir Fjor Mizella, a tabaxi woman of great wisdom. Head of [[The Conservatory]].
 	- Within each of the schools, the organizational structure differs.
 - ### Size
-	- [[The University]] is massive. It is over ten thousand members strong.
+	- [[The University]] is massive. It is over eight thousand members strong across all its subsidiaries.
 - ### Rules
 	- There are many rules all throughout [[The University]], however they all circle back to one ideal: Knowledge should not be used to do harm.
 - ### Admission

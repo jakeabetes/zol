@@ -31,7 +31,7 @@ The large school follows the leadership of The Archmages, all who follow the lea
 		- [[Amplidation]]
 		- [[Collapsation]]
 - ### Size
-	- [[Kerketh Academy]] has about 5 thousand members, but not all remain on the campus. Many travel all about [[Zol]].
+	- [[Kerketh Academy]] has about 2 thousand members, but not all remain on the campus. Many travel all about [[Zol]].
 - ### Rules
 	- The main focus of the schools rules is to enforce a respect for the dangers of magic, and the reputation of the school
 - ### Admission
