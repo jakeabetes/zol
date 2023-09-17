@@ -13,7 +13,7 @@ Name | Domain
 [[The Lifeweaver]] | Nature
 [[Yanneran]] | Art, Wine
 [[Tellab, the Wise]] | Knowledge
-[[Giriam]] | Agriculture, Fertility
+[[Giriam]] (Deceased) | Agriculture, Fertility
 [[Ayamot]] | Justice
 [[Ohlit]] | Sea
 

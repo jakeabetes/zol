@@ -54,3 +54,4 @@ title: "Miscellaneous Topics"
 - Schools of Art
 	- [[Orella Bard College]]
 	- [[Zezan Bard College]]
+- [[Magical Metals]]

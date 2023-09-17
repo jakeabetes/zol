@@ -29,11 +29,12 @@ title: "Historical Timeline"
 	- The end of the [[Western War]] and the Emergence of [[The Word of Wrath]]
 	- The Attack of [[The Castle of Bodies]] on [[Audran]] - *ann. 3812*  - **Razing Event**
 	- The Construction of [[Gilligan's Lift]] - *ann. 3920*
-- Second Age - *ann. 3999 to 4349 (Present Day)*
+- Second Age - *ann. 3999 to 4466 (Present Day)*
 	- The Discovery of [[Iron Light]] - *ann. 3999*
 	- The Invention of [[Airships]] - *ann. 4011*
 	- The Discovery of [[Mechanicum Immaculatum]] and the Creation of [[Warforged]] - *ann. 4012*
 	- [[The Triumvirate]] Concord, putting an end to the [[Triumvirate Battles]] - *ann. 4092*
 	- The Construction and Completion of [[The Iron Tracks]] - *ann. 4211*
 	- The Construction and Inaugural Flight of [[Heliodor]] - *ann. 4299*
-- **Modern Day - Second Age - 4349**
+	- The Death of [[Giriam]] (Aka The Ahamatath) - *ann. 4460*
+- **Modern Day - Second Age - 4466**
