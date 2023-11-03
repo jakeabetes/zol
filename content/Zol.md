@@ -13,6 +13,7 @@ title: "Zol"
 - **[[Races]]** - *The sapient beings of the world*
 - **[[Magic]]** - *The mechanics of the force that drives everything*
 - **[[Miscellaneous Topics]]** - *Useful information about the world* 
+- [Turner's Guide to Turns](https://homebrewery.naturalcrit.com/share/Xao0zcbypZQV) - *A homebrew compendium of Dungeons and Dragons 5th Edition rules made to compliment this world*
 
 *For more information about the creation of Zol, and rules about its usage, please read the [[Disclaimer]]*
 
