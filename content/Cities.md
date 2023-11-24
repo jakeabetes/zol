@@ -34,7 +34,7 @@ title: "Cities"
 - [[Laenwalde]]
 	- Capital
 		- [[Holocene]]
-		- [[Elysium Station]]
+		- [[Elysium Station]] (geographically within [[Eucaren]])
 	- [[Eucaren]]
 		- [[Kahdinacht]]
 		- [[Woogis]]
@@ -47,7 +47,8 @@ title: "Cities"
 		- [[Kosskazoka]]
 		- [[Diddan]]
 		- [[Rockfire]]
-- Wild Cities
+- Wild Cities, not tied to any Kingdom
 	- [[Yoel Sundarum]]
 	- [[Abdjadan]]
 	- [[The Isles of Al'Kehtal]]
+	- The [[Keepships]]
