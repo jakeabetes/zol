@@ -4,9 +4,9 @@ title: "Dragons"
 
 ![[dragons.png]]
 
-[[Dragons]] are immensely complex and powerful creatures. They are few in number compared to the world's citizens, but posses both a power and culture unlike any other. There are many types of dragons, each with its own unique traits and dispositions. The presence of [[Dragons]] shaped [[Zol]] in its early days after [[The Awakening]], and their influence continues to this day.
+[[Dragons]] are immensely complex and powerful creatures. They are few in number, but posses both a power and culture unlike any other. There are many types of dragons, each with its own unique traits and dispositions. The presence of [[Dragons]] shaped [[Zol]] in its early days after [[The Awakening]], and their influence continues to this day.
 
-[[Dragons]] come in many shapes and sizes. Most commonly they are known for their large scaled bodies, giant wings, toothy maws, and magical influence. Most are known for their intelligence and capacity for speech. However not all dragons fit into this categorization. Some have strange physiology like massive turtle shells, smooth skin or serpent like bodies. Others do not posses the high intelligence or speech commonly associated with [[Dragons]]. 
+[[Dragons]] come in many shapes and sizes. Most commonly they are known for their large scaled bodies, giant wings, toothy maws, and magical influence. Most are known for their intelligence and capacity for speech. However, not all dragons fit into this categorization. Some have strange physiology like massive turtle shells, smooth skin or serpent like bodies. Others do not posses the high intelligence or speech commonly associated with [[Dragons]]. 
 
 Their species itself is actually made up of a wide range of many unique subspecies. Plenty have been categorized and documented, but there is still much to be learned about [[Dragons]]. Most fit into the species that academia has indexed, but others are referred to as Dracis Obscura, as they possess unique, poorly understood characteristics.
 

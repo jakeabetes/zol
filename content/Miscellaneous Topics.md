@@ -23,7 +23,7 @@ title: "Miscellaneous Topics"
 	- [[Imbuement Perpetuum]]
 - [[The Iron Tracks]] - The vast train system which spans [[The Three Corners]]
 - [[Airships]] - Vessels capable of flight
-- [[Skimmers]] - Magical vehicles which are only seen in some cultures
+- [[Skimmers]] - Magical vehicles which are only seen in some regions
 - [[Apparatum]] - Simple magical objects which revolutionized [[Zol]]
 - [[Caster]]s - Those who can use [[Magic]] through their [[Vizir]] in any capacity
 - [[Speakers]] - Those who can use [[Magic]] through [[The Old Tongue]]
