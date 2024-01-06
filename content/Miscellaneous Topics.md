@@ -55,3 +55,4 @@ title: "Miscellaneous Topics"
 	- [[Orella Bard College]]
 	- [[Zezan Bard College]]
 - [[Magical Metals]]
+- [[The Hatiat]] - One of the only long standing nomadic traditions within the three corners.
