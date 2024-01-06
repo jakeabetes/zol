@@ -31,7 +31,7 @@ The rings, and their intended hierarchy of leadership are as follows
 	- Wheel of Fortune, Ring of Tarot
 		- Grants great luck
 	- Justice, Ring of Tarot
-		- Grants the ability to track ones mark with great ease
+		- Grants the ability to track one's mark with great ease
 	- The Hanged Man, Ring of Tarot - Lost
 		- Grants flight
 	- Death, Ring of Tarot

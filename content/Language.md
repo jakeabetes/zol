@@ -65,8 +65,6 @@ title: "Language"
 		- The fast-spoken language of the [[Tabaxi]]. Many early tabaxi were nomadic, so the language is widely the same across [[The Three Corners]].
 	- Harengon
 		- The complicated language of the [[Harengon]]. Difficult to learn, but well loved by linguists for its complexity, and intelligent design.
-	- Tarot
-		- An old, uncommonly used language of [[The Tarot]] tradition.
 	- Genasi
 		- A language of complex, four sided, verbiage. Spoken only within [[Ep Drukar]]
 - Fringe Languages

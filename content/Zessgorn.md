@@ -7,11 +7,11 @@ Zessgorn, the City of Cups. Located in [[The Free Cities of Alderun]], and once 
 
 ![[zessgorn.png]]
 
-Zessgorn was founded by a nomadic people, called [[The Tarot]]. These people, made up of a diverse set of individuals, would travel all across Zol in different clans. They would put their faith in the concept of fate, drawing from sacred decks called [[Tarot Cards]]. Attempting to read the fates via these cards to determine the best path for their people. During [[The Awakening]], on a day that is now known as [[The Tarot Convergence]], all of these clans were led to the same spot on the same day by the cards. It was there they founded Zessgorn.
+Zessgorn's founding was largely influence by a mystic tradition called [[The Tarot]].  They would put their faith in the concept of fate, drawing from sacred decks called [[Tarot Cards]]. The leaders of cultural groups within [[Zessgorn]] were known for attempting to read the fates via these cards to determine the best path for their people. 
 
 ![[zessgorn 1.png]]
 
-A set of rings were forged to represent the card, [[The Rings of Tarot]]. The bearers of these rings were meant to act as leaders and protectors of Zessgorn, as avatars of the fates. In recent history they have become a scarce resource people will do dark things for.
+A set of rings were forged to represent the cards held within the Tarot Tradition, [[The Rings of Tarot]]. The bearers of these rings were meant to act as leaders and protectors of Zessgorn, as avatars of the fates. In recent history they have become a scarce resource people will do dark things for.
 
 Zessgorn is a beautiful costal city, it is known for its plethora of colorful tapestries that are strewn all about its city, gorgeous beaches, and [[Skytrack]] that carries passengers from the lower city to the keep.
 
@@ -107,14 +107,12 @@ The city subscribes to the [[Alderian Laws]].
 ## Modern Importance
 [[Zessgorn]] is known to be a problematic city when compared to the other free cities. This is because of the disorganized authority within the city. The [[Alderian Seat]]s of the kingdom constantly pressure Lord Esartes Hald to strike order within his city, as [[The Free Cities of Alderun]] depend on very specific political policies to maintain freedom and justice. [[Zessgorn]]'s reliance on rings damages this balance.
 
-The relatively new disorder within the city has sparked a movement amongst the modern descendants of [[The Tarot]]. This fringe group determined that their people have strayed too far from the past, and have returned to their ancient nomadic ways.
-
 ## Historical Importance
 During major historical events like [[The Dragon War]], the [[Beast Ire]] plague, and [[The Illithid Invasion]], Tarot power ring bearers fought as crucial warriors of eastern [[Zol]].
 
 
 ## Other Things of Note
-- Being within the city, and/or being without house membership is known as being *Cupless*. Cupless individuals have a very difficult time finding places to stay,  shop, or eat. These individuals are also typically preyed upon by petty criminals.
+- Being within the city, and/or being without house membership is known as being *Cupless*. Cupless individuals have a very difficult time finding places to stay, shop, or eat. These individuals are also typically preyed upon by petty criminals.
 - House membership is typically acquired by paying taxes to one of the houses, or giving some great gift or service to it.
 	- One can also purchase temporary membership if they are visiting the city.
 - The city's dock is also a hub of pirate trade, but is done covertly to avoid prosecution.

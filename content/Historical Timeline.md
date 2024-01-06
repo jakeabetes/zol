@@ -26,8 +26,8 @@ title: "Historical Timeline"
 	- The publishing of [[Zolaeum Notica]] - *ann. 3773*
 	- The [[Alderian Rebellion]] - *ann. 3811*
 	- The [[Western War]] and The Destruction of [[Yorn et Gaul]] - *ann. 3811*  - **Razing Event**
-	- The end of the [[Western War]] and the Emergence of [[The Word of Wrath]]
-	- The Attack of [[The Castle of Bodies]] on [[Audran]] - *ann. 3812*  - **Razing Event**
+	- The end of the [[Western War]] and the Emergence of [[The Word of Wrath]] - *ann. 3811*
+	- The Attack of [[The Castle of Bodies]] on [[Audran]] - *ann. 3814*  - **Razing Event**
 	- The Construction of [[Gilligan's Lift]] - *ann. 3920*
 - Second Age - *ann. 3999 to 4466 (Present Day)*
 	- The Discovery of [[Iron Light]] - *ann. 3999*
