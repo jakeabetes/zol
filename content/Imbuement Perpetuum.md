@@ -2,10 +2,10 @@
 title: "Imbuement Perpetuum"
 ---_[[Imbuement Perpetuum]] is the Human translation of 'Permanent Magic'_
 
-Imbuement Perpetuum is the counterpart of [[Iron Light]]. Magical feats accomplished without the usage of Iron light. They are more powerful, valuable, and harder to utilize. Their name comes from their elusive, mysterious and permanent nature.
+Imbuement Perpetuum is the counterpart of [[Iron Light]]. Magical feats accomplished without the usage of Iron light. They are more powerful, valuable, and harder to utilize. Their name comes from their elusive, mysterious and permanent nature. It is often simplified to "Imbuement" by the public.
 
 Encapsulating how any [[Imbuement Perpetuum]] is utilized is nearly impossible as there does not seem to be any sort of limit of methods. Some techniques are:
-- Magical Blacksmithing - A practice involving the use of magical metals and expert smithing to produce magical tools and weapons. This has a very wide cultural significance in the stories of [[Zol]], specifically amongst [[Dwarves]].
+- Magesmithing - A practice involving the use of magical metals and expert smithing to produce magical tools and weapons. This has a very wide cultural significance in the stories of [[Zol]], specifically amongst [[Dwarves]].
 - Grand [[Alchemy]] - A practice involving the use of rare substances combined in very specific ways to produce reality bending chemicals and materials
 - Meridian Craftsmanship - A practice similar to Magical Blacksmithing that spans a wider range of techniques. A craftsperson who utilizes great skills along with rare magical materials. This could be leather work, fletching, luthiery, or even sewing.
 - Grand [[Arcana]] - The utilization of [[Arcana]] to create, highly complex, specialized spells to modify mundane objects to make them permanently magical. This is bar none one of the most difficult skills one can obtain. To implement it, one must be able to utilize [[Iszertion]] and understand its complex nuances.

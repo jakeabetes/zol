@@ -21,9 +21,9 @@ Great practice with one's [[Vizir]] is thought to lead to discovery of [[The Old
 ## Vizir 'Burning'
 A rare phenomenon observed most commonly amongst mages in battle. This phenomenon is described as a hyper focused state where one accesses their internal power with little to no difficulty compared to their normal experience with the practice. It was thought originally to be related to [[The Old Tongue]], but most scholars agree the two are unrelated.
 
-When one 'burns' their [[Vizir]] they go into a sort of trance, and experience the sensation of extreme heat within their chest. Iron within the vicinity is pushed back upon slightly like a repelled magnet, and silver is pulled towards the 'burner'. Individuals near a 'burner' can actually feel the repelling sensation, this is likely because of the trace amounts of iron within most people bodies. The force emitted from this individual is typically only great enough to knock over a stack of coins.
+When one 'burns' their [[Vizir]] they go into a sort of trance, and experience the sensation of extreme heat within their chest. Metal within the vicinity is pushed back upon like a repelled magnet. The effect is most prominent with silver and iron. Individuals near a 'burner' can actually feel the repelling sensation, this is likely because of the trace amounts of metal within most people bodies. Beyond that, those within the vicinity of a 'burner' feel cold radiating from them. The repelling force emitted from this individual varies in strength. Some accounts record it as strong enough to push a metal cup across a table, other accounts claim 'burners' have thrown full grown men in plate many feet.
 
-While most commonly observed amongst mages, there have been record of warriors emitting the same repelling force in battle.
+While most commonly observed amongst mages, there have been record of warriors, unpracticed in magic, emitting the same repelling force in battle.
 
 ## Vizir and Lifespan
 It is not known why, but a stronger [[Vizir]] tends to extend ones lifespan naturally. This seems to vary on a case by case basis. Some powerful individuals have been known to live almost 3 to 5 times as long as expected.

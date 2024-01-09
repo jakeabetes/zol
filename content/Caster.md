@@ -1,5 +1,5 @@
 ---
 title: "Caster"
----An individual who uses [[Magic]], usually via a [[Spell]].
+---An individual who uses [[Magic]] to manipulate [[Space, Matter, and Energy]], usually via a [[Spell]].
 
 ![[Caster Diagram.png]]
