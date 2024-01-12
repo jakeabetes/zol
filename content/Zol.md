@@ -24,5 +24,8 @@ This is a brief video I made that explains the high level concepts of the world.
 ## Special Thanks
 This project took quite a long time for me to build, and it wouldn't have been possible without the help, and inspiration from a lot of people in my life. To accredit these people, I have written a page of [[Thanks]].
 
+## Campaigns
+The main purpose of this site is to act as reference material for my TTRPG campaigns. I also use this site for storing relevant information for my ongoing [[Campaigns]].
+
 ## Other Projects
 I have also created a Dungeons and Dragons 5th edition Homebrew ruleset which is meant to act as a compliment to this project. Check out [Turner's Guide to Turns](https://homebrewery.naturalcrit.com/share/Xao0zcbypZQV) to learn more.
