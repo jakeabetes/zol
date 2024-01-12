@@ -5,7 +5,7 @@ title: "Godkiller - Premise"
 Theological panic, famine and wildly differing birth rates grip [[The Three Corners]]. These challenges acted as the seeds for secondary forms of chaos like tension between kingdoms, plague, [[Warforged]] rebellions, and may have even caused many [[Dragons]] to awaken from
 their millennia long slumber. 
 
-Our story starts 6 years after [[Giriam]]’s death (which would be 4 years after Professor Abacus Oleander’s [Journal Entry](https://www.youtube.com/watch?v=pK5vR_A_axI&ab_channel=JacobTurner)), and academics have claimed that birthrates and famine have started to trend towards normalcy. However, the other problems sparked by the god’s death still remain, and seem to be getting worse. 
+Our story starts 6 years after [[Giriam]]’s death (which would be 4 years after Professor Abacus Oleander’s [Journal Entry](https://youtu.be/pK5vR_A_axI)), and academics have claimed that birthrates and famine have started to trend towards normalcy. However, the other problems sparked by the god’s death still remain, and seem to be getting worse. 
 
 You, and your adventuring party, will start as a group of new friends/acquaintances trying to make their way through this new era. What happens from there, is up to you. The campaign will begin with this premise: 
 

@@ -10,5 +10,5 @@ title: "Godkiller"
 ## Campaign Materials
 Pre-campaign Content:
 - [[Godkiller - Premise]]
-- [Godkiller - Teaser](https://www.youtube.com/watch?v=hVCVxSRB39Q&ab_channel=JacobTurner)
-- [Godkiller - Trailer](https://www.youtube.com/watch?v=pK5vR_A_axI&ab_channel=JacobTurner)
+- [Godkiller - Teaser](https://youtu.be/hVCVxSRB39Q)
+- [Godkiller - Trailer](https://youtu.be/pK5vR_A_axI)
