@@ -13,3 +13,5 @@ Pre-campaign Content:
 - [[Godkiller - Premise]]
 - [Godkiller - Teaser](https://youtu.be/hVCVxSRB39Q)
 - [Godkiller - Trailer](https://youtu.be/pK5vR_A_axI)
+- Character Creation Stat Rolls
+	- 16, 16, 14, 14, 9, and 9
