@@ -17,10 +17,10 @@ title: "Calendar"
 ## Spring, also known as Viridin
 - 1st - Annean
 	- The new year celebration. Celebrated all across [[Zol]]
-- 25th - Fae'n
-	- The fresh growth celebration, where some dress in costumes of [[Fey]] creatures or beasts. Celebrated by most cultures.
-- 41st - Victory Day
+- 21st - Victory Day
 	- The celebration of the rebel's victory in the [[Alderian Rebellion]]. Celebrated only in [[The Free Cities of Alderun]]
+- 50th - Fae'n
+	- The fresh growth celebration, where some dress in costumes of [[Fey]] creatures or beasts. Celebrated by most cultures.
 - 89th - Selsaarn
 	- The [[Changelings]] celebration of [[The Oldshards]]. Celebrated only in [[The Glassius Reach]]
 
