@@ -21,5 +21,5 @@ The bodies of the afflicted strangely continue to function even without vital or
 Even after death the corpses of the afflicted continue to materiate. There is no cure for Materiation.
 
 ## Additional Information
-Beings with artificial bodies are immune to [[Materiation]]. The most common manifestation of this is [[Warforged]], who are frequently employed to operate dangerous devices.
+Beings with artificial bodies have a high resistance to [[Materiation]]. The most common manifestation of this are [[Warforged]], who are frequently employed to operate dangerous devices.
 

@@ -9,11 +9,11 @@ The nature of what produced [[The Grand Nothing]] is not known, but it is widely
   Scholars have not been able to divine a geological process that would have produced this since [[The Awakening]]. I**t is thought either some sort of magic created them or the destruction was not so simple.**
 - **The border of [[The Grand Nothing]] is shaped like a parabolic arc**, with its vertex located somewhere near [[Holocene]] within the Windswept Grove.
 - **Old structures in the region have been found containing valuable information about [[Old Zol]].** Time has seemingly done a number on these structure as they are very weathered, but they are also damaged in odd ways, possibly caused by the undoing. Some structures have evidence of burn marks made by both fire and acid, other structures are rotated oddly like the land they were set upon was warped somehow, and glass windows were shattered into tiny cubes.
-- **Any piece of text found within ruins is enciphered, and distorted.** Each discovered morsel of writing is altered differently from its peers, making decryption very complicated and requires a technique called 'Brute [[Divination]]'.
+- **Any piece of text found within ruins is enciphered, and distorted.** Each discovered morsel of writing is altered differently from its peers, making decryption very complicated and requires a technique called 'Brute [[Divination]]'. This text is often referred to as [[Nullity Text]].
 
 Despite the desolation it once faced, [[The Grand Nothing]] is now a vibrant and wild place populated with odd beasts and monsters. Some creatures have adapted to live in the region, while others present are believed to predate [[The Awakening]]. 
 
-Explorers, nomads, and bandits have taken to the region quite well. Originally only by way of [[Teleportation Circles]] were individuals able to travel to the region with any consistency. Even flying is too dangerous due to violent updrafts that blow up the sheer cliffs. However, [[Gilligan's Lift]], a wonder of engineering was constructed during the very late first age allowing for many to brave the expanse.
+Explorers, nomads, and bandits have taken to the region in a similar manner to other wilds across [[The Three Corners]]. Originally only by way of [[Teleportation Circles]] were individuals able to travel to the region with any consistency. Even flying is too dangerous due to violent updrafts that blow up the sheer cliffs, caused by errant winds blown in from [[The Storm Horizon]]. However, [[Gilligan's Lift]], a wonder of engineering was constructed during the very late first age allowing for many to brave the expanse.
 
 There are other rumored ways down:
 - A set of narrow stairs supposedly carved into the cliff
@@ -72,7 +72,7 @@ The answers to the questions are still almost entirely a mystery, but there are 
 
 The most prominent **speculations** of [[The Grand Nothing]] and [[Old Zol]] are:
 - **There were only [[Humans]], [[Elves]], and [[Dwarves]] within the old world**, and the newer races were a product of [[The Undoing]]. This is speculated because no evidence of other races has been found. It has stemmed problematic beliefs such as [[Great Magic]], [[The Triumvirate]], human sovereigntists and things of the like.
-- **It is thought that the area of [[The Grand Nothing]] closest to [[The Three Corners]] was a very rural or possibly even remote place**. Anthropologists believe based on the nature of found ruins that **there may be a great lost city somewhere out in the shallow seas**, as the surviving locations would have likely required some form of nearby infrastructure to function long term. However this is just speculation.
+- **It is thought that the area of [[The Grand Nothing]] closest to [[The Three Corners]] was a very rural or possibly even remote place relative to pre-undoing civilization**. Anthropologists believe based on the nature of found ruins that **there may be a great lost city somewhere out in the shallow seas**, as the surviving locations would have likely required some form of nearby infrastructure to function long term. However this is largely speculation.
 - **Old society may have had a very close relationship with the [[Gods]].** The ways in which they are mentioned in deciphered texts make it seem like they walked amongst the people of the old world.
 
 In modern day, the only people to exist within [[The Grand Nothing]] are those who ventured there. After [[The Undoing]], there were no sapient beings within the region, at least near [[The Three Corners]] that are known of.
@@ -82,3 +82,7 @@ The region borders the cliffs of:
 - [[The Free Cities of Alderun]]
 - [[The North Sea]]
 - [[The Archsea]]
+
+## Other Info
+- Magical Relics found within [[The Grand Nothing]] are known as [[Archaisms]]. They are all some product of [[Imbuement Perpetuum]], and most posses very strange traits.
+- The corrupted text found within [[The Grand Nothing]] is known as [[Nullity Text]].
