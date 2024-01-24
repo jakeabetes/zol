@@ -2,6 +2,8 @@
 title: "The Eelynn"
 ---The schools of [[The Oldshards]]. The academic institution of the [[Changelings]] within [[The Glassius Reach]]. There are two instances of [[The Eelynn]]. One is in [[Yorn et Gaul]], the other in [[Corinth]]. All members of Changeling society are expected to learn here in their youth. Those who seek further knowledge may be invited to do so, and pursue and academic career.
 
+[[The Eelynn]] also acts as a place of worship within [[Pheridian]] religion.
+
 ## Values
 *"To comprehend what was lost."*
 

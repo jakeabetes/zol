@@ -1,6 +1,6 @@
 ---
 title: "Void Gods"
----*Fear the depth of Zol, for not even the Gods know what true horrors lurk in its void*
+---*Fear the depths of Zol, for not even the Gods know what true horrors lurk in its Void*
 
 The Dark [[Gods]] who lurk deep, deep beneath [[Zol]] in [[The Void]]. They seek to torture, conquer, or even destroy [[Zol]]. They hate all other [[Gods]], and even have a small degree of in-fighting. However there has been record of them aiding one another in their grand effort to dismantle [[Zol]].
 
@@ -17,3 +17,6 @@ Name | Domain
 [[Zelatt, The Draconic Amalgam]] | Chaos
 [[Uroga, Hag of the Sea]] | Fathoms
 [[The Castle of Bodies]] | Wrath, Madness
+
+## Relevant Religious Denominations
+- [[Malevolan]]

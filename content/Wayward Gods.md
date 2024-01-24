@@ -18,3 +18,5 @@ Name | Domain
 [[Draedon, the Ascended Wizard]] | Arcane
 [[Ellyon and Aradon]] | Seafaring, Skyfaring
 
+## Relevant Religious Denominations
+- [[Obscuran]]

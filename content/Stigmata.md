@@ -44,7 +44,7 @@ Most citizens are devout followers of the [[Church of Three Fires]]. The main ob
 | Beggars | Social Class | Those unable to find work. Be it because of health issues, mental state, addiction, or some other personal reason. These individuals are extremely poor and are occasional persecuted for their begging and made to be slaves. |
 | Slaves | Social Class | Those charged with significant crimes who are forced to work and serve in recompense. |
 | Church Followers | Religious Group | The people of the city who follow the [[Church of Three Fires]]. Most of which are fanatical. This group makes up 80% of the city's population |
-| Priests | Religious Group | Those in charge of maintaining the [[Church of Three Fires]]. There are various levels of authority within this group, but all are highly respected within the city. |
+| The Conflagratory | Religious Group | Those in charge of maintaining the [[Church of Three Fires]]. There are various levels of authority within this group, but all are highly respected within the city. |
 | Non-Believers | Religious Group | Not an organized group, but a term used for those who do not follow the church. These individuals are regularly harassed (and sometimes worse) by the members of the church. This group is likely larger than it appears as many people join the church merely by name as a social survival tactic. |
 | The Cathedral's Shadow | Criminal | A criminal underground that was spawned from the need of [[Arcana]] and [[Viridescence]] in a city where it is largely illegal. It has grown from a small operation of spells and incantations to a widespread and very secretive criminal underbelly. |
 | Permitted Will Manipulators | Misc. | A small group of magic users that have been approved and employed by the church to perform [[Magic]] operations involving [[Arcana]] and [[Viridescence]] when needed by the city or church. |
@@ -57,7 +57,7 @@ Most citizens are devout followers of the [[Church of Three Fires]]. The main ob
  | Stigmata Station | Train Station | The city's train station |
  | Stigmata Convergence | Teleportation Circle | The city's main teleportation circle |
  | The Cotton Markets | Market | The city's largest market |
- | The [[Church of Three Fires]] | Church | The massive church, even larger than the city's keep. Located directly in the city's center the [[Church of Three Fires]] is home to the [[Wordbearer]] for [[The Word of Fire]]. |
+ | The Cathedral of Three Fires | Church | The massive church, even larger than the city's keep. Located directly in the city's center. It acts as the headquarters to the [[Church of Three Fires]] is home to the [[The Word of Fire]]. |
  | Ferdon Boarding House | Inn | A dormitory commonly used by travelers. Does not serve alcohol by the city's laws. |
  | The Hearth of Three Fires | Restaurant | A restaurant loved by the city's people. Does not serve alcohol by the city's laws. |
 

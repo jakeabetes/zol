@@ -16,3 +16,7 @@ The three parts of [[The Trinity]] are: [[Arcana]], [[Viridescence]], and [[Obse
 
 ## Origin
 [[Zol]] was created in the binding of The Trinity by the power of [[The Watcher in The Door]] who spoke [[The First Tongue]]. It continues to be bound by any who know parts of [[The First Tongue]], or as wills by the binding of One's [[Vizir]] or knowledge of [[The Old Tongue]].
+
+## Relevant Religious Denominations
+- [[Trinaism]]
+- [[Ashian]]

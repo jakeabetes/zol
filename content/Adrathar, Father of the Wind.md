@@ -29,3 +29,7 @@ Worship of Adrathar is reputably done in [[The Ward]] by individuals who swear a
 There is also a long list of songs, ceremonies, and beliefs his followers uphold that all revolve around honor and the strength of will and body.
 
 Other followers do exist all over [[Zol]], but on a much smaller scale to that of [[The Ward]].
+
+## Relevant Religious Denominations
+- [[Zephyrean]]
+- [[Obscuran]]

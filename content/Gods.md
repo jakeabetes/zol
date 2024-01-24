@@ -14,12 +14,13 @@ The gods themselves have complex relationships with their peers that are not wel
 
 ## Main Pantheons
 
-Pantheon | Description
------------- | ------------
-The [[Zolaen Gods]] | The creators of [[Zol]]. A pantheon of gods who act with [[The Watcher in The Door]] as their king. Doing everything they can to see his image of [[Zol]] come to fruition.
-The [[Wayward Gods]] |  Beings of [[Zol]] who are of great power and influence, but do not see [[The Watcher in The Door]] as their ruler, nor do the commit themselves to any other group. They act on their own accord.
-The [[The Wandering Gods]] | A group of alien beings who appeared to mortals after [[The Undoing]]. Mysterious in nature these gods not act like the others. Some think they caused the [[The Undoing]], other think they are guardians; protecting mortals from the dangerous whims of other [[Gods]].
-The [[Void Gods]] | Beings who hate [[Zol]]. They crawled out of the [[Sea of Monsters]] to destroy [[Zol]], and return it to the chaotic feast of power it once was: The [[Sea of Monsters]].
+| Pantheon | Description |
+| --- | --- |
+| The [[Zolaen Gods]] | The creators of [[Zol]]. A pantheon of gods who act with [[The Watcher in The Door]] as their king. Doing everything they can to see his image of [[Zol]] come to fruition. |
+| The [[Wayward Gods]] | Beings of [[Zol]] who are of great power and influence, but do not see [[The Watcher in The Door]] as their ruler, nor do the commit themselves to any other group. They act on their own accord. |
+| The [[The Wandering Gods]] | A group of alien beings who appeared to mortals after [[The Undoing]]. Mysterious in nature these gods not act like the others. Some think they caused the [[The Undoing]], other think they are guardians; protecting mortals from the dangerous whims of other [[Gods]]. |
+| The [[Void Gods]] | Beings who hate [[Zol]]. They crawled out of the [[Sea of Monsters]] to destroy [[Zol]], and return it to the chaotic feast of power it once was: The [[Sea of Monsters]]. |
+| [[The Trinity]] | Some religions like [[Trinaism]] and [[Ashian]] see [[The Trinity]] as a deity. However, most other groups see it as a force. |
 
 ## "God" as a catch-all term for powerful beings
 There are many beings who's primary focus is to rule over some dominion as a God. However, these are not the only beings that society refers to as a god. While academia may have rigid criteria for godhood, society may see any being or force of extreme power as a god.

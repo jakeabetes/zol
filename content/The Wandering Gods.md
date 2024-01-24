@@ -20,9 +20,9 @@ Name | Moral
 [[Persanius]] | Compassion
 [[Chorn]] | Patience 
 
-While the wandering gods are not as powerful as many of the other [[Gods]] of [[Zol]] individually, they posses more coordination and cooperation than any other pantheon or alliance between divinities.
+While the wandering gods are not as powerful as many of the other [[Gods]] of [[Zol]] individually, some lore claims they posses more coordination and cooperation than any other pantheon or alliance between divinities.
 
-This close bond between all of [[The Wandering Gods]] lends them a great deal of agency in the world of [[Zol]], and [[The Cosmos]] beyond.
+It is thought that this close bond between all of [[The Wandering Gods]] lends them a great deal of agency in the world of [[Zol]], and [[The Cosmos]] beyond.
 
 ## The Goal of The Wandering Gods
 The followers of [[The Wandering Gods]] believe their mission is to give mortals safety and agency in a world overpowered by [[Gods]]. They claim to wander the cosmos, protecting the worlds they find from the threats once faced in their home world.

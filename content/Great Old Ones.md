@@ -14,3 +14,7 @@ The Great Old Ones are:
 - None, The Hateful
 
 They reigned over [[The Cosmos]] for all of time, until the defeat of Goh'zul, and the breaking of [[The Circle]].
+
+## Relevant Religious Denominations
+- [[Obscuran]]
+- [[Malevolan]]

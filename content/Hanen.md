@@ -35,7 +35,7 @@ Identifiable by its ivy covered, weathered and off-white stone walls. Hanen is a
 | City Leader | Lord Poe Abbarand |
 | Primary Language(s) | Common |
 | Majority Racial Group(s) | None |
-| Majority Religion(s) | Wanderer-Centric |
+| Majority Religion(s) | Wanderer-Centric, Zolaen-Centric |
 
 ## Major Features
 

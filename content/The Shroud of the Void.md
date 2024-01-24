@@ -30,4 +30,4 @@ Capable of unimaginable horrors, those who claim to have witnessed this being su
 ## Worshipers
 Cults and dark arcanists seek his boons in dark rituals. Many temples to his honor are constructed in secret all across [[Zol]].
 
-His name is at the heart of all malevolence in [[Zol]].
+His name is at the heart of all malevolence in [[Zol]]. Sometimes he is simply referred to as [[The Shroud]].
