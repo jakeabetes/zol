@@ -11,6 +11,8 @@ title: "The Ramshorn"
 ## Origin
 Founded during [[The Dragon War]], [[The Ramshorn]] fought with honor against the [[Dragons]]. It maintained its course after the war, and became very relevant once again when [[Hoss]] betrayed [[The North Honor]].
 
+Its namesake comes from the horns of Wallrams. Aggressive, ox sized rams known for their opportunistic way of life. Their horns can be easily modified to produce a loud sound when blown into. A device used by the early people of [[The Ward]] to warn incoming danger. Three short blasts means combat, one long blast means [[Greatwinds]].
+
 ## Structure
 A guild of altruistic warriors who seek to defend the cities under [[The North Honor]].
 - ### Leadership
