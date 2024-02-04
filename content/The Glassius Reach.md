@@ -95,3 +95,6 @@ It also borders the wilds of:
 
 and has its coast on:
 - [[The Narrow Sea]]
+
+## Mimics
+[[The Glassius Reach]] is not only home to the [[Changelings]], but it is also home to the strange, and powerful [[Mimics]]. An ancient and mysterious society of beings who have a vested interest in [[The Oldshards]].
