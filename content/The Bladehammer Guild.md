@@ -1,6 +1,7 @@
 ---
 title: "The Bladehammer Guild"
 ---*Fighting For and Forging Fair*
+![[Bladehammer Guild.png]]
 
 Those who fight for a better [[Zol]]. [[The Bladehammer Guild]] is the largest guild in all [[The Three Corners]]. It is an organization recognized by every city, even [[The Glassius Reach]] knows their mission. Located on the very edge of [[The Grand Nothing]] in [[Tenzentak]]. 
 
@@ -17,7 +18,7 @@ The ideals of [[The Bladehammer Guild]] paint a picture of a unified [[Zol]]. Th
 Founded by the [[Alderian Council]]. Its name,  *Bladehammer*, comes from the ideal of rebuilding and reclaiming the world by hammer and steel.
 
 ## Structure
-The guild is a massive and complex organization. It is headed by Captain Helg Corsair, and his supporting council made up of the leaders of every sub faction, and other influential members of the guild. Within the guild, all start as guild members. There are many ways to contribute as a guild member, such as: combat, academia, medicine, strategy, economics, trade, and craft. Those who prove themselves as high quality guild members are given a "marked" slate. An upgraded slate bearing the symbol of the guild. Members of this rank are called "Full Marked". Promising leaders of the guild become Guild Minds. Their slate is given a red band to show their rank.
+The guild is a massive and complex organization. It is headed by Captain Helg Corsair, and his supporting council made up of the leaders of every sub faction, and other influential members of the guild. Within the guild, all start as guild members. There are many ways to contribute as a guild member, such as: combat, academia, medicine, strategy, economics, trade, policy, law, politics, and craft. Those who prove themselves as high quality guild members are given a "marked" slate. An upgraded slate bearing the symbol of the guild. Members of this rank are called "Full Marked". Promising leaders of the guild become Guild Minds. Their slate is given a red band to show their rank.
 
 Full Marked Guild Members are allowed to recommend individuals for admission by way of guild ticket (See Admission). Guild Minds have the responsibility of dispatching guild resources on missions.
 
