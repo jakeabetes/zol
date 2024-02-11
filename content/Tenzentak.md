@@ -1,11 +1,11 @@
 ---
 title: "Tenzentak"
 ---*The Rift City*
-![[Tenzentak.png]]
+![[Tenzentak-skyline.png]]
 
 Tenzentak, the Rift City. Located in [[The Free Cities of Alderun]], the sake of its nickname comes from the topography which the city rests upon and the fact that it is built on the cliffs of the grans nothing. The wide rifts within the city house a unique geological phenomenon called [[Rift Iron]], a valuable metal that regrows slowly after being mined. It is used to make objects that can reform after breaking.
 
-![[tenzentak.png]]
+![[tenzentak map.png]]
 
 This natural resource gives Tenzentak a stable economy, and hopeful future. Unfortunately, it also produces a toxic off-gas called [[Rift Smog]]. The city has developed powerful [[Iron Light]] air filters that utilize light from [[The Sun]] to clean the air. This ensures the city above the rifts remains clean and beautiful, but leaves those who live in the rifts to suffer.
 
