@@ -9,6 +9,10 @@ title: "Godkiller"
 *their millennia long slumber...* 
 
 ## Campaign Materials
+Campaign Content:
+- [Godkiller - Characters](https://docs.google.com/presentation/d/1dj2SrB_HRzuNg6HQUu4ALWvJ1rOlVXkTmNROF_iyI-0/edit?usp=sharing)
+- [[Godkiller - Weavings]]
+
 Pre-campaign Content:
 - [[Godkiller - Premise]]
 - [Godkiller - Teaser](https://youtu.be/hVCVxSRB39Q)
