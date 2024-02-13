@@ -21,6 +21,7 @@ The region is taken by naturalists, wildly beastfolk, bandits, outsiders, wizard
 	- **The Greatrocks** - A collection of massive boulders located in the very center of [[The Witchlands]].
 	- **Old Barlen** - A collection of old ruined buildings mysteriously located within Godwood Deep. Not quite a town itself, but almost like a chunk of an old forgotten city. No one knows its origin, but it was discovered during The [[Beast Ire]] Plague. A nest of monsters to be avoided at all costs.
 	- **Pine Valley** - A beautiful valley populated by many [[Beastfolk]]
+		- It is also the home to [[Dreadslayers]], a faction of skilled and mysterious monster hunters
 	- **Z'veril Swamp** - A dangerous swamp that seems to try and swallow anything that enters it.
 	- **Herzal Camp** - A large permanent camp of dangerous bandits known for causing trouble within [[Kapesh]].
 	- **Robal Camp** - A large permanent camp of anarchistic bandits. Not known to be outwardly aggressive, but are highly territorial.
