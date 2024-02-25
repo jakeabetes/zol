@@ -5,3 +5,4 @@ title: "Godkiller - Weavings"
 ## Weavings
 - [[Weaving - Fear]]
 - [[Weaving - The Warforged Dream]]
+- [[Weaving - Godian Bestiary - Goblins]]

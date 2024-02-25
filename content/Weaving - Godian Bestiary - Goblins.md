@@ -1,0 +1,14 @@
+---
+title: "Weaving - Godian Bestiary - Goblins"
+---*The Common Goblin, Goblina Commonus*
+![[GoblinDiagram.png]]
+
+[[Goblins]] are one of the many entries within this Bestiary that exist between the realms of monsters and men. Plenty of goblins across [[Zol]] exist as ordinary citizens of the 5 kingdoms. However, many more reside in the wilderness; living as primitive tribes that often clash with outer villages. Society, especially Kapeshian society, often views goblins as monsters. In reality, they are fully sapient, possess no planar alignments to the Fell or Fey, and can organize themselves well in society. Their place in the world comes instead from a long history of oppression. 
+
+In the early [[First Age]], goblins were witnessed consuming things considered spoiled, unpotable, or otherwise unsavory. In reality, goblins have low olfaction and exceptionally strong stomachs. Meaning they seldom get sick from bacteria grown on food, or in stagnant water. This, paired with the way Goblins often simplify speech (known as goblin’s cant), gained them a false reputation for being unintelligent.
+
+Goblins are known to easily make homes and easily form communities. They prefer living in very small spaces and will reproduce quickly. However, they seem to possess an instinct, or biological advantage to not overpopulate. This means that in cities, they will form small tight-night communities, usually on the fringes. In the wild, goblins flourish quite well. Their rapid reproduction and migratory abilities allow them to form massive tribes that will break apart when overgrown. Goblins naturally form a hierarchy based on dominant traits. This unfortunately contributed greatly to their oppression during the [[First Age]]. Their mistreatment was what led many of them to take to the wilderness.
+
+In modern times, [[Dreadslayers]] must tread carefully when contending with threats involving goblin tribes. Most civilizations see goblin tribes, or *feral goblins*, as they are commonly known, as monstrous threats. However, they are people, just like any other. They possess art, religion, and culture. While one may not initially see the significance, or impact, clashing with goblin tribes should be taken with the same significance as clashing with bandits, witches, beast folk, or cities. There are important political implications with these deceptively simple people. Most notably many goblin tribes are allies with [[The Coven]]. When contracted to deal with a goblin tribe, it is better to drive them away using smoke and intimidation rather than slaughtering them.
+
+If one should engage with goblins in combat, they possess no specific weakness to iron or silver. Therefore, steel is recommended. Poisons are slightly less effective, so it is not recommended one waste their time with them. Often their bodies are quite delicate; raw physical force is historically the most effective method of dispatching a goblin.
