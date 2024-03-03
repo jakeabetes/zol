@@ -10,4 +10,5 @@ title: "The Coven"
 - The Death Witch, Tall Ester of The Mortal Valley
 - The Folk Witch, Hal Draen of The Alktree Haven
 - The Sex Witch, Lir of The Temple of The Moons
-Each witch is of immense power, and most have a small coven of their own which they lead. However this coven of great and powerful witches is what keeps the balance in [[The Witchlands]].
+
+Each witch is of immense power, and most have a small coven of their own which they lead. This coven of great and powerful witches is what keeps the balance in [[The Witchlands]].

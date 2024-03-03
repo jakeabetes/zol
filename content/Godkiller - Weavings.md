@@ -6,3 +6,4 @@ title: "Godkiller - Weavings"
 - [[Weaving - Fear]]
 - [[Weaving - The Warforged Dream]]
 - [[Weaving - Godian Bestiary - Goblins]]
+- [[Weaving - The Hour of Shadows]]
