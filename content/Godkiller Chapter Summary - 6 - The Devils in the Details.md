@@ -1,0 +1,35 @@
+---
+title: "Godkiller Chapter Summary - 6 - The Devil's in the Details"
+---
+ -  **Chapter begins mid morning on the 15th of Spring, Annum 4466**
+ - Our Heroes had passed The Ikas Feather test
+ - They were congratulated by Johnny Dogs, and invited to the Mess Hall for a drinking tradition with the guild members
+ - Though they were interrupted by Ke'shevik and redirected straight to Damian Ikas
+ - In the command room, there were only Damian Ikas and Kresh
+ - They passed the test and Kresh was satisfied with their fury. He had apparently used his magic to find some "thread" that connects the party to the Ikas Feather as was explained by Damian Ikas.
+ - According to them, the thing they fight is some grand, mysterious source of injustice. Apparently so wide in its influence that it had played a role in the darkest part of our heroes lives despite the fact the party had been recently spread all across The Three Corners.
+- This enemy is of a unique nature. Supposedly its influence is one of Information. And speaking about it in the wrong way is dangerous. Hence the smoke and mirrors with the Ikas Feather.
+- Normally the party would have been invited to join the Ikas Feather, but Damian was fairly certain that our heroes may unknowingly be part of the enemy's plan.
+- Rather than have them join, Damian suggested they play things carefully.
+- He gifted the party a large sum of money, a new Flatpan skimmer, a way back via teleportation, ensured you that there would be allies in back in the new world watching over you, and warned you about looking too closely.
+- Before departing, Damian pulled Cyrus aside. He seemed to know something about Cyrus, and warned him about the path he was taking.
+- The party was sent back to the lower lift, returned their skimmer (or rather they replaced it), and ascended back up to Tenzentak.
+- Upon our heroes arrival, Deimos sensed someone hunting them. Bennet Frence, in search of answers regarding the Train Attack. Likely looking to arrest you before you became full fledged guild members.
+- Though the cocky mage was no match for Cyrus' mischief. The mysterious man got our heroes to Professor Abby before Bennet could spot them.
+- The Professor was overjoyed to see the group back so soon, congratulated you on your success, and gave you your slates. Marking you as official members of The Blade Hammer Guild.
+- He also spoke of the dramatic state of affairs with the recent Train Robbery, and was surprised to hear you had been there when it happened.
+	- He showed our heroes the body of one of the Warforged that had attacked the train. Given to him for a second opinion by one of the crime's investigators. A guild member named Persephone.
+- The Warforged the group had brought back from their adventure (rather... what was left of it) was stowed in the back room
+	- and without a moment to spare!
+- An unexpected visit from Haith Nallian, the Inheritor of Fire. Unannounced the terrifying young warrior strode into the room. He sought the body of the Warforged our heroes recovered.
+- Luckily, The Professor's circumstances, and quick thinking we able to deceive him. He showed Haith the body from the Train Attack, rather than the one recovered by our heroes. The Professor bluffed and Haith bought it. The Inheritor promptly destroyed the cadaver then left without a word.
+- Awestruck at the encounter, the group took a long moment.
+- They decided to fill Old Abby in on the situation as they understood it. And with the professors help, the group decided that they were going to try and uncover this mystery.
+- Old Abby sent them off with a warning about Bennet, urging them to cooperate if he asks to bring them in, but remind him that they are now guild members and that he cannot detain them without a proper named order.
+- The party then went about the city, getting thrown out of The Sheathed Anvil due to Rozwald's dramatic actions, emboldened by alcohol.
+- Then they decided to slum it up in the lower city, and were thrown out of Threck's Alchemy when Rozwald drunkenly harassed a fellow patron that seemed to be up to no good.
+- Finally, they took their pocket change to Deangelo's Collections to sift through the odds and ends
+	- The party found a few things of expensive interest and Cyrus stole a more than interesting set of keys.
+	- Then Rozwald got them thrown back into the streets once more when he tried to steal an Arrow-Catch.
+- On their return to the upper city, they bumped into a figure Rozwald recognized. Cliff Guntry.
+- **Chapter ends in the evening on the 15th of Spring, 4466**

@@ -8,3 +8,4 @@ title: "Godkiller - Weavings"
 - [[Weaving - Godian Bestiary - Goblins]]
 - [[Weaving - The Hour of Shadows]]
 - [[Weaving - A Tale of Three Stones]] 
+- [[Weaving - Arch Nemesis]]

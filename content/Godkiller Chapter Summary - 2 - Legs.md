@@ -1,0 +1,58 @@
+---
+title: "Godkiller Chapter Summary - 2 - Legs"
+---- **Chapter begins on the early morning of the 12th of Spring, 4466**
+- Arrival at Tenzentak
+- Quite the big deal train was attacked. Word was sent ahead to the city and your train was met with a swarming crowd at the station.
+- Laizen gave you some advice and did his best to maneuver our heroes into a favorable position.
+	- Being so close to the crime made them suspect, and things would be easier for them the closer they were associated with the guild.
+	- Laizen provided a distraction and allowed for our heroes to slip into the city
+- Tenzentak is a marvel of a place. It is tall and magnificent city overflowing with activity like:
+	- The chaotic bustle of trade
+	- Crowds of incoming people. Importing things in prep for victory day
+	- Long, elegant and high Bridges that spanned over the hidden Low City
+		- A place divided from Tenzentak Proper by the Rift Smog Filters
+	- Ridiculous actors in the streets, putting on silly and promiscuous show involve magic and bare skin
+		- A clear mark of your presence in The Free Cities
+- Arrival at The Bladehammer Guild. A place sprawling with intrigue and adventure.
+- At the public desk, you cut in line thanks to Cyrus' mischievous magic
+- You presented your tickets to the rude and pretentious individuals at the front desk. Guild Members of the Kerketh Academy Sub-faction
+	- Bennet Frence - A low ranking Guild Member and snooty noble elf
+	- Master Bellard - A mean looking, busy-body old human. A master arcanist and guild mind.
+- Master Bellard seemed keen on precuring help for some duty, when Bennet asked if our heroes would be suitable. The notion was meet with a scoff and a disgusted sneer at Sherman.
+- Our heroes were instead made to be "Legs". A notion which seemed funny concept to Bennet.
+- Apparently being legs meant serving Abacus Oleander, a Double Amputee Dragonborn Guild Mind. Once a professor at Kerketh. 
+- Old Abby proved to be a very friendly individual with a seemingly bad reputation, despite his kindness
+	- He utilizes a wheelchair, an arachic contraption for a skilled arcanist.
+- Some people call him "Professor", but he did not present himself that way. In fact he seems to try and deter people from using the title.
+- In searching for work for you, he seemed unimpressed with the tasks he had at hand. Then, in a moment of inspiration he asked our heroes if they could keep a secret.
+- Given quest to venture into the grand nothing to retrieve lost Kerketh Equipment following a distress beacon.
+	- A piece of salvage that he should not technically be in possession of.
+	- Though he seemed certain it may contain information about flora and fauna out in The Grand Nothing that could aid the famines which plagued the land.
+	- In Kerketh hands, that information may be used to turn a profit. In his hands, that information could be freely distributed.
+- The beacon was emitted by a Warforged. He drew a sketch of it for you, and it matched exactly to the one seen in the dream shared by our heroes.
+- Before setting of to purchase supplies, you were warned of a sandstorm.
+- Shopping at rift top square
+	- Deimos' Premonition of something happening in the square in the coming week.
+- Chocolate, Coffee, and Rats for brunch.
+- A posted bounty for Aleksander Salt, a Orcish man of grey skin and a single tusk was found by Cyrus.
+- During your morning, our heroes began to notice the outer-most edges of secrets amongst their group
+	- Cyrus carried a pleasant scent that no one could agree upon
+	- Deimos knows something… and doesn't seem keen on explaining himself
+	- The Nobleman Grung you are with is broke, and is slowly turning into smoke
+	- Magnus is not leading the life he should be as a Stormblessed
+	- And Sherman's Brain holds flashes of frightening traumatic memories, and he claims that he can dream despite being a Warforged.
+- Set off on your Journey
+- Met Chapter Frond, the Upper Lift Attendant
+	- Warned of a sandstorm, again
+	- Granted equipment tokens for:
+		- a Drift Spiker
+		- and a Flatpan Skimmer
+- Saw Gilligan's lift and The Grand Nothing
+	- During their descent, a massive bird attacked the lift. Veterans of the guild didn't even flinch as the Rok (a species of predatory bird in The Grand Nothing) was zapped by the Lift's defenses.
+- Met Guild Mind Melshin Mord, overseer of the Lower Lift.
+	- Warned of a sandstorm, once again.
+- Met Spinner, head Artificer of the Skimmer Yard
+	- He taught you how to operate the dangerous vehicle, and sent you on your way!
+- Great speed, and wonderous views
+- It wasn't long before you met your first danger. Ger'zar Bandits.
+- **Chapter ends on the early evening on the 12th of Spring, 4466**

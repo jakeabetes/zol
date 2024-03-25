@@ -12,6 +12,7 @@ title: "Godkiller"
 Campaign Content:
 - [Godkiller - Characters](https://docs.google.com/presentation/d/1dj2SrB_HRzuNg6HQUu4ALWvJ1rOlVXkTmNROF_iyI-0/edit?usp=sharing)
 - [[Godkiller - Weavings]]
+- [[Godkiller - Chapter Summaries]]
 
 Pre-campaign Content:
 - [[Godkiller - Premise]]

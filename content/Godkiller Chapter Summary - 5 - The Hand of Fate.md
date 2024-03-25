@@ -1,0 +1,36 @@
+---
+title: "Godkiller Chapter Summary - 5 - The Hand of Fate"
+---- **Chapter begins mid day on the 14th of Spring, 4466**
+- A crash had left our heroes stranded deep in the Baradan Canyon
+	- Where Ger'zar bandits had come back to finish the joh
+- A fight in the dying winds of the sandstorm brought your unknown allies back to aid you.
+- They turned out to be Johnny Dogs and Bellarmine of The Ikas Feather
+	- They apologized for the chaos and gave a spyglass as a gift of thanks
+	- The Ikas Feather had set up and ambush and you had stumbled into the middle of it
+- Though it wasn't all smiles
+	- Encountering the Ikas Feather is apparently "dangerous" almost as if when one crosses paths with them, something is fated to happen
+	- They handle this danger through 13 strange yes or no questions
+- Your answers made them nervous
+- They want to bring you back to their HQ and put you through a more "comprehensive" test
+- Your safety was guaranteed, and you'd be paid lump sum for your troubles
+	- They also promised to take you back wherever you needed to
+- Our heroes were teleported to Camp Ikas through Bellamine's power
+	- Camp Ikas is another one of those strange and twisted ruins of the past
+- Johnny dogs locked our heroes in a barracks to rest with food and medicine. He did his best to answer the questions our heroes had about the Ikas Feather
+	- In short, he doesn't even know the full extent of what the Ikas Feather is doing, but their fight seems just for what little he was will and able to share.
+	- He also gave our heroes some pointers on the incoming "test". A fight with the faction's champion.
+- In the morning you awoke to a challenge, an arena holding hundreds of Ikas feather members, Damian Ikas, and The Factions Champion, Kresh.
+- The crowd seemed to be on your side, throwing up their strange salute at you. Two interlocked thumbs and splayed fingers
+- You engaged Kresh
+	- Those of you who got close immediately felt something from him
+	- An influence you are beginning to become familiar with. Some call it power, some call it edgelessness, but whatever you call it. There is undoubtedly magic. Real and old magic.
+	- The deep feeling he cause quickly transformed into something more than awe. A feeling of anger, and vivid memories of your past. The things that cause you to feel a deep and burning rage.
+	- Those who got even closer noticed an odd scent.
+- As the fight went on, you found yourselves unable to phase him with your attacks
+	- He seemed to be testing you
+	- His gaze did something strange to you, as if he was grasping your Vizir and probing its limits
+- The fight ended quickly, and he seemed satisfied with the test
+- He spoke strangely not as someone who was deficient in the learned skill of speech, but rather someone who was struggling to bring the words to their mouth
+	- "They… have… it" to the crowd
+	- "Might… them…" to Damian
+- **Chapter ends mid morning on the 15th of Spring, Annum 4466**

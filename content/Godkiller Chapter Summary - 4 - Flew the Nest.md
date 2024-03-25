@@ -1,0 +1,30 @@
+---
+title: "Godkiller Chapter Summary - 4 - Flew the Nest"
+---- **Chapter begins on the early evening on the 13th of Spring, Annum 4466**
+- Our heroes are attacked by a massive Baby Rok whilst trying to recover a damaged Warforged. Rather than fight the huge creature, they decided to
+	- Distract it
+	- …which lead them to being chased by it
+	- Luckily the chaos gave time for Deimos to make a perfect shot with the Drift Spiker to the world below
+	- One by one the party descended as Magnus and Sherman did their best to endure the Baby Rok's terror
+	- Magnus went for a strike on hit, and accidentally ignited a fuel tank amongst the old skimmers littered around the nest
+	- A chorus of explosions and spreading fire summoned the Mama Rok back to her nest
+	- Magnus used his magic to embolden Sherman, allowing him to shake of his fear of heights
+	- Unfortunately, it was poorly timed as the explosions and chaos had caused the drifting island to move. The zipline so carefully placed by Deimos was hyper-extended and forced to detach.
+	- Sherman, with his sudden courage had jumped out of the nest, but caught himself in the air
+	- Magnus, ever fearless, went for a last ditch effort. Climbing into one of the discared skimmers he forced it out of the nest into a free fall. Grabbing Sherman, and praying to Adrathar the skimmer could eat their momentum.
+- Magnus' instincts paid off, and the plummet only resulted in some terrible bruising and maybe a cracked rib. 
+- Despite the chaos, you were successful in your journey, and recovered the Warforged
+	- Within its clutch, a strange and enticing drawing of a broken sword
+- Our heroes ventured off at top speed away from the dangerous Rok nest to find place to rest.
+	- Magnus, ever curious, asked his new friends about their pasts.
+	- Sherman, in his battle shock seemed to emit music that he was unaware of. When asked about he promptly denied it then broke into song
+	- The group finally acknowledged that they all shared the same dream
+- The general consensus was that the group should keep it a secret, but maybe tell Professor Abacus. He seemed trustworthy, and was the provider of your quest.
+- Regardless of what the group was to do, none of our heroes seemed to know what hand of fate gave them all the same dream, and put them in the same place.
+- During travel the next day, our heroes were finally met with the Sandstorm and a skimmer ambush. The Ger'zar bandits once again.
+	- Their "Autonom" obsession continued
+	- And the attackers posed a more than challenging fight
+	- However, the battle seemed to include more than just the lot of you. It was of a larger scale as Deimos could make out the sounds of distant fighting in the storm
+	- Suddenly, strange and unknown allies appeared above. A witch and a rifle wielding man flying on some strange, high-hovering skimmer
+- They fought with you, but you skimmer didn't last long. It resulted in a perilous crash into the canyon's depths.
+- **Chapter ends mid day on the 14th of Spring, 4466**
