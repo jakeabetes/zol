@@ -12,4 +12,4 @@ title: "Thanks"
 	- Casey 'Rat-Boy' O'Shea
 	- David McDonald
 	- Jasper Soucoup
-- And my cats, Mugwort and Mushroom who kept me company at my desk as I wrote. They arguably had the most important role in the entire project.
+- And my cats: Mugwort, Mushroom, and Spaghetti Wednesday who kept me company at my desk as I wrote. They arguably had the most important role in the entire project.

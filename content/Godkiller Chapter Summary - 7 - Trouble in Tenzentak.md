@@ -1,0 +1,44 @@
+---
+title: "Godkiller Chapter Summary - 7 - Trouble in Tenzentak"
+---- **Chapter begins during the evening of the 15th of Spring, Annum 4466**
+- The party had encountered Cliff Guntry whilst ascending one of the lifts to the upper city of Tenzentak
+- Cliff is the head miner of the Rozwald Mines
+- He and Rozwald recognized each other. However, it seemed too illogical for Cliff to acknowledge it, and Rozwald was intoxicated and acting abnormally.
+- Eventually, the discomforting moment fumbled itself into a reunion. A reunion that shocked Cliff. He had been heading home after work, he asked to meet them for a drink in the next few hours.
+- Back at the Sheathed Anvil Tavern, the party discussed Haith, and his strange nature. They also discussed their ages. 
+	- Determining that Sherman was at least 56, likely older. 
+	- Rozwald at 30
+	- Then Deimos at 25
+	- The youngest was Magnus at 23
+	- And as always, Cyrus withheld his personal information. Teasing and mysterious.
+- Cliff arrived at the Sheathed Anvil
+	- Things began awkwardly. Fortunately, the tension was transformed from social anxiety to confused worry when Cliff acknowledged the elephant in the room.
+	- As far as Cliff knew, Rozwald had died four years prior. There had even been a funeral.
+	- Rozwald's father had left Tenzentak some time ago to expand his empire.
+	- He had begun a business of Warforged Manufacturing in the West.
+	- After the initial shock, the conversation became one of a more ordinary reunion. Sharing stories of recent life, and tales of a young, curious Rozwald visiting the mines.
+	- Encouraged them to go see his family manor, hopefully to find his father.
+- The group asked Rozwald what the hell was going on. Rozwald seemed genuinely baffled. He did recall encountering an assassination of an individual who looked just like him back in Ryze. He was pretty sure he had heard the thugs use his own name too.
+- They decided to rest up, and visit the manor in the morning.
+- They caught a carriage and headed south to the Rozwald Estate. A more than lavish mansion.
+- Upon their arrival, the guards were not trusting of their claim. However, a little magical persuasion on Cyrus' part got them to call for Haefus. The head of staff.
+- Haefus could not hide his shock when seeing the unmistakable heir to the Rozwald Empire. It was if he had seen a ghost.
+- Invited inside, the encounter equally as awkward as it had been with Cliff.
+- Told to stay as long as they wished.
+- Unfortunately, the Lord and Lady of the house were not within The Free Cities. Though Haefus said he would put out a communication.
+- Elephant in the room, Rozwald was supposed to be dead.
+- Taken to see grave. Told there was no body, merely a headstone. Next to it was the headstone of Egan Alzby, Lord Rozwald's late colleague. An equally empty grave as Egan had died of Materiation.
+- As the morning went on, Deimos was getting an increasingly bad vibe from the estate and Rozwald couldn't help but feel Haefus was acting oddly.
+- Sherman decided to excuse himself to the bathroom, a strange thing for a warforged but the help were in no place to deny him.
+- Sherman promptly tore the toilet out of the ground and slipped in between the walls of the manor where he heard Haefus speaking to the staff.
+	- He told them to "Put that away, we can't act until we hear from Lord Rozwald."
+	- He also heard them say "I knew we shouldn't have believed them without a body."
+	- and finally "Make them believe they can lock their doors at night."
+- Sherman slipped away and found the group in the swimming pool. After much awkwardness, he convinced them to go to the hedge maze where they could be filled-in privately.
+- They decided to look for answers breaking into Lord Rozwald's office, kicking in the door.
+- Inside they found a shelve of records, a desk, and a vault hidden behind a painting.
+- The records dated on the year of Rozwald's supposed death were stolen by Deimos.
+- Rozwald attempted to break into the safe, but was too overwhelmed and anxious. His normally steady hands made shaky.
+- Cyrus was able to fool the staff into making it look like the room was not broken in to.
+- Sherman in his endless espionage expertise , yanked yet another fixture out of the wall. Then promptly threw the safe out the window where it struck a gardener, and broke open.
+- **Chapter ends midday on the 16th of Spring, Annum 4466**

@@ -22,7 +22,7 @@ This is a brief video I made that explains the high level concepts of the world.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XcARVHYHwho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Special Thanks
-This project took quite a long time for me to build, and it wouldn't have been possible without the help, and inspiration from a lot of people in my life. To accredit these people, I have written a page of [[Thanks]].
+This project took quite a long time for me to build, and it wouldn't have been possible without the help, and inspiration from a lot of people in my life. To credit these people, I have written a page of [[Thanks]].
 
 ## Campaigns
 The main purpose of this site is to act as reference material for my TTRPG campaigns. I also use this site for storing relevant information for my ongoing [[Campaigns]].

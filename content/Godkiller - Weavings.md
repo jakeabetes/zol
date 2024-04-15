@@ -9,3 +9,4 @@ title: "Godkiller - Weavings"
 - [[Weaving - The Hour of Shadows]]
 - [[Weaving - A Tale of Three Stones]] 
 - [[Weaving - Arch Nemesis]]
+- [[Weaving - Desperate People]]

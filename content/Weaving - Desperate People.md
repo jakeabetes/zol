@@ -1,0 +1,25 @@
+---
+title: "Weaving - Desperate People"
+---Cliff’s wizened eyes panned over the day’s batch of first-timers. Early spring always brought a surge of them. The downtrodden. Driven out of their illegitimate upper-city nooks by the garrison. A preparation Victory Day celebrations. Cliff tried to hire as many newcomers as he could. They were often the most in need, and it didn’t hurt that their lungs were in better shape than most who lived down in The Rifts. Better lungs, better labor. A grim reality, but it was something he needed to factor in as head miner.
+
+"Alright, quiet down and listen up you lot." The old, gruff dwarf’s voice echoed against the stone walls of the narrow chasm. No one was talking. The dozen or so men had already been silently waiting for him to speak. It was habit. They were the words Cliff always used to signify the start of his introduction.
+
+"Some of ya may have ‘erd ‘bout the mines already. I don’t care what ya think ya know, if you’ve never been in a Rift Iron mine yer as green as can be. Wee babies. I’ve had miners, spent decades pulling gold and silver up from the ground, lost or killed on their first day 'cause they thought they knew best." Cliff watched the crowd shift worriedly. Some hid it quite well. Other's didn't.
+
+"Rift Iron is a fickle creature. As I am sure most of ya know, she’s a magic ore. Expensive too. Capable of all sorts of wonders when refined. But, as a metalliferous stone, she wants ya dead. She'll do it too. Rift Iron veins move and spread like mold on week-old bread. This makes mining it a real bitch." Cliff paused to take a drink of water. He had to make his speeches without his filtermask, and the rift air burned his throat. They wouldn't get masks. It was only fair he'd suffer the same at times.
+
+"There are three things unique to Rift Iron mining. First, it grows. Like I said before, it moves beneath the earth like a fungus. This means that when we mine it, we never extract the entirety of a vein. Always leave behind a quarter of what ya find." The crew didn’t seem bothered by this. They were being paid a flat rate for the day, so it made no difference to them.
+
+"The growth leads to our second point. Rift Iron wanders. It moves through rock like a rat in a wall. Though it's slow as molasses. Much of what we do down in the mines is track where a vein is heading. Prediction lets us adjust to follow. If a foreman is telling ya to dig in a strange direction, this is why. We can hear ore moving through the rock. Makes a squeakin’ sound." As expected, some raised their eyebrows at this.
+
+"G’head. Listen for it. Put yer ears to the ground." Cliff made a low gesture. The crew became suddenly hesitant, no one wanting to be the first. Most were curious but afraid of looking silly.
+
+"That’s an order. You’ll do it hundreds of times today, so ya best get used to it." Cliff crossed his arms, waiting patiently. With reluctance, the crew got down on hands and knees, pressing their ears to the stone. After a moment some members recoiled, looking down at the ground speculatively.
+
+"It's louder down below. If ya hear a squeak a few times each minute, that's normal. A few times every second, that's danger. If ya hear cracking, popping, or movement in the stones, run. In a Rift Iron mine, collapses aren’t a matter of *if*, but *when*. We tunnel in arches and extract in domes. It's the most stable. Luckily at the Rozwald Mines, we are deep enough below Tenzentak that we needn’t worry about causing sinkholes or other hazards for the upper levels of the city." Cliff could see some were having second thoughts. And they should be.
+
+"Collapses are typically small, and always heralded by squeaks. They don’t usually result in casualties or trapped miners. However, it does happen. You may also discover caves, or old sections of mines that have been blocked off. Avoid those. Also, we are not the only creatures down there. If ya encounter anything that isn’t a person, run. But, if ya have to, yer pick makes a formidable weapon. There are lots and lots of tunnels, you’ll hear old miners call it The Maze. Don’t lose yer way in the panic." Cliff didn’t miss the human man at the back abandoning the group. Not an unwise decision.
+
+"Lastly, as I am sure yer all aware, Rift Iron makes smog when it grows. No one knows why it does that, but the greenish smoke is toxic. ‘S why the air hurts so much down here. Burns. The smoke seeps through the stone and is let out in low concentration. However, sometimes it gets trapped in an air pocket underground. If you open a hole and thick green air pours out, do not breathe. Tell a foreman and evacuate the shaft."
+
+The speech was tired and overused coming out of Cliff’s mouth. Learned by decades of repetition. He was so used to saying it, that he barely thought about what the words meant anymore. However, he never got used to the look on their faces. Their poor, defeated faces. Rock bottom. Literally. He knew each of them wanted to turn tail and get as far as possible from the god-forsaken mine. But they had no choice. Desperate people doing desperate things.
