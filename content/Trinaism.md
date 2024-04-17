@@ -64,3 +64,6 @@ Fundamentalist [[Trinaism]] is known for its idealization of hierarchy, order, b
 - Fundamentalist [[Trinaism]] supports the ideas of [[Great Magic]] and [[The Triumvirate]].
 - [[Trinaism]] is similar in many ways to Zolaen-Centric belief. However, it holds [[The Trinity]] above the [[Zolaen Gods]].
 - Some manifestations of [[Trinaism]] contend with the idea of [[The Anti-Trinity]], a dark counterpart to their god.
+
+## Churches/Temples of Note
+- The Trinual, located all over [[The Three Corners]]. Most prominently in [[Gethsemane]] 

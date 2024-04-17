@@ -16,3 +16,8 @@ Values differ based on specific faiths.
 - [[The Hum]]
 - [[The Oldshards]], see [[Pheridian]] belief
 - [[Great Old Ones]]
+
+## Churches/Temples of Note
+There are many different manifestations of Wayward religion. However there are few organized churches/temples of note.
+- [[Church of The Hum]]
+- [[The Eelynn]]

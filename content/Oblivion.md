@@ -6,7 +6,7 @@ The Duty of [[The Watcher in The Door]], the prison of The Great Old One, what Z
 
 ![[Oblivion.png]]
 
-Said to be a massive stretch of obsidian flecked with gold. Oblivion is home to the remaining fragment of [[Goh'zul]]'s soul called [[The Wretch]]. A being of endless hunger.
+Said to be a massive stretch of solid [[Phlogiston]] flecked with gold. Oblivion is home to the remaining fragment of [[Goh'zul]]'s soul called [[The Wretch]]. A being of endless hunger.
 
 All that is known of Oblivion comes from the [[Zolaen Gods]]. They claim to hide it away from mortals, [[The Watcher]] protecting its sole entrance called 'The Door'.
 

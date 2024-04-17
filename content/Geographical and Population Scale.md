@@ -8,7 +8,7 @@ title: "Geographical and Population Scale"
 *However, there are a few things I intended for these concepts which will help define relative numbers when storytelling in Zol.*
 
 ## Population
-[[Cities]] are meant to feel very populated, even small cities should feel like they are relatively dense in their population. This is because the wilderness is quite dangerous, and it has forced people to all flock to the safety of cities. [[Outer Villages]] should feel much less dense in their population.
+[[Cities]] are meant to feel very populated, even small cities should feel like they are relatively dense in their population. A city, and its surrounding area should feel like province of its own. Cities are ancient and massive, overflowing with history and culture. This is because the wilderness is quite dangerous, and it has forced people to all flock to the safety of cities. [[Outer Villages]] should feel much less dense in their population.
 
 The most populated city is [[Audran]] and the least populated city is [[Little Triumph]].
 

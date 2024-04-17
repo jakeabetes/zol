@@ -70,3 +70,6 @@ Fundamentalist belief focuses on the ideals of sacrifice, hierarchy, and Human S
 ## Other Information
 - [[Ashian]] belief supports [[Great Magic]] and the [[Triumvirate]].
 - [[Ashian]] belief is similar in many ways to Zolaen-Centric belief. However, it holds [[The Trinity]] above the [[Zolaen Gods]]. It also views
+
+## Churches/Temples of Note
+- [[Church of Three Fires]] of [[Kapesh]]

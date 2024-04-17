@@ -60,3 +60,7 @@ Fundamentalist belief is focused on the idea of extreme dedication, struggle, an
 ## Other Information
 - [[Hoss]] is known for its tendency to lean towards fundamentalist ideals.
 - [[Zephyrean]] belief sees the [[Ferric Alphabet]] as a sacred thing. Its symbols are used for spiritual and ceremonial purpose. Because of this, [[Zephyrean]] religion does not allow for the usage of [[Iron Light]]. [[Apparatum]] and [[Warforged]] are seen as heretical.
+
+## Churches/Temples of Note
+- The Church of the Winds. Organized in [[Often]] and [[Fike]]
+- The Glass Cathedral, of [[Hoss]]

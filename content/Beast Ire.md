@@ -18,7 +18,7 @@ For a time it was a sort of paradise for these people. The towns and cities they
 
 Some of the changed individuals sought more than the life of a simple beast, they hunted larger and larger prey. Eventually they began hunting each other, consuming them, and gaining much more of [[Kerndall]]'s essence through biomagnification. Their greed began to drive the transformation down a dark path. Their forms became monstrous, and their minds mad. People in the cities watched in horror as half-man-half-beast creatures lurked around their city's outskirts.
 
-Eventually the hunts began. People from the cities took up arms against these creatures. They began to search for them at night by lanternlight. Those who did so gained the name [[Bloodhunters]], and the hunted were called [[Beastmen]]. The affliction itself was dubbed [[Beast Ire]].
+Eventually the hunts began. People from the cities took up arms against these creatures. They began to search for them at night by lanternlight. Those who did so gained the name [[Bloodhunters]], and the hunted were called [[Beastmen]]. The affliction itself was dubbed [[Beast Ire]], a [[Curiosity]].
 
 The [[Beastmen]] were extremely powerful, and their minds had devolved to madness. It took warriors of equal strength and great determination to slay them. Many warriors began consuming small doses of blood from slain [[Beastmen]] to increase their physical and magical abilities for a short time. Over-usage of the blood caused a slow, but unstoppable development of [[Beast Ire]].
 
@@ -28,7 +28,7 @@ The exact method of transference was never determined, but over-exposure to bein
 
 [[Bloodhunters]] who were interviewed by academics spoke of eldritch, nigh incomprehensible knowledge being revealed to them in dreams and visions. However they couldn't put the concepts to words efficiently. This sparked small academic branches, and churches who were obsessed with prospects of beast blood.
 
-[[Kerndall]] sought to stop the affliction, but it had taken on a life of its own. [[Zol]] was tainted by the plague, and the conflict between mortals and [[Beastmen]] had turned [[The Prime]] into a nightmarish world since [[Beast Ire]] had become contagious. As the crisis progressed, the people of [[Zol]] went into hiding. As the ailment spread into the cities. The only solace that the mortal world had, was sunlight. [[Beastmen]] feared the light of day, and only stalked during the night.
+[[Kerndall]] sought to stop the affliction, but it had taken on a life of its own. [[Zol]] was tainted by the plague, and the conflict between mortals and [[Beastmen]] had turned [[The Prime]] into a nightmarish world since [[Beast Ire]] had become contagious. As the crisis progressed, the people of [[Zol]] went into hiding. As the [[Curiosity]] spread into the cities. The only solace that the mortal world had, was sunlight. [[Beastmen]] feared the light of day, and only stalked during the night.
 
 ## Symptoms
 The symptoms of [[Beast Ire]]:

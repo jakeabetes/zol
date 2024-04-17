@@ -60,12 +60,13 @@ The West Island. The busiest part of the city. Jetsam is the place all pirates t
 
 ## Goods and Services
 
-| Name                  | Type            | Island               | Description                                                             |
-| --------------------- | --------------- | -------------------- | ----------------------------------------------------------------------- |
-| Port Keep             | Keep            | Port Keep            | The city's main keep, has an island of its own                          |
-| Al'Kehtal Convergence | Port Keep       | Teleportation Circle | The city's main teleportation circle. Located within the keep.          |
-| Beer Village          | Tavern District | Jetsam               | Neutral territory within the city where anyone can come drink or lodge. |
-| Bastard Rock          | Market          | Flotsam              | The city's largest market. Here trade is conducted through Binds, where the city takes a maximum of 5% of your profits. Many brave foreign merchants will come here in hopes to find some rare goods to trade elsewhere.                                                                         |
+| Name                   | Type            | Island               | Description                                                                                                                                                                                                              |
+| ---------------------- | --------------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Port Keep              | Keep            | Port Keep            | The city's main keep, has an island of its own                                                                                                                                                                           |
+| Al'Kehtal Convergence  | Port Keep       | Teleportation Circle | The city's main teleportation circle. Located within the keep.                                                                                                                                                           |
+| Beer Village           | Tavern District | Jetsam               | Neutral territory within the city where anyone can come drink or lodge.                                                                                                                                                  |
+| Bastard Rock           | Market          | Flotsam              | The city's largest market. Here trade is conducted through Binds, where the city takes a maximum of 5% of your profits. Many brave foreign merchants will come here in hopes to find some rare goods to trade elsewhere. |
+| The Temple of the Lost | Church          | Flotsam              | A church dedicated to the worship of [[The Wandering Gods]]                                                                                                                                                              |
 
 ## Authority
 The city is overseen by the Lord Captain Kaskoe Kollik, a clever Tiefling man. As well as his Furled Sail Council. This group makes decisions on how best business should be conducted in relation to external threats like the military of kingdoms, or sea monsters. They are also responsible for making decisions on punishments relating to pirates breaking [[The Code]]. These things are all done by vote, the Lord Captain gets 2 votes, and ties go in favor of the Lord Captain.

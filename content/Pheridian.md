@@ -59,3 +59,6 @@ Fundamentalist belief consists of very strict adherence to [[The Pattern]]. It i
 ## Other Information
 - [[Pheridian]] religion was significantly harmed during the [[Western War]] when [[The Apex]] was lost. This has caused much uproar within [[Pheridian]] belief and the effects are still at the core of this great loss.
 - [[Pheridian]] belief sees other [[Gods]] merely as powerful entities, not divinity. They are to be respected, but not worshiped.
+
+## Churches/Temples of Note
+- [[The Eelynn]]

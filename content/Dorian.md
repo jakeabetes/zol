@@ -65,3 +65,6 @@ Fundamentalist belief largely focuses on the ideas of perfection, and living the
 ## Other Information
 -  [[Arkian]] worship is very similar to [[Dorian]] worship, however they differ in the sense that [[Arkian]] belief focuses on the idea of inherited sin, and atonement. [[Arkian]] belief sees the modern world as an opportunity for atonement. [[Dorian]] belief instead focuses on the idea of the modern world being a second chance at life. The two churches were once a single denomination, but diverged long ago. This divergence occurred before razing events like the [[Beast Ire]] Plague, and possibly even [[The Dragon War]]. The true nature of this divergence has been lost to time, and is largely debated.
 - Theologians and sociologist believe that in the coming centauries, more branches of Zolaen-Centric belief will break off [[Dorian]] worship due to differences in beliefs regarding the cause of [[The Undoing]].
+
+## Churches/Temples of Note
+- The Church of The Watcher, in the West of [[The Three Corners]]

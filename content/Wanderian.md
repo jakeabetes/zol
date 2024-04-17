@@ -56,3 +56,7 @@ Fundamentalist belief largely focuses on the idea of justice and protection of t
 
 ## Other Information
 - Some believe that [[The Wandering Gods]] do not exist, or that [[The Wandering Gods]] are actually the cause of [[The Undoing]]. This makes [[Wanderian]] worship fringe, and controversial.
+
+## Churches/Temples of Note
+- The Church of the Wanderers in [[Hanen]]
+- Temple of the Lost in Flotsam of [[The Isles of Al'Kehtal]]
