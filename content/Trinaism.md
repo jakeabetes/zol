@@ -66,4 +66,4 @@ Fundamentalist [[Trinaism]] is known for its idealization of hierarchy, order, b
 - Some manifestations of [[Trinaism]] contend with the idea of [[The Anti-Trinity]], a dark counterpart to their god.
 
 ## Churches/Temples of Note
-- The Trinual, located all over [[The Three Corners]]. Most prominently in [[Gethsemane]] 
+- The Trinual, located nearly all over [[The Three Corners]]. Most prominently in [[Laenwalde]] and [[The Free Cities of Alderun]]
