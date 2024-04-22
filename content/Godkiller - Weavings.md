@@ -10,3 +10,4 @@ title: "Godkiller - Weavings"
 - [[Weaving - A Tale of Three Stones]] 
 - [[Weaving - Arch Nemesis]]
 - [[Weaving - Desperate People]]
+- [[Weaving - Lectures on Ferrication - 1 ]]

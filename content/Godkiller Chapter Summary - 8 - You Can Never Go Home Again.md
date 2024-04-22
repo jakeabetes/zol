@@ -1,0 +1,51 @@
+---
+title: "Godkiller Chapter Summary - 8 - You Can Never Go Home Again"
+---- **Chapter begins midday on the 16th of Spring, Annum 4466**
+- The chapter began with our heroes gazing down at the safe they had thrown out the window. It had struck an unlucky gardener, and burst open.
+- The group quickly hopped out the window, and began recovering what they could. Deimos, Rozwald, and Cyrus salvaged the safe's contents while Sherman and Magnus hid the gardener's unconscious body.
+- A group of guards came to see what the chaos was, but Magnus and Sherman were able to trick them. Buying the others enough time to gather everything from the safe.
+- The group then ran, and started ascending the manor wall. Unfortunately, the were spotted. The previously distracted guards turned and began to pursue.
+- After some difficulty, the party was able to clear the wall and run through the woods.
+- To their dismay, the guards had been waiting all morning for the order to dispatch the supposed "imposters". Our heroes disorganized fleeing attempt was not swift enough to evade the well prepared guards.
+- The pursuers caught up with the party, and a battle ensued. The guards put up a mean fight, but due to the party's resilience, and restraint, they were able to knock a few unconscious, scare some off, and force the remaining attackers to surrender.
+- Their leader cursed them out. He didn't seem too intermingled with the mysterious ongoings of house Rozwald, so his information wasn't too useful.
+- Though the guards did share one thing as a sort of thanks for sparing them. Apparently, the Noble Lord Rozwald's way was not one of due course. They likely wouldn't report the threat to the Tenzentak authority. An assassination to tie up loose ends was more likely.
+- The two groups sprinted off in different directions, our heroes heading to Tenzentak once again. They eventually stopped at a group of chalkstones monoliths to go over what they stole
+	- A large sum of money.
+	- A few commissioned drawings of what seemed to be the Lord Rozwald's mistresses.
+	- A firearm
+	- And a set of complex apparatum schemas relating to Warforged Production. They were titled the "Failsafe Precaution"
+		- They included a small blurb of writing that said the invention was quite promising, but needed quite a bit of work. The design, in its current state, apparently made them a bit mad, and repetitive.
+- Additionally, the documents stolen by Deimos were extensive, and disorganized. They would likely take hours to parse through.
+- Not knowing what to make of their discovery the party returned to Tenzentak where they found the festivities were continuing to grow.
+- Amongst the now crowded city, they discovered a mystic's tent, offering many services such as fortune telling, and the uncovering of secrets.
+- Cyrus, being a man of many secrets, encouraged the group to check the tent out. Inside they met a mysterious, sliver tonged wood elf wearing an elaborate mask.
+- He offered his services to our heroes, even giving them a free tarot reading to broker good trust. Drawing:
+	- The Tower - signifying intense and sudden change, release, painful loss, tragedy, and revelation
+	- Strength - signifying courage, compassion, focus, persuasion, and influence
+	- and The High Priestess - signifying inner voice, unconscious, divine feminine, and security
+- The mysterious mystic then prodded Cyrus, saying he could smell a secret in his pocket. A set of keys. He would tell them where the keys went, given they did something for him in exchange.
+- The stranger's request was odd. He had been tasked to attend a masquerade party, and ensure one individual had a very embarrassing evening. A man who would be wearing a silver fox mask. However, the stranger didn't want to go.
+- He asked the party go in his stead, and humiliate the silver fox a total of three times over the course of the party.
+- The offer was suspicious, but the party eventually accepted. He gave them the invitations for 8pm at Septurn Manor in Cliffside.
+- The mystic then divined the keys in an odd, and succinct ritual.
+	- One went to an exterior door. A building in an outer village called Fox's Hollow.
+	- The second was magical. It went to a safe somewhere within the building.
+	- And the third was an anomaly. So purely magical, that the second key might as well be a stone in comparison. The stranger admitted to not knowing what the key was for. He seemed almost embarrassed his skills were not sufficient. The key was so wrought with informational energy, that it left the mystic's nose bleeding.
+- Their deal was bound, and the stranger told the party the best make good on it, or else. Sherman asked him his name, but apparently that was a secret for another day.
+- Upon exiting the tent, the party bumped directly into Bennet Frence. With two black eyes, and a furious expression, Bennet attempted to arrest the party.
+- Being full guild members, they were of equal authority to him. Meaning he could not arrest them. Though the heroes graciously volunteered for questioning. 
+- They followed him to a relatively mundane guild structure where they were left in a simple room. Not long after, a tiny, odd warforged entered. He immediately began calling the party "Dog-fuckers".
+- A moment later, an apologetic Guild Mind entered the room. Master Colin Coinge of Kerketh Academy. The creator of X12, leading guild expert on Mechanicum Immaculatum, and "head of investigation" on the train robbery. 
+- Not long after, a third individual entered. A goliath woman named Persephone Drone. A Guild Mind, and Hillperson of The Ward. She seemed very disheveled and quite upset with Master Colin Coinge. Persephone introduced herself as the "co-investigator" of the robbery.
+- They went over what seemed like a very ordinary set of questions. However, a few things were revealed:
+	- Master Colin Coinge is a colleague of Rozwald's father.
+	- The acid inside the warforged in the attack was likely a secondary modification to their schema. It's real purpose was made to hide some primary modification upon death.
+	- The acid was found to be synthetic shamblic acid, a substance invented and produced within the Guild Itself. It was a proprietary technology created by Master Willam Bellard. The same guild mind who had turned down the party's help upon their arrival at Tenzentak.
+	- The Alshor, a group of local free-willed, peaceful, warforged had been imprisoned under suspicion of association with the attack.
+	- And lastly, Persephone and Master Collin Coinge do not get along.
+- Towards the end of the conversation the party found themselves both accused and confused. Master Collin Coinge suddenly claimed to have it on good account that the party had attempted to tamper with the vault prior to the attack. Something the group did not do.
+- Worse, he claimed that a guard who survived 18 hours after the train had arrived back in Tenzentak attested to seeing them go into the vault shortly after he was wounded. This was all the more confusing as Deimos had checked the guards. Both were dead as could be.
+- The interrogation ended with high tempers, but no arrests were made. The master claimed to think they party may have somehow been involved, but weren't guilty per se. Instead, Master Coinge instructed the party to stay within the jurisdiction of Tenzentak. Not going beyond the outer villages. 
+- The party, frustrated and desperate left the room. Where Magnus, making the best of the negative encounter, attempted broker a relationship with the first person from the ward he had met within the Free Cities. Persephone.
+- **Chapter ends on the early evening on the 16th of Spring, Annum 4466**

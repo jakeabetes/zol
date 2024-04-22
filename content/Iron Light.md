@@ -4,11 +4,11 @@ title: "Iron Light"
 
 ![[Iron Light Artificing.png]]
 
-*An artificer carving complex Ferric Alphabet runes into an iron slab, its design hidden amongst artistic additions to obfuscate its method of function.*
+*An artificer carving complex Ferric Alphabet runes into an iron slab, its design hidden amongst artistic additions to obfuscate its method of function. A process known as [[Ferrication]]*
 
 [[Iron Light]] revolutionized [[Zol]] by putting power in the hands of many who would be otherwise be at the whim of the world. Unfortunately, the technique has also introduced new dangers like new weapons of war, and the [[Magic]] ailment known as [[Materiation]].
 
-In its most simple form, [[Iron Light]] devices (also known as [[Apparatum]]) are created via engraving special runes from the [[Ferric Alphabet]] into plates of Iron. These symbols channel [[Arcana]] similarly to how one uses their [[Vizir]], with the main difference being the user does not need to know the techniques required to harness [[Magic]]. They can achieve the very specific result allowed by the runes by lending their [[Vizir]] to it.
+In its most simple form, [[Iron Light]] devices (also known as [[Apparatum]]) are created via engraving special runes from the [[Ferric Alphabet]] into plates of Iron. This engraving is often called [[Ferrication]]. These symbols channel [[Arcana]] similarly to how one uses their [[Vizir]], with the main difference being the user does not need to know the techniques required to harness [[Magic]]. They can achieve the very specific result allowed by the runes by lending their [[Vizir]] to it.
 
 ## Examples of Apparatum
 Some devices made with [[Iron Light]] are quite simple. Blades that dull very slowly, stoves that heat without fire, lamps that glow without fuel, or even simple refrigeration.

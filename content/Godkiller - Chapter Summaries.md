@@ -9,3 +9,4 @@ title: "Godkiller - Chapter Summaries"
 - [[Godkiller Chapter Summary - 5 - The Hand of Fate]]
 - [[Godkiller Chapter Summary - 6 - The Devil's in the Details]]
 - [[Godkiller Chapter Summary - 7 - Trouble in Tenzentak]]
+- [[Godkiller Chapter Summary - 8 - You Can Never Go Home Again]]
