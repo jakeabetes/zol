@@ -1,6 +1,7 @@
 ---
 title: "Aldem, King of all Hells"
----*Void God of Hell, Major Deity*
+---
+*Void God of Hell, Major Deity*
 ![[Aldem king of all hells.png]]
 
 Lord of [[Fiends]], Conqueror of [[Damnation]]. [[Aldem, King of all Hells]] has domain over each and every layer of hell that exists in [[Zol]]. 

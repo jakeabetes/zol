@@ -1,3 +1,4 @@
 ---
 title: "Greatwinds"
----See [[The Ward]]
+---
+See [[The Ward]]

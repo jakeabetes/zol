@@ -1,6 +1,7 @@
 ---
 title: "Elysium Station"
----*The Gateway to the Sky*
+---
+*The Gateway to the Sky*
 ![[Station Skyline.png]]
 
 The sister city to the floating capital of [[Heliodor]]. Geographically within [[Eucaren]], but considered under the jurisdiction of [[Heliodor]], Elysium station was originally constructed with the express purpose of acting as a commerce and transportation hub for the capital. Being so centrally located and associated with the capital, it quickly grew into a small city in its own right. However it is extremely young for a city, and faces many issues that Heliodor does not due to its privilege as a flying city. These issues manifest as bandits, monsters, and overpopulation. Many people view it as part of the capital itself, but it has its own distinct citizens and culture that make it a unique city.

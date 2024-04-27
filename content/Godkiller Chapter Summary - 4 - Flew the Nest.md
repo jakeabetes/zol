@@ -1,6 +1,7 @@
 ---
 title: "Godkiller Chapter Summary - 4 - Flew the Nest"
----- **Chapter begins on the early evening on the 13th of Spring, Annum 4466**
+---
+- **Chapter begins on the early evening on the 13th of Spring, Annum 4466**
 - Our heroes are attacked by a massive Baby Rok whilst trying to recover a damaged Warforged. Rather than fight the huge creature, they decided to
 	- Distract it
 	- …which lead them to being chased by it

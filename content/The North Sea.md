@@ -1,6 +1,7 @@
 ---
 title: "The North Sea"
----![[The North Sea 1.png]]
+---
+![[The North Sea 1.png]]
 
 Ocean waters filled with bounties entombed in ice. [[The North Sea]] is a region touch almost exclusively by the viking sailors of [[The Ward]]. Rocked by [[Adrathar]]'s [[Greatwinds]], filled with of icebergs, sea life, and gargantuan monsters. [[The North Sea]] is only for the brave.
 

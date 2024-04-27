@@ -1,6 +1,7 @@
 ---
 title: "Arkian"
----*In life we are impure, but in The Watcher's gaze we are seen anew.*
+---
+*In life we are impure, but in The Watcher's gaze we are seen anew.*
 ![[Arkian.png]]
 
 ## Overview

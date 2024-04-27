@@ -1,6 +1,7 @@
 ---
 title: "The Auroran Summits"
----![[The Auroran Summits.png]]
+---
+![[The Auroran Summits.png]]
 
 One of the smaller mountain ranges within [[The Three Corners]], but its size does not detract from its majesty. A sacred set of peaks to [[Audran]] of [[Laenwalde]]. Evidence shows that the veil between [[Zol]] and [[The Ethereal Plane]] is thinner here, allowing the attuned to touch the spiritual, and cognitive world with ease. 
 

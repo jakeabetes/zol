@@ -1,6 +1,7 @@
 ---
 title: "The University"
----Those who seek to understand [[The Wills]], the people of [[The Three Corners]], and how the world can be bettered. [[The University]] was founded upon altruistic motives during the later stages of [[The Taming of the Badlands]]. It is comprised of three branches:
+---
+Those who seek to understand [[The Wills]], the people of [[The Three Corners]], and how the world can be bettered. [[The University]] was founded upon altruistic motives during the later stages of [[The Taming of the Badlands]]. It is comprised of three branches:
 - The [[Arcanum]], which studies the will of [[Arcana]]
 	- [[The Brass Hall]]
 	- [[Jhenbridge]]

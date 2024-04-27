@@ -1,3 +1,4 @@
 ---
 title: "First Age"
----See [[Historical Timeline]].
+---
+See [[Historical Timeline]].

@@ -1,6 +1,7 @@
 ---
 title: "Warforged"
----*Of Iron and Light*
+---
+*Of Iron and Light*
 ![[Warforged.png]]
 
 ## Description

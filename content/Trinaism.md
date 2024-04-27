@@ -1,6 +1,7 @@
 ---
 title: "Trinaism"
----*Body, Soul, and Vizir. From these three things, we are one.*
+---
+*Body, Soul, and Vizir. From these three things, we are one.*
 ![[Trinian.png]]
 
 ## Overview

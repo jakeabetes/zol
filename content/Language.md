@@ -1,6 +1,7 @@
 ---
 title: "Language"
----Language manifests in many unique, and poorly understood ways across [[Zol]]. This is largely because of the effects of [[The Undoing]] and the strange nature of Common. No one fully understands the influences upon language, and its effect on the world. However, many academics believe it is central to understanding the nature of [[Zol]]'s history.
+---
+Language manifests in many unique, and poorly understood ways across [[Zol]]. This is largely because of the effects of [[The Undoing]] and the strange nature of Common. No one fully understands the influences upon language, and its effect on the world. However, many academics believe it is central to understanding the nature of [[Zol]]'s history.
 
 *Each listed language has its own script. If a language has regional subsections, these regions can communicate with one another, but their dialects differ slightly. Academics expect that directly after [[The Undoing]], these regional languages were the same, but time has caused them to diverge.*
 

@@ -1,6 +1,7 @@
 ---
 title: "Humans"
----*The Adaptable, Ambitious, and Assiduous. The bearers of the great sin*
+---
+*The Adaptable, Ambitious, and Assiduous. The bearers of the great sin*
 ![[Human 2.png]]
 
 ## Description

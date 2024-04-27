@@ -1,6 +1,7 @@
 ---
 title: "The Narrow Sea"
----![[The Narrow Sea.png]]
+---
+![[The Narrow Sea.png]]
 
 The smallest of the seas, and most familiar with [[The Three Corners]]' history of warfare. [[The Narrow Sea]] is the thin border between [[Kapesh]] and [[Gethsemane]]. The two kingdoms fought a war that waged on for ages called the [[Triumvirate Battles]]. The sea floor is littered with sunken ships and the bones of those lost in the fighting.
 

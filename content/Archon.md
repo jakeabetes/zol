@@ -1,3 +1,4 @@
 ---
 title: "Archon"
----The name for a ruler within [[The Ward]].
+---
+The name for a ruler within [[The Ward]].

@@ -1,6 +1,7 @@
 ---
 title: "The Word of Wrath"
----*Jaw, Horror of Galfora, Bearer of The Word of Wrath, Wielder of [[The First Tongue]]*
+---
+*Jaw, Horror of Galfora, Bearer of The Word of Wrath, Wielder of [[The First Tongue]]*
 ![[Jaw.png]]
 
 Living destruction, the killer of men. Jaw, a presumed full blooded orc, he is the unstoppable [[Wordbearer]] of unknown origins. Jaw single handedly ended the [[Western War]]. No one knows Jaw's motivation for his destruction, but he is seen as a territorial and evil being.

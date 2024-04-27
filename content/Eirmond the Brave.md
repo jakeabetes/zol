@@ -1,3 +1,4 @@
 ---
 title: "Eirmond the Brave"
----See the [[Alderian Rebellion]]
+---
+See the [[Alderian Rebellion]]

@@ -1,3 +1,4 @@
 ---
 title: "Tarot Cards"
----See [[The Tarot]]
+---
+See [[The Tarot]]

@@ -1,3 +1,4 @@
 ---
 title: "Chromatic Dragons"
----See [[Dragons]]
+---
+See [[Dragons]]

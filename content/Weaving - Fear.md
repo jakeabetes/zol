@@ -1,6 +1,7 @@
 ---
 title: "Weaving - Fear"
----Our story began a long, long time ago. Pieces of it wash up on the shore of history like the remains of a shipwreck. A scene of a man darting through rain-soaked alleyways in the dead of night. Panting nervously, he peers out from his hood, anxiously searching for something amongst the moonlit city streets.
+---
+Our story began a long, long time ago. Pieces of it wash up on the shore of history like the remains of a shipwreck. A scene of a man darting through rain-soaked alleyways in the dead of night. Panting nervously, he peers out from his hood, anxiously searching for something amongst the moonlit city streets.
  
 He does his best not to trample sleeping beggars, far too cold, wet, and hungry to take notice of his panicked stride. After a great deal of searching, the man clumsily slides to a stop and breathes a shaky sigh of relief. He looks at the dilapidated wooden door marked with a faded symbol. A symbol he has come to dread. After a cautious moment, the man works up the courage to enter only to find the cold iron handle locked from the inside. He contemplates calling out, but before he can open his mouth, he hears a quiet unlatching sound.
  

@@ -1,6 +1,7 @@
 ---
 title: "Tabaxi"
----*Feline Physiology*
+---
+*Feline Physiology*
 ![[Tabaxi.png]]
 
 ## Description

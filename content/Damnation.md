@@ -1,6 +1,7 @@
 ---
 title: "Damnation"
----*The culmination of thousands of hells. All created to seek the destruction of [[Goh'zul]], now formed as one unified force of destruction. Still seeking to fulfil their original quest, their Ire now threatens [[The Prime]] as it is formed from what remains of their original nemesis. One of Zol's [[Planes]] of existence.* 
+---
+*The culmination of thousands of hells. All created to seek the destruction of [[Goh'zul]], now formed as one unified force of destruction. Still seeking to fulfil their original quest, their Ire now threatens [[The Prime]] as it is formed from what remains of their original nemesis. One of Zol's [[Planes]] of existence.* 
 
 The land of the dead, and the punishment of [[Zol]]. [[Damnation]] is a subplane to [[The Void]] and home to [[Aldem, King of all Hells]] along with his legion of [[Fiends]].
  

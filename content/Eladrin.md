@@ -1,6 +1,7 @@
 ---
 title: "Eladrin"
----*The Fae-Touched Elves*
+---
+*The Fae-Touched Elves*
 ![[Eladrin.png]]
 
 ## Description

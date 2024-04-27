@@ -1,3 +1,4 @@
 ---
 title: "The Path"
----See [[Laelanor]]
+---
+See [[Laelanor]]

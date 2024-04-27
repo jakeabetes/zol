@@ -1,6 +1,7 @@
 ---
 title: "Limbo"
----*One of Zol's [[Planes]] of existence*
+---
+*One of Zol's [[Planes]] of existence*
 
 Where the undestined dead are sent to prove themselves to [[The Coilwalker]].
 

@@ -1,6 +1,7 @@
 ---
 title: "Alderian Council"
----The [[Alderian Council]] is the governing body of [[The Free Cities of Alderun]]. Within their own city, they have the authority similar to that of a foreign city lord. However they are expected to uphold the mission of the whole council: maintain order and individual freedoms. Their station is gained by election from the public, and organizations from the region. Each member of the council represents one of the region's cities. 
+---
+The [[Alderian Council]] is the governing body of [[The Free Cities of Alderun]]. Within their own city, they have the authority similar to that of a foreign city lord. However they are expected to uphold the mission of the whole council: maintain order and individual freedoms. Their station is gained by election from the public, and organizations from the region. Each member of the council represents one of the region's cities. 
 
 The [[Alderian Seat]]s are:
 - [[Tenzentak]] - Lady Helseena Trodak

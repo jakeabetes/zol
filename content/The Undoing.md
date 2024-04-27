@@ -1,6 +1,7 @@
 ---
 title: "The Undoing"
----*The most influential event in all of [[Zol]]'s history.*
+---
+*The most influential event in all of [[Zol]]'s history.*
 
 [[The Undoing]] is the name for the event which destroyed all of [[Old Zol]] and created [[The Grand Nothing]]. No one knows what caused it. Some believe it was the wrath of the [[Zolaen Gods]] who sought to punish all of [[Zol]] for the actions of the [[Humans]], others believe it was the [[The Wandering Gods]] who came to take [[Zol]] from their own. There are those who think it to be the actions of [[Void Gods]] or even some other force not understood by modern [[Zol]].
 

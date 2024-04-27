@@ -1,6 +1,7 @@
 ---
 title: "Kerketh Academy"
----Amongst [[The Free Cities of Alderun]] lies a place of true hope and light. A school where anyone of any creed and learn. It is a place of enlightenment and ingenuity. Built within the [[The Fetterpeak Mountains]] in the city of [[Deepspell]], it is a place like no other.
+---
+Amongst [[The Free Cities of Alderun]] lies a place of true hope and light. A school where anyone of any creed and learn. It is a place of enlightenment and ingenuity. Built within the [[The Fetterpeak Mountains]] in the city of [[Deepspell]], it is a place like no other.
 
 ![[Kerketh.png]]
 

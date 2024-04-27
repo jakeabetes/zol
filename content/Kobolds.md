@@ -1,6 +1,7 @@
 ---
 title: "Kobolds"
----*The most clever, and resilient of the lesser dragons*
+---
+*The most clever, and resilient of the lesser dragons*
 ![[Kobold.png]]
 
 ## Description

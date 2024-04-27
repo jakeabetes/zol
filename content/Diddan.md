@@ -1,6 +1,7 @@
 ---
 title: "Diddan"
----*The Lawless Gun-Slinging Sand Dunes*
+---
+*The Lawless Gun-Slinging Sand Dunes*
 ![[Diddan Skyline.png]]
 
 Far from the comforts of the east, [[Diddan]] is a rough and tumble city of sandy streets and gruff gunslingers. Famed for its finely made firearms, and infamous for its crime. [[Diddan]] faces constant challenges of roving gangs, draught, and corrupt leadership. The city is not a hospitable one, but it has a unique feeling of undeniable freedom that is hard for some to resist.

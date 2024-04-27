@@ -1,6 +1,7 @@
 ---
 title: "The Bladehammer Guild"
----*Fighting For and Forging Fair*
+---
+*Fighting For and Forging Fair*
 ![[Bladehammer Guild.png]]
 
 Those who fight for a better [[Zol]]. [[The Bladehammer Guild]] is the largest guild in all [[The Three Corners]]. It is an organization recognized by every city, even [[The Glassius Reach]] knows their mission. Located on the very edge of [[The Grand Nothing]] in [[Tenzentak]]. 

@@ -1,6 +1,7 @@
 ---
 title: "The Ancestor"
----*Wandering God, Moral of Origin*
+---
+*Wandering God, Moral of Origin*
 ![[The Ancestor.png]]
 
 To understand one's place in the world one must first understand where they have come from, and why. [[The Ancestor]], also known as *Fang*, bears the moral of Origin. A thing that lies at ones core, like the shell of a seed beneath the roots of a great oak tree. There is power in the place one comes from, a power that can be harnessed.

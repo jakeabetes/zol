@@ -1,6 +1,7 @@
 ---
 title: "Harengons"
----*The quick-footed*
+---
+*The quick-footed*
 ![[Harengon.png]]
 
 ## Description

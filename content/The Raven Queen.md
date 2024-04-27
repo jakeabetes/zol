@@ -1,6 +1,7 @@
 ---
 title: "The Raven Queen"
----*Wandering God, Moral of Wit*
+---
+*Wandering God, Moral of Wit*
 ![[Raven 2.png]]
 
 Sharpness of mind outweighs sharpness of blade. [[The Raven Queen]] carries the moral of Wit. She is a mysterious and elusive being who idealizes overcoming obstacles with skill and mind, rather than destruction and might.

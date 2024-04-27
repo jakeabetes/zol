@@ -1,6 +1,7 @@
 ---
 title: "Kenku"
----*Cursed Corvid*
+---
+*Cursed Corvid*
 ![[Kenku.png]]
 
 ## Description

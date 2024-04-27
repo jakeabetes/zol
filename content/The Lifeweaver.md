@@ -1,6 +1,7 @@
 ---
 title: "The Lifeweaver"
----*Zolaen God of Nature, Major Deity*
+---
+*Zolaen God of Nature, Major Deity*
 ![[The Lifeweaver.png]]
 
 God of everything from stone to flesh. [[The Lifeweaver]] has dominion over all natural things in [[Zol]], and is one of the most powerful [[Zolaen Gods]]. Thought to be one of the only gods to rival [[The Watcher]] in power. [[The Lifeweaver]] embodies the natural beauty and destruction of [[Zol]]

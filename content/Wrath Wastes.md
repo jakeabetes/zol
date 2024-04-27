@@ -1,3 +1,4 @@
 ---
 title: "Wrath Wastes"
----See [[The Wrath Wastes]]
+---
+See [[The Wrath Wastes]]

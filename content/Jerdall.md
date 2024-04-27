@@ -1,6 +1,7 @@
 ---
 title: "Jerda'll"
----*The City of Echoing Caves*
+---
+*The City of Echoing Caves*
 ![[Jerdall groundline 2.png]]
 
 Deep below the forest glades of [[Gethsemane]] lies the tall  cavern city of [[Jerda'll]]. Home to the [[Drow]], the city is a place of unique culture and unusual beauty. Its people hold traditions of deep legends and shared songs. Protected from outside influences by its giant iron gate, [[Jerda'll]] is truly a sight and sound to behold. Its people are known to sing and play old songs called [[The Acrylons]]. These pieces of music are said to aid them in their daily pursuits, share emotion, honor their dead, and protect their oldest stories from the withering effects of time.

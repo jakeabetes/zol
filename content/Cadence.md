@@ -1,6 +1,7 @@
 ---
 title: "Cadence"
----*Wandering God, Moral of Adaptability*
+---
+*Wandering God, Moral of Adaptability*
 ![[Cadence 2.png]]
 
 He who is known by Manu Modica, Clausula, Cade, Ence, and Mao Leve. Known by many names and many forms, [[Cadence]] is the Wandering God of Adaptability. An ever-bending, forever-changing miasma that seeks harmony for the world.

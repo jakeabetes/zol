@@ -1,6 +1,7 @@
 ---
 title: "The Crown Titans"
----*The legion of elite and magical fighters under the control of The Crux, [[King Galliard]].*
+---
+*The legion of elite and magical fighters under the control of The Crux, [[King Galliard]].*
 ![[Title Splash.png]]
 
 Crown Titans are individuals given a one of 5 unique powers by **The Crux**. These powers allow a normal person to transform into a massive and powerful titan, capable of incredible feats of strength and destruction. No one knows the origin of this power, but it all revolves around a single individual called The Crux.

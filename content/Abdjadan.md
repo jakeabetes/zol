@@ -1,6 +1,7 @@
 ---
 title: "Abdjadan"
----*The underwater city of Triton*
+---
+*The underwater city of Triton*
 ![[Abdjadan skyline.png]]
 
 For millennia, [[Abdjadan]] sat quiet and hidden beneath the waves of [[The Archsea]]. The surrounding kingdoms were oblivious to its existence. This was only until the mid [[First Age]] when some curious pirates noticed light beneath the waves, and dove down to discover a whole city of Triton. 

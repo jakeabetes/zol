@@ -1,6 +1,7 @@
 ---
 title: "Wanderian"
----*All who wander*
+---
+*All who wander*
 ![[Wanderian.png]]
 
 ## Overview

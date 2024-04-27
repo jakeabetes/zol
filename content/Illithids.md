@@ -1,6 +1,7 @@
 ---
 title: "Illithids"
----*Parasitic Aliens from [[The Space Outside Reality]]*
+---
+*Parasitic Aliens from [[The Space Outside Reality]]*
 ![[Illithid.png]]
 
 ## Description

@@ -1,6 +1,7 @@
 ---
 title: "The Iron Father"
----*Wandering God, Moral of Dedication*
+---
+*Wandering God, Moral of Dedication*
 ![[The Iron Father.png]]
 
 He who rebirths in flame and song. [[The Iron Father]], also known as *Grimnore*, is a one of [[The Wandering Gods]]. His influence is said to be fierce and direct. He carries the moral of dedication, and his followers have been known to fight and die for their causes.

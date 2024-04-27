@@ -1,3 +1,4 @@
 ---
 title: "Obliteration"
----See [[Damnation]].
+---
+See [[Damnation]].

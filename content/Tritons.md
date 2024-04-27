@@ -1,6 +1,7 @@
 ---
 title: "Tritons"
----*Those of Lake, River, and Sea*
+---
+*Those of Lake, River, and Sea*
 ![[Triton.png]]
 
 ## Description

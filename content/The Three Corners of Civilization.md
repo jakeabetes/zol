@@ -1,6 +1,7 @@
 ---
 title: "The Three Corners of Civilization"
----![[Zol World Map v1.png]]
+---
+![[Zol World Map v1.png]]
 
 A land bound by dangerous and impassible wilds, [[The Three Corners of Civilization]] sits on the edge of [[The Grand Nothing]]. Riddled with powerful magic, ruled over by mysterious gods, spanned by [[The Iron Tracks]], and governed by rival kingdoms. [[The Three Corners]] is a place of ever-moving culture, lost history, discovery, and adventure. 
 

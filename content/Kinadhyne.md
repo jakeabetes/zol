@@ -1,6 +1,7 @@
 ---
 title: "Kinadhyne"
----*Wandering God, Moral of Natural Order*
+---
+*Wandering God, Moral of Natural Order*
 ![[Kinadhyne.png]]
 
 Within the movement of all things lies pattern, purpose, and prophecy. [[Kinadhyne]], also known as *The [[Kinadhyne]]*, or *Hercan*. He is a being of peace, and the natural world. He teaches the moral of Natural Order, the way we effect the world, and how it effects us.

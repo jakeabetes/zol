@@ -1,3 +1,4 @@
 ---
 title: "Rift Lung"
----See [[Rift Smog]]
+---
+See [[Rift Smog]]

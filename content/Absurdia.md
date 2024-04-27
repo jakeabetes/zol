@@ -1,6 +1,7 @@
 ---
 title: "Absurdia"
----*One of Zol's [[Planes]] of existence*
+---
+*One of Zol's [[Planes]] of existence*
 
 Arguably the weirdest place in all of [[Zol]]. Many believe it is not even a real place, other's think it is the manifestation of some strange magic, or the will of a mischievous god.[[Absurdia]] exists as an almost *parody* of the [[Prime Material Plane]]. It is unknown exactly what made [[Absurdia]], which only deepens the strangeness of the realm.
 

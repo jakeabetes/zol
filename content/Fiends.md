@@ -1,6 +1,7 @@
 ---
 title: "Fiends"
----[[Fiends]], sometimes called Devils, are the acolytes of [[Aldem, King of all Hells]]. There are an evil cast of heinous creatures. They are either the descendants of, or the very beings who were created long ago to destroy [[Goh'zul]]. 
+---
+[[Fiends]], sometimes called Devils, are the acolytes of [[Aldem, King of all Hells]]. There are an evil cast of heinous creatures. They are either the descendants of, or the very beings who were created long ago to destroy [[Goh'zul]]. 
 
 Long before The [[Sea of Monsters]] even existed. [[Goh'zul]] was a being who had the power to create worlds, grow them, and devour them to satiate his endless hunger. Many of the worlds he made were aware of his existence, and tried to stop their destruction. A strange, repeating phenomenon occurred in many of these realms. Legions of [[Fiends]] were made by the gods of these long dead worlds in a futile attempt to strike back at [[Goh'zul]]. They would be given a realm of their own, called a *Hell*. It is not know why this phenomenon happened so regularly. Perhaps it was part of [[Goh'zul]]'s design, or perhaps it was just convergent evolution of these worlds.
 

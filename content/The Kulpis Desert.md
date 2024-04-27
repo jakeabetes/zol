@@ -1,6 +1,7 @@
 ---
 title: "The Kulpis Desert"
----![[The Kulpis Desert.jpg]]
+---
+![[The Kulpis Desert.jpg]]
 
 The Burning Sands, The Second Corner. A southwestern desert of beautiful canyons, and seemingly endless dunes. It is filled with all manner of strange creatures evolved to survive in the hot and dry wasteland. Few venture this far south, but those who do usually do so by way of [[Skimmers]]. In their journeys they are sure to  encounter massive sandworms, territorial tribes, ruins that some believe may even predate [[The Awakening]], and heat that increases exponentially the further south you go.
 

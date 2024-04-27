@@ -1,6 +1,7 @@
 ---
 title: "Hoss"
----*The Dragon Glass City*
+---
+*The Dragon Glass City*
 ![[Hoss Skyline 2.png]]
 
 Shrouded in mist and ice, [[Hoss]] is a city isolated both geographically, and politically. Known as the traitors of [[The North Honor]], [[Hoss]] is infamous for its rivalry with [[Often]] and [[Fike]] as well its questionable practices of draconic enslavement. This practice was adopted during [[The Dragon War]] as a means of turning lesser dragons back against their more powerful enemies. It is an extremely difficult thing to manipulate a dragon in this way, even ones that are of lower cognitive ability. However, a group who called themselves [[Dragonstalkers]] were determined in the art of draconic manipulation. They spent every hour of their waking lives during the later years of [[The Dragon War]] focused on the domestication of lesser [[Dragons]]. It is a demanding profession, both physically and mentally. However it was instrumental in claiming victory for [[The Ward]] during [[The Dragon War]]. Additionally, this feat of mortals would not have been possible without the help of The mages from [[The College of Hoss]].

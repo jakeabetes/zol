@@ -1,6 +1,7 @@
 ---
 title: "Amplidation"
----[[Amplidation]] [[Magic]] is one of the [[Schools of Magic]]. It is an uncommon school. It is magic that involves the manipulation of physics, like gravitation, friction, or inertia.
+---
+[[Amplidation]] [[Magic]] is one of the [[Schools of Magic]]. It is an uncommon school. It is magic that involves the manipulation of physics, like gravitation, friction, or inertia.
 
 [[Amplidation]] is quite difficult as it requires the user to not only create new physical properties, but lessen or completely sever their targets connection to the physical properties of [[Zol]]. The latter takes an extremely high degree of accuracy and training to perfect.
 

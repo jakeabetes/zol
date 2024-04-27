@@ -1,6 +1,7 @@
 ---
 title: "Giriam"
----*The Deceased Zolaen God of Agriculture, Fertility, Major Deity*
+---
+*The Deceased Zolaen God of Agriculture, Fertility, Major Deity*
 ![[Giriam.png]]
 
 Once seen as the caretaker of mortals. Giriam was the kindest of the [[Zolaen Gods]]. Giriam had domain over the cultivation of crops and livestock, as well as fertility. His focus was the quality of life for mortal beings.

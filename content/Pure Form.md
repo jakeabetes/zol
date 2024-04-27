@@ -1,3 +1,4 @@
 ---
 title: "Pure Form"
----see [[The Glassius Reach]]
+---
+see [[The Glassius Reach]]

@@ -1,6 +1,7 @@
 ---
 title: "The Cosmos"
----*Beyond the [[Planes]] of [[Zol]]*
+---
+*Beyond the [[Planes]] of [[Zol]]*
 
 Reality itself. [[The Cosmos]] is the endless expanse of many magics, gods, and worlds alien to [[Zol]].
 

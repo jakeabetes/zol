@@ -1,6 +1,7 @@
 ---
 title: "The Cult of the Mothers"
----A dangerous and mysterious cult of the witches who betrayed [[The Coven]]. These individuals seek greater power that the balance of [[The Coven]] could not given them. [[The Cult of the Mothers]] seek the strange teachings of the elusive [[Hags]]. These individuals are thought to spend most of their time within The Axidawn Valley, but it is likely the travel far and wide.
+---
+A dangerous and mysterious cult of the witches who betrayed [[The Coven]]. These individuals seek greater power that the balance of [[The Coven]] could not given them. [[The Cult of the Mothers]] seek the strange teachings of the elusive [[Hags]]. These individuals are thought to spend most of their time within The Axidawn Valley, but it is likely the travel far and wide.
 - The Grey Witch, Auligree
 - The Green Witch, Ophelia Thorne
 - The Sea Witch, Endula

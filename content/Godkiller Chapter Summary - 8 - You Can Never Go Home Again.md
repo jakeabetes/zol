@@ -1,6 +1,7 @@
 ---
 title: "Godkiller Chapter Summary - 8 - You Can Never Go Home Again"
----- **Chapter begins midday on the 16th of Spring, Annum 4466**
+---
+- **Chapter begins midday on the 16th of Spring, Annum 4466**
 - The chapter began with our heroes gazing down at the safe they had thrown out the window. It had struck an unlucky gardener, and burst open.
 - The group quickly hopped out the window, and began recovering what they could. Deimos, Rozwald, and Cyrus salvaged the safe's contents while Sherman and Magnus hid the gardener's unconscious body.
 - A group of guards came to see what the chaos was, but Magnus and Sherman were able to trick them. Buying the others enough time to gather everything from the safe.

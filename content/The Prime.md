@@ -1,3 +1,4 @@
 ---
 title: "The Prime"
----See the [[Prime Material Plane]]
+---
+See the [[Prime Material Plane]]

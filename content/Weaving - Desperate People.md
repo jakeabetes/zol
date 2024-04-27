@@ -1,6 +1,7 @@
 ---
 title: "Weaving - Desperate People"
----Cliff’s wizened eyes panned over the day’s batch of first-timers. Early spring always brought a surge of them. The downtrodden. Driven out of their illegitimate upper-city nooks by the garrison. A preparation Victory Day celebrations. Cliff tried to hire as many newcomers as he could. They were often the most in need, and it didn’t hurt that their lungs were in better shape than most who lived down in The Rifts. Better lungs, better labor. A grim reality, but it was something he needed to factor in as head miner.
+---
+Cliff’s wizened eyes panned over the day’s batch of first-timers. Early spring always brought a surge of them. The downtrodden. Driven out of their illegitimate upper-city nooks by the garrison. A preparation Victory Day celebrations. Cliff tried to hire as many newcomers as he could. They were often the most in need, and it didn’t hurt that their lungs were in better shape than most who lived down in The Rifts. Better lungs, better labor. A grim reality, but it was something he needed to factor in as head miner.
 
 "Alright, quiet down and listen up you lot." The old, gruff dwarf’s voice echoed against the stone walls of the narrow chasm. No one was talking. The dozen or so men had already been silently waiting for him to speak. It was habit. They were the words Cliff always used to signify the start of his introduction.
 

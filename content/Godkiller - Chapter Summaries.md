@@ -1,6 +1,7 @@
 ---
 title: "Godkiller - Chapter Summaries"
----The Chapter Summaries are the recaps of the major events that occurred each session in bullet-form.
+---
+The Chapter Summaries are the recaps of the major events that occurred each session in bullet-form.
 ## Summaries
 - [[Godkiller Chapter Summary - 1 - Train to Tenzentak]]
 - [[Godkiller Chapter Summary - 2 - Legs]]

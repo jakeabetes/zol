@@ -1,6 +1,7 @@
 ---
 title: "The Edinokai"
----The Saen School of Swords. Located within [[Kosskazoka]], [[The Edinokai]] is a school of fearsome martial fighters trained in the way of traditional weaponry. Most famously, swords.
+---
+The Saen School of Swords. Located within [[Kosskazoka]], [[The Edinokai]] is a school of fearsome martial fighters trained in the way of traditional weaponry. Most famously, swords.
 
 The school is, in many ways, like other martial schools across [[Zol]].  It is notable for the fact that the head of the school is Faraday, [[The Word of Blades]].
 

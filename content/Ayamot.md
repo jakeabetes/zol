@@ -1,6 +1,7 @@
 ---
 title: "Ayamot"
----*Zolaen God of Justice, Major Deity*
+---
+*Zolaen God of Justice, Major Deity*
 ![[Ayamot.png]]
 
 The Golden Dragon of Justice, father of the metallic dragons. Ayamot is the holy judge of the [[Zolaen Gods]]. He has domain over the morality of mortals, and the consequences of their actions.

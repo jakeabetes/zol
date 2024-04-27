@@ -1,6 +1,7 @@
 ---
 title: "Plasmoid"
----*Those of Unbound Form*
+---
+*Those of Unbound Form*
 ![[Plasmoid.png]]
 
 ## Description

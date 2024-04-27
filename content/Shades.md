@@ -1,6 +1,7 @@
 ---
 title: "Shades"
----*Those altered by the strange magic of The [[Fell]]*
+---
+*Those altered by the strange magic of The [[Fell]]*
 ![[shade.png]]
 
 ## Description

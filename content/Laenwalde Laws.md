@@ -1,6 +1,7 @@
 ---
 title: "Laenwalde Laws"
----This set of laws contains many of the main crimes that one could commit within [[Laenwalde]].
+---
+This set of laws contains many of the main crimes that one could commit within [[Laenwalde]].
 
 | Law | Severity | Description |
 |-|-|-|

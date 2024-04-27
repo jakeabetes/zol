@@ -1,6 +1,7 @@
 ---
 title: "The Conservatory"
----*Of Life and Knowledge*
+---
+*Of Life and Knowledge*
 ![[The Conservatory.png]]
 
 [[The Conservatory]] is the sole institution under [[The University]] focused on the understanding of [[Viridescence]] and its relationship to [[Zol]]. Located within [[Kahdinacht]], It is a beautiful building, full of plants and natural light. Its halls are populated by [[Druids]], academics, physiqers, and the controversial [[Antiverdants]]. It is a school who's aim is to better the world's connection to, and understanding of itself. There are no major groups within [[The Three Corners]] who have a negative perception of the [[Viridium]]. It is an unproblematic organization whos major goals align with life itself.

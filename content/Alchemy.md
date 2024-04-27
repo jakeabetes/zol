@@ -1,6 +1,7 @@
 ---
 title: "Alchemy"
----Alchemy is a subsection of the [[Artificers]] practice. It involves the deconstruction and combination of substances in a scientific processes to create products that are greater than the sum of their parts.
+---
+Alchemy is a subsection of the [[Artificers]] practice. It involves the deconstruction and combination of substances in a scientific processes to create products that are greater than the sum of their parts.
 
 These creations may be medicine, dyes, inks, metals, cures, waxes, adhesives, solvents, acids, bases, beverages, cements, psychoactives, [[Pneumoactives]], potions, and poisons.
 

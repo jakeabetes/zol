@@ -1,6 +1,7 @@
 ---
 title: "Godkiller Chapter Summary - 5 - The Hand of Fate"
----- **Chapter begins mid day on the 14th of Spring, 4466**
+---
+- **Chapter begins mid day on the 14th of Spring, 4466**
 - A crash had left our heroes stranded deep in the Baradan Canyon
 	- Where Ger'zar bandits had come back to finish the joh
 - A fight in the dying winds of the sandstorm brought your unknown allies back to aid you.

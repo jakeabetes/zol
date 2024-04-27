@@ -1,6 +1,7 @@
 ---
 title: "Airships"
----Wonderous [[Apparatum]] constructed using surprisingly simple [[Iron Light]] principals. Many different types of [[Airships]] have been developed, using many different methods of flight. Some appear as flying ships similar to their nautical cousins, others appear as complex metal spheroids.
+---
+Wonderous [[Apparatum]] constructed using surprisingly simple [[Iron Light]] principals. Many different types of [[Airships]] have been developed, using many different methods of flight. Some appear as flying ships similar to their nautical cousins, others appear as complex metal spheroids.
 
 ![[Airship 2.png]]
 

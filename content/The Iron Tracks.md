@@ -1,6 +1,7 @@
 ---
 title: "The Iron Tracks"
----*What unites us*
+---
+*What unites us*
 ![[The Great Tracks.png]]
 
 ## Construction

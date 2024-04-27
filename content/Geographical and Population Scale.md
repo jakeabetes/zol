@@ -1,6 +1,7 @@
 ---
 title: "Geographical and Population Scale"
----*Note from the author:*
+---
+*Note from the author:*
 *I personally didn't like the idea of strictly defining the size of distances or populations within Zol. I think it mostly comes from the fact that I as a person have a hard time wrapping my mind around these concepts. I wanted to leave it up to the user (Like a Dungeon Master running a game in D&D 5e deciding how many people live within an area, rather than me telling it strictly beforehand). I think that adjusting the population to better fit the story being told, rather than applying firm numbers is better.
 
 *Similarly for distance, I don't like to think about how many days by train, horse, or foot it takes to get from A to B until it makes sense for the pacing of the story that is being told.*

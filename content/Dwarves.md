@@ -1,6 +1,7 @@
 ---
 title: "Dwarves"
----*The Mountain Folk, thought to be favored by the Gods*
+---
+*The Mountain Folk, thought to be favored by the Gods*
 ![[Dwarf.png]]
 
 ## Description

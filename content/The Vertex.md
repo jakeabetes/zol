@@ -1,3 +1,4 @@
 ---
 title: "The Vertex"
----See [[The Oldshards]]
+---
+See [[The Oldshards]]

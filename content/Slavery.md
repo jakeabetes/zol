@@ -1,6 +1,7 @@
 ---
 title: "Slavery"
----*The heinous act of forced labor, and stolen freedom. A terrible product of the vast power differences that exist in [[Zol]]*
+---
+*The heinous act of forced labor, and stolen freedom. A terrible product of the vast power differences that exist in [[Zol]]*
 ![[mask of iron.png]]
 
 Slavery is a dark stain on [[Zol]]'s history and society. It was first spawned shortly after [[The Awakening]]. Many of those who made early grabs at power implemented the practice as an unjust way to accelerate their ascension. By enslaving their enemies, criminals, and others they had a negative perception of, they were able to accomplish feats of civilization and conquest that would have been otherwise unattainable. However, the free labor they had invested in had other grave costs that were paid in blood.

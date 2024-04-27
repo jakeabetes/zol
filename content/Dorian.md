@@ -1,6 +1,7 @@
 ---
 title: "Dorian"
----*Beauty can only be seen within The Watcher's Vision*
+---
+*Beauty can only be seen within The Watcher's Vision*
 ![[Dorian.png]]
 
 ## Overview

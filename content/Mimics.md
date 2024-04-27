@@ -1,6 +1,7 @@
 ---
 title: "Mimics"
----[[Mimics]], also called *Ayadon'ae* by the [[Changelings]] are a species of beings who hail from [[The Glassius Reach]]. The posses the ability to alter their form similarly to [[Changelings]]. However, [[Mimics]] are known to impersonate objects, rather than people. Beyond that, ancient mimics are immensely powerful.
+---
+[[Mimics]], also called *Ayadon'ae* by the [[Changelings]] are a species of beings who hail from [[The Glassius Reach]]. The posses the ability to alter their form similarly to [[Changelings]]. However, [[Mimics]] are known to impersonate objects, rather than people. Beyond that, ancient mimics are immensely powerful.
 
 ## Origin
 Mimics are incredibly secretive beings. Most of what is known about them is drawn from legend and speculation. It is said that the first generation of [[Mimics]] were stones animated by some force. There are those who believe they were made by the [[Gods]], others think them a product of [[The Oldshards]]. There are myths of them being holy protectors of something ancient, and there are those of them being dangerous monsters from [[The Void]].

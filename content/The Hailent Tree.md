@@ -1,3 +1,4 @@
 ---
 title: "The Hailent Tree"
----See [[Laelanor]] and [[Gethsemane]]
+---
+See [[Laelanor]] and [[Gethsemane]]

@@ -1,6 +1,7 @@
 ---
 title: "Rockfire"
----*The Volcanic City, Home to the Fire God [[Daetro]]*
+---
+*The Volcanic City, Home to the Fire God [[Daetro]]*
 ![[Rockfire skyline.png]]
 
 No city of [[The Three Corners]] is known to house one of the [[Gods]], save for [[Rockfire]]. The city was built in honor of the benevolent Fire God [[Daetro]]. Despite being located within [[Laenwalde]], a kingdom known for its worship of the [[Zolaen Gods]], the city is filled with devout worshipers of [[Daetro]] who is one of the [[Wayward Gods]]. The kingdom's religious doctrine has made an exception in the case of [[Daetro]]'s followers, as the minor god has a very kind demeanor and cares for his people. This hybridization of beliefs pushes the bounds of religion within [[Zol]], and makes for a perfect place of study for those within the [[Observum]], a branch of [[The University]] focused on the will of [[Observance]] and the behaviors of [[Gods]].

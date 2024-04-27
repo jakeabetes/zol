@@ -1,6 +1,7 @@
 ---
 title: "Mod Dranor"
----*The Great Dwarven City*
+---
+*The Great Dwarven City*
 ![[Mod Dranor groundline.png]]
 
 Hand carved by thousands of careful, skilled, and determined dwarven hands. [[Mod Dranor]] is one of the largest cities in [[Zol]]. It is a subterranean marvel of carved stone and expertly crafted infrastructure. Located deep in the heart of of the great mountain, [[Kalamdola]], the city spans three massive caverns within the mountain.

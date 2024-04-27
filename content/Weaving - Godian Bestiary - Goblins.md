@@ -1,6 +1,7 @@
 ---
 title: "Weaving - Godian Bestiary - Goblins"
----*The Common Goblin, Goblina Commonus*
+---
+*The Common Goblin, Goblina Commonus*
 ![[GoblinDiagram.png]]
 
 [[Goblins]] are one of the many entries within this Bestiary that exist between the realms of monsters and men. Plenty of goblins across [[Zol]] exist as ordinary citizens of the 5 kingdoms. However, many more reside in the wilderness; living as primitive tribes that often clash with outer villages. Society, especially Kapeshian society, often views goblins as monsters. In reality, they are fully sapient, possess no planar alignments to the Fell or Fey, and can organize themselves well in society. Their place in the world comes instead from a long history of oppression. 

@@ -1,6 +1,7 @@
 ---
 title: "Kaszu"
----*Wandering God, Moral of Sagacity*
+---
+*Wandering God, Moral of Sagacity*
 ![[Kaszu 2.png]]
 
 There is no gift more powerful, wonderful, and dangerous than foresight. [[Kaszu]], also known as *Father Time* bears the moral of Sagacity. His teachings and followers surround the idea of protecting the sanctity of time itself. The manipulation of Time and Fate is a thing that attracts many Arcanists. This is a threat to the balance of all things, as time is the most volatile force know to [[Sapient Beings]]. [[Kaszu]] teaches the Moral of Sagacity, specifically with respect to Time, Fate, [[Incana]] and [[Chronomancy]].

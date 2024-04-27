@@ -1,6 +1,7 @@
 ---
 title: "Yorn et Gaul"
----*The scarred city of Changelings*
+---
+*The scarred city of Changelings*
 ![[Yorn Et Gaul Skyline.png]]
 
 [[Yorn et Gaul]] was once the greatest city within [[The Glassius Reach]]. Famed for its adherence to [[The Pattern]], an extremely ordered way of living. The city was a bastion of the north. This sadly changed during the height of the [[Western War]] when the city was attacked and a relic called [[The Apex]], one of [[The Oldshards]], was lost. This object, central to the [[Changelings]] culture, has never been recovered. Most believe it was destroyed, but some think it was stolen by invading forces. Regardless, its absence has damaged the city's order and culture greatly. The city is now upon hard times, and has been for around half a centaury. Despite losing [[The Apex]], the people of [[Yorn et Gaul]] continue to revere the site where it was once held, attempting to maintain their ordered beliefs and society. However the empty pedestal that once held [[The Apex]] does not provide the grounds required for such a complex belief system. Regardless, it is still desperately worshiped by the city's people.

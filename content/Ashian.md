@@ -1,6 +1,7 @@
 ---
 title: "Ashian"
----*In his hands he held the gift of three fires. Each with the power to raze the Void, and ignite the world anew*
+---
+*In his hands he held the gift of three fires. Each with the power to raze the Void, and ignite the world anew*
 ![[Ashian.png]]
 
 ## Overview

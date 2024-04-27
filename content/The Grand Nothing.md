@@ -1,6 +1,7 @@
 ---
 title: "The Grand Nothing"
----![[The Grand Nothing.jpg]]
+---
+![[The Grand Nothing.jpg]]
 
 What was left in the wake of the destruction of [[Old Zol]], the lands that holds the secret of what once was. A seemingly infinite expanse that stretches as far as the eye can see. Located over 20 thousand feet below sea level, [[The Grand Nothing]] was thought to be a bottomless, cloud-filled void at the time of [[The Awakening]]. This emptiness was titled [[The Grand Nothing]], a sort of *misnomer* as it only became widely known what laid below much later on.
 

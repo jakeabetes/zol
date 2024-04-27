@@ -1,6 +1,7 @@
 ---
 title: "Firbolgs"
----*Peaceful and Brave*
+---
+*Peaceful and Brave*
 ![[Firbolg.png]]
 
 ## Description

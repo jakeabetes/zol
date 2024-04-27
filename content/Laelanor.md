@@ -1,6 +1,7 @@
 ---
 title: "Laelanor"
----*The Tree-Top City of Wood Elves*
+---
+*The Tree-Top City of Wood Elves*
 ![[laelanor skyline 2.png]]
 
 In the far west, within the mystical forest of Yaa'fedell, on  the hilly coast of [[The Vast Sea]] rests the viridescent city of [[Laelanor]]. The city is amalgamated into the massive trunk of [[The Hailent Tree]], the largest of its rare species known as [[The Provident Oaks]]. Home to the Wood [[Elves]], the city's people are all raised with the lessons of [[The Path]]. A set of philosophies, skills, crafts, martial arts, stories, and histories that prepare one for 'a life worthy of living'.

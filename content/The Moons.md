@@ -1,6 +1,7 @@
 ---
 title: "The Moons"
----*Three planets amalgamated into Zol's [[Planes]] of existence*
+---
+*Three planets amalgamated into Zol's [[Planes]] of existence*
 
 Hovering in the skies of [[Zol]] are three barren planets floating with one another in a slow orbit. Sorrow, Majesty, and Luna.
 

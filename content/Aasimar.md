@@ -1,6 +1,7 @@
 ---
 title: "Aasimar"
----*God Blooded*
+---
+*God Blooded*
 ![[Aasimar.png]]
 
 ## Description

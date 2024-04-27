@@ -1,6 +1,7 @@
 ---
 title: "The Word of Fire"
----*Valmore, Hero of Three Fires, Bearer of The Word of Fire, Wielder of [[The First Tongue]]*
+---
+*Valmore, Hero of Three Fires, Bearer of The Word of Fire, Wielder of [[The First Tongue]]*
 ![[Valmore.png]]
 
 The Guardian of [[Kapesh]], and patriarch of the [[Church of Three Fires]]. Valmore possesses a mastery of The Trinity's Fire.

@@ -1,5 +1,5 @@
 @echo off
-"C:\Users\Content Bloom\PycharmProjects\vault-uploader\venv\Scripts\python.exe" "C:\Users\Content Bloom\PycharmProjects\vault-uploader\vault-uploader.py"
+"C:\Users\jaetu\AppData\Local\Programs\Python\Python312\python.exe" "C:\Users\jaetu\OneDrive\Documents\git\python-scripts\vault-uploader.py"
 call git add .
 call git commit -m "publishing new Zol content"
 call git push origin hugo

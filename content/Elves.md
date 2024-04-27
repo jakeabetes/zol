@@ -1,6 +1,7 @@
 ---
 title: "Elves"
----Within [[Zol]] there a multiple types of [[Elves]]. [[High Elves]], [[Wood Elves]], and [[Drow]]. Each is physiologically similar, with a few minor differences. They consider themselves to all be a part of [[The Triumvirate]].
+---
+Within [[Zol]] there a multiple types of [[Elves]]. [[High Elves]], [[Wood Elves]], and [[Drow]]. Each is physiologically similar, with a few minor differences. They consider themselves to all be a part of [[The Triumvirate]].
 
 # High Elves
 *Valiant and Proud*

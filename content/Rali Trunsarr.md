@@ -1,3 +1,4 @@
 ---
 title: "Rali Trunsarr"
----See [[The Paige of Cups]].
+---
+See [[The Paige of Cups]].

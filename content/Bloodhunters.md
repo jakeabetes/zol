@@ -1,3 +1,4 @@
 ---
 title: "Bloodhunters"
----See [[Beast Ire]]
+---
+See [[Beast Ire]]

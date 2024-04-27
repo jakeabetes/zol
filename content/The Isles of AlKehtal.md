@@ -1,6 +1,7 @@
 ---
 title: "The Isles of Al'Kehtal"
----*The Island City of Pirates*
+---
+*The Island City of Pirates*
 ![[Isles of Al Kehtal.png]]
 
 Built from the remains of ships torn asunder by waves or combat, [[The Isles of Al'Kehtal]] is a haven for the pirates of [[The Three Corners]]. It is a city where all ships and crews must set aside rivalries, lay down their arms to do trade, resupply, and have a drink. There is no King, or Queen of [[The Isles of Al'Kehtal]]. However there is a ruling body known as The Furled Sail Council, made up of the most influential captains amongst the community, lead by the Lord Captain. This group operates under a very flexible, but important ruleset. No one has a record of when it started, or who wrote the original rules but [[The Code]] binds all pirates.

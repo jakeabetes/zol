@@ -1,6 +1,7 @@
 ---
 title: "The Forgotten Heavens"
----*One of Zol's [[Planes]] of existence*
+---
+*One of Zol's [[Planes]] of existence*
 
 Home to [[The Night Empress]], [[The Forgotten Heavens]] is a landscape of old overgrown ruins and a sky full of shooting stars.
 

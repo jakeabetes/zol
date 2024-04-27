@@ -1,6 +1,7 @@
 ---
 title: "Persanius"
----*Wandering God, Moral of Compassion*
+---
+*Wandering God, Moral of Compassion*
 ![[Persanius.png]]
 
 In one's creation, we see a whole world that exists only within them. A world worth protecting. [[Persanius]] is said to be a being creation. His scripture speaks of him making both art and machine in an attempt to better understand the universe itself. He teaches the moral of Compassion. In his scripture it is said beyond ones self, an individual acts and experiences the world through the tools and artistry. Tools and art are product of people, when one learns to view the world through this precise lens wisdom like no other can be found.

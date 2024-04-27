@@ -1,6 +1,7 @@
 ---
 title: "The College of Hoss"
----A school of magic on the edge of the world. [[The College of Hoss]] is remote, and located within a city of its own rule, [[Hoss]]. The Grand Archon of the city does not wish to hold the school back as its is one of the city's greatest resources. This makes for a place where few restrictions are placed on mages, and dark forces can be tampered with.
+---
+A school of magic on the edge of the world. [[The College of Hoss]] is remote, and located within a city of its own rule, [[Hoss]]. The Grand Archon of the city does not wish to hold the school back as its is one of the city's greatest resources. This makes for a place where few restrictions are placed on mages, and dark forces can be tampered with.
 
 ## Values
 *"What lies beyond our limitations?"*

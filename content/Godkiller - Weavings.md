@@ -1,6 +1,7 @@
 ---
 title: "Godkiller - Weavings"
----*Throughout the Godkiller story, there are pieces of lore shared in various formats. They are listed here for archival reference.*
+---
+*Throughout the Godkiller story, there are pieces of lore shared in various formats. They are listed here for archival reference.*
 
 ## Weavings
 - [[Weaving - Fear]]

@@ -1,6 +1,7 @@
 ---
 title: "Weaving - The Hour of Shadows"
----Silk sat still, crouched against the pale stones of the windswept grove. Everything always looked wrong to her during The Hour of Shadows. They called it an hour, but it was closer to 40 minutes for most of the year. She supposed that made sense. The Two-Thirds of One Hour of Shadows didn't have the same ring to it. It was a discomforting sliver of the night when [[The Moons]] were at their furthest point from one another. Sorrow in the north, Majesty in the West, and Luna in the East. The effect was a dull dream-like glow, and a trio of uneven shadows cast out from every object.
+---
+Silk sat still, crouched against the pale stones of the windswept grove. Everything always looked wrong to her during The Hour of Shadows. They called it an hour, but it was closer to 40 minutes for most of the year. She supposed that made sense. The Two-Thirds of One Hour of Shadows didn't have the same ring to it. It was a discomforting sliver of the night when [[The Moons]] were at their furthest point from one another. Sorrow in the north, Majesty in the West, and Luna in the East. The effect was a dull dream-like glow, and a trio of uneven shadows cast out from every object.
 
 Silk hated it. Made her anxious. Probably because it was the time when things went always wrong during stories told in taverns. Despite her dislike for it, she often found herself out during the uncanny hour. That was the life of a thief.
 

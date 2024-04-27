@@ -1,3 +1,4 @@
 ---
 title: "Galliard Crown"
----See [[King Galliard]].
+---
+See [[King Galliard]].

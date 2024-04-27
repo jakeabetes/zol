@@ -1,3 +1,4 @@
 ---
 title: "Druids"
----Those who use [[Magic]] through [[Viridescence]]
+---
+Those who use [[Magic]] through [[Viridescence]]

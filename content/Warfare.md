@@ -1,6 +1,7 @@
 ---
 title: "Warfare"
----War within [[Zol]] is a delicate thing. In a place where the scale of physical and magical power is vastly different on either end, warfare can become far too dangerous if not kept in check. There is a set of unwritten rules used by kingdoms and cities in warfare, lest the battles become too destructive.
+---
+War within [[Zol]] is a delicate thing. In a place where the scale of physical and magical power is vastly different on either end, warfare can become far too dangerous if not kept in check. There is a set of unwritten rules used by kingdoms and cities in warfare, lest the battles become too destructive.
 
 It is typically fought by armies of soldiers of comprised of individuals or relatively low power, without much magic to their disposal. Dispatchments of normal individuals, who have been trained to wield simple weapons, and fight on behalf of their kingdom. When the battles become more significant in their impact, opposite sides of the conflict may start to bring out more dangerous weapons and fighters. However, this task must be carefully managed, as retaliation can cause for exponential growth in the destructive forces used on either side.
 

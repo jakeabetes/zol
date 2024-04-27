@@ -1,3 +1,4 @@
 ---
 title: "Alderian Seat"
----See [[Alderian Council]]
+---
+See [[Alderian Council]]

@@ -1,6 +1,7 @@
 ---
 title: "Riverbridge"
----*The waypoint of the world*
+---
+*The waypoint of the world*
 ![[riverbridge 1.png]]
 
 The most fought over city in all of [[Zol]]. [[Riverbridge]] is located on Ile Sterza in the center of [[The Narrow Sea]]. Famous for its massive bridges that span east and west to cross [[The Narrow Sea]].

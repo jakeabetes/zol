@@ -1,6 +1,7 @@
 ---
 title: "Miscellaneous Topics"
----*This is an index of various topics which quite relevant to the world, but are either tucked away deep within the pages, or do not have a proper home. By listing them here they are more accessible to readers.*
+---
+*This is an index of various topics which quite relevant to the world, but are either tucked away deep within the pages, or do not have a proper home. By listing them here they are more accessible to readers.*
 
 - [[Calendar]] - The annual structure of [[Zol]]
 - [[Language]] - The words spoken across [[Zol]]

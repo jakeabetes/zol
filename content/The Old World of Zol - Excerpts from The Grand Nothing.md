@@ -1,6 +1,7 @@
 ---
 title: "The Old World of Zol - Excerpts from The Grand Nothing"
----A highly controversial text on the archeological discoveries of [[The Grand Nothing]]. Written by Hammond Leduran, Eldon Viconell, and Irid Mathrapp. These three human scholars of [[The Kybis Assembly]] conducted many expeditions, excavations, and investigations into Old Zol. They compiled the works of many individuals to create a comprehensive publication regarding their discoveries.
+---
+A highly controversial text on the archeological discoveries of [[The Grand Nothing]]. Written by Hammond Leduran, Eldon Viconell, and Irid Mathrapp. These three human scholars of [[The Kybis Assembly]] conducted many expeditions, excavations, and investigations into Old Zol. They compiled the works of many individuals to create a comprehensive publication regarding their discoveries.
 
 The majority of the resulting work contained maps, drawings, and detailed descriptions of what was found. The final few chapters of the book drew conclusions from the data. Said conclusions were speculative, but sparked much controversy.
 

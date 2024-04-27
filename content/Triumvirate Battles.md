@@ -1,6 +1,7 @@
 ---
 title: "Triumvirate Battles"
----[[The Triumvirate]] nations, [[Kapesh]] and [[Gethsemane]], have a historic reputation for sparring with one another. Separated by [[The Narrow Sea]], these nations warred from roughly annum 2600 to 4000. Initially sparked by [[Gethsemane]] enslaving humans who crossed into their territories, and [[Kapesh]] doing the same with [[Elves]] and [[Dwarves]]. [[Kapesh]] offered an exchange of prisoners, which [[Gethsemane]] rejected.
+---
+[[The Triumvirate]] nations, [[Kapesh]] and [[Gethsemane]], have a historic reputation for sparring with one another. Separated by [[The Narrow Sea]], these nations warred from roughly annum 2600 to 4000. Initially sparked by [[Gethsemane]] enslaving humans who crossed into their territories, and [[Kapesh]] doing the same with [[Elves]] and [[Dwarves]]. [[Kapesh]] offered an exchange of prisoners, which [[Gethsemane]] rejected.
 
 This rejection sparked conflict between the nations that lasted centauries. It wavered in intensity over the years, and its core motivation changed from enslavement, to expansion, to resources, and finally religious differences. 
 

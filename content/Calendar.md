@@ -1,6 +1,7 @@
 ---
 title: "Calendar"
----A calendar year in [[Zol]] is defined by 4 seasons, each 100 days long, with days being 24 hours. Weeks are divided into 10 days:
+---
+A calendar year in [[Zol]] is defined by 4 seasons, each 100 days long, with days being 24 hours. Weeks are divided into 10 days:
 - Onis
 - Twence
 - Trinum

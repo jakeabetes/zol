@@ -1,3 +1,4 @@
 ---
 title: "Triumvirate"
----See [[The Triumvirate]]
+---
+See [[The Triumvirate]]

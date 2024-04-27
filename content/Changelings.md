@@ -1,6 +1,7 @@
 ---
 title: "Changelings"
----*The people of [[The Oldshards]]*
+---
+*The people of [[The Oldshards]]*
 ![[Changeling.png]]
 
 ## Description

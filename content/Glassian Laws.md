@@ -1,6 +1,7 @@
 ---
 title: "Glassian Laws"
----The [[Glassian Laws]] are a set of legal rules set in placed based off the needs of society, and [[The Pattern]].
+---
+The [[Glassian Laws]] are a set of legal rules set in placed based off the needs of society, and [[The Pattern]].
 
 | Law                        | Severity    | Description                                                                                                             |
 | -------------------------- | ----------- | ----------------------------------------------------------------------------------------------------------------------- |

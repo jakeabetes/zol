@@ -1,6 +1,7 @@
 ---
 title: "Materiation"
----A magical affliction, also known as a [[Curiosity]], caused by long term usage the imperfect implementation of [[Iron Light]]. Causing ones body to slowly degrade to a material state involved in the imperfect runes, causing euphoria and a slow painless death.
+---
+A magical affliction, also known as a [[Curiosity]], caused by long term usage the imperfect implementation of [[Iron Light]]. Causing ones body to slowly degrade to a material state involved in the imperfect runes, causing euphoria and a slow painless death.
 
 ![[materiation.png]]
 

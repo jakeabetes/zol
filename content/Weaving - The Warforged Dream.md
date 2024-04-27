@@ -1,6 +1,7 @@
 ---
 title: "Weaving - The Warforged Dream"
----*The introduction to the first chapter of the campaign. A dream shared amongst each of the members of the party witnessed during their last slumber before meeting each other. The main character of the narrative switches from one party member to another through out the weaving.*
+---
+*The introduction to the first chapter of the campaign. A dream shared amongst each of the members of the party witnessed during their last slumber before meeting each other. The main character of the narrative switches from one party member to another through out the weaving.*
 
 *Magnus*, you have been traveling a long time. You feel the ache of the road and a pit of hunger in your stomach. You cannot remember the last time you had a decent meal.
 

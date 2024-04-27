@@ -1,6 +1,7 @@
 ---
 title: "The Word of Blades"
----*Faraday, The Edge of [[The Edinokai]], Bearer of The Word of Blades, Wielder of [[The First Tongue]]*
+---
+*Faraday, The Edge of [[The Edinokai]], Bearer of The Word of Blades, Wielder of [[The First Tongue]]*
 ![[Faraday.png]]
 
 The greatest swordsman of [[The Three Corners]]. Protector of [[Laenwalde]]. Faraday is leader of [[The Edinokai]], a famed school of martial craft.

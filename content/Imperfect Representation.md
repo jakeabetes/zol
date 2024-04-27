@@ -1,3 +1,4 @@
 ---
 title: "Imperfect Representation"
----See [[Iron Light]] and [[Materiation]]
+---
+See [[Iron Light]] and [[Materiation]]

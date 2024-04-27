@@ -1,6 +1,7 @@
 ---
 title: "Prime Material Plane"
----*The Heart of Zol's [[Planes]]*
+---
+*The Heart of Zol's [[Planes]]*
 
 At the center of [[Zol]] exists the [[Prime Material Plane]], also known as [[The Prime]]. It is a realm that all other planes are anchored to. It contains [[The Trinity]], and is under the influence of [[The Mortal Coil]].
 

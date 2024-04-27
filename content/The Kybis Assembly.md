@@ -1,6 +1,7 @@
 ---
 title: "The Kybis Assembly"
----The first place of knowledge within [[The Three Corners]]. [[The Kybis Assembly]] is a place of great knowledge, and strange secrets. It is a very secretive institution, and very difficult to gain admission to. Located within [[Archaic]], the school is so old that it holds many of the records from directly after [[The Awakening]], as it was the first true school that was established.
+---
+The first place of knowledge within [[The Three Corners]]. [[The Kybis Assembly]] is a place of great knowledge, and strange secrets. It is a very secretive institution, and very difficult to gain admission to. Located within [[Archaic]], the school is so old that it holds many of the records from directly after [[The Awakening]], as it was the first true school that was established.
 
 ![[Kybis Assembly.png]]
 

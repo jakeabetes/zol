@@ -1,6 +1,7 @@
 ---
 title: "Woogis"
----*The Quiet Coast*
+---
+*The Quiet Coast*
 ![[Woogis Skyline.png]]
 
 A small city that feels a world away from the challenges and strife that most of [[Zol]] faces. [[Woogis]] is a peaceful city populated mostly by [[Halflings]]. Nearby cities are separated by long stretches of sea, or The Madreelles. The Madreelles is a relatively tame region of hilly forests and fields. This isolation, in a place lacking in danger has made for a happy, and peaceful community.

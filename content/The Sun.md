@@ -1,3 +1,4 @@
 ---
 title: "The Sun"
----See [[The Elemental Planes]]
+---
+See [[The Elemental Planes]]

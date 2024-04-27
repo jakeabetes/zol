@@ -1,6 +1,7 @@
 ---
 title: "The Ratking"
----*Wandering God, Moral of Unrestraint*
+---
+*Wandering God, Moral of Unrestraint*
 ![[The Ratking.png]]
 
 To fall in line is to betray the beauty of chaos and the gifts of an uncertain fate. [[The Ratking]], also known as *Ronk* bears the moral of unrestraint. Known for a confusing and chaotic nature. He encourages individuals to break from from the restraints of society and order that prevent them from becoming something grand.

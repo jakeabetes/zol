@@ -1,6 +1,7 @@
 ---
 title: "Flaunt"
----Flaunt is a sport played only within [[Reach Run]]. It involves 2 teams of 8 trying to knock each other off of rafts suspended high above water. It is played by children and professionals alike.
+---
+Flaunt is a sport played only within [[Reach Run]]. It involves 2 teams of 8 trying to knock each other off of rafts suspended high above water. It is played by children and professionals alike.
 
 ## Rules
 In Flaunt, 2 teams of 8 are pitted against one another. Each team has a raft held 100 feet above water that is 2 feet by 25 feet, called a **Rung**. Each team has 5 **Beams**, and 3 **Catchers**. **Beams** are not allowed to fly, and stand in a row upon their raft, each armed with 2 sandbags wrapped in a buoyant material called **Bells**. Their goal is to knock their opponents off their raft suspended 20 feet away from their own by throwing their **Bells**.

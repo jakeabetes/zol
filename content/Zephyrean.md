@@ -1,6 +1,7 @@
 ---
 title: "Zephyrean"
----*I, of the Storm*
+---
+*I, of the Storm*
 ![[Zephyrean.png]]
 
 ## Overview

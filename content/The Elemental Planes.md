@@ -1,6 +1,7 @@
 ---
 title: "The Elemental Planes"
----*A unique group of Zol's [[Planes]] of existence*
+---
+*A unique group of Zol's [[Planes]] of existence*
 
 Academics are unsure of exactly what forces form the [[Prime Material Plane]], but many theorize it was constructed by overlapping 4 basic elemental [[Planes]] that, when combined, make the complex [[Prime Material Plane]]. All of the Elemental Planes are under the [[The Mortal Coil]]'s effect. Each plane is a surreal, majestic thing of its own right. They are home to strange beings composed almost exclusively of matter and energy pertaining to their respective element. Some of these creatures manifest as beings that are something like a fairy, or a spirit called [[Sylfs]]. These
 

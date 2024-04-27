@@ -1,6 +1,7 @@
 ---
 title: "Halflings"
----*Friends to all*
+---
+*Friends to all*
 ![[Halfling.png]]
 
 ## Description

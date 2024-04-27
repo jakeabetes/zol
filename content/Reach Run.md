@@ -1,6 +1,7 @@
 ---
 title: "Reach Run"
----*The Vibrant City of [[Aarakocra]]*
+---
+*The Vibrant City of [[Aarakocra]]*
 ![[Reach Run skyline.png]]
 
 Above the costal city of [[Reach Run]], a sky filled with airships, hot air balloons, and flying [[Aarakocra]]. The city is a hub of all things aeronautical. One might assume that a city of flying businesses and citizens would be inaccessible or unwelcoming to those less aerially inclined, however the opposite is in fact the truth. [[Aarakocra]] are know for being some of the most welcoming, fun loving folk in all of [[Zol]]. Their influence has shaped the city into a hospitable place where even grumpy, terrestrial [[Dwarves]] can feel the thrill of flying.

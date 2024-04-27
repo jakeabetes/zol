@@ -1,6 +1,7 @@
 ---
 title: "Imbuement Perpetuum"
----_[[Imbuement Perpetuum]] is the Human translation of 'Permanent Magic'_
+---
+_[[Imbuement Perpetuum]] is the Human translation of 'Permanent Magic'_
 
 Imbuement Perpetuum is the counterpart of [[Iron Light]]. Magical feats accomplished without the usage of Iron light. They are more powerful, valuable, and harder to utilize. Their name comes from their elusive, mysterious and permanent nature. It is often simplified to "Imbuement" by the public.
 

@@ -1,6 +1,7 @@
 ---
 title: "Observum"
----[[The University]]'s institution regarding the study of [[Gods]], their power channeled through the will of [[Observance]], and their relationship to [[Zol]]. This organization is the only one of its kind within [[The Three Corners]], as attempting to comprehend the [[Gods]] from an academic perspective is a challenging task.
+---
+[[The University]]'s institution regarding the study of [[Gods]], their power channeled through the will of [[Observance]], and their relationship to [[Zol]]. This organization is the only one of its kind within [[The Three Corners]], as attempting to comprehend the [[Gods]] from an academic perspective is a challenging task.
 
 The school officially does not fall under the sole banner of a single religion. However, people will be people, and their beliefs and biases always find a way to manifest. The [[Observum]] is no stranger to heated debate, crossed lines, and difficult conversations. However it is from these challenging discussions the school derives new philosophy and understanding. It is also know as [[The University]]'s best repository of knowledge regarding [[Zol]]'s history, as much of the [[Gods]]' influences are hidden within the accounts of the world.
 

@@ -1,6 +1,7 @@
 ---
 title: "Grung"
----*Proud and Poisonous*
+---
+*Proud and Poisonous*
 ![[Grung.png]]
 
 ## Description

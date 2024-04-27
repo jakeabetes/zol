@@ -1,6 +1,7 @@
 ---
 title: "Weaving - Arch Nemesis"
----Grimbel has had many arch-nemeses in his life, but Howdy was by far the most devious. His last nemesis, Rozwald, had left him Howdy. Grimbal suspected it was a parting gift of sorts. Or possibly this was part of that smoky little grung’s grand plans? That devious bastard. Rozwald had vanished into thin air a week ago. Or had it been 19 weeks? Somewhere in that range. Regardless, Howdy was quite the admirable foe and a more than adequate replacement for Rozwald.
+---
+Grimbel has had many arch-nemeses in his life, but Howdy was by far the most devious. His last nemesis, Rozwald, had left him Howdy. Grimbal suspected it was a parting gift of sorts. Or possibly this was part of that smoky little grung’s grand plans? That devious bastard. Rozwald had vanished into thin air a week ago. Or had it been 19 weeks? Somewhere in that range. Regardless, Howdy was quite the admirable foe and a more than adequate replacement for Rozwald.
 
 Grimble had made the mistake of shaking Howdy’s hand upon meeting him. Crushed it like a bird’s egg! It was a good thing Grimble knew meta-physical surgery. But even with his skill, his arm was left in a sling. Most of his fingers were pointing in the right direction now though!
 

@@ -1,6 +1,7 @@
 ---
 title: "Obscuran"
----*And from the Sea of Monsters rose many beings. Creatures of stone, and creatures of feathers. Beings of light, glass, and fire.*
+---
+*And from the Sea of Monsters rose many beings. Creatures of stone, and creatures of feathers. Beings of light, glass, and fire.*
 ![[Obscuran.png]]
 
 ## Overview

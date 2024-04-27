@@ -1,6 +1,7 @@
 ---
 title: "The Before"
----The lost ages of [[Zol]]. An epoch of unknown duration that occurred between the [[Origin]] and [[The Awakening]]. The age came to an end on the advent of [[The Undoing]].
+---
+The lost ages of [[Zol]]. An epoch of unknown duration that occurred between the [[Origin]] and [[The Awakening]]. The age came to an end on the advent of [[The Undoing]].
 
 Due to the effects of [[The Undoing]], there is no memory, an minimal writing that survived the destruction. The landscape that was home to the ancient people of [[Zol]] was struck with a force so destructive it demolished nearly everything, reducing it to dust and ruins. What was left was a seemingly endless wasteland.
 

@@ -1,6 +1,7 @@
 ---
 title: "Schools of Magic"
----The Schools of [[Magic]] are a set of informational [[Energy]] signatures given off by the presence or usage of magic. There is thought to be a theoretical unlimited amount of these, but only 8 are observed with regularity within [[Zol]].
+---
+The Schools of [[Magic]] are a set of informational [[Energy]] signatures given off by the presence or usage of magic. There is thought to be a theoretical unlimited amount of these, but only 8 are observed with regularity within [[Zol]].
 - [[Conjuration]]
 - [[Necromancy]]
 - [[Evocation]]

@@ -1,6 +1,7 @@
 ---
 title: "The Palace of Drole"
----*One of Zol's [[Planes]] of existence*
+---
+*One of Zol's [[Planes]] of existence*
 
 Music and laughter can always be heard echoing down its halls. Smelling of incense and cooking foods, [[The Palace of Drole]] is home to [[Yanneran]].
 

@@ -1,6 +1,7 @@
 ---
 title: "Space, Matter, and Energy"
----The 3 aspects of existence in [[Zol]]. These three concepts are all one and the same, merely in different states. These states can be bound, influenced, or shifted to another state using [[Sympathetic bonds]].
+---
+The 3 aspects of existence in [[Zol]]. These three concepts are all one and the same, merely in different states. These states can be bound, influenced, or shifted to another state using [[Sympathetic bonds]].
 - Academic Arcanists understand [[Zol]] an **infinite four dimensional grid of nodes**. Each one of these nodes are fragment [[The Trinity]], and exist in one of the three states: Space, Matter and Energy. Nodes that are not one of these three states are considered [[Nothingness]]. [[Nothingness]] is distinctly different from Space. Space is a traversable location, while nothingness plays no effect on reality. However nodes in a state of [[Nothingness]] are ever-present, they merely have no effect on reality until something alters them into one of the other states.
 	- If you were to pick two one dimensional points in space, each of these points could be represented as one node. In-between these two points there is thought to be an infinite number of other nodes, most of which are in a state of [[Nothingness]].
 	- One does not consider how they are acting on these states directly, this is merely a product of the used [[Magic]]. Acting on nodes differs greatly given the state that the node is in:

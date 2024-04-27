@@ -1,6 +1,7 @@
 ---
 title: "Heliodor"
----*The city of the Sky, Capital of [[Laenwalde]]*
+---
+*The city of the Sky, Capital of [[Laenwalde]]*
 ![[Heliodore Skyline 2.png]]
 
 Constructed in holy defiance of the [[Void Gods]] after [[The Castle of Bodies]] destroyed the previous capital, [[Audran]]. A wonderous feat of artificing, [[Heliodor]] is a floating city that hovers thirty five thousand feet above Gharl's Strait. It is a small, but fantastical city. It serves as the hub of political power and nobility. It is more of a giant castle than a true city. It is only accessible via [[Airships]] or [[Teleportation Circles]] due to its high altitude. The city is capable of aeronautical movement, teleportation and performing a terrestrial landing, but it spends most of its time above its sister city [[Elysium Station]] where Airship Ferries move passengers and good to and from the city.

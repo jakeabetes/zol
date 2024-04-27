@@ -1,6 +1,7 @@
 ---
 title: "Iron Light"
----Iron Light is a unique and efficient methodology used to simplify the usage of [[Arcana]] in the application of [[Enchantment]]. Named after the tell tale violet glow the application gives off, [[Iron Light]] was discovered by the great Arcanist and Academic, [[Maalvern]]. Its conception was what began the [[Second Age]].
+---
+Iron Light is a unique and efficient methodology used to simplify the usage of [[Arcana]] in the application of [[Enchantment]]. Named after the tell tale violet glow the application gives off, [[Iron Light]] was discovered by the great Arcanist and Academic, [[Maalvern]]. Its conception was what began the [[Second Age]].
 
 ![[Iron Light Artificing.png]]
 

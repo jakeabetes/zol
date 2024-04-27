@@ -1,3 +1,4 @@
 ---
 title: "Beastmen"
----See [[Beast Ire]]
+---
+See [[Beast Ire]]

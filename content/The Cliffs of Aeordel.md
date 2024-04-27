@@ -1,6 +1,7 @@
 ---
 title: "The Cliffs of Aeordel"
----*One of Zol's [[Planes]] of existence*
+---
+*One of Zol's [[Planes]] of existence*
 
 A peak with no base. A cliffside so high it overlooks all of [[Zol]].
 

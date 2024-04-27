@@ -1,6 +1,7 @@
 ---
 title: "Collapsation"
----[[Collapsation]] is one of the [[Schools of Magic]]. It is an uncommon school that involves the manipulation of [[Space]]. This manipulation allows a user to increase or decrease the space in a given area.
+---
+[[Collapsation]] is one of the [[Schools of Magic]]. It is an uncommon school that involves the manipulation of [[Space]]. This manipulation allows a user to increase or decrease the space in a given area.
 
 This magic is difficult to perform purely based on the sheer amount of focus it requires. It is done by moving the space from one location to another. It can be used to make a room much larger or smaller. Alternatively it can be used to move a target closer or further away from something.
 

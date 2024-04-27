@@ -1,6 +1,7 @@
 ---
 title: "Necromancy"
----[[Necromancy]] is one of the [[Schools of Magic]]. It is magic that involves meddling with a living or dead creatures life-force. Its name, comes from '*necro*' the human word for death. This name was associated with the school early-on as it wasn't discovered until later that healing magic, called *Amelioration*, gave off the same Informational [[Energy]] as [[Necromancy]]. [[Necromancy]] stuck as the name as many scholars argued that even healing has to do with the recomposition of life force; however some who practice the older arts still call healing magic Amelioration. 
+---
+[[Necromancy]] is one of the [[Schools of Magic]]. It is magic that involves meddling with a living or dead creatures life-force. Its name, comes from '*necro*' the human word for death. This name was associated with the school early-on as it wasn't discovered until later that healing magic, called *Amelioration*, gave off the same Informational [[Energy]] as [[Necromancy]]. [[Necromancy]] stuck as the name as many scholars argued that even healing has to do with the recomposition of life force; however some who practice the older arts still call healing magic Amelioration. 
 
 While powerful, Amelioration is not boundless. It can be used to attempt to restore the dead back to life, but it does not always work. Amelioration also cannot regrow lost limbs, but it can reattach them if the limb is not too damaged. It is also difficult to accurately regrow major internal damage to organs, bone, nerve and blood vessels. Those very skilled with Amelioration can do it, but most will leave the body repaired, but slightly off. This is why non-magical surgeons are able to make a career.
 

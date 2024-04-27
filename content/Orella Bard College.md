@@ -1,6 +1,7 @@
 ---
 title: "Orella Bard College"
----The prestigious [[Holocene]] school of art. Only accessible to those of great means, or who have found themselves in the favor of a wealthy patron. This school, and its campus is known for its competitive nature, famed professors, and eclectic students.
+---
+The prestigious [[Holocene]] school of art. Only accessible to those of great means, or who have found themselves in the favor of a wealthy patron. This school, and its campus is known for its competitive nature, famed professors, and eclectic students.
 
 ## Values
 Reputation, esteem, appearance, and skill of craft are favored above all else. The purpose of the [[Orella Bard College]] is to create the most elegant and impressive artists and works. Sponsored by those who consider themselves the peak of art enthusiasm.

@@ -1,6 +1,7 @@
 ---
 title: "Kapesh"
----![[Kapesh v2.jpg]]
+---
+![[Kapesh v2.jpg]]
 
 The Human Kingdom. Known for its resilience, arcane knowledge, and deep seated religious culture. The Kingdom is under the reign of the [[Galliard Crown]], and most of its people follow the [[Church of Three Fires]]. Kapesh has fought many a battle against both of its neighboring kingdom, and faced the dangers of [[Zol]] more fully than most other places. It has stood the test of time and has the scars to prove it.
 

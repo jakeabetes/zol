@@ -1,6 +1,7 @@
 ---
 title: "Stigmata"
----*The Holy City*
+---
+*The Holy City*
 ![[stigmata skyline 1.png]]
 
 The city of prayer. [[Stigmata]] is known for being full of fanatical citizens who follow the [[Church of Three Fires]]. [[Magic]] within the city that does not come from the will of [[Observance]] is seen as offensive, and cannot be performed without express permission from the city's leadership.

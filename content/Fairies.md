@@ -1,6 +1,7 @@
 ---
 title: "Fairies"
----*Children of the Fey and Fell*
+---
+*Children of the Fey and Fell*
 ![[Fairy.png]]
 
 ## Description

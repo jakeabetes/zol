@@ -1,6 +1,7 @@
 ---
 title: "The Mortal Coil"
----The force that bonds a soul to a vessel, and disjoins them upon death.
+---
+The force that bonds a soul to a vessel, and disjoins them upon death.
 
 ![[the mortal coil.png]]
 

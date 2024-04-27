@@ -1,6 +1,7 @@
 ---
 title: "Goblins"
----*Clever and Conniving*
+---
+*Clever and Conniving*
 ![[Goblin.png]]
 
 ## Description

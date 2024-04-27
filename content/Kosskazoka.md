@@ -1,6 +1,7 @@
 ---
 title: "Kosskazoka"
----*The City of Lights*
+---
+*The City of Lights*
 ![[Kosskazoka skyline.png]]
 
 [[Kosskazoka]] is a city without slumber, known for its large population and fantastically colored [[Apparatum]] lights that leverage the illuminating properties of neon gas. The city is an economic powerhouse as all resources going in and out of [[Saen]] pass through it. Its streets are narrow, complex, and multileveled making it feel full, exciting, and intimidating. The city is famed for its gambling district, the Nightwell, where taverns, inns and casinos line the streets. While popular, gambling isn't the only thing [[Kosskazoka]] has to offer. A little of everything goes on in this vast city.

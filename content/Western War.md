@@ -1,3 +1,4 @@
 ---
 title: "Western War"
----See [[Yorn et Gaul]]
+---
+See [[Yorn et Gaul]]

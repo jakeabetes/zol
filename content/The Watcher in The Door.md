@@ -1,6 +1,7 @@
 ---
 title: "The Watcher in The Door"
----*Supreme Zolaen God of Light, Major Deity*
+---
+*Supreme Zolaen God of Light, Major Deity*
 ![[The Watcher.png]]
 
 *"Come light, come darkness and sky. Come stillness, come ocean and storm. I bind you by mind, soul and vessel. Come balance, come nature, and order. No longer shall you writhe. Come justice, come majesty and art. For the the door shall never be feared again. I am salvation, I am peace, I am The Watcher In the Door"*

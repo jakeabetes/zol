@@ -1,3 +1,4 @@
 ---
 title: "The Astral Sea"
----See [[The Ethos]].
+---
+See [[The Ethos]].

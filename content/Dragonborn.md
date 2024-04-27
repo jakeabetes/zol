@@ -1,6 +1,7 @@
 ---
 title: "Dragonborn"
----*Those of dragon kin*
+---
+*Those of dragon kin*
 ![[Dragonborn.png]]
 
 

@@ -1,6 +1,7 @@
 ---
 title: "Bethar"
----*Wayward God of Craft, Minor Deity*
+---
+*Wayward God of Craft, Minor Deity*
 ![[Bethar.png]]
 
 The god of mortal creation and artistry. Bethar is a quiet but important god to [[Zol]]. Bethar gives guidance and favor to mortals who seek him. His aid manifests as guided skill and inspiration.

@@ -1,6 +1,7 @@
 ---
 title: "Godkiller"
----*Who killed a god... and why?*
+---
+*Who killed a god... and why?*
 ![[the dead warforged with title.png]]
 
 *The death of [[Giriam]], the Zolaen God of Agriculture and Fertility, has thrown [[Zol]] into an unprecedented era. No one knows exactly what, or who killed this god. Mortals weren’t even told of his death by other gods until the catastrophic effects were seen in everyday life.*

@@ -1,6 +1,7 @@
 ---
 title: "Historical Timeline"
----Below is a list of major historical events in chronological order
+---
+Below is a list of major historical events in chronological order
 
 *Note: Some events are marked as **Razing** events. These events involved the destruction and loss of large quantities of historical information (Be it the destruction of archival information, or the loss of great academics). These pale in comparison to [[The Undoing]], but are still relevant as they are responsible for many gaps the people of [[Zol]] have in their science and history.*
 

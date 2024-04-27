@@ -1,6 +1,7 @@
 ---
 title: "The Kodoros"
----![[The Kodoros.png]]
+---
+![[The Kodoros.png]]
 
 A desert mountain range and canyon filled with reptilian beasts, sand worms,  bandits, and a strange magical plant called [[Larkleaf]] that is a potent ingredient in [[Alchemy]], and very precious to the people of [[Saen]].
 

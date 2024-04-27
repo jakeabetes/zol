@@ -1,3 +1,4 @@
 ---
 title: "Sympathy"
----See [[Sympathetic bonds]].
+---
+See [[Sympathetic bonds]].

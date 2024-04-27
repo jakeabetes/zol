@@ -1,6 +1,7 @@
 ---
 title: "The Hooded Presence"
----*Wayward God of Shadows, Minor Deity*
+---
+*Wayward God of Shadows, Minor Deity*
 ![[The hooded presence.png]]
 
 The [[Fell]] god of deception, espionage, and trickery. [[The Hooded Presence]] is the embodiment of shadows themselves. They have dominion over those who lurk in the unseen corners of [[Zol]] to enact their will.

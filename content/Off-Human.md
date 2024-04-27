@@ -1,6 +1,7 @@
 ---
 title: "Off-Human"
----The concept of '[[Off-Human]]' is a portion of the [[Great Magic]] belief. It was spawned due to the publication of [[The Old World of Zol - Excerpts from The Grand Nothing]], and long standing cultural divides from the early [[First Age]]. It is rooted in the belief that [[Humans]] caused [[The Undoing]], and the [[Zolaen Gods]] punished the by taking away their [[Great Magic]]. The power held within the magic was set free, and became the [[Off-Human]] races. Each one of the [[Races]] is said to exhibit a fragment of the human's nature: 
+---
+The concept of '[[Off-Human]]' is a portion of the [[Great Magic]] belief. It was spawned due to the publication of [[The Old World of Zol - Excerpts from The Grand Nothing]], and long standing cultural divides from the early [[First Age]]. It is rooted in the belief that [[Humans]] caused [[The Undoing]], and the [[Zolaen Gods]] punished the by taking away their [[Great Magic]]. The power held within the magic was set free, and became the [[Off-Human]] races. Each one of the [[Races]] is said to exhibit a fragment of the human's nature: 
 
 | Off-Human Race | Trait |
 | --- | --- |

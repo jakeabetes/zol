@@ -1,6 +1,7 @@
 ---
 title: "Tieflings"
----*Demon Blooded*
+---
+*Demon Blooded*
 ![[Tiefling.png]]
 
 ## Description

@@ -1,6 +1,7 @@
 ---
 title: "Gods"
----In [[Zol]], a god is defined by academia as a being that fits all of these criteria:
+---
+In [[Zol]], a god is defined by academia as a being that fits all of these criteria:
 - Is considered by a sect, culture or society as something greater than a mortal soul
 - Is powerful enough to bestow a boon of their power to another being
 - Has dominion over an aspect of [[Zol]]

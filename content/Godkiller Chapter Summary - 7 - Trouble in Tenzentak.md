@@ -1,6 +1,7 @@
 ---
 title: "Godkiller Chapter Summary - 7 - Trouble in Tenzentak"
----- **Chapter begins during the evening of the 15th of Spring, Annum 4466**
+---
+- **Chapter begins during the evening of the 15th of Spring, Annum 4466**
 - The party had encountered Cliff Guntry whilst ascending one of the lifts to the upper city of Tenzentak
 - Cliff is the head miner of the Rozwald Mines
 - He and Rozwald recognized each other. However, it seemed too illogical for Cliff to acknowledge it, and Rozwald was intoxicated and acting abnormally.

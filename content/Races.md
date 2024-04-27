@@ -1,6 +1,7 @@
 ---
 title: "Races"
----Within [[Zol]] there are many different casts of people. History, prejudice and culture paints a reputation for each and every race. However it is important to note when reading about these races, individuals amongst them will differ greatly.
+---
+Within [[Zol]] there are many different casts of people. History, prejudice and culture paints a reputation for each and every race. However it is important to note when reading about these races, individuals amongst them will differ greatly.
 
 The races of [[Zol]] are:
 

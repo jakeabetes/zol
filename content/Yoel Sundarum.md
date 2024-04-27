@@ -1,6 +1,7 @@
 ---
 title: "Yoel Sundarum"
----*The Secluded Iceberg City*
+---
+*The Secluded Iceberg City*
 ![[Yoel Sundarum 2.png]]
 
 It is not known how long [[Yoel Sundarum]] has been around for, and many outsiders think it to be a myth. What little records were kept about it have been destroyed in the many civil battles that have occurred over the city's history. Some think it to be a few thousand years old, some think it is as old as [[The Awakening]], and then there are those who believe it predates [[The Undoing]] itself. No one understand the magical forces that keep city's ice unmoving and unchanging, or how it knows to dip beneath the surface during [[Greatwinds]], capable of trapping pockets of air in its major buildings to provide for its non-aquatic citizens.

@@ -1,6 +1,7 @@
 ---
 title: "Disclaimer"
----This is a fantasy world I originally created for hobbyist purposes. Primarily as a TTRPG campaign setting.
+---
+This is a fantasy world I originally created for hobbyist purposes. Primarily as a TTRPG campaign setting.
 
 Things to note:
 - I require that everyone who wants to use [[Zol]] for their own purposes credit me in their project. To acquire Zol for usage in for-profit scenarios, please contact me.

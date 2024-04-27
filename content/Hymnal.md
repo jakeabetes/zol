@@ -1,3 +1,4 @@
 ---
 title: "Hymnal"
----See the [[Fey]]
+---
+See the [[Fey]]

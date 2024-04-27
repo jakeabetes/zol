@@ -1,3 +1,4 @@
 ---
 title: "Metallic Dragons"
----See [[Dragons]]
+---
+See [[Dragons]]

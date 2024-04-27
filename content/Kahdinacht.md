@@ -1,6 +1,7 @@
 ---
 title: "Kahdinacht"
----*The City of Fine Things, Noble Houses, and Wine*
+---
+*The City of Fine Things, Noble Houses, and Wine*
 ![[Kahdinacht.png]]
 
 [[Kahdinacht]] has always been know for its beauty and refined culture. All 5 schools of arts are exemplified within the city 

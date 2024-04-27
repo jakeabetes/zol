@@ -1,6 +1,7 @@
 ---
 title: "The Castle of Bodies"
----*Void God of Wrath and Madness, Major Deity*
+---
+*Void God of Wrath and Madness, Major Deity*
 ![[The Castle of Bodies.png]]
 
 The product of desperation, a horrible result of an attempt to combat [[Goh'zul]] gone wrong. [[The Castle of Bodies]] is a sentient structure that was created by one of the worlds [[Goh'zul]] was set to devour. The people of this world attempted to create a device that would allow them to kill [[Goh'zul]].

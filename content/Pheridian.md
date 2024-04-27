@@ -1,6 +1,7 @@
 ---
 title: "Pheridian"
----*Ensharden Nedrahsne*
+---
+*Ensharden Nedrahsne*
 ![[Pheridian.png]]
 
 ## Overview

@@ -1,6 +1,7 @@
 ---
 title: "Dreadslayers"
----*Bearing the burden of Iron and Silver*
+---
+*Bearing the burden of Iron and Silver*
 ![[Fort Bramble.png]]
 
 An enclave of skilled monster slayers who protect the northern regions of [[Kapesh]] from dangerous monsters who migrate down from [[The Witchlands]]. Members join at a young age, and are typically those who are left on the wayside by society. They are taught the sword, bow, and magic. But combat is not the full extent of their expertise. They are also educated on history, [[Alchemy]], and monsterology.

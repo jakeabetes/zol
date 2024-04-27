@@ -1,6 +1,7 @@
 ---
 title: "Uroga, Hag of the Sea"
----*Void God of Fathoms, Major Deity*
+---
+*Void God of Fathoms, Major Deity*
 ![[uroga.png]]
 
 Queen of the deep, the most powerful of the mysterious [[Hags]]. she who commands the horrors that lurk in the depths of the ocean. The most clever of the [[Void Gods]]. Uroga is an absurdly powerful witch who conducts the eldritch horrors that lurk in the depths of the ocean.

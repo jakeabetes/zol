@@ -1,6 +1,7 @@
 ---
 title: "Gnomes"
----*Clever and Industrious*
+---
+*Clever and Industrious*
 ![[Gnome.png]]
 
 ## Description

@@ -1,6 +1,7 @@
 ---
 title: "The Brass Hall"
----*The central hub of [[The University]], and famed school of mages and [[Artificers]]*
+---
+*The central hub of [[The University]], and famed school of mages and [[Artificers]]*
 ![[The Brass Hall.png]]
 
 Located within [[Brass Taldora]], [[The Brass Hall]] is the most prestigious education institution of the west. Part of [[The University]]'s [[Arcanum]], the wonderous school is located within the city of [[Ryze]]. It takes up a significant portion of the mega structure it resides within, and is home to many students. Famed for its successful [[Artificers]] and contributions to academia, many seek to gain a place within its ranks. It is filled with some of the sharpest minds, as well as some of the most arrogant ones. It is an extremely competitive institution. It has developed a great focus on [[Apparatum]] and [[Imbuement Perpetuum]].

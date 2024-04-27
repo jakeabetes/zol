@@ -1,6 +1,7 @@
 ---
 title: "Apparatum"
----A word for devices made by [[Iron Light]]. These devices can be quite simple or very complex. Their value scales with complexity, and distance from locations where their production is common place (ex: [[Deepspell]]).
+---
+A word for devices made by [[Iron Light]]. These devices can be quite simple or very complex. Their value scales with complexity, and distance from locations where their production is common place (ex: [[Deepspell]]).
 
 ## Common Apparatum
 

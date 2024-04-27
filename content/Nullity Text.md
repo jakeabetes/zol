@@ -1,3 +1,4 @@
 ---
 title: "Nullity Text"
----See [[The Grand Nothing]]
+---
+See [[The Grand Nothing]]

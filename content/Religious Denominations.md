@@ -1,6 +1,7 @@
 ---
 title: "Religious Denominations"
----[[Religion]] in [[Zol]] is a complex thing. There are many religious and philosophical belief systems in [[Zol]] that all have their own unique perspective of the world. These denominations and organizations differ wildly in belief, size, and values.
+---
+[[Religion]] in [[Zol]] is a complex thing. There are many religious and philosophical belief systems in [[Zol]] that all have their own unique perspective of the world. These denominations and organizations differ wildly in belief, size, and values.
 
 Denominations are blanket terms used to encapsulate large and complex belief systems. Individuals who consider themselves part of one of these denominations will have their own unique interpretation of their specific faith. This means that there are many variations and interpretations of the belief systems described here. However, these denominations give a good overview of the beliefs held across [[Zol]]. 
 

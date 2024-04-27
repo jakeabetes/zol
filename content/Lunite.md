@@ -1,6 +1,7 @@
 ---
 title: "Lunite"
----*Moon Fae*
+---
+*Moon Fae*
 ![[Lunite.png]]
 
 ## Description

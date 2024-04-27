@@ -1,6 +1,7 @@
 ---
 title: "Laenwalde"
----![[Laenwalde v3.jpg]]
+---
+![[Laenwalde v3.jpg]]
 
 The Unified Kingdoms of the West. The largest political power in all of [[Zol]]. Laenwalde is a kingdom formed of the island of [[Arcadia]], the green hills of [[Eucaren]], and the flowing sands of [[Saen]]. These three regions are bound by code, trade, and military ties. However their citizens do not necessarily see their neighboring regions as *friends*. 
 

@@ -1,3 +1,4 @@
 ---
 title: "Kerndall"
----See [[Kerndall, the Feral King]].
+---
+See [[Kerndall, the Feral King]].

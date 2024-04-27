@@ -1,6 +1,7 @@
 ---
 title: "The Vast Sea"
----![[The Vast Sea.png]]
+---
+![[The Vast Sea.png]]
 
 An endless, daunting horizon of sea. [[The Vast Sea]] is the furthest west named region of [[Zol]]. Thought by many to be endless, this sea gives life to those who reside on the coasts of the west, and some who spend their whole lives upon it on the strange [[Keepships]].
 

@@ -1,6 +1,7 @@
 ---
 title: "Mechanicum Immaculatum"
----*Pushing the bounds of what it means to be alive, [[Mechanicum Immaculatum]] is the Human translation of Mechanical Conception*
+---
+*Pushing the bounds of what it means to be alive, [[Mechanicum Immaculatum]] is the Human translation of Mechanical Conception*
 
 [[Mechanicum Immaculatum]] is a phenomenon that is responsible for the creation of [[Warforged]]. It was discovered in the early 4th millennium.
 

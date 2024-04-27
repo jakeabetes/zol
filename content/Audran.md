@@ -1,6 +1,7 @@
 ---
 title: "Audran"
----*The City of Ruins, The Lost Capital Reborn*
+---
+*The City of Ruins, The Lost Capital Reborn*
 ![[Audran skyline 1.png]]
 
 The largest city in all of [[Zol]]. [[Audran]] was once the prosperous capital of [[Laenwalde]]. Seen by all of [[Zol]] as a beacon of light and wonder. So large you could not walk from end to end in a day, not counting getting lost or stopping. Its wonderous empire stood proud for many generations, until one of the darkest days in [[Zol]]'s history: The Day of Madness.

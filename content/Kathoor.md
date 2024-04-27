@@ -1,6 +1,7 @@
 ---
 title: "Ka'thoor"
----*Trade, culture, pride, and humility*
+---
+*Trade, culture, pride, and humility*
 ![[kathoor skyline.png]]
 
 Ka'thoor, the Orcish City. Located in [[The Free Cities of Alderun]], and known for its eclectic citizens, spicy food, dominant population of [[Orcs]], and unique architecture that incorporates the bones of large beasts. Ka'thoor rests on the border of [[Kapesh]], and is nestled into the mountains. It is a common stop for any who leave or enter [[The Free Cities of Alderun]].

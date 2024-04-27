@@ -1,5 +1,6 @@
 ---
 title: "Shardcallers"
----The highest ruling power of [[The Glassius Reach]]. One Shardcaller exists for each city, and one city exists for each of [[The Oldshards]]. They have the power of a king or queen, but live strangely humble and controlled lives. The ruling class within The Reach is seen as being, for lack of a better term, owned by the people. This does not mean that the can be treated however they want, but everything they do must be to serve the people. The homes of Shardcallers can be viewed through large windows, save for private chambers like bedrooms or lavatories.
+---
+The highest ruling power of [[The Glassius Reach]]. One Shardcaller exists for each city, and one city exists for each of [[The Oldshards]]. They have the power of a king or queen, but live strangely humble and controlled lives. The ruling class within The Reach is seen as being, for lack of a better term, owned by the people. This does not mean that the can be treated however they want, but everything they do must be to serve the people. The homes of Shardcallers can be viewed through large windows, save for private chambers like bedrooms or lavatories.
 
 To elect a Shardcaller, and individual must prove themselves to be of the right mind and high intelligence. This is done by extensive testing, written essay, as well as political and philosophical debate. When a new Shardcaller is selected, it is done by the council of Shardwitnesses, those who support the acting Shardcaller, and the current Shardcaller if they are alive. Any Changeling can try for the position.

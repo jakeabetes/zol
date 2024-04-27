@@ -1,6 +1,7 @@
 ---
 title: "Godkiller Chapter Summary - 2 - Legs"
----- **Chapter begins on the early morning of the 12th of Spring, 4466**
+---
+- **Chapter begins on the early morning of the 12th of Spring, 4466**
 - Arrival at Tenzentak
 - Quite the big deal train was attacked. Word was sent ahead to the city and your train was met with a swarming crowd at the station.
 - Laizen gave you some advice and did his best to maneuver our heroes into a favorable position.

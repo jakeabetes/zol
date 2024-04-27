@@ -1,6 +1,7 @@
 ---
 title: "Hags"
----A coven of eerie, occult beings of an unknown origin. Based on various piece of collected information, academics widely believe that [[Hags]] are beings who came to [[Zol]] from [[The Cosmos]]. It is not know why they do this, but their interest in the powers of the world are what drives them. They are depicted as horrific old female witches, who can adopt any physical form of their choosing. It is not known what give them their power, but many recognize them as small [[Gods]]. The most notable, and powerful of them being [[Uroga, Hag of the Sea]] who is fully recognized as one of the [[Void Gods]].
+---
+A coven of eerie, occult beings of an unknown origin. Based on various piece of collected information, academics widely believe that [[Hags]] are beings who came to [[Zol]] from [[The Cosmos]]. It is not know why they do this, but their interest in the powers of the world are what drives them. They are depicted as horrific old female witches, who can adopt any physical form of their choosing. It is not known what give them their power, but many recognize them as small [[Gods]]. The most notable, and powerful of them being [[Uroga, Hag of the Sea]] who is fully recognized as one of the [[Void Gods]].
 
 There are thought to be many [[Hags]], but the only one publicly known of are:
 - [[Uroga, Hag of the Sea]]

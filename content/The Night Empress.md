@@ -1,6 +1,7 @@
 ---
 title: "The Night Empress"
----*Zolaen God of Night and The Moons, Major Deity*
+---
+*Zolaen God of Night and The Moons, Major Deity*
 ![[nightempress.png]]
 
 Known for their mystery and matronly nature, [[The Night Empress]] is the cryptic mother who sits amongst the [[Zolaen Gods]]. She has dominion over the strange world night creates, and those who pass through it.

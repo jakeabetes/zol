@@ -1,6 +1,7 @@
 ---
 title: "Genasi"
----*The people of the Elements*
+---
+*The people of the Elements*
 ![[Genasi.png]]
 
 ## Description

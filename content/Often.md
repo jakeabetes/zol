@@ -1,6 +1,7 @@
 ---
 title: "Often"
----*The City of Honorable Viking Warriors*
+---
+*The City of Honorable Viking Warriors*
 ![[Often Skyline 2.png]]
 
 Long ago, [[Often]] was the least notable city of [[The Ward]]. However this changed significantly when half of the kingdom's cities were destroyed during [[The Dragon War]]. The city was only able to survive its destruction due to its persevering warriors. In modern day, these warriors are most associated with [[The Ramshorn]], a guild of warriors who are known to fight for the [[The North Honor]] and the greater good of [[Zol]]. The city of cobbled stone and copper roofs is frequently shrouded in a thick, cold fog. Despite its gloomy weather, its people are a known for their jolly community.

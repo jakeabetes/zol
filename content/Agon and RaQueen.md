@@ -1,6 +1,7 @@
 ---
 title: "Agon and Ra'Queen"
----*Wandering God, Moral of Oaths*
+---
+*Wandering God, Moral of Oaths*
 ![[Agon and Raqueen.png]]
 
 A being of two sides. [[Agon and Ra'Queen]] are one and the same. They represent the promises one must make, and what it takes to keep them. Thought to be one being who adopts two different forms, or 2 beings very closely bonded.

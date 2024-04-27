@@ -1,6 +1,7 @@
 ---
 title: "The First Tongue"
----The First Tongue is the words spoken by [[The Watcher in The Door]] during the creation of [[Zol]] and the founding of the [[Zolaen Gods]] pantheon. This language is what binds [[The Trinity]] into all of existence within Zol. It is referred to as a language for lack of a better term. Unlike modern language, The First Tongue must be spoken with more than just words and often involves no words at all.
+---
+The First Tongue is the words spoken by [[The Watcher in The Door]] during the creation of [[Zol]] and the founding of the [[Zolaen Gods]] pantheon. This language is what binds [[The Trinity]] into all of existence within Zol. It is referred to as a language for lack of a better term. Unlike modern language, The First Tongue must be spoken with more than just words and often involves no words at all.
 
 As an example, the modern language of Common must be spoken with the correct pronunciation, grammar, inflection, cadence, et cetera. The First Tongue must be spoken with uncontested knowledge, unbound emotion, iron will, perfect artistry, exact movement, unwavering faith, and a [[Vizir]] like no other. The words of The First Tongue are so complex they cannot be recorded in any useful manner of writing.
 

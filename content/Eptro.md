@@ -1,6 +1,7 @@
 ---
 title: "Eptro"
----*Wayward God of Ice, Minor Deity*
+---
+*Wayward God of Ice, Minor Deity*
 ![[Eptro.png]]
 
 Lord of the frost, Eptro is the spirit of ice and the frozen expanses that exist in [[Zol]]. A mysterious being who's concerns rarely extend outside of it's domain. Academic evidence found in [[The Grand Nothing]] indicates that [[Eptro]] is one half of a greater being that was fractured into two parts. Its other half being [[Daetro]], who it seems to act opposite to.

@@ -1,6 +1,7 @@
 ---
 title: "The Ward"
----![[The Ward.jpg]]
+---
+![[The Ward.jpg]]
 
 Cut off from the rest of the world, [[The Ward]] is a wild, untamed land where the only constants are the howling winds and the roiling seas. Its cities are built upon rocky cliffs, their halls and longhouses formed of stone and unique, indigenous wood resistant to breaking under high winds. The cities cling precariously to the edges of [[Zol]] itself. The people who live there are hardy, fierce, and no stranger to fighting against the elements or facing down the terrors of the sea.
 

@@ -1,6 +1,7 @@
 ---
 title: "Jhenbridge"
----*Built atop the Ruins of Keptifer Academy, filled with ambitious minds and lost things*
+---
+*Built atop the Ruins of Keptifer Academy, filled with ambitious minds and lost things*
 ![[Jhenbridge.png]]
 
 Located within [[Audran]], the school is an integral part of [[The University]]. [[Jhenbridge]] is an institution of the [[Arcanum]], and is famed for its accessible education. [[Jhenbridge]] is built atop the ruins of Keptifer Academy. Keptifer was a small, and private academic institution from before [[The Castle of Bodies]] attacked the city, and reduced the school to rubble. It was not a very long standing school, and most saw it as a place for dangerous mages to interact out of the public's eyes. The loss of Keptifer Academy was a tragic thing for those in academic circles, however the deep bowels of Keptifer were largely left untouched. Clever academics built [[Jhenbridge]] atop these hidden treasures to protect and claim the mysterious resources deep under the city.

@@ -1,3 +1,4 @@
 ---
 title: "Phlogiston"
----See [[Alchemy]]
+---
+See [[Alchemy]]

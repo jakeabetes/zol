@@ -1,6 +1,7 @@
 ---
 title: "Artificers"
----Magical crafters who bend the fundamental powers of [[Zol]] into their own creations. The creations can take many forms but largely fall into the four categories of Engineering, [[Alchemy]], [[Iron Light]], and [[Imbuement Perpetuum]].
+---
+Magical crafters who bend the fundamental powers of [[Zol]] into their own creations. The creations can take many forms but largely fall into the four categories of Engineering, [[Alchemy]], [[Iron Light]], and [[Imbuement Perpetuum]].
 
 Artificers will use their creations to give themselves, or another, means beyond what they would normally be able to accomplish. This creation may manifest as a tool, pharmaceutical,  transportation, weapon, or defense.
 

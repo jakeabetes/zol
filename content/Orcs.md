@@ -1,6 +1,7 @@
 ---
 title: "Orcs"
----*Might and Wisdom*
+---
+*Might and Wisdom*
 ![[Orc.png]]
 
 ## Description

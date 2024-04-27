@@ -1,6 +1,7 @@
 ---
 title: "Owlin"
----*Wise and Perceptive*
+---
+*Wise and Perceptive*
 ![[Owlin.png]]
 
 ## Description

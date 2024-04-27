@@ -1,6 +1,7 @@
 ---
 title: "Godkiller Chapter Summary - 6 - The Devil's in the Details"
 ---
+
  -  **Chapter begins mid morning on the 15th of Spring, Annum 4466**
  - Our Heroes had passed The Ikas Feather test
  - They were congratulated by Johnny Dogs, and invited to the Mess Hall for a drinking tradition with the guild members

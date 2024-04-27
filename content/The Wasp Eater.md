@@ -1,6 +1,7 @@
 ---
 title: "The Wasp Eater"
----*Void God of Plague, Minor Deity*
+---
+*Void God of Plague, Minor Deity*
 ![[The Wasp Eater.png]]
 
 He who culls, King of Plagues, [[The Wasp Eater]] is a hyper intelligent being who claims to seek the fair destruction of life itself. A being who constantly wages war on [[Zol]] through the cultivation of sickness and blight. 

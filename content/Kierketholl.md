@@ -1,6 +1,7 @@
 ---
 title: "Kierketholl"
----*The Capital City of Humans, Shrouded in Mist*
+---
+*The Capital City of Humans, Shrouded in Mist*
 ![[kierketholl skyline.png]]
 
 The capital of [[Kapesh]] and home to [[King Galliard]]. Dotted with massive, high towers and protected by [[The Crown Titans]]. [[Kierketholl]] has stood against the trials of war and time like no other city.

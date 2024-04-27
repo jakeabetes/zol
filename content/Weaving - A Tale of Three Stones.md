@@ -1,6 +1,7 @@
 ---
 title: "Weaving - A Tale of Three Stones"
----He was the first of three stones. Despite his age, he did not have a name. But most stones lacked this trait, so it never struck him as odd. Our stone had traveled the world in his years. Wondrous places like the far deep underground, the regular-amount-of-deep underground, the not-so-deep underground. He even made it to the mysterious surface. Propelled by frost and geology, he was proud of his journey. However, none of his adventures lived up to being chosen.
+---
+He was the first of three stones. Despite his age, he did not have a name. But most stones lacked this trait, so it never struck him as odd. Our stone had traveled the world in his years. Wondrous places like the far deep underground, the regular-amount-of-deep underground, the not-so-deep underground. He even made it to the mysterious surface. Propelled by frost and geology, he was proud of his journey. However, none of his adventures lived up to being chosen.
 
 Creatures were strange things, people most of all. All soft and bustling about. Plants at least had the decency to stay in the same place, but people could go anywhere. Strange as they were, something was intriguing about how people made things. The hands that chose our first of three stones were not experts at making, but they were passionate. These hands mortared many stones, bound together, greater than the sum of their parts. Each mortared in place with all the care the hands could muster, but care alone can only get one so far.
 

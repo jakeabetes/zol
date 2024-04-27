@@ -1,6 +1,7 @@
 ---
 title: "Ellyon and Aradon"
----*Wayward Gods of Seafaring and Skyfaring, Minor Deities*
+---
+*Wayward Gods of Seafaring and Skyfaring, Minor Deities*
 ![[Ellyon and Aradon.png]]
 
 The offspring of [[Ohlit]]. Ellyon the daughter of sea and Aradon the son of sky. Guardians who have domain over those who brave the parts of [[Zol]] that border dangers beyond. The Sea and Sky.

@@ -1,6 +1,7 @@
 ---
 title: "The Word of Growth"
----Isil, Guardian of Gethsemane, Bearer of The Word of Growth, Wielder of [[The First Tongue]]*
+---
+Isil, Guardian of Gethsemane, Bearer of The Word of Growth, Wielder of [[The First Tongue]]*
 ![[Isil.png]]
 
 A druid of unmatched power. Isil possesses the power to control the growth of living things. She is the hero of [[Gethsemane]].

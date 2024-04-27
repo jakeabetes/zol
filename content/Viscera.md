@@ -1,6 +1,7 @@
 ---
 title: "Viscera"
----*The city that never sleeps*
+---
+*The city that never sleeps*
 ![[Viscera Skyline 3.png]]
 
 Located on the border of the dangerous and magical Witchlands, tucked into the foothills of [[Demodemacht]], and built on the shore of The Purelakes. [[Viscera]] has a reputation for being an exceptionally strange city, especially when it comes to its nobility and night life.

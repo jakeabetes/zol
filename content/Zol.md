@@ -1,6 +1,7 @@
 ---
 title: "Zol"
----***Welcome to the world of [[Zol]], by Jacob AE Turner***
+---
+***Welcome to the world of [[Zol]], by Jacob AE Turner***
 ![[updated banner 2k with text.png]]
 
 # Explore Zol

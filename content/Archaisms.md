@@ -1,3 +1,4 @@
 ---
 title: "Archaisms"
----See [[The Grand Nothing]]
+---
+See [[The Grand Nothing]]

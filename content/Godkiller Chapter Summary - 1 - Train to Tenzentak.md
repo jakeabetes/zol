@@ -1,6 +1,7 @@
 ---
 title: "Godkiller Chapter Summary - 1 - Train to Tenzentak"
----- **Chapter begins mid-morning the 11th of Spring, 4466**
+---
+- **Chapter begins mid-morning the 11th of Spring, 4466**
 - Our story began with a strange dream of a broken Warforged
 - Upon boarding the train in the city of Rails, our heroes met some odd new friends. Each other!
 	- Deimos - A monster slayer and his friendly wolf, Wall'e

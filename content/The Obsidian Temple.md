@@ -1,6 +1,7 @@
 ---
 title: "The Obsidian Temple"
----*The School of the Gods*
+---
+*The School of the Gods*
 ![[The Obsidian Temple.png]]
 
 Located within the holy city of [[Rockfire]], [[The Obsidian Temple]] is a strange menagerie of many different religious groups all sharing a single roof. It is a place of both worship and study. It is a school of the [[Observum]], an extension of [[The University]]. It is a massive sprawling temple of black obsidian and sandstone bricks. Within its grounds, many academics, priests, clerics, sages, monks engage in study, debate and worship. All with the ultimate goal of understanding the nature of the [[Gods]].

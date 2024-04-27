@@ -1,6 +1,7 @@
 ---
 title: "Corinth"
----*The Unmarred Changeling City, home to one of [[The Oldshards]]*
+---
+*The Unmarred Changeling City, home to one of [[The Oldshards]]*
 ![[Corinth Skyline.png]]
 
 A towering city of sleek black stone, and sharply accented structures. Home to [[Changelings]] and their remaining Old Shard. The city is the last standing bastion of a culture alien to the rest of [[Zol]]. This culture, based around [[The Oldshards]], is so old that it may even predate [[The Undoing]]. In this far north city of order and tradition, scholars and philosophers study [[The Vertex]] in hopes to better understand [[Changelings]] and the world they live in.

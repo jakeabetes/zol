@@ -1,6 +1,7 @@
 ---
 title: "Ep Drukar"
----*The Elemental City*
+---
+*The Elemental City*
 ![[Ep Drukar skyline 3.png]]
 
 [[Ep Drukar]] is home to the [[Genasi]]. A race of beings who are born with a unique connection to [[The Elemental Planes]]. Reclusive within their mountain top city, the [[Genasi]] hold the connection of ones self to the world around them as a very sacred thing. This connection is most prevalent in the [[Genasi]]'s relationship with ephemeral beings called [[Sylfs]]. Strange fairy-like creatures who hail from [[The Elemental Planes]].

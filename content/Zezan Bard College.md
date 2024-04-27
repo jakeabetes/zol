@@ -1,6 +1,7 @@
 ---
 title: "Zezan Bard College"
----A wild and eclectic school of The Arts, and even a little [[Magic]]. [[Zezan Bard College]], located in [[Kahdinacht]] is a place of study regarding each of the facets of art:
+---
+A wild and eclectic school of The Arts, and even a little [[Magic]]. [[Zezan Bard College]], located in [[Kahdinacht]] is a place of study regarding each of the facets of art:
 -  Visual
 - Architectural 
 - Literary

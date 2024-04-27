@@ -1,6 +1,7 @@
 ---
 title: "Yanneran"
----*Zolaen God of Art and Wine, Major Deity*
+---
+*Zolaen God of Art and Wine, Major Deity*
 ![[Yanneran.png]]
 
 Known for their jovial and free spirited nature, [[Yanneran]] is the most liberal of the [[Zolaen Gods]]. Yanneran has domain over the beauty drawn from the world, and the celebration of it.

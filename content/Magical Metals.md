@@ -1,6 +1,7 @@
 ---
 title: "Magical Metals"
----Within [[Zol]] there are many different naturally occurring materials which can be used across many types of craftsmanship. Some of these are naturally magical metals which are highly sought after. 
+---
+Within [[Zol]] there are many different naturally occurring materials which can be used across many types of craftsmanship. Some of these are naturally magical metals which are highly sought after. 
 
 ## Types of Metal
 

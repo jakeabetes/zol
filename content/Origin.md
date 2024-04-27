@@ -1,6 +1,7 @@
 ---
 title: "Origin"
----*The creation of [[Zol]] from the perspective of [[Zolaen Scripture]]*
+---
+*The creation of [[Zol]] from the perspective of [[Zolaen Scripture]]*
 
 [[Zol]] is the end of a cosmic cycle called [[The Circle]]. A product of thousands upon thousands of worlds cultivated, and consumed like livestock. Worlds made to sustain cosmic beings called the [[Great Old Ones]]. Amongst these cultivated worlds, one grew strong enough to fight back, and imprison its creator in [[The Great Wall of Roots]]. 
 

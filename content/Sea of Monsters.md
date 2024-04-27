@@ -1,6 +1,7 @@
 ---
 title: "Sea of Monsters"
----The remnants of [[Goh'zul]]'s body, endlessly feasted upon by beings who traversed the cosmos to feed on his infinite body.
+---
+The remnants of [[Goh'zul]]'s body, endlessly feasted upon by beings who traversed the cosmos to feed on his infinite body.
 
 After [[Goh'zul]] was defeated, he was trapped within [[The Great Wall of Roots]]. Unable to sustain his body, he slowly rotted away and died, and powerful beings flocked to the now unclaimed power held within him like ocean scavengers to a whalefall. This sea writhed for many eons, but it was stilled when [[The Watcher in The Door]] spoke [[The First Tongue]], and spun its power into the world of [[Zol]].
 

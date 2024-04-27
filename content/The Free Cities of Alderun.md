@@ -1,6 +1,7 @@
 ---
 title: "The Free Cities of Alderun"
----![[The Free Cities of Alderun.jpg]]
+---
+![[The Free Cities of Alderun.jpg]]
 
 Once known as South Kapesh, Alderun has a history of oppression and rebellion. Despite its difficult past, Alderun now flourishes with life and culture. A land where anyone can choose to be who they want, but with great freedom comes discourse.
 

@@ -1,6 +1,7 @@
 ---
 title: "Ryze"
----*The Steam Powered City of Industry*
+---
+*The Steam Powered City of Industry*
 ![[ryze skyline.png]]
 
 In the center of the city of steel, copper, and iron lies a tower, called [[Brass Taldora]]. The building is so tall it contains a third of the city's population. It was originally built by a long dead organization of [[Arcanists]] in the early to mid [[First Age]]. These [[Arcanists]], called The Circle of Ezer, were powerful conquerors of [[The Badlands]]. They built the megastructure atop geothermal vents to harness their kinetic and heat energy to use in their grand schemes. Fortunately for The Badlands, [[The Undari]] slayed The Circle of Ezer. Their complex lair was taken over by masses of nomadic tribes seeking refuge. One tribe in particular, Clan Yiniro was a very clever group of [[Gnomes]] who were able to unlock the secrets that made the tower function as a home. It was quickly filled by all who sought its resources and protection. When the tower was at capacity, the citizens began to build a town around its base that eventually grew into the city of [[Ryze]].

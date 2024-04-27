@@ -1,6 +1,7 @@
 ---
 title: "The First Bastion"
----*My Sword for [[The Watcher]]*
+---
+*My Sword for [[The Watcher]]*
 ![[The First Bastion.png]]
 
 [[The First Bastion]] is technically an institution of [[The University]] as part of the [[Observum]]. However it often acts on its own accord. Located within the beautiful city of [[Penthe]], [[The First Bastion]] is known to train warriors, devout to their kingdom and the [[Zolaen Gods]]. Many see the members of [[The First Bastion]] as righteous protectors. Others see them as self righteous war-dogs.

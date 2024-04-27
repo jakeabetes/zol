@@ -1,6 +1,7 @@
 ---
 title: "Chorn"
----*Wandering God, Moral of Patience*
+---
+*Wandering God, Moral of Patience*
 ![[Chorn.png]]
 
 All things that have occurred, and will occur are the products of seeds sewn in time. With wisdom and patience once can learn to cultivate a harmonious future.

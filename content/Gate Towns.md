@@ -1,3 +1,4 @@
 ---
 title: "Gate Towns"
----See [[Gate Town]]
+---
+See [[Gate Town]]

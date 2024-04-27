@@ -1,6 +1,7 @@
 ---
 title: "The Word of Shadow"
----The Word of Shadow, Unseen Hero, Wielder of [[The First Tongue]]*
+---
+The Word of Shadow, Unseen Hero, Wielder of [[The First Tongue]]*
 ![[Shadow.png]]
 
 The Word of shadow is the anonymous [[Wordbearer]]. No one knows their true identity, origin, or place of residence. Many doubt their existence, but other [[Wordbearers]] have confirmed their existence.

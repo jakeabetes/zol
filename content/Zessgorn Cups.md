@@ -1,6 +1,7 @@
 ---
 title: "Zessgorn Cups"
----Zessgorn Cups are a social tool utilized in the city of [[Zessgorn]] to determine someone's status and house membership in the cities complex socioeconomic structure. Said structure is largely determined by the remaining [[The Rings of Tarot]], and their respective houses. These rings give both magical power and social status.
+---
+Zessgorn Cups are a social tool utilized in the city of [[Zessgorn]] to determine someone's status and house membership in the cities complex socioeconomic structure. Said structure is largely determined by the remaining [[The Rings of Tarot]], and their respective houses. These rings give both magical power and social status.
 
 All who enter Zessgorn must fit into the hierarchy of the city. Each person must carry a cup with them, with the symbol of the Ring Bearer they pay tribute to for protection and services.
 

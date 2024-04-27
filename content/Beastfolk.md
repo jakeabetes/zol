@@ -1,6 +1,7 @@
 ---
 title: "Beastfolk"
----*The descendants of those untempted by the [[Beast Ire]]*
+---
+*The descendants of those untempted by the [[Beast Ire]]*
 ![[Beastfolk.png]]
 
 ## Description

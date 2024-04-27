@@ -1,6 +1,7 @@
 ---
 title: "Goliaths"
----*Mighty giants*
+---
+*Mighty giants*
 ![[Goliath.png]]
 
 ## Description

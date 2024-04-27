@@ -1,6 +1,7 @@
 ---
 title: "The Ramshorn"
----The protectors of [[The North Honor]]. The valiant and brave souls who fend off the threats of [[The Ward]] and guard the cities of [[Often]] and [[Fike]]. They are skilled vikings, and praised craftsmen.
+---
+The protectors of [[The North Honor]]. The valiant and brave souls who fend off the threats of [[The Ward]] and guard the cities of [[Often]] and [[Fike]]. They are skilled vikings, and praised craftsmen.
 ![[Ramshorn.png]]
 
 ## Values

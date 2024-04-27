@@ -1,6 +1,7 @@
 ---
 title: "The Peaks of Myth'ira"
----![[The Peaks of MythIra.png]]
+---
+![[The Peaks of MythIra.png]]
 
 The sacred mountains of the [[Dwarves]], filled with fire and precious [[Mythril]]. These imposing peaks are home to cities, riches, and many [[Dragons]].
 

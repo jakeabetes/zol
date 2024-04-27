@@ -1,6 +1,7 @@
 ---
 title: "Xerul"
----*The City of the High Elves*
+---
+*The City of the High Elves*
 ![[Xerul 3.png]]
 
 The elegant city of [[Xerul]] rests in the center of [[Gethsemane]]. Populated by the proud High Elves, the city is ancient, and resplendent. Surrounded by the lush forest of Yan Nalora, the city is harmonious with the local nature. Its citizens carry a deep love and respect for both their city, and territory. It is one of the many cities within [[Gethsemane]] that is very hard for outsiders to reach, as [[The Iron Tracks]] do not contain it within its routes. Because of this, [[Xerul]] is almost mythical to common folk of the other kingdoms.

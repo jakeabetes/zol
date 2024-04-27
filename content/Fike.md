@@ -1,6 +1,7 @@
 ---
 title: "Fike"
----*The Largest city of The Ward*
+---
+*The Largest city of The Ward*
 ![[Fike Skyline 2.png]]
 
 Surrounded by hilly farmland, [[Fike]] is the most populated of the north-eastern cities. Located on the most fertile ground of [[The Ward]], it is the producer of fresh produce for itself and its sister city of [[Often]]. Its abundance is largely due to this hills surrounding the city which bear a great deal of the force from [[Greatwinds]]. However its abundant resources also make it a frequent target of its rival city, [[Hoss]].

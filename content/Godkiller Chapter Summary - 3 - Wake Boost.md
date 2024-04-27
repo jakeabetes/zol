@@ -1,6 +1,7 @@
 ---
 title: "Godkiller Chapter Summary - 3 - Wake Boost"
---- - **Chapter begins on the early evening on the 12th of Spring, 4466**
+---
+ - **Chapter begins on the early evening on the 12th of Spring, 4466**
  - Slaying Skimmer-Back Ger'zar Bandits in the Baradan Canyon
 	 - One kept screaming "Autonom" in reverence at Sherman
  - Made camp in a set of twisted ruins, warped by the effect of The Undoing
