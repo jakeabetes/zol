@@ -58,3 +58,4 @@ title: "Miscellaneous Topics"
 - [[Magical Metals]]
 - [[The Hatiat]] - One of the only long standing nomadic traditions within the three corners.
 - [[Curiosity]] - The generic name for any magical illness
+- [[Numerology]] - The cultural, spiritual, and religious significance of numbers

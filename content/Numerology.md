@@ -1,0 +1,41 @@
+---
+title: "Numerology"
+---
+Numbers are tied to many ideals within Zol. What follows is a list of the major numerological significances.
+
+## The Three Corners
+- 1
+	- Wholeness
+- 2 
+	- Amongst most of society: Incomplete, unholy
+	- Amongst [[Pheridian]] belief: Holiness, [[The Oldshards]]
+- 3
+	- Universally holy
+	- [[The Trinity]]
+	- [[Laenwalde]] comprised of [[Arcadia]], [[Eucaren]], and [[Saen]]
+	- [[The Three Corners]]
+	- The [[Triumvirate]]
+	- Good Luck
+- 4
+	- [[The Elemental Planes]]
+	- Mind, body, soul, and [[Vizir]]. The components of a mortal being.
+	- Life
+- 6
+	- The Six Kingdoms
+		- [[Laenwalde]]
+		- [[Gethsemane]]
+		- [[The Glassius Reach]]
+		- [[Kapesh]]
+		- [[The Free Cities of Alderun]]
+		- [[The Ward]]
+- 7
+	- Unholy
+	- The [[Void Gods]]
+	- [[The Void]]
+	- Bad Luck
+- 8
+	- Holy
+	- The [[Zolaen Gods]]
+	- Good Luck
+- 11
+	- [[The Wandering Gods]]
