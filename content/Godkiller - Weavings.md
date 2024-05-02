@@ -12,3 +12,4 @@ title: "Godkiller - Weavings"
 - [[Weaving - Arch Nemesis]]
 - [[Weaving - Desperate People]]
 - [[Weaving - Lectures on Ferrication - 1]]
+- [[Weaving - The Wrath Wastes]]

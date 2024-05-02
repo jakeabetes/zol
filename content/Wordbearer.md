@@ -1,4 +1,0 @@
----
-title: "Wordbearer"
----
-See [[Wordbearers]]
