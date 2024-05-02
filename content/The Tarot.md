@@ -1,0 +1,8 @@
+---
+title: "The Tarot"
+---
+A mystic tradition dating all the way back to [[The Awakening]], originating in the city of [[Zessgorn]]. Its origin is heavily debated amongst historians. This long standing tradition consists divining truths about fate and the future through the usage of special cards called [[Tarot Cards]]. Those who practice this tradition are known as [[The Tarot]].
+
+These cards are carefully crafted and cared for. They are not innately magical, but their connection to a person is a very sacred, and powerful thing. Despite being crafted from mundane materials, [[Divination]] magic can reveal that the once non-magical cards of a Tarot reader posses strong [[Divination]] magic of their own. According to members of [[The Tarot]] tradition, this magic comes from the intent of the user placed upon the cards. The cards reveal paths the future may hold, and it takes a very keen, and open mind to comprehend the messages held within the cards. Reading Tarot is a skill that needs to be carefully cultivated.
+
+[[Zessgorn]]'s culture was largely formed around significance of their cards. Most notably, a set of magical rings were made using [[Imbuement Perpetuum]]. Each ring gave its wearer power, both magical and cultural. These relics acted as the pillars which [[Zessgorn]]'s societal structure was formed around. However, a power struggle for these rings eventually broke out within the city, and the nature of the [[Zessgorn]] was reshaped.
