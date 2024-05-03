@@ -5,7 +5,7 @@ title: "Mechanicum Immaculatum"
 
 [[Mechanicum Immaculatum]] is a phenomenon that is responsible for the creation of [[Warforged]]. It was discovered in the early 4th millennium.
 
-It is the process of creating an [[Apparatum]] so complex, a soul bonds to it via [[The Mortal Coil]]. Originally discovered by accident when [[Artificers]] were attempting to develop a [[Low Automata]] pen that could act as a scribe for someone who was dictating to it. When the pen began writing of its own volition, a massive surge of innovation began. The pen is now known as "Professor Quill" and can still be found within [[The University]]'s artificary.
+It is the process of creating an [[Apparatum]] so complex, a soul bonds to it via [[The Mortal Coil]]. Originally discovered by accident when [[Artificers]] were attempting to develop a [[Low Automata]] pen that could act as a scribe for someone who was dictating to it. When the pen began writing of its own volition, a massive surge of innovation began. The pen is now known as "Professor Quill" and can still be found within [[The University]]'s artificery.
 
 A subservient race of beings called [[Warforged]] were developed to originally fight in the [[Triumvirate Battles]]. This accelerated the conflict from both sides significantly. The destruction that could be committed by forces of soldiers that did not need sleep not sustenance was immense. The mass production of combat ready [[Warforged]] was stopped when some of them began to be damaged in specific ways that gave them free will.
 

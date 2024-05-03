@@ -13,6 +13,10 @@ title: "Godkiller Chapter Summary - 9 - The Silver Fox"
 - They met the theatrical Madame Louseau. A tailor who specialized in creating finery for Adventurers. She gave them everything they needed to attend.
 - The party formed some ideas of how to mess with the silver fox. A spilled drink, a stash of porn, a slap to the face, and a defeat in a duel. 
 - The group found rooms at the Immarum where they stashed their belongings, and gave Wall'e a place to sleep while they partied.
+- Deimos broke out the papers he had stolen from Rozwald Manor and began parsing through them. A few concerning things had been discovered.
+	- Lord Rozwald was sending *a lot* of money to The Brass Hall in Ryze. More than what would have paid for Rozwald's schooling and allowance. He had been paying staff, distribution, and security sending money to a house Iostan. 
+	- The Lord Rozwald had made communications with a thug via span read. A criminal in Ryze who was locating and disposing of a "lost package" in the Rustways of Ryze
+	- Finally, a letter received by Lord Rozwald from a mysterious individual who only signed themselves as "G". The told Lord Rozwald that he'd best stop his investments into artificery or he would kill him and his family in terrible ways.  
 - One by one the found the party discovering a thick web of rumor and intrigue. Nearly impossible to make sense of as an outsider.
 - It all seemed to revolve around Lord Curtis Renaull, nephew of Leonel VanVeld. Curtis is the target. His shiny silver fox mask making him stick out, recognizable as the same noble from the train attack back when our heroes first met 5 days prior.
 	- **Lord Curtis Renaull's posse** was three strong.

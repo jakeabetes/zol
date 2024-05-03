@@ -28,7 +28,7 @@ The large school follows the leadership of The Archmages, all who follow the lea
 		- [[Divination]]
 		- [[Enchantment (School)]]
 		- [[Illusion]]
-		- Artificary
+		- Artificery
 		- [[Amplidation]]
 		- [[Collapsation]]
 - ### Size
@@ -42,15 +42,15 @@ The large school follows the leadership of The Archmages, all who follow the lea
 
 ## Academic Station
 
-| Type | Description |
-| --- | --- |
-| Students | Those who attend [[Kerketh Academy]]. Made up of many races, ages and backgrounds of varying financial success. This group has its own unique hierarchy within related to academic level. These levels are denoted with tin clips placed on ones robes. A student must earn 4 clips before being considered eligible Preceptors. If they earn 10 clips, they are given a single brass clip. Clips are earned by proving ones self in a field of study. It takes a long time investment to gain a clip, and it is possible to gain multiple clips from the same field. Clips can only be given by Archmages. |
-| The Preceptors | The second highest level within [[Kerketh Academy]]. These individuals are researchers given resources by the academy, and act as the professors of the more entry-level classes. |
-| The Arch Mages | The highest level of academic at [[Kerketh Academy]]. Only a set number of these are selected for this station at the academy, one for each of the major studies, and one to lead the whole group called the Magnate |
+| Type           | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Students       | Those who attend [[Kerketh Academy]]. Made up of many races, ages and backgrounds of varying financial success. This group has its own unique hierarchy within related to academic level. These levels are denoted with tin clips placed on ones robes. A student must earn 4 clips before being considered eligible Preceptors. If they earn 10 clips, they are given a single brass clip. Clips are earned by proving ones self in a field of study. It takes a long time investment to gain a clip, and it is possible to gain multiple clips from the same field. Clips can only be given by Archmages. |
+| The Preceptors | The second highest level within [[Kerketh Academy]]. These individuals are researchers given resources by the academy, and act as the professors of the more entry-level classes.                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| The Arch Mages | The highest level of academic at [[Kerketh Academy]]. Only a set number of these are selected for this station at the academy, one for each of the major studies, and one to lead the whole group called the Magnate                                                                                                                                                                                                                                                                                                                                                                                        |
 
 
 ## Assets
-- The very successful artificary of the school, where [[Iron Light]] was discovered and the first [[Apparatum]] was made
+- The very successful artificery of the school, where [[Iron Light]] was discovered and the first [[Apparatum]] was made
 - Large stake ownership of [[The Iron Tracks]]
 
 ## Relationships
