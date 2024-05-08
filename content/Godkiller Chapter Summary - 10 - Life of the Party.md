@@ -1,0 +1,36 @@
+---
+title: "Godkiller Chapter Summary - 10 - Life of the Party"
+---
+- **Chapter begins midday on the evening of the 16th of Spring, Annum 4466**
+- Lady Kalimae Sky appreciated Magnus' intentions, but seemed more concerned for him than anything else. She warned Magnus of nobility. They may seem unassuming, but there is usually something sinister afoot.
+- Cyrus, the charmer, was able to gain the attention of Gale Goa. Gossip left her lips like a leaky faucet. According to her:
+	- Lord Curtis Renaull is the nephew of The Alderian Seat Leonel VanVeld. An extremely rich and powerful man who has apparently grown quite ill. Supposedly he is bedridden often.
+	- Curtis is making a grab for power. Unfortunately, he is not anyone of peculiar significance amongst his family. So he has to make a name for himself.
+	- His strategy seems to be courting important women like Lady Mae Preacher, and travelling to cities like Tenzentak for some unknown, political reason.
+	- Though there is one issue. His paranoia. Curtis seems convince someone is trying to kill him. His fear has impeded his ability to present as a well composed, noble lord.
+- Gale also spoke of the different types of nobility. 
+	- She was what is known as *local nobility*. Those of who only possess influence within their own city. These local families do their best to appease those with greater influence.
+	- Then there are the *old nobility*. They are families who's fortunes have outlasted multiple, significant historical events. Such as Lord Grant Septurn. These families have a finger in every pie as far as the economy is concerned. Not much moves them. They only seek to make things stay as steady as possible.
+	- And finally there are *magnates*. Noble houses with extra-municipal influence like Lord Curtis Renaull. These noble houses are usually on the forefront of change when the world shifts. Some, like Curtis' family, have had money for a very long time. But their desire to move the world defines them as something other than old nobility.
+	- These three groups are in constant competition with one another as the world shifts and changes. Then there are *foreign nobles*, *outliers*, and *rabble*. Those who don't have a stake in local politics like the characters our heroes masked as, Lady Kalimae Sky, and guests like Rione Elsitor.
+- Sherman, unable to resist, introduced himself to the host, Lord Grant Septurn, and gained himself a tour of the manor.
+- Rozwald, left unattended, got drunk and began causing problems.
+- Deimos, doing his best to fit in, was flirted with by awkward Lord Mavis Morp and invited to watch him duel later.
+- Cyrus changed his disguise, got harassed by Rozwald, and managed to win himself a dance with Lady Mae Preacher. This provoked Lord Curtis Renaull, and drew him onto the dance floor.
+- Deimos and Magnus seized the opportunity, joining them on the dancefloor. Deimos was surprisingly light on his feet. And Magnus never fails when it comes to knocking things over. Swinging Deimos in a combative dance move, they tripped the silver fox. The first of three public humiliations.
+- Sherman was brought to the Septurn Gallery by his very flirty host. He was shown ancient relics from The Grand Nothing and a Rift Iron Sword. Grant displayed the swords amazing self-repairing quality by slamming its edge against the stone floor. The loud, ringing metallic sound, blade aimed at his throat, and the presence of a wolf named grant began to twist his perspective. Causing him to short circuit.
+- Back in the main party, a chandelier fell. Luckily it crushed no one. Though it caused a large panic. Many guests departed and the majority of those who stayed went outside for some fresh air. Many of which began a small dueling circle. Rozwald's drunken passion rallied a passionate crowd
+- Sherman's mind fizzed and he attacked the host. Knocking him out and stashing him in a closet before returning to the party. Magnus detected there was something off with him.
+- Someone was chased out of the party by the guards. No one saw who.
+- Sherman and Magnus hatched a new plan to instigate Curtis by smashing a glass behind him. It startled him, but didn't provoke too much of a reaction. However, it did gain the attention of Bennet Frence who recognizes them.
+- Bennet demands they need to leave, but Sherman realizes that Bennet is not supposed to be at the party either. Neither party can snitch on the other easily without stirring suspicions around uninvited partygoers.
+- Our heroes taunt Curtis' posse and goad Curtis into a duel with Lady Falza Mortimer, Aka Deimos.
+- Deimos kicks his butt in the first two bouts. Then Curtis begins playing dirty. He wins, but barely. Though his celebrations seem in bad taste. Winning an unsportsmanlike duel against a noble woman who didn't really want to fight him wasn't much of a win. The second humiliation.
+- After the bout, Kalimae Sky came to the group. Telling they had done well but they really needed to leave. She spoke more plainly now. Apparently the noble houses were causing a false scarcity of resources. They had all gained quite a lot of business from the Ahamatath. Now that things were tending towards normalcy, they were trying to hold on to what they could. Things were looking bad politically. Supposedly Kapesh hadn't seen the same trends and was still in famine. They are in dire need of resources and no one was trading with them fairly. It may turn to war. Playing with these people during the current state of things is more than dangerous. They thanked her for the warning, but decided to persist. She departed, knowing the evening would end sourly.
+- Our heroes decided to try and land a half cocked plan to deliver some porn to him in the middle of the party as a final humiliation.
+- To their surprise, Curtis had switched masks with Lord Mavis Morp. Suspecting someone was targeting him.
+- Before the party could correct their course all the lights went out. Extinguished by some unseen, powerful magic user.
+- A flash of thunder, a scream, and a dead body.
+- Unknowingly, our heroes' harassment of Curtis had made him so cautious that they unintentionally saved his life. Someone *was* trying to kill him. 
+- In the center of the party, Lord Mavis Morp lays dead with a dueling sword in his neck. The sycophant had likely been doing what he could to gain favor, and had lost his life for it.
+- **Chapter ends on the late night of the 16th of Spring, Annum 4466**

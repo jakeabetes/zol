@@ -8,16 +8,16 @@ title: "Godkiller Chapter Summary - 9 - The Silver Fox"
 	- Magnus wore a Ram's head mask, and was pretending to be a Merchant's son of the ward in the city on trade. Lord Belfo Brandic.
 	- Sherman masqueraded as his brother. Sporting a cherubic sheep mask, and pretending to be Lord Casper Brandic.
 	- Cyrus was to be a travelling scholar of The Brass Hall. A lord Mors Lapliar. Sporting a owl mask.
-	- Rozwald was a foreigner on business. Looking to trade with the Rozwald Mines. He would attend in a mirrored black cat mask.
-	- Finally, Deimos drew the short straw. Doing a great job attending as Lady Falza Mortimer. Sporting a white rabbit's mask.
+	- Rozwald would attend as Lord Aldo Aldo, a foreigner on looking to trade with the Rozwald Mines. He would attend in a mirrored black cat mask.
+	- Finally, Deimos drew the short straw. Doing a great job attending as Lady Falza Mortimer, a fur trader of Kahdinacht. Sporting a white rabbit's mask.
 - They met the theatrical Madame Louseau. A tailor who specialized in creating finery for Adventurers. She gave them everything they needed to attend.
 - The party formed some ideas of how to mess with the silver fox. A spilled drink, a stash of porn, a slap to the face, and a defeat in a duel. 
 - The group found rooms at the Immarum where they stashed their belongings, and gave Wall'e a place to sleep while they partied.
 - Deimos broke out the papers he had stolen from Rozwald Manor and began parsing through them. A few concerning things had been discovered.
-	- Lord Rozwald was sending *a lot* of money to The Brass Hall in Ryze. More than what would have paid for Rozwald's schooling and allowance. He had been paying staff, distribution, and security sending money to a house Iostan. 
-	- The Lord Rozwald had made communications with a thug via span read. A criminal in Ryze who was locating and disposing of a "lost package" in the Rustways of Ryze
+	- Lord Rozwald was sending *a lot* of money to The Brass Hall in Ryze. More than what would have paid for Rozwald's schooling and allowance. He had been paying staff, distribution, and security sending money to a House Iostan. 
+	- The Lord Rozwald had made communications with a thug via span read. A criminal in Ryze who was locating and disposing of a "lost package" in the Rustways.
 	- Finally, a letter received by Lord Rozwald from a mysterious individual who only signed themselves as "G". The told Lord Rozwald that he'd best stop his investments into artificery or he would kill him and his family in terrible ways.  
-- One by one the found the party discovering a thick web of rumor and intrigue. Nearly impossible to make sense of as an outsider.
+- One by one the found the party discovering a thick net of rumor and intrigue. Nearly impossible to make sense of as an outsider at a glance.
 - It all seemed to revolve around Lord Curtis Renaull, nephew of Leonel VanVeld. Curtis is the target. His shiny silver fox mask making him stick out, recognizable as the same noble from the train attack back when our heroes first met 5 days prior.
 	- **Lord Curtis Renaull's posse** was three strong.
 		- **Lord Curtis Renaull** himself, in his glinting **silver fox** mask.
