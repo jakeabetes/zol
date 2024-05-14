@@ -14,3 +14,4 @@ title: "Godkiller - Weavings"
 - [[Weaving - Lectures on Ferrication - 1]]
 - [[Weaving - The Wrath Wastes]]
 - [[Weaving - Creatures in Cages]]
+- [[Weaving - Lectures on Ferrication - 2]]

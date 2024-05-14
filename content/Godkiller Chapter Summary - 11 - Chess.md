@@ -1,0 +1,76 @@
+---
+title: "Godkiller Chapter Summary - 11 - Chess"
+---
+- **Chapter begins on the late night of the 16th of Spring, Annum 4466**
+- Our heroes had been warned time and time again that the nobility were dangerous to be around. Almost as if being near them would somehow corrupt a person's life.
+- This was confirmed as Lord Mavis Morp had been assassinated before their very eyes. 
+- Lord Morp had taken on Lord Curtis Renaull's appearance in an attempt to catch some conspiracy against Lord Renaull. They had succeeded, and it cost Mavis his life.
+- Someone had thrown a dueling sword through Mavis' neck. Curtis' sword, the compliment to the sheath that Mavis' corpse now wore.
+- The trajectory of the sword made a list of immediate suspects:
+	- Lady Rhea Stoneshard
+	- Rione Elsitor
+	- Lord Bennet Frence
+	- Lady Mae Preacher
+	- Bax Corsair
+	- And Lord Curtis Renaull himself, wearing the guise of Lord Mavis Morp
+- The throw was an accurate one, and likely would have been lanced by someone who was either extremely lucky or skilled with a blade.
+- The lights began to come back on and The Corsair Twins, the Son and Daughter of the Bladehammer Guild's Leader took over the chaotic situation quickly. Demanding the guards to lock the place down, and for the guests and staff to sit down so they could be questioned.
+- Cyrus, before seating himself spotted something glinting in the fountain. A crossbow bolt. It looked as if it had been fired from the south west corner of the room, likely missing its already dead target.
+- Everyone is questioned:
+	- Most of the noble guests seemed to have reasonable explanations. Chatting, fetching food, and giving congratulations.
+	- Bennet Frence had been outed as a party crasher. It seemed he had a reputation for this behavior.
+		- Bennet then tattled on our heroes, outing them as crashers as well.
+		- Bennet, and our heroes were fined 100 gold each. They were also to be given "Mop Duty" for their transgressions.
+	- Curtis Renaull explained that he didn't know why his own sword had ended up in Mavis' neck. He claimed to have handed it off to a member of staff to be cleaned after his duel with Lady Falza Mortimer.
+	- Our heroes were then questioned and asked to remove their masks. The guests were outraged when the saw Sherman, a Warforged amongst them. Curtis most of all.
+	- Then a sudden, unexpected thing occurred. Guild Mind Colin Coinge arrived to help with the investigations. Likely due to its possible connection to the train attack through Lord Renaull.
+- Surprisingly Master Coinge, who had just accused them of crimes earlier that day, defended our heroes. Giving ample reason as to why the party would not have been the murderers.
+	- Reminding Curtis that they were some of the fighters who defended him on the train.
+- The sudden appearance of Lord Grant Septurn capped off the questioning period. He appeared to have no recollection of Sherman attacking him. Lord Septurn seemed certain that their encounter had been more *sexual* in nature.
+	- His arm was oddly injured. A wide bruise on his forearm and a bandage around his hand. Claiming to have tripped and smashed a bottle.
+	- Lord Septurn had no apparent knowledge of the evenings events. Both the broken chandelier and the corpse were surprises to him.
+- In a fury, Curtis blamed Grant for the evenings events. Asking him how he "allowed something like this to happen". Grant dismissed him and invites the group to wait the long night ahead out in the comfort of one of his sitting rooms. A room in which he collapsed onto his chaise lounge. A piece of furniture he seemed essentially glued to.
+	- Adja didn't approve of the prime suspects leaving the site of the investigation. However, it was Grant's home and her authority only got her so far. She sent two guards along with the group to keep an eye on you.
+- In the quieter sitting room, the group is allowed to decompress and take stock of their situation.
+	- Mae, Gale and Rhea formed their own little posse. Mae was upset at Curtis for some reason.
+	- Rione and Grant were keeping to themselves, resting on the lounge. However, Rione seemed to be very fixated on Sherman.
+	- Curtis couldn't stop pacing, and Bennet seemed keen on giving him something for his nerves. He had apparently brought an alchemy kit and was brewing him something.
+- Cyrus and Deimos decided to go investigate the body, while Rozwald continued his drinking. Deimos' odd past had given him ample skills for the task.
+	- They found a full sized crossbow bolt. The weapon it was fired from would have been too large to conceal.
+	- The body had also been poisoned. A white froth and a strange smell was found in its mouth. Rozwald's science would have to be employed to uncover more about it.
+	- Cyrus was intrigues by Deimos' abelites. He asked him about his foresight, and Deimos said that was a question for later.
+- Back in the room, Rozwald was vomiting. The smell drove Curtis from the room. Deimos and Cyrus bumped into him in the hall, and Deimos pursued him in secret.
+	- Deimos saw Curtis retrieve a knife that he stashed in his sleeve, but was noticed by Curtis soon after.
+- Back in the room, Cyrus asked Bennet to borrow his alchemy kit for Rozwald's investigation. Bennet seemed oddly protective of it, but a bit of Cyrus' magic got it out of his cautious hands.
+	- Rozwald noticed something strange about the kit. Some of the ingredients were mislabeled, and abnormal inclusions for a standard kit.
+- Upon investigating the body, it became clear. Curtis had brought the ingredients to brew a simple, slow acting poison called "Killer's Fizz". He seemed to have accidentally dosed Mavis' Cup with it instead of Curtis'. 
+	- Though his intention likely wasn't murder. As the ingredients for the antidote were also in the kit. It seemed Curtis had crashed the party to poison a high ranking noble, then save him. A half-clever plan to gain the favor he seemed in dire need of.
+- Though this wasn't the only secret the body held. It had also been dosed with an alchemical toxin known as "Suspicionol". A substance which is essentially the unbound principal of conspiracy. Known for its distinct scent, and its ability to wholistically increase paranoia. Those who ingest it have an increased tendency to form and believe conspiracies.
+- Back in the sitting room, Sherman sensed something odd beneath the house. A writhing. He and Magnus went to investigate. They discovered a room full of Warforged servants. Sherman had no idea how he sensed them.
+- Magnus and he shared a moment of understanding, but it was interrupted by Rione Elsitor, who was acting very strangely.
+	- He said that Grant was very *fond* of Sherman's kind.
+- Back in the room, Curtis was losing his mind. The scent of Suspicionol heavy on his breath. He began accusing the party of being hired by Lord Rozwald to stop him from giving his speech. 
+- Then he pivoted, assuming that the party had been hired by his uncle to protect him. Accusing Gale and Rhea of going after him to stop his marriage with Mae. Apparently for something to do with the sale of Mechanical Lubricant of all things.
+- Mae then accused him of being intimate with Kalimae, a thing which he seemed genuinely perplexed by. Gale and Rhea attested to seeing the same thing.
+- The passion of the moment came to its apex when the heroes learn of Curtis' real reason for coming to the city. He was going to give an anti-warforged speech on Victory Day, 18th Bell. This provoked a full blown argument involving the whole room.
+- The argument was interrupted by Adja Corsair. She had come to tell the guards that a second body had been found. It then became apparent that the party knew these guards! They weren't guards at all, but undercover guild members. Laizen and Eddoch of The Three Fools.
+- It was an understatement to say something was afoot. As it seemed that *many* things were afoot and our heroes were no closer to discovering who killed Mavis Morp.
+- The body was that of a staff member. Throat slashed, and Jaw smashed. A type of killing commonly used to silence someone who knew something involved in a crime, and preventing most magic from divining information from their corpse. It was assumed this was the staff who had cleaned the dueling sword which now stuck out of Mavis' neck.
+- The Guild revealed their plot to our heroes. Adja, Bax, Collin, and The Three Fools had staged an faux assassination attempt that would hopefully scare Curtis Renaull out of Tenzentak.
+	- They feared that his "anti-warforged" mission would spark a riot. To them, this seemed the best option.
+	- However Kalimae Sky had spotted the faux assassin, Tardich. He had been the individual chased out during the ball earlier.
+	- At that moment, Magnus spotted a black cat in a window.
+- Our heroes decided to investigate the chandelier room. A rope had been cut, and it was the one adjacent to the rope which had hung the chandelier above Curtis' head earlier in the night.
+	- Beyond that, it was the perfect place to have fired the crossbow from.
+	- Magnus soon learned that Rione Elsitor's Dueling sword had fibers to match the cut rope. The Three Fools were dispatched to make the arrest.
+- Back in the sitting room, Sherman was able to deduce there was something off about Grant's chaise lounge. He and Magnus lifted it to find a crossbow beneath. It's bowstring was stained with blood. 
+- It turned out Grant's arm wound was made by a poorly fired crossbow.
+- Grant was arrested for attempted murder. The young, pissed off, and drunken noble made threats at everyone. The games of these nobles were an odd thing. They were like pieces on a grand chessboard. Each was insignificant on their own. However the way they moved, the strategy the represented, was significant. This evening both Mavis' and Grant's pieces had been taken off the table in a bloody exchange. For what purpose, our heroes did not rightly know.
+- The party was thanked and told to go back home. Though questions still remained:
+	- Where did Rione Elsitor go?
+	- Who dosed Curtis with Suspicionol?
+	- And who threw the sword?
+- Out in the rainy street, Magnus spotted the cat. The small creature disappeared under a carriage owned by none other than Kalimae sky.
+- She reminded Magnus that she had warned him, and hinted ominously that our heroes were involved in something much greater than they knew. She assured him he hadn't killed Mavis... she just had to turn out the lights.
+- Kalimae's carriage left Magnus in the rainy streets of Tenzentak, and Magnus caught a glimpse of something. She was not alone in that wagon...
+- **Chapter ends on the terribly early hours of the 17th of Spring, Annum 4466**

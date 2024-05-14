@@ -13,3 +13,4 @@ The Chapter Summaries are the recaps of the major events that occurred each sess
 - [[Godkiller Chapter Summary - 8 - You Can Never Go Home Again]]
 - [[Godkiller Chapter Summary - 9 - The Silver Fox]]
 - [[Godkiller Chapter Summary - 10 - Life of the Party]]
+- [[Godkiller Chapter Summary - 11 - Chess]]
