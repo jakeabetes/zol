@@ -1,5 +1,5 @@
 ---
-title: "Godkiller Chapter Summary - 11 - Chess"
+title: "Godkiller Chapter Summary - 11 - The Masquerade Murder"
 ---
 - **Chapter begins on the late night of the 16th of Spring, Annum 4466**
 - Our heroes had been warned time and time again that the nobility were dangerous to be around. Almost as if being near them would somehow corrupt a person's life.

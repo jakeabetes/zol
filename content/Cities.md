@@ -1,7 +1,7 @@
 ---
 title: "Cities"
 ---
-*This page acts as an index for all cities within the world. For more details on their exact locations, and how they relate to their kingdoms, it is encourage that you read through the [Regions](The%20Three%20Corners%20of%20Civilization.md).
+*This page acts as an index for all cities within the world. For more details on their exact locations, and how they relate to their kingdoms, it is encourage that you read through the [Regions](The%20Three%20Corners%20of%20Civilization.md).*
 
 Cities are huge settlements that act as the anchors for the civilized world. [[The Dangers of the Wilderness]] drove early people after [[The Awakening]] to form shelter. Nineteen out of twenty of these early cities would fall. The ones that didn't swelled in their size quickly. These places became the souls of the world. Cities are (for the most part) ancient and massive. Wrought with history and culture. Each city creates an almost provincial region around it, unique and protective.
 ## [[The Three Corners of Civilization]]
