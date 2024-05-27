@@ -12,6 +12,7 @@ title: "Godkiller"
 ## Campaign Materials
 Campaign Content:
 - [Godkiller - Characters](https://docs.google.com/presentation/d/1dj2SrB_HRzuNg6HQUu4ALWvJ1rOlVXkTmNROF_iyI-0/edit?usp=sharing)
+- [Godkiller - The Lumberjack](https://docs.google.com/presentation/d/1yq_ghcwNoSyl7afJPYZeeqk-I__R4qWex_zPCtusHZ8/edit?usp=sharing)
 - [[Godkiller - Weavings]]
 - [[Godkiller - Chapter Summaries]]
 
