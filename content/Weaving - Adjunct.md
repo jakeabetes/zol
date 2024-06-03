@@ -1,0 +1,12 @@
+---
+title: "Weaving - Adjunct"
+---
+Merle loved working at the Adjunct. Most scribes found it busy, tedious, and involving far too many face-to-face interactions with the public. Not Merle. The constant scratching of ferroillumic pens, the smell of paper, and the rich colors of ink were a second home to him. How could anyone hate this? Just that morning he had helped a young Eucaren woman make contact with her long-lost family. Sure, most who came and went were the grouchy, self-important, lower-upper class. Folks who were successful enough to conduct their business via span read, but too poor or technically incompetent to keep their own.
+
+"Send this to House Balpin of Meritas, boy!" A pinch-faced halfling woman shoved a rolled message in his face as soon as he returned to his desk. Merle just smiled, taking her message and her coin. He had never heard of House Balpin, nor what jurisdiction Meritas was in. This was going to be a good one!
+
+Merle skipped down the narrow corridor into a wide-arched chamber dotted with bustling scribes. A chorus of quills on paper made the room sound like wind through long grass. Hundreds of span reads covered nearly every surface of the room. Most were still as stones, but the rest were scratching away, receiving some message from across The Three Corners.
+
+Merle ran over to the grand shelf and selected a massive tome. He thumped it onto a table and fingered through its thin pages with expert precision. The hunt. The thing he lived for. 10 years ago it would have taken him the better part of an hour to find Meritas. Today he found it in four minutes flat. The texts held within the Adjuncts across The Three Corners were the combined work of thousands of scribes. A history of efforts to catalog every relevant family, organization, and location all across the known world. Merely parsing the information in these texts was a craft on its own.
+
+Merle wrote down the signet code associated with the adjunct nearest to Meritas and retrieved the corresponding hunk of metal from a box on the opposite end of the room. He plunked the signet down into an unoccupied span read and took a seat. Now was time for his reward, the gossip held within the tiny scroll. Some heir seemed to have made another illegitimate son. What fun! The pinch-faced woman had been rude, but only slightly so. As merle copied down her note, his rewording of her message conveyed the desired message but made the woman seem ever so slightly dumb.

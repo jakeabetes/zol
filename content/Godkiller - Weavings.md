@@ -16,3 +16,4 @@ title: "Godkiller - Weavings"
 - [[Weaving - Creatures in Cages]]
 - [[Weaving - Lectures on Ferrication - 2]]
 - [[Weaving - A Spectacle]]
+- [[Weaving - Adjunct]]

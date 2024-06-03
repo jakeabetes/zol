@@ -1,0 +1,34 @@
+---
+title: "Godkiller Chapter Summary - 13 - The Lumberjack"
+---
+ - **Chapter begins during the afternoon on the 17th of Spring, Annum 4466**
+ - Our Heroes had discovered where their mysterious keys led them. The Lumberjack. An old, abandoned tavern on the outskirts of Fox's Hollow.
+ - Despite its obvious age, it was relatively well preserved. Save for the gaping hole in its roof, of course. It had the bones of a tavern. Potential.
+ - The tavern itself was located on a high hill, overlooking Fox's Hollow. Nearby there was farmland, windmills, the foundations of old structures, and a wide inviting lake. Beyond that, distant views of a neighboring village, and Tenzentak itself.
+ - Our heroes began to explore, discovering a kitchen, a bar, a brewery, apparatum, storage, an office, a garden, a shed, a greenhouse, an apartment, lodging, an art studio, and a whole lot of work to be done.
+ - At first, no one said it outright. But as our heroes explored they slowly gravitated towards the idea of making a home here.
+ - But a home was not the only thing they discovered. There were secrets hidden in these ruins.
+ - Amongst the rubble and dust, they discovered a few things.
+	 - The building was ransacked long ago, and the things that remained were either in ruin or in great need of repair.
+	 - There was a mount for a mechanical pump connected to a massive underground cistern. A cistern they had access to via a trap door in their basement. This cistern seemed to be shared by the small neighborhood that once stood near the tavern. Only one other ladder remains in the cistern. It leads up to a old foundation a few hundred yards from the Lumberjack. A secret passage of sorts.
+	 - At the bottom of the cistern laid a skeleton wearing a pair of magical water walking boots.
+	 - Rozwald noticed some religious symbolism incorporated into The Lumberjack's design. 
+		 - Arches holding up a strange chimney and a *long walk through the dark* leading to the first floor entry. Symbolism of The Zolaen gods. More specifically, The Watcher in The Door.
+		 - The Lumberjack's name was also an oddity. Likely named after the profession, it is also the name of a mythic temple associated with The Wandering Gods.
+		 - Finally, and most strange of all, was a white symbol of the trinity emblazoned into the wooden floor of the building's first level. No larger than a saucer plate, it sat on the ground nearest to the stage. The sigil appeared like a crystalline inlay, but there was no seam indicating any sort of craftsmanship. It was as if the wood itself had become stone.
+	 - The fireplace near the stage had been a later addition to the buildings structure. It seemed to have been built with a greater level of skill than the others. Its odd shape seemed to have been designed to not disturb a cat's preferred perch near the entryway.
+	 - In the apartment there were many landscape paintings of distant places. All of which were created by an artist named Therin.
+	 - Whoever resided in the apartment was well read, and the people who looted the building were not. The study had been left alone. Unfortunately sunlight, mold, insects, and time had left all of the books degraded to the point of no return. But there was a silver lining. Their crumbling state exposed a safe. The home of the second key. Inside, our heroes found a few things.
+		 - A sum of 336 gold which they decided to use to help restore the building.
+		 - A consecrated rift iron short sword emblazoned with the ferric alphabet symbols of Divinity and Sleep. Holy Slumber.
+		 - And the Deed to The Lumberjack.
+	 - Upstairs in the studio were more paintings by Therin. Though there was a single outlier. A haunting image of a black dog on a beach. It was signed by an artist named Fejn. On the back was a written phrase: *There has never been a dreamer who prefers reality*.
+ - As our heroes revealed things about this old sleeping tavern, it began to reveal things about them.
+	 - Rozwald scanned the old tavern not only with the intention of exploration, but the discerning mind of an artificer. Those who watched him closely would see his practiced eye. A craftsman aquatinting himself with their newest task. One might think this is not the first time he has tended to the apparatum commonly found in taverns.
+	 - Most telling of all was the reaction of their new friend Mal. Until arriving at The Lumberjack he had been a professional escort of the group. But here in the tavern something changed. Mal quickly made his way behind the bar and began acquainting himself with it. There was a familiarity, a passion in his movements. Unprompted, Mal cooked the party a delicious meal with small means. This seemed to please him.
+ - As exciting as their new home was, the party acknowledged they had much to do back in Tenzentak so they decided to head back.
+ - On the road to the city, they were suddenly attacked by assassins. Most of which were amateur thugs, but one was a skilled killer. The assassins seemed focused on Rozwald. This enraged our heroes, causing them to use more lethal means than usual. Mal proved to be an efficient and cold killer himself.
+ - The assassins were found with a span read communication of a similar nature to the one that Deimos had found back in Lord Rozwald's office. Rozwald had to contend with the fact that his family was likely trying to have him killed, and he had no idea why. Worst of all, the would probably continue to do so, sending more and more proficient assassins if they continued to fail.
+ - The party made it to Tenzentak where Magnus was able to finally meet Ul'Brek. An old wiseman who Persephone Drone said could help him. Ul'Brek was strange and seemed keen on not giving Magnus what he wanted. He instead told Magnus to walk his own path, and gave him a piece of charcoal in a fancy box. Deimos and Mal saw that the item was a mundane hunk of burnt wood from his fireplace. But Ul'Brek lied to Magnus, telling him it was the heart of a tree, burnt by a lightning strike.
+ - Ul'Brek sent Magnus on his way, but not before telling him to keep an eye on his new friend Mal. Apparently Ul'Brek had seen something dangerous behind the Mage's eyes.
+ - **Chapter ends on the early evening on the 17th of Spring, Annum 4466**
