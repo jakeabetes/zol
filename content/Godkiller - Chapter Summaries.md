@@ -16,3 +16,4 @@ The Chapter Summaries are the recaps of the major events that occurred each sess
 - [[Godkiller Chapter Summary - 11 - The Masquerade Murder]]
 - [[Godkiller Chapter Summary - 12 - The Ticking of Time]]
 - [[Godkiller Chapter Summary - 13 - The Lumberjack]]
+- [[Godkiller Chapter Summary - 14 - One's Own Story]]

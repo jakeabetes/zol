@@ -1,0 +1,34 @@
+---
+title: "Godkiller Chapter Summary - 14 - One's Own Story"
+---
+- **Chapter begins on the early evening on the 17th of Spring, Annum 4466**
+- Our heroes had returned to the Bladehammer Guild to find it busier than ever. The Victory Day celebrations mixed with the chaos surrounding the 1-5 Potentium crisis had the courtyard packed with guild members.
+- The surge of guild events were sparked by an upcoming competition, The Tournament of the Brave. A large scale combat competition.
+- Our heroes, especially Magnus, were very intrigued by this prospect. Not only would it be a good bit of sport, but an effective way to make one's self known.
+- To admit, they had to have a Guild Mind throw in their lot with them. They went to the obvious and only choice: Abacus Oleander.
+- Old Abby was thrilled to see them, and enquired about their recent escapades. He was also quite excited to see that Mallory Bosemann had made his way amongst his new favorite band of heroes.
+- He covertly asked if it was alright to talk about the Warforged recovered from The Grand Nothing, and the related dream in front of Mal. Though it seemed Mal hadn't been granted that privilege yet. That mystery was left for another day.
+- They then discussed the tournament. Old Abby seemed both concerned an honored at the prospect of being their sponsor. They filled out their entrance form as "The Street Dogs" and submitted it to Chapter frond in hopes to make it in as one of the 8 teams in The First Ring.
+- Apparently they had a good chance as they were somewhat *controversial* due to them being suspect in the 1-5 Potentium Investigation. Supposedly, a board of merchants and sponsors select the teams, and these money hungry nobles only care who attracts a crowd.
+- They were to return the next morning at 7am. Not able to find a place to stay in the packed city, Magnus led a jog back to The Lumberjack to camp out for the night. A sort of warm-up for the coming tournament. The Street Dogs displayed a spectrum of stamina.
+- Continuing the exercise while making some progress on their new tavern, the group decided to begin tackling the pile of rubble in the basement. They found more than a workout amongst the debris.
+- Clinging to the fallen stones, our heroes discovered pages of an unknown script preserved in splattered wax. Mal, a gifted arcanist, attempted to decode the text using a reliable spell. To his shock, it didn't work.
+- Spells such as this are a mosaic of language and cypher. Designed to decode anything written in known word and logic. When a successful casting of this nature results in no gained information, it can mean one of two things. Either it is a unique cypher that does not follow the logical pattern of any known cryptography, or it is not based in any known language. Both are exceptionally rare, and significant. The latter especially so.
+- Baffled and thrilled by this odd discovery, our heroes began sifting through the rubble with keen eyes.
+- There were other pages preserved in wax. Recipes, ledgers, fiction, and other mundane writings. But soon they found another fragment of the odd script. Then another. In a quarter of an hour they found a half dozen of these odd pages.
+- Then they found one written in common. The paper, and quality of line were the same, but the text was legible. It was the journal of a disturbed individual, scorning their brother and rambling about visions of a black dog on a beach.
+- But the discoveries didn't stop there. Their sifting through the pile had caused stones to fall away from the covered wall. A wall that featured an oddly perfect arched door that made one's skin prickle with a fear of the unknown. The hunt for more pages was set aside for this new mystery. The space in front of the door was rapidly cleared away. 
+- Then the debate began. Would our heroes open this strange door, or leave it shut? Curiosity won out.
+- The turning of the Third Key in the Door was like the turning of the world itself. Beyond it, a wall of cobbled stones. The door had been blocked from the other side.
+- The anticlimactic result left the group puzzled, but they soon noticed something. The geology of the stones was wrong, and not from the local area. The stones were warmer than the basement of the Lumberjack. More  fear, and curiosity stimulated another bout of deliberation. Eventually Cyrus and Magnus chipped away a finger sized hole through the mortar of the wall.
+- From this space, music poured through. Quiet and wild. Too far in to turn back they sent Mal's familiar, Slug into the gap. What Slug discovered was an odd basement filled with barrels and boxes. It was as if it were the basement of a functional, regularly used tavern.
+- Amongst the storage, there was an esoteric orchestra instruments strewn about. Being played by magical ropes and fibrous sacks.
+- Then Slug spotted it. A window looking out at a beautiful, winding costal city and a sky filled with airships. Reach Run.
+- Suddenly a glass cup was placed over Slug by a crazed old man. Slug quickly returned to Mal through teleportation.
+- The odd old man, who called himself Razmodius the Rope Wizard, spoke to them through hole in the wall. He was friendly, but the situation was far too strange for anyone to take their guard down.
+- The door connected their tavern to the basement of The Sheh'Sheraan in Reach Run across the world. A portal of astounding potency. The Sheh'Sheraan's owners knew of the door, which had been locked until now. They feared what may come through it, so it was sealed. Apparently they left Razmodius (AKA Raz) to watch it. In what little they saw, the arcane "rope wizard" seemed more than capable of the task.
+- Then they spoke formally with a much more sane person on the other side. Morza, the Tavernkeeper. A stern old lady who was wary of them at first, but slowly accepted our heroes story. The groups decided to leave the door closed for the time being and sort the oddness out at a later date.
+- Not knowing what to make of their discovery, our heroes bedded down for some rest before the coming early morning.
+- In Rozwald's slumber, another dream came to him. Once again he was visited by Egan. His father's avuncular colleague. In it, Egan asked Rozwald what he wanted despite all the chaos of his life. Roz simply answered "to belong". Egan seemed pleased with this answer, and told him to not lose sight of that.
+- As the dream began to give way to smoke, Egan left Roz with a few final words. Rozwald's father was up to something. More than just simple Rift Iron mining. Some scheme that was put people in great danger. A lot of people. Rozwald's dream faded as he awoke, and Sherman was left standing in the space where Egan had been.
+- **Chapter begins on the early morning of the 18th of Spring, Annum 4466**

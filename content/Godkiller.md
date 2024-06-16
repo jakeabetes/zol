@@ -15,10 +15,10 @@ Campaign Content:
 - [Godkiller - The Lumberjack](https://docs.google.com/presentation/d/1yq_ghcwNoSyl7afJPYZeeqk-I__R4qWex_zPCtusHZ8/edit?usp=sharing)
 - [[Godkiller - Weavings]]
 - [[Godkiller - Chapter Summaries]]
+- [[Godkiller - The Lumberjack Journal]]
 
 Pre-campaign Content:
 - [[Godkiller - Premise]]
-- [Godkiller - Teaser](https://youtu.be/hVCVxSRB39Q)
 - [Godkiller - Trailer](https://youtu.be/pK5vR_A_axI)
 - Character Creation Stat Rolls
 	- 16, 16, 14, 14, 9, and 9

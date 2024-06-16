@@ -17,3 +17,4 @@ title: "Godkiller - Weavings"
 - [[Weaving - Lectures on Ferrication - 2]]
 - [[Weaving - A Spectacle]]
 - [[Weaving - Adjunct]]
+- [[Weaving - The Antisequence - 1]]
