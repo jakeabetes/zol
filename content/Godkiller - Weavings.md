@@ -18,3 +18,4 @@ title: "Godkiller - Weavings"
 - [[Weaving - A Spectacle]]
 - [[Weaving - Adjunct]]
 - [[Weaving - The Antisequence - 1]]
+- [[Weaving - The Middle of Seven]]
