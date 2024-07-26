@@ -18,3 +18,4 @@ The Chapter Summaries are the recaps of the major events that occurred each sess
 - [[Godkiller Chapter Summary - 13 - The Lumberjack]]
 - [[Godkiller Chapter Summary - 14 - One's Own Story]]
 - [[Godkiller Chapter Summary - 15 - Mixed Reaction]]
+- [[Godkiller Chapter Summary - 16 - Underdogs]]

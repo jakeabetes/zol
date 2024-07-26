@@ -1,0 +1,28 @@
+---
+title: "Godkiller Chapter Summary - 16 - Underdogs"
+---
+- **Chapter begins on the early afternoon on the 18th of Spring, Annum 4466**
+- Our heroes had just won their preliminary bout of The First Ring fighting tournament
+- The comradery of victory drew our heroes even closer to one another. Mallory included.
+- Unfortunately for Mal, this seemed to trigger something within him. A shifting sensation. A motion only felt on the higher, fourth dimension of time. A daunting and familiar feeling.
+- While frightening, the moment was shaken off to make room for present matters. Their coming fight.
+- The Street Dogs discussed strategy as Sherman paced. On the exterior, he was anxiously voicing his fears about the fight. Though on the inside it seemed he was disturbed by the public's negative reaction to him.
+- Old Abby returned before your next fight and caught you up on the latest news.
+	- You'd be fighting the Red Band, a crowd favorite
+	- and Coinge's Lot had advanced as well
+- The second fight was soon under way. Ballistae, powder kegs, and a slippery substance near the well were the latest additions to the arena.
+- Magnus, moving with something to prove, was the first to activate the well's key, giving our heroes an immediate advantage over their foes.
+- This theme maintained through the whole of the fight as The Street Dogs crushed the Red Band.
+	- Rozwald making advantage of his natural poison.
+	- Magnus toppling, no, *throwing* a tower at a foe.
+	- and Sherman ending the bout with an impressive body slam.
+- Back in the lounge, Sherman was even more nervous than before. Fortunately, his neurotic spiral was stymied by the arrival of Old Abby, giving yet more congratulations.
+- During all this, Cyrus' curiosity was getting the better of him. He expressed a desire to sneak out of their sequestration, explore the VIP seating, and get an early look at the next arena.
+- The rest of The Street Dogs, from Cyrus' perspective, did and admirable job of emphatically illustrating the "cons" of his plan. Fortunately for Cyrus, his plan was more than capable of bearing the weight of a few "cons".
+- While Old Abby detailed the attack patterns of Coinge's lot, Cyrus slipped out into the corridor unseen. Adopting the appearance of a forgettable noble lord.
+- Cyrus was able to get to the VIP section with little resistance where he found Lady Kalimae Sky accompanied by Lord Curtis Renaull. Sitting near them was the mysterious man in a Silver Mask.
+- Cyrus was able to overhear Lord Renaull denying the rumors that he had come to Tenzentak to make a name for himself in an attempt to work his way up the chain of his noble family. An opportunity supposedly made possible by his uncle's impending demise. A demise that Curtis claimed to be dubious.
+- The young lord told Kalimae of of a dream. One where he sat beneath The Fated Moon, Luna. A vision in which he read the shifting of its surface. Telling him to save Tenzentak from the impending threat of Automata. 
+- After the noble couple's conversation wandered back to mundane topics, Cyrus was evicted from his stolen seat. He opted to take the empty one next to Lady Kalimae Sky. Lady Sky's reaction to him was somewhere between ominous, and entirely mundane. Did she know he was Cyrus in disguise?
+- Before Cyrus could learn more, he was interrupted by the mysterious, soft spoken, silver masked man. Gideon Gain.
+- **Chapter ends on the mid-to-late afternoon on the 18th of Spring, Annum 4466**

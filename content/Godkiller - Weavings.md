@@ -19,3 +19,4 @@ title: "Godkiller - Weavings"
 - [[Weaving - Adjunct]]
 - [[Weaving - The Antisequence - 1]]
 - [[Weaving - The Middle of Seven]]
+- [[Weaving - Fight Like Bandits]]
