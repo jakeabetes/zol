@@ -1,6 +1,8 @@
 ---
 title: "Weaving - A Spectacle"
 ---
+*This weaving occurs right after [[Godkiller Chapter Summary - 11 - The Masquerade Murder]]*
+
 Magnus disappeared from view as the carriage rounded a corner. The clop of horse hooves, the sound of wheels clicking against cobbles, and the heavy drumming of rain on the cab's roof reminded her how tired she was. She'd failed. An exhausted sigh left her lips as Kalimae removed her mask. She didn't know what the consequences would be, but she expected they'd be grave.
 
 "The one who turned out the lights? I'm surprised. I never took you for a theatric." The individual sitting across from her chuckled with small amusement. Kalimae turned towards him. His form, lit by moonlight shone through the ornate window, was as still as a statue. Ominous. In the darkness of their carriage his pristine, white robes seemed to almost luminesce of their own accord. The distant flashes of lightning caused his metallic mask to glint. Sword-like. An unmistakable danger. Unlike the Ball's guests with whom she had been forced to spend her evening, this man was known by his mask.

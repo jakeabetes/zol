@@ -1,7 +1,7 @@
 ---
 title: "Godkiller - Weavings"
 ---
-*Throughout the Godkiller story, there are pieces of lore shared in various formats. They are listed here for archival reference.*
+*Throughout the [[Godkiller]] story, there are pieces of lore shared in various formats. They are listed here for archival reference, and world-building purposes.*
 
 ## Weavings
 - [[Weaving - Fear]]
@@ -20,3 +20,4 @@ title: "Godkiller - Weavings"
 - [[Weaving - The Antisequence - 1]]
 - [[Weaving - The Middle of Seven]]
 - [[Weaving - Fight Like Bandits]]
+- [[Weaving - Elsewhere in the City]]

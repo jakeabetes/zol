@@ -1,7 +1,7 @@
 ---
 title: "Godkiller - Chapter Summaries"
 ---
-The Chapter Summaries are the recaps of the major events that occurred each session in bullet-form.
+The Chapter Summaries are recaps of major events that occurred in each chapter of [[Godkiller]]. They are presented in chronological bullet-form.
 ## Summaries
 - [[Godkiller Chapter Summary - 1 - Train to Tenzentak]]
 - [[Godkiller Chapter Summary - 2 - Legs]]
@@ -19,3 +19,4 @@ The Chapter Summaries are the recaps of the major events that occurred each sess
 - [[Godkiller Chapter Summary - 14 - One's Own Story]]
 - [[Godkiller Chapter Summary - 15 - Mixed Reaction]]
 - [[Godkiller Chapter Summary - 16 - Underdogs]]
+- [[Godkiller Chapter Summary - 17 - The First Ring]]
