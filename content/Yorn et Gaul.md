@@ -98,6 +98,8 @@ The invaders armies were forced to withdraw. [[Yorn et Gaul]] was retaken by [[C
 
 Even to this day Ehmalog, Word of Wrath, is said to stalk the mountain pass in a tract of land called the [[Wrath Wastes]]. He kills those he deems trespassers of [[The Glassius Reach]]. None know why he does this for the [[Changelings]], but without his aid they would have surely fallen.
 
+*For more lore read [[Weaving - The Wrath Wastes]]*
+
 ## Other Things of Note
 - The city is the nearest of all to [[Holyfield]], and as a result has much folklore about it. This includes things like strange people called 'Nots' who come to the city and steal away children and bring them to [[Holyfield]]. Others think the place where spirits go until they are reborn. Regardless it is avoided by most.
 - The city does utilize [[Apparatum]], however its disconnection from the outside world has made it difficult for [[The Glassius Reach]] to keep up with the advancements in technique and skills involved in the [[Artificers]] practice.

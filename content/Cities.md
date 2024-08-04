@@ -41,7 +41,7 @@ Cities are huge settlements that act as the anchors for the civilized world. [[T
 		- [[Kahdinacht]]
 		- [[Woogis]]
 		- [[Reach Run]]
-	- [[Arcana]]
+	- [[Arcadia]]
 		- [[Audran]]
 		- [[Penthe]]
 		- [[Ryze]]

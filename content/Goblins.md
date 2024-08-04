@@ -18,3 +18,5 @@ Despite the modern understanding, prejudice is a hard thing to be rid of. [[Gobl
 | Lifespan | 50-100 years |
 | Height | 3'-4'5" |
 | Significant Locations | None |
+
+*For more lore read [[Weaving - Godian Bestiary - Goblins]]*

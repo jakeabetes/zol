@@ -1,6 +1,8 @@
 ---
 title: "Weaving - Lectures on Ferrication - 2"
 ---
+*Previous part: [[Weaving - Lectures on Ferrication - 1]]*
+
 Take everything you know about objects, and throw it out the window. Scratch that. Take everything you know, and throw it out the window. For our first lesson, we will be discussing the concept of domain. Domain is the heart of artificery. It is the culmination of the abstract rules that allow things to exist and interface with one another. Let's go back to our example of the simple spoon. What makes it a spoon? Its material? Its shape? Its use? Our perception? All of the above? Regardless of what makes it a spoon, the fact it is a spoon cannot be denied. It possesses its own nature. Domain is the aspect of reality that allows it to do so.
 
 Yes, I understand that sounds complicated, deranged, and pointless. I assure you it's not. Allow me to simplify the idea. Let's imagine a world. A simple, two-dimensional box. The edges of our world are impenetrable walls. Nothing can exist outside of them, and nothing can pass through them. Inside our world are tiny dots. Let's say Three of them. And These dots like to move. When they are born, through your imagination, they pick a random direction and travel along that path. Straight line. At a continuous speed. If they hit an obstacle, be it the edge of our world or another dot, the path randomly changes direction.

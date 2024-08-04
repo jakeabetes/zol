@@ -7,3 +7,4 @@ When the iron is refined, forged, and tempered, it posses a unique ability to se
 
 When [[Iron Light]] was discovered, the value of [[Rift Iron]] skyrocketed. However, its slow regrowth made it difficult to get. On top of that, once [[Rift Iron]] is tempered, you cannot change its shape, making any material already used useless for [[Artificers]].
 
+*For more lore read [[Weaving - Desperate People]]*
