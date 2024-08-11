@@ -59,6 +59,7 @@ Some of the factions within the guild are:
 - The Repariat
 	- Those who seek people and places who have faced destruction that was not stopped. Here they provide medical aid, resources, reconstruction, and defense if they can 
 - Gilded Heart Mercenaries
-	- A brutish band of mercenaries who fight for coin
-It is worth nothing that there are many individuals within the organization who do not associate with a faction. They merely identify with the guild as a whole.
+	- A brutish band of mercenaries who align with The Guild's overall mission, but are known for their willingness to fight for coin.
+
+It is worth nothing that there are many individuals within the organization who do not associate with a faction. They merely identify with the guild as a whole. Guild members who form bonds amongst themselves can also pull approved allies into faction-related business. This practice is known as **Compatriotism**. 
 

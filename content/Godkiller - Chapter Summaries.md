@@ -20,3 +20,4 @@ The Chapter Summaries are recaps of major events that occurred in each chapter o
 - [[Godkiller Chapter Summary - 15 - Mixed Reaction]]
 - [[Godkiller Chapter Summary - 16 - Underdogs]]
 - [[Godkiller Chapter Summary - 17 - The First Ring]]
+- [[Godkiller Chapter Summary - 18 - Fight Dirty]]
