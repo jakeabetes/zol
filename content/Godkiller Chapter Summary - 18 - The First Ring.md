@@ -1,5 +1,5 @@
 ---
-title: "Godkiller Chapter Summary - 18 - Fight Dirty"
+title: "Godkiller Chapter Summary - 18 - The First Ring"
 ---
  - **Chapter begins on two hours after sunset on the 18th of Spring, Annum 4466**
  - Our heroes entered the arena for the final time during the Tournament of the Brave, unfortunately Deimos, Sherman, and Wall'e were confined to a cage at the start of the match.

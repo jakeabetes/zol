@@ -1,5 +1,5 @@
 ---
-title: "Godkiller Chapter Summary - 17 - The First Ring"
+title: "Godkiller Chapter Summary - 17 - Fight Dirty"
 ---
 - **Chapter begins on the mid-to-late-afternoon on the 18th of Spring, Annum 4466**
 - Cyrus couldn't resist the allure of sneaking out, and had managed to get himself seated between Kalimae Sky and Gideon Gain.

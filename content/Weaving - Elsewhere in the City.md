@@ -2,7 +2,7 @@
 title: "Weaving - Elsewhere in the City"
 ---
 
-*This weaving is a series of scenes that all occur simultaneously with the start of  [[Godkiller Chapter Summary - 17 - The First Ring]]*
+*This weaving is a series of scenes that all occur simultaneously with the start of  [[Godkiller Chapter Summary - 17 - Fight Dirty]]*
 
 Today is the first of three tournaments. A worthwhile event, drawing the eyes and attention of all who can afford it. Food, shouting, betting and bludgeoning. A competition you wouldn't want to miss. Though not all could make it this day. While the audience of our heroes drones with cheers and boos, elsewhere in the city a deal is struck. 
 
