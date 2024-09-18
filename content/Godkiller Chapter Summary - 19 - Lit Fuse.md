@@ -1,7 +1,7 @@
 ---
 title: "Godkiller Chapter Summary - 19 - Lit Fuse"
 ---
-- **Chapter begins late on the 18th of Spring, Annum 4466***
+- **Chapter begins late on the 18th of Spring, Annum 4466**
 - Our heroes had won The First Ring, and all of the spoils that came with
 - The group was informed that they were obligated to join the celebrations at The Sheathed Anvil Tavern
 - But before heading over, there were some preliminary discussions regarding the strange letter sent to Mal and Cyrus. Our heroes realized the coinage sent with was exact change paid when checking for incoming messages at an Adjunct. Likely the 3 numbers, 6-1-2, were the Adjunct's identifier.
@@ -40,4 +40,4 @@ title: "Godkiller Chapter Summary - 19 - Lit Fuse"
 	- Clenched in the hand of the recovered warforged was the same scrap of paper found in The Grand Nothing, but its surface was distorted and impossible to read
 - Upon waking, our heroes acknowledged they had experienced a second shared dream. Magnus checked the drawing, which appeared normally.
 - But when he held it up to the sun, colored light was scattered throughout The Lumberjack as if it were a prism.
-- **Chapter ends early on the 19th of Spring, Annum 4466***
+- **Chapter ends early on the 19th of Spring, Annum 4466**

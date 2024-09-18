@@ -22,3 +22,4 @@ The Chapter Summaries are recaps of major events that occurred in each chapter o
 - [[Godkiller Chapter Summary - 17 - Fight Dirty]]
 - [[Godkiller Chapter Summary - 18 - The First Ring]]
 - [[Godkiller Chapter Summary - 19 - Lit Fuse]]
+- [[Godkiller Chapter Summary - 20 - Fireworks]]

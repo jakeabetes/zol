@@ -1,0 +1,27 @@
+---
+title: "Godkiller Chapter Summary - 20 - Fireworks"
+---
+- **Chapter begins early on the 19th of Spring, Annum 4466**
+- Our heroes had awoken in their dilapidated home to discover The Sword Hilt Drawing refracted sunlight into odd multicolored beams. Mal felt an odd remembrance towards these colors. Shapes emerged in the patterns of light when manipulating the page, but nothing was gleaned from it.
+- The party then went off towards the city in hopes to consult Old Abby on a few things. On the way there they encountered the latest addition to the coming victory day festivities. Kites, fireworks, and ferro-illumic good luck charms. The city was growing busier still.
+- The party told the professor about their suspicions towards The Three Fools, who had been selected to compete in the second ring that day. Old Abby seemed to think that was preposterous, and urged you to stop your meddling and enjoy the festival.
+- Old Abby was questioned about the 1-5 Potentium once again. The party asked him what he knew about the substances acquisition. Against his better judgement, he informed the party that the 1-5 Potentium had been acquired for the purposes of attacking the Ikas Feather. 
+- Apparently the Ikas Feather had been a problem for some time now for the guild for a myriad of reasons:
+	- In the past they killed anyone from the guild that they crossed paths with in The Grand Nothing. However they stopped doing that 6 years ago, instead opting for their strange questions.
+	- They often recruit new members from The Bladehammer Guild. It is not know how they do this with such success.
+	- It was know that they had a presence in the new world. Specifically Tenzentak and The Bladehammer Guild by extension. However, they have recently been spotted as far as Laenwalde conducting assassinations all across the three corners.
+		- Because of this they are seen as a modern threat.
+- Our heroes weren't sure as to why, but during the entire encounter Old Abby seemed to be withholding information. You weren't what precisely.
+- In response, our heroes asked for some time with the recovered warforged without Abby present. He hesitantly obliged, but definitely wasn't pleased. The party wasn't able to parse anything new from the body but were able to discover it more from the drawing.
+	- When held to the light, at the correct angle, the lights from the drawing shine the word "HELP" on the wall. Written in common.
+- Departing Abby's office, our heroes decided to look into The Three Fools' apartment as they'd be sequestered for the day. Buying kites, fireworks, and a good luck charm on the way there.
+- Our heroes broke into the apartment while Sherman kept watch. Unfortunately his presence was spotted and guards were sent for.
+- Before the city watch arrived, our heroes were able to search the place. 
+	- They discovered Tadich's room to be surprisingly mundane. The greatest thing of note being an old sketch of his late wife.
+	- Eddoch's room was another story. Behind a broken away piece of plaster was a small box containing hefty bag of platinum, a receipt for legal fees tendered on behalf of The Street Dogs (It was Eddoch who had hired at least one of the lawyers who came to defend you on the day prior), and a red feather. The receipt was to a Burgand Law Office located at Inner Smog Town Gate. Your dwarven acquaintance was more than meets the eye. Next to the box was an inactive span read.
+- The guards arrived, arresting Sherman and kicking in the apartment door. 
+- A poorly executed escape was made in which Rozwald set off "Big Bertha", a massive bundle of fireworks, directly into the faces of the incoming guards. The celebratory explosives filled The Three Fools apartment with light, color, and scorch marks. Luckily you didn't start a fire, but were identified by the guards.
+- The party wasn't sure what to make of the situation. It seemed that poor Laizen was unaware of his friends secret lives. Eddoch likely a member of The Ikas feather, and Tardich of some unknown alliance. It was speculated that the cowboy may be one of the many people hired nefariously by Grand Master Colin Coinge.
+- As a sort of alibi, the party made a beeline for the second ring. Hoping to claim that they'd been at the event all morning.
+- Our heroes then spent the day watching as fighters of great skill battled. The Three Fools fought all the way to the finals. The penultimate match was neck and neck, only won by Laizen who accomplished a remarkable feat of skill. It was as if a door opened within him, Laizen managing to pull off a Vizir Burn.
+- **Chapter ends just before sunset on the 19th of Spring, Annum 4466**
