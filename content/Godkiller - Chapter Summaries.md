@@ -24,3 +24,4 @@ The Chapter Summaries are recaps of major events that occurred in each chapter o
 - [[Godkiller Chapter Summary - 19 - Lit Fuse]]
 - [[Godkiller Chapter Summary - 20 - Fireworks]]
 - [[Godkiller Chapter Summary - 21 - What Do You Know]]
+- [[Godkiller Chapter Summary - 22 - Frog eat Frog]]
