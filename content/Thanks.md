@@ -13,4 +13,5 @@ title: "Thanks"
 	- Casey 'Rat-Boy' O'Shea
 	- David McDonald
 	- Jasper Soucoup
+	- Sam Sterling
 - And my cats: Mugwort, Mushroom, and Spaghetti Wednesday who kept me company at my desk as I wrote. They arguably had the most important role in the entire project.
