@@ -1,0 +1,26 @@
+---
+title: "Godkiller Chapter Summary - 23 - Machines that Bleed"
+---
+- **Chapter begins Midday on the 20th of Spring, Annum 4466**
+- Old Abby told our heroes about Guild Mind Yaddio Logician. An artificer of great skill who mysteriously vanished many months ago, and potentially Sherman's creator.
+- Yaddio was an extremely bright artificer focused in the field of warforged production. His studies were aimed parallel with Colin Coinge's. The two of them both sought a method of sure control over Warforged.
+	- Apparently he was charged with the care of The Bladehammer Guild's many warforged. These automatons have all been locked away in Belzan tower during your stay in the city due to the attack.
+- Our heroes split into two groups, leaving Old Abby to carry out a bureaucratic attack on Lord Rozwald and Colin Coinge.
+- Mal, Rozwald, and Cyrus set their minds to perusing the Train Station Records
+	- They found the station in a complete mess. An overflow of commuters and overworked staff.
+	- Amongst the commuters was the Masked Mystic who was on his way out of the city due to "coming events". He revealed a few things for information about The Door within The Lumberjack.
+		- Colin Coinge was up to something dark. Apparently he had been the one to hire the fortune teller to "protect" Curtis Renaull. The fortuneteller in turned pawned the task off on you lot. It seemed the mystic wasn't very confident in Coinge, but he paid well.
+		- Supposedly, Coinge was using a secret sect of mages at Kerketh academy to forward his plan. A group of "watchful eyes" centuries old.
+		- Lasty, the man revealed himself as Destrae. This information was given freely as if in friendship.
+	- The Train station was understaffed, and the three academics managed to get jobs there without much fuss. They talked their way past the manager, Benjamin, and bribed an old backroom scribe, Simon to get unsupervised access to the mess of ledgers.
+	- After hours and hours of grueling work, our book smart trio had narrowed things down to a best-bet. Unfortunately, it was at the steep cost of time. A resource in short supply.
+- The rest of the party: Deimos, Sherman and Magnus, decided to shake down any trailing leads.
+	- Eddoch of The Three Fools was given a stern eye by Magnus
+	- Bennet was his oblivious and rude self, as usual
+	- and Blood, the warforged who hunted Rozwald, taunted Sherman from an alleyway. Claiming a long life spent watching Sherman until he was sold by Monsieur Logician from the back of their shared shop.
+	- Finally, Persephone drone gave you her side of things. Nothing new was gleaned, but she reinforced your suspicions about Coinge.
+	- They spent the remainder of the day looking into Yaddio, and found nothing
+- After sunset, our heroes reconvened and caught each other up to speed. The final bet was Devoost Cannery. A small, unproductive cannery located in Smogtown.
+- Wasting no time our heroes sought it out, and found it to be filled with rotting food, and suspicious warforged loading vials of mysterious liquid into crates.
+- This was it. In no time The Street Dogs set to what they do best. Breaking, entering, and eliminating.
+- **Chapter ends late on the 20th of Spring, Annum 4466**

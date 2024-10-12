@@ -20,3 +20,4 @@ title: "Godkiller Chapter Summary - 22 - Frog eat Frog"
 	- Old Abby expressed deep concern about the assassination attempts, and took your evidence to act upon. Unfortunately, the group only had concrete evidence on Lord Rozwald, and not Colin Coinge. Hopefully the guild will intercede here. 
 	- He apologized for, and rescinded his past urgings for the group to not get involved in any more drama. He trusted you to delve into it and stop whatever was to come.
 - Before the group's departure, Old Abby was asked what he knew of the name Yaddio. He responded only with a clarifying question of his own: *Logician Yaddio?*
+- **Chapter ends Midday on the 20th of Spring, Annum 4466**

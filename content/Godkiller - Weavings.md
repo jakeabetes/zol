@@ -26,3 +26,4 @@ title: "Godkiller - Weavings"
 - [[Weaving - Mortuum Priums - 2]]
 - [[Weaving - Mortuum Priums - 3]]
 - [[Weaving - Scriptures of Nothing - 1]]
+- [[Weaving - Scriptures of Nothing - 2]]
