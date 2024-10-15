@@ -22,5 +22,5 @@ title: "Godkiller Chapter Summary - 23 - Machines that Bleed"
 	- They spent the remainder of the day looking into Yaddio, and found nothing
 - After sunset, our heroes reconvened and caught each other up to speed. The final bet was Devoost Cannery. A small, unproductive cannery located in Smogtown.
 - Wasting no time our heroes sought it out, and found it to be filled with rotting food, and suspicious warforged loading vials of mysterious liquid into crates.
-- This was it. In no time The Street Dogs set to what they do best. Breaking, entering, and eliminating.
+- This was it. In no time The Street Dogs set to what they do best. Percussive investigation.
 - **Chapter ends late on the 20th of Spring, Annum 4466**
