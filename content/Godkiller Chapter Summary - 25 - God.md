@@ -1,0 +1,44 @@
+---
+title: "Godkiller Chapter Summary - 25 - God"
+---
+- **Chapter begins on the 21st of Spring, Victory Day, Eighteenth Bell, Annum 4466**
+- A detonation of 1-5 Potentium threw our heroes into The Grand Nothing, dooming them to fall thousands and thousands of feet to their death.
+- Fear and grit outweighed danger as The Street Dogs fell through a sky of rubble, fire, smoke, victims, and deadly warforged set to kill.
+- But our heroes would not let their journey end here.
+- Vizir surged brightly within our The Street Dogs, sparking within them.
+	- Cyrus' nesting doll, a secret and prized possession reached beyond the man in the mask. Unlocking a deep and mysterious power. This allowed him to rally falling victims within the safety of his magic. Well, safe so long as *he* found a way out of this mess too.
+	- The hidden power within Deimos broke through, consuming the fearful sky, drinking the world in until its dark lust was saited. It had finally grown strong enough to escape... but it didn't. Instead, the terror-drunk entity locked itself deep within Deimos' skull, granting him perfect, yet horrible senses of the world around him.
+	- Something had triggered within Mal. A touch of the ancient, and infallible. A taste of the ultimate past itself. The arcanist's eyes filled with vibrant color, and his unique chronomantic skills were amplified ten-fold.
+	- Sherman, the sole hero not targeted by Colin Coinge's Psudeoforged, was unrestricted by his fear of falling on this day. Soaring from ally to ally, still half scorched from the 1-5 Potentium Blast he had somehow survived, Sherman would live opposite to Coinge's narrative or die trying.
+	- Magnus, unable to find Adrathar's aid when he needed it most, didn't let fear get the better of him. Nor did his faithful ally, Viz. In their moment of peril, the two of them dug deeper into their bond then ever before. Finding new power and resolve.
+	- And of course, reality required yet more for poor old Rozwald, who already had saved his home city from historical destruction today. Falling debris had left Gilligan's lift was in peril. Fortunately, the disarmed bomb, still stable within its container, fell alongside Rozwald.
+- The following minutes were filled with violence, disorientation, and sheer determination as our heroes scanned the sky for a glimmer of salvation.
+- Unfortunately, they found only more problems.
+	- Important guild members like artificers, and surgeons were amongst the airborne.
+	- Other... guild members fell as well like the ever-cranky Bennet Frence.
+	- Even Adja Corsair, guild mind and daughter of Guild Master Helg Corsair was in the fray.
+- Fortunately, Cyrus was able to save more than his fair share. Catching each of the aforementioned victims within his nesting doll. Adja Corsair being the most notable. 
+	- Lady Kalimae Sky had seemingly *leapt* from the city above to call in her favor. She demanded that The Street Dogs save Adja personally, and warned him of a coming someone, and their terrible fire.
+- Colin Coinge, against his plans, had also been caught in the blast. In a similar vein to our heroes, Coinge hadn't given up yet, and targeted a section of falling tower used by Airshipwrights. 
+- Our heroes wouldn't let him slip by this time. They pursued vehemently as heroes from the city above joined the fray, trying to save as many lives as they could. Some were successful, others becoming unfortunate sacrifices themselves.
+- After a struggle, Magnus and Mal managed to corner Coinge, who's plan was unravelling further and further by the second. It all came to a head when magnus tackled Coinge *through* a floor, and sending him sprawling down the whirling pit of a staircase. On the landing, the narcissist gave an arrogant smile when he spotted what he had been searching for: a semi-constructed airship hull. This smug grin was marked as his last when Mal, who had magically snuck ahead of Coinge, appeared behind one of the hull's cannons.
+- Coinge had tried to play god, but a single, high-pressure beam of energy wiped Guild Mind Master Colin Coinge, and his shit eating grin, off The Prime forever. Coinge may have had grand designs. But in the end, he died like any man.
+- Coinge's death was a victory, but a small one given the circumstances. As the ground was still growing closer and closer by the second.
+- The section of tower that threatened Gilligan's lift was on a crash-course. Rozwald, never backing down from a challenge that risked his mortality for the greater good, pulled the 1-5 Potentium out from its containment unit, loaded it into his Hand Mortar, and fired. All eyes in the sky traced the burning white arc that sprouted from Rozwald's gun. Then, a blinding explosion, followed by a second detonation within the tower section, likely the 1-5 Potentium that had been returned to the guild, almost entirely vaporized the offending structure. Gilligan's Lift, and everyone inside it, had been saved.
+- The shockwave forced rubble in every direction. After a long, disorienting moment, Sherman spotted something amongst the chaos. A relatively circular section of tower flipping like a coin. On one side, a metal-inlay teleportation circle still half-affixed in crumbling stone.
+- Our heroes made a beeline for it. However, not all had remained conscious in the fray. Rozwald, Magnus, and Deimos had succumbed to their wounds. Worse, wounds weren't the only thing Deimos had succumbed too.
+- A fearsomely strong, inhuman force within Deimos had taken over. It fought against Sherman's aid in a self-sabotaging effort. It was more concerned with observing the spectacle of the fall rather than surviving it.
+- And to put a bow on the whole ordeal, a being of pure, holy fire crested over the cliff's edge. A creature of undeniable divinity. This was not Haith Nallian. Tenzentak, on this day of terror, stood in the presence of a god. It burned like a second sun. 
+- Protruding tendrils of fire judged everything in its path, incinerating unwanted rubble, and unworthy plummeters. Its presence was not benevolent.
+- Now sandwiched between terrible, sentient fire above and the unforgiving ground below, our heroes wasted no time in heading for the the turning circle. This was their last hope. 
+- Those capable of making contact clung to the disintegrating rubble with bloody fingers. Mal, forced to reach beyond his means, dug deep within as he burned through the spell scroll stolen from Coinge's things.
+- Magnus, who had fallen unconscious, was pulled in by Cyrus' magic, and Sherman managed to secure Deimos' fearsome, possessed form. 
+- Rozwald still fell freely.
+- With each revolution of the flipping circle, our heroes tried to reach out and grab the Grung, falling just out of reach.
+- Sherman, forced to pin a resistant Deimos to the surface of the circle, was soon the only one still in reach of Rozwald. He was left with a choice between his two friend lives. He could easily save either one of them. 
+- But the caretaker wouldn't settle for just one. Risking it all, Sherman leapt at the platform's rotational apex. His friend's forced to watch his all-or-nothing attempt disappear with the circle's revolution. His first swipe caught only air, but the second caught the noble grung's haughty neckline. Sherman's foot found a substantial piece of falling debris and he kicked for all he was worth. 
+- Deimos, or rather the thing inside him, chanced its escape. Unfortunately for him Sherman's descending iron fist returned to lay him flat again.
+- Mal who'd been forced to play mental gymnastics, weighing each of his friend's chances of survival, activated the circle just as the descending tendrils of fire began to singe flesh.
+- Reality fluttered and fanned violently like the pages of a riffled text. The spell, while sure and complex in its design seemed unprepared to handle the sheer momentum of the party. Transforming the excess energy into vibrant heat, unnatural sound, and colored light.
+- Everything came to a terrible, but certainly survivable, crashing heap as the last remnants of our heroes momentum shattered and felled the high wooden scaffold which held the guild's temporary, Victory Day teleportation circle.
+- **Chapter ends the 21st of Spring, Victory Day, one terrifying fall's worth of minutes after Eighteenth Bell, Annum 4466**

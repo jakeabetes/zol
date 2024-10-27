@@ -28,10 +28,7 @@ title: "Godkiller Chapter Summary - 24 - The Tower"
 - Unfortunately, X12, Coinge's right hand Warforged had found you just as this was discovered. The automaton carried a small 1-5 Potentium bomb to wipe all remaining evidence, and our heroes off The Three Corners.
 - In a moment of pure, selfless heroism, Sherman rushed X12. Tackling the smaller warforged into The Cannery's inner canal.
 - Light, fire, and destruction tore through the small industrial building. And everything went dark.
-- In the blackness, Rozwald found himself drifting through smoke. Amongst the emptiness, was the dying body of Egan Alzby, lying on the watery edge of a beach. He warned Rozwald. Telling him to run, to flee from *him*. Rozwald pleaded for clarification, but Egan couldn't find the words. Before Rozwald could open his mouth again, a singular word, a command, forced its way into everyone's mind.
-	
-	**WAKE**
-
+- In the blackness, Rozwald found himself drifting through smoke. Amongst the emptiness, was the dying body of Egan Alzby, lying on the watery edge of a beach. He warned Rozwald. Telling him to run, to flee from *him*. Rozwald pleaded for clarification, but Egan couldn't find the words. Before Rozwald could open his mouth again, a singular word, a command, forced its way into everyone's mind: **WAKE**
 - The word, like a spike through reality itself threw all of our heroes upright in bed. They had been taken to The Guild surgery, pumped full of healing alchemy on Old Abby's dime, and watched over by Eddoch.
 - Sherman was no where to be seen.
 - Our heroes suddenly learned that the entire city was in disarray. Victory Day celebrations cancelled, riots in the streets, and Lord Curtis Renaull was about ten minutes from giving his speech.

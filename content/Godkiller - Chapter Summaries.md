@@ -27,3 +27,4 @@ The Chapter Summaries are recaps of major events that occurred in each chapter o
 - [[Godkiller Chapter Summary - 22 - Frog eat Frog]]
 - [[Godkiller Chapter Summary - 23 - Machines that Bleed]]
 - [[Godkiller Chapter Summary - 24 - The Tower]]
+- [[Godkiller Chapter Summary - 25 - God]]
