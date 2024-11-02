@@ -3,31 +3,31 @@ title: "Godkiller Chapter Summary - 1 - Train to Tenzentak"
 ---
 - **Chapter begins mid-morning the 11th of Spring, 4466**
 - Our story began with a strange dream of a broken Warforged
-- Upon boarding the train in the city of Rails, our heroes met some odd new friends. Each other!
+- Upon boarding the train in the city of [[Rails]], our heroes met some odd new friends. Each other!
 	- Deimos - A monster slayer and his friendly wolf, Wall'e
 	- Rozwald - A noble artificer
 	- Cyrus - A mysterious masked individual
 	- Spade - A gruff drifter, and his fire-spirit Cinder
 	- Magnus - A Stormblessed northerner and his draconic companion, Viz (Avizandym) 
 	- and Sherman - a free-willed automaton care-taker
-- The our heroes met The Three Fools. A party of established guild members
+- The our heroes met The Three Fools. A party of established members of [[The Bladehammer Guild]]
 	- Eddoch - a kindly dwarf clergyman
 	- Laizen - an awkward, but kind elven swordsman and full marked guild member
 	- Tardich - a grumpy and reserved cowboy
 - The stretch of Guild cars along the train were interrupted by vault car and luxury car, cutting the party off from the dining car
 - The long journey had left fuses short, and tension quickly formed between Magnus and Spade.
-- it likely would have come to blows if the train hadn't been attacked by Warforged rebels
+- it likely would have come to blows if the train hadn't been attacked by [[Warforged]] rebels
 	- Tons of them shouting odd phrases of rebellion
 	- Upon their death, they exploded into acid
 - The attack was overwhelming, but luckily (or possibly unluckily) Haith Nallian, the Inheritor of Fire was aboard the train.
 	- He expediently killed the attackers, and scorched the party in the process
 - After the fight, our heroes checked on Vault and Luxury car. The assumed targets of the attack
 	- The vault was emptied and its guards killed
-	- Rozwald cleverly deduced it had been transporting a small, but dangerous container of 1-5 Potentium. A volatile and explosive metal often used to create powerful bombs.
-- In the luxury car, Curtis Renaull (nephew of Leonel VanVeld, The Alderian Seat of Holocene) was sure the attack was directed at him
+	- Rozwald cleverly deduced it had been transporting a small, but dangerous container of 1-5 Potentium. A volatile and explosive member of the [[Magical Metals]] often used to create powerful bombs.
+- In the luxury car, Curtis Renaull (nephew of Leonel VanVeld, The Alderian Seat of [[Holocene]]) was sure the attack was directed at him
 	- He insisted the party protect him, the plainly declined
 - The lot regrouped and recouped. Most members of the car found they couldn't help but fall asleep
-- The cargo of The Three Fools was (unbeknownst to them) a very large cannister of alchemical gas, the unbound principal of sleep.
+- The cargo of The Three Fools was (unbeknownst to them) a very large cannister of gas used in [[Alchemy]], the unbound principal of sleep.
 	- Those who were resistant to its influence were kind enough to tuck the party in
-- Upon waking up, our heroes were brought to stand on the train car's roof to gaze upon the view of Tenzentak
+- Upon waking up, our heroes were brought to stand on the train car's roof to gaze upon the view of [[Tenzentak]]
 - - **Chapter ends the morning of the 12th of Spring, 4466**

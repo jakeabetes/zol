@@ -8,20 +8,20 @@ title: "Godkiller Chapter Summary - 18 - The First Ring"
  - The fight was a flurry of spells, drama, and roving hazards.
 	 - The equipment was fought over constantly, and persuaded to fight for both sides at different times during the match.
 	 - The audience, which had been riled up by a day's worth of festivities, delays, and a terrorist attack broke into a rage. A clay cup was thrown into the arena, targeted at Sherman, and a fight erupted amongst a fifth of the stands.
-	 - Cyrus recognized that one of the arena's chests was a lesser mimic before falling into its trap. He was somehow able to whisper something to this creature's feeble mind, and convince it to defend Deimos. Or rather, savagely attack Elowen Ferric.
+	 - Cyrus recognized that one of the arena's chests was a lesser [[Mimic]] before falling into its trap. He was somehow able to whisper something to this creature's feeble mind, and convince it to defend Deimos. Or rather, savagely attack Elowen Ferric.
 	 - most dastardly, Guild Mind Master Colin Coinge, shameless as he'd proved himself to be, tried to tamper with the ongoing match. Fortunately, there was already one person who saw themselves as The Street Dog's rival. Bennet Frence was not going to give that position up so easily. Each time Coinge tried to exercise his Vizir on the match, Bennet opposed it with his own.
  - The Bloodwells were pushed to their absolute maximum, but towards the end of the match Mallory had gotten the better of Kael, breaking his concentration and allowing Rozwald for find and opening. Kael was separated from Jaxon, and Mal capitalized on it.
  - Mal had given slug a magical waterskin and had his familiar squeeze its immense volume out in one single motion. Right above Kael's head.
  - Mal froze the water into a giant chunk, and crushed Kael beneath it. Winning the match and proving himself the more superior wizard.
  - The crowd was an uproar of elation and outrage as our heroes were honored as the victors of the Tournament. Overcoming odds, abuses of power, and Old Abby's curse.
- - Magnus spoke to the crowd, calling for aide to the Ward, and peace amongst man and machine.
+ - Magnus spoke to the crowd, calling for aide to [[The Ward]], and peace amongst man and machine.
  - In the reception chamber, our heroes received congratulations from the Professor Abacus himself, and the rewards of victory. Not only did they win their trophy and prize money (one thousand gold pieces), but gifts from the greater community.
 	 - Deimos and Magnus received a formal invitation to meet with the head of the Gilded Heart Mercenaries faction, Guild Mind Mandreg Roald.
 	 - Mal and Cyrus received a cryptic scroll case that only held a piece of paper that read "6 1 2", and a few coins. One gold, one silver, and two copper.
 	 - There was also a gift from Albojo's wares. A bag of holding containing potions, firebombs, and an artificer's schema that explained the reproduction of said firebombs.
 	 - Six hundred gold pieces were gained from House Goa. The very same noble house from which Lady Gale Goa hailed from.
 	 - A warforged arm with a gas propelled hand that can be launched many feet out and reeled-in via a metal cable was sent for Sherman. Gifted by an anonymous patron. 
-	 - Finally, a boarding pass for Sherman. A one way ticket to Rails. An anonymous dissident's way of saying "Get out of my city".
+	 - Finally, a boarding pass for Sherman. A one way ticket to [[Rails]]. An anonymous dissident's way of saying "Get out of my city".
  - In the reception chamber, Mallory approached Old Abby and spoke to him about the leaking of his conversion documentation back from when he'd joined the guild. The professor apologized profusely, admitting he was unaware that sealed documents of that nature could emerge in an investigation. While the conversation smoothed things out, it didn't change the fact that Mal's secret was now known by some of the party's enemies. Perhaps the claims surrounding Old Abby's aura of "bad luck" aren't entirely baseless.
  - Before our heroes could get too deep into their celebrations, a visitor sought out our heroes. Master Coinge himself.
  - Coinge's perpetual smile congratulated them on their win. While his words were friendly, his actions were not. Coinge refused to shake Sherman's hand, and stormed out of the room.

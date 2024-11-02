@@ -21,8 +21,8 @@ title: "Godkiller Chapter Summary - 16 - Underdogs"
 - The rest of The Street Dogs, from Cyrus' perspective, did and admirable job of emphatically illustrating the "cons" of his plan. Fortunately for Cyrus, his plan was more than capable of bearing the weight of a few "cons".
 - While Old Abby detailed the attack patterns of Coinge's lot, Cyrus slipped out into the corridor unseen. Adopting the appearance of a forgettable noble lord.
 - Cyrus was able to get to the VIP section with little resistance where he found Lady Kalimae Sky accompanied by Lord Curtis Renaull. Sitting near them was the mysterious man in a Silver Mask.
-- Cyrus was able to overhear Lord Renaull denying the rumors that he had come to Tenzentak to make a name for himself in an attempt to work his way up the chain of his noble family. An opportunity supposedly made possible by his uncle's impending demise. A demise that Curtis claimed to be dubious.
-- The young lord told Kalimae of of a dream. One where he sat beneath The Fated Moon, Luna. A vision in which he read the shifting of its surface. Telling him to save Tenzentak from the impending threat of Automata. 
+- Cyrus was able to overhear Lord Renaull denying the rumors that he had come to [[Tenzentak]] to make a name for himself in an attempt to work his way up the chain of his noble family. An opportunity supposedly made possible by his uncle's impending demise. A demise that Curtis claimed to be dubious.
+- The young lord told Kalimae of of a dream. One where he sat beneath one of [[The Moons]]: Luna, the Fated. A vision in which he read the shifting of its surface. Telling him to save Tenzentak from the impending threat of Automata. 
 - After the noble couple's conversation wandered back to mundane topics, Cyrus was evicted from his stolen seat. He opted to take the empty one next to Lady Kalimae Sky. Lady Sky's reaction to him was somewhere between ominous, and entirely mundane. Did she know he was Cyrus in disguise?
 - Before Cyrus could learn more, he was interrupted by the mysterious, soft spoken, silver masked man. Gideon Gain.
 - **Chapter ends on the mid-to-late afternoon on the 18th of Spring, Annum 4466**

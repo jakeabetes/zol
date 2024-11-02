@@ -14,7 +14,7 @@ title: "Godkiller Chapter Summary - 11 - The Masquerade Murder"
 	- Bax Corsair
 	- And Lord Curtis Renaull himself, wearing the guise of Lord Mavis Morp
 - The throw was an accurate one, and likely would have been lanced by someone who was either extremely lucky or skilled with a blade.
-- The lights began to come back on and The Corsair Twins, the Son and Daughter of the Bladehammer Guild's Leader took over the chaotic situation quickly. Demanding the guards to lock the place down, and for the guests and staff to sit down so they could be questioned.
+- The lights began to come back on and The Corsair Twins, the Son and Daughter of [[The Bladehammer Guild]]'s Leader took over the chaotic situation quickly. Demanding the guards to lock the place down, and for the guests and staff to sit down so they could be questioned.
 - Cyrus, before seating himself spotted something glinting in the fountain. A crossbow bolt. It looked as if it had been fired from the south west corner of the room, likely missing its already dead target.
 - Everyone is questioned:
 	- Most of the noble guests seemed to have reasonable explanations. Chatting, fetching food, and giving congratulations.
@@ -22,7 +22,7 @@ title: "Godkiller Chapter Summary - 11 - The Masquerade Murder"
 		- Bennet then tattled on our heroes, outing them as crashers as well.
 		- Bennet, and our heroes were fined 100 gold each. They were also to be given "Mop Duty" for their transgressions.
 	- Curtis Renaull explained that he didn't know why his own sword had ended up in Mavis' neck. He claimed to have handed it off to a member of staff to be cleaned after his duel with Lady Falza Mortimer.
-	- Our heroes were then questioned and asked to remove their masks. The guests were outraged when the saw Sherman, a Warforged amongst them. Curtis most of all.
+	- Our heroes were then questioned and asked to remove their masks. The guests were outraged when the saw Sherman, a [[Warforged]] amongst them. Curtis most of all.
 	- Then a sudden, unexpected thing occurred. Guild Mind Colin Coinge arrived to help with the investigations. Likely due to its possible connection to the train attack through Lord Renaull.
 - Surprisingly Master Coinge, who had just accused them of crimes earlier that day, defended our heroes. Giving ample reason as to why the party would not have been the murderers.
 	- Reminding Curtis that they were some of the fighters who defended him on the train.
@@ -34,19 +34,19 @@ title: "Godkiller Chapter Summary - 11 - The Masquerade Murder"
 - In the quieter sitting room, the group is allowed to decompress and take stock of their situation.
 	- Mae, Gale and Rhea formed their own little posse. Mae was upset at Curtis for some reason.
 	- Rione and Grant were keeping to themselves, resting on the lounge. However, Rione seemed to be very fixated on Sherman.
-	- Curtis couldn't stop pacing, and Bennet seemed keen on giving him something for his nerves. He had apparently brought an alchemy kit and was brewing him something.
+	- Curtis couldn't stop pacing, and Bennet seemed keen on giving him something for his nerves. He had apparently brought an [[Alchemy]] kit and was brewing him something.
 - Cyrus and Deimos decided to go investigate the body, while Rozwald continued his drinking. Deimos' odd past had given him ample skills for the task.
 	- They found a full sized crossbow bolt. The weapon it was fired from would have been too large to conceal.
 	- The body had also been poisoned. A white froth and a strange smell was found in its mouth. Rozwald's science would have to be employed to uncover more about it.
 	- Cyrus was intrigues by Deimos' abelites. He asked him about his foresight, and Deimos said that was a question for later.
 - Back in the room, Rozwald was vomiting. The smell drove Curtis from the room. Deimos and Cyrus bumped into him in the hall, and Deimos pursued him in secret.
 	- Deimos saw Curtis retrieve a knife that he stashed in his sleeve, but was noticed by Curtis soon after.
-- Back in the room, Cyrus asked Bennet to borrow his alchemy kit for Rozwald's investigation. Bennet seemed oddly protective of it, but a bit of Cyrus' magic got it out of his cautious hands.
+- Back in the room, Cyrus asked Bennet to borrow his [[Alchemy]] kit for Rozwald's investigation. Bennet seemed oddly protective of it, but a bit of Cyrus' magic got it out of his cautious hands.
 	- Rozwald noticed something strange about the kit. Some of the ingredients were mislabeled, and abnormal inclusions for a standard kit.
 - Upon investigating the body, it became clear. Curtis had brought the ingredients to brew a simple, slow acting poison called "Killer's Fizz". He seemed to have accidentally dosed Mavis' Cup with it instead of Curtis'. 
 	- Though his intention likely wasn't murder. As the ingredients for the antidote were also in the kit. It seemed Curtis had crashed the party to poison a high ranking noble, then save him. A half-clever plan to gain the favor he seemed in dire need of.
 - Though this wasn't the only secret the body held. It had also been dosed with an alchemical toxin known as "Suspicionol". A substance which is essentially the unbound principal of conspiracy. Known for its distinct scent, and its ability to wholistically increase paranoia. Those who ingest it have an increased tendency to form and believe conspiracies.
-- Back in the sitting room, Sherman sensed something odd beneath the house. A writhing. He and Magnus went to investigate. They discovered a room full of Warforged servants. Sherman had no idea how he sensed them.
+- Back in the sitting room, Sherman sensed something odd beneath the house. A writhing. He and Magnus went to investigate. They discovered a room full of [[Warforged]] servants. Sherman had no idea how he sensed them.
 - Magnus and he shared a moment of understanding, but it was interrupted by Rione Elsitor, who was acting very strangely.
 	- He said that Grant was very *fond* of Sherman's kind.
 - Back in the room, Curtis was losing his mind. The scent of Suspicionol heavy on his breath. He began accusing the party of being hired by Lord Rozwald to stop him from giving his speech. 

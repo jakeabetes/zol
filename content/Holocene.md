@@ -53,7 +53,7 @@ Holocene's east overlooks [[The Grand Nothing]], and houses the [[Pale Lift]] wh
 ## Goods and Services
 
  | Name | Type | Description |
- |-|-|-|
+ | --- | --- | --- |
  | The Pale Ward | Keep | The city's main keep and campus of beautiful buildings that house the high nobility. |
  | Spring Keep | Keep | A large mansion in The Spring that is headquarters to The Grey Council |
  | Holocene Convergence | Teleportation Circle | The city's primary teleportation circle |
@@ -90,3 +90,4 @@ In the modern day, [[Holocene]] is seen as a city of exclusive art and culture. 
 
 ## Other Things of Note
 - Urban legends of The Spring tell of secret passages into the inner city, but if they truly exist or not is only known by few.
+- Holocene is the only Non-Ward city to be hit by the [[Greatwinds]]. Fortunately, the [[Stormwall]]'s foothills, North Sea inlet, and [[The Grand Nothing]]'s combatting weather systems protect the city from the bulk of the winds.

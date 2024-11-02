@@ -4,7 +4,7 @@ title: "Godkiller Chapter Summary - 19 - Lit Fuse"
 - **Chapter begins late on the 18th of Spring, Annum 4466**
 - Our heroes had won The First Ring, and all of the spoils that came with
 - The group was informed that they were obligated to join the celebrations at The Sheathed Anvil Tavern
-- But before heading over, there were some preliminary discussions regarding the strange letter sent to Mal and Cyrus. Our heroes realized the coinage sent with was exact change paid when checking for incoming messages at an Adjunct. Likely the 3 numbers, 6-1-2, were the Adjunct's identifier.
+- But before heading over, there were some preliminary discussions regarding the strange letter sent to Mal and Cyrus. Our heroes realized the coinage sent with was exact change paid when checking for incoming messages at an [[Adjunct]]. Likely the 3 numbers, 6-1-2, were the Adjunct's identifier.
 - On the way to the sheathed anvil, Deimos could only think of the terrible doom, and the thing that lay behind a hidden door.
 - At the tavern our heroes found an overflow of celebrations. The bar, and its patrons had bled out into the streets. Creating a sort of mini campus for drinking.
 - The patrons welcomed the party and celebrated them as victors.
@@ -13,10 +13,10 @@ title: "Godkiller Chapter Summary - 19 - Lit Fuse"
 	- Kael Starstride
 	- an Laizen of The Three Fools
 - Cyrus managed to listen into some gossip at Laizen's table. Hearing about:
-	- Guild Mind Master Colin Coinge now being on the outs with The Bladehammer Guild and Kerketh. Supposedly his invention was the sort that would take over a market, and ruin business for all.
+	- Guild Mind Master Colin Coinge now being on the outs with **The Bladehammer Guild** and **Kerketh Academy**. Supposedly his invention was the sort that would take over a market, and ruin business for all.
 	- Apparently Guild Mind Master Willem Bellard was still being held at the guild for some reason.
 	- Supposedly it was The Guild who ordered the 1-5 Potentium in the first place. A dangerous act, and of questionable motive for an institution who aims to make a better world. According to one of Laizen's artificer friends "people often do strange things at Belzan Tower" and it wasn't worth worrying about.
-	- Talks of the empty chair adjacent to Haith, The Inheritor of Fire. People suspect The Word of Fire himself is inside the city. A deific figure. Apparently Wordbearers are so potent in their power it can induce terrible and beautiful sensations. Those who meet them describe them as Gods.
+	- Talks of the empty chair adjacent to Haith, The Inheritor of Fire. People suspect [[The Word of Fire]] himself is inside the city. A deific figure. Apparently [[Wordbearers]] are so potent in their power it can induce terrible and beautiful sensations. Those who meet them describe them as [[Gods]].
 	- Finally, and most surprisingly, the remaining 1-5 Potentium had apparently been *returned* to The Bladehammer Guild! Surrendered to The Hall's front desk after the tournament.
 - Upstairs there was a VIP section reserved for guild minds and nobility. A less celebratory atmosphere, but the party was still honored here. More as a novelty than anything else. Familiar attendants were:
 	- Lady Gale Goa and Lady Rhea Stoneshard
@@ -35,9 +35,9 @@ title: "Godkiller Chapter Summary - 19 - Lit Fuse"
 	- Our heroes walked home most of the way with Laizen. Mal and Cyrus tailed him to his home where they discovered Tardich was in fact at home, sleeping. However, Eddoch was missing.
 - Back at the Lumberjack, the party bedded down for the night where another of Rozwald's disturbing dreams occurred. However this was one was different, as the rest of our heroes were in the dream as well. In one way or another.
 	- It was a feast at Rozwald Manor. Uncomfortably warm and awkward. There were other guests at the table besides our heroes. Colin Coinge and an unknown drow man. Egan Alzby were there, as usual. Though he lay dead on his own plate of food.
-	- Hanging above Lord Rozwald was a strange painting of The Cliffs of Aeordel. Burning and framed behind a grand dragon being killed by some sword wielding warrior.
+	- Hanging above Lord Rozwald was a strange painting of [[The Cliffs of Aeordel]]. Burning and framed behind a grand dragon being killed by some sword wielding warrior.
 	- The meal itself was by far the most disturbing element to the dream. Two inedible roasts. The warforged body you had recovered from The Grand Nothing, and Sherman's body.
-	- Clenched in the hand of the recovered warforged was the same scrap of paper found in The Grand Nothing, but its surface was distorted and impossible to read
+	- Clenched in the hand of the recovered warforged was the same scrap of paper found in [[The Grand Nothing]], but its surface was distorted and impossible to read
 - Upon waking, our heroes acknowledged they had experienced a second shared dream. Magnus checked the drawing, which appeared normally.
 - But when he held it up to the sun, colored light was scattered throughout The Lumberjack as if it were a prism.
 - **Chapter ends early on the 19th of Spring, Annum 4466**

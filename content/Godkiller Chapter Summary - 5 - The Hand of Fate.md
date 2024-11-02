@@ -3,7 +3,7 @@ title: "Godkiller Chapter Summary - 5 - The Hand of Fate"
 ---
 - **Chapter begins mid day on the 14th of Spring, 4466**
 - A crash had left our heroes stranded deep in the Baradan Canyon
-	- Where Ger'zar bandits had come back to finish the joh
+	- Where Ger'zar bandits had come back to finish the job
 - A fight in the dying winds of the sandstorm brought your unknown allies back to aid you.
 - They turned out to be Johnny Dogs and Bellarmine of The Ikas Feather
 	- They apologized for the chaos and gave a spyglass as a gift of thanks
@@ -29,7 +29,7 @@ title: "Godkiller Chapter Summary - 5 - The Hand of Fate"
 	- Those who got even closer noticed an odd scent.
 - As the fight went on, you found yourselves unable to phase him with your attacks
 	- He seemed to be testing you
-	- His gaze did something strange to you, as if he was grasping your Vizir and probing its limits
+	- His gaze did something strange to you, as if he was grasping your [[Vizir]] and probing its limits
 - The fight ended quickly, and he seemed satisfied with the test
 - He spoke strangely not as someone who was deficient in the learned skill of speech, but rather someone who was struggling to bring the words to their mouth
 	- "They… have… it" to the crowd

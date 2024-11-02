@@ -3,11 +3,11 @@ title: "Godkiller Chapter Summary - 9 - The Silver Fox"
 ---
 - **Chapter begins midday on the early evening on the 16th of Spring, Annum 4466**
 - Our heroes had just left their less than favorable questioning session with the Guild's team investigating the train robbery
-- Magnus begged Persephone for her aid. Seeking a Zephrean priest, and a tailor suitable for a man of his size. She complied, giving him the name of a local called Ul'Brek, and a tailor called Madame Louseau.
+- Magnus begged Persephone for her aid. Seeking a [[Zephyrean]] priest, and a tailor suitable for a man of his size. She complied, giving him the name of a local called Ul'Brek, and a tailor called Madame Louseau.
 - The party went over their invitations and formulated a plan for the party
-	- Magnus wore a Ram's head mask, and was pretending to be a Merchant's son of the ward in the city on trade. Lord Belfo Brandic.
+	- Magnus wore a Ram's head mask, and was pretending to be a Merchant's son of [[The Ward]] in the city on trade. Lord Belfo Brandic.
 	- Sherman masqueraded as his brother. Sporting a cherubic sheep mask, and pretending to be Lord Casper Brandic.
-	- Cyrus was to be a travelling scholar of The Brass Hall. A lord Mors Lapliar. Sporting a owl mask.
+	- Cyrus was to be a travelling scholar of [[The Brass Hall]]. A lord Mors Lapliar. Sporting a owl mask.
 	- Rozwald would attend as Lord Aldo Aldo, a foreigner on looking to trade with the Rozwald Mines. He would attend in a mirrored black cat mask.
 	- Finally, Deimos drew the short straw. Doing a great job attending as Lady Falza Mortimer, a fur trader of Kahdinacht. Sporting a white rabbit's mask.
 - They met the theatrical Madame Louseau. A tailor who specialized in creating finery for Adventurers. She gave them everything they needed to attend.
@@ -21,19 +21,19 @@ title: "Godkiller Chapter Summary - 9 - The Silver Fox"
 - It all seemed to revolve around Lord Curtis Renaull, nephew of Leonel VanVeld. Curtis is the target. His shiny silver fox mask making him stick out, recognizable as the same noble from the train attack back when our heroes first met 5 days prior.
 	- **Lord Curtis Renaull's posse** was three strong.
 		- **Lord Curtis Renaull** himself, in his glinting **silver fox** mask.
-		- **Lord Bennet Frence**, the pest from the Bladehammer Guild. He had chosen a **red weasel** mask.
-		- And **Lord Mavis Morp**. A noble who seemed to be under Curtis in the social hierarchy. Mavis sported a **black bear** Mask.
-	- Across the ballroom was **Lady Mae Preacher's Posse**. A large group of women from which 3 individuals stuck out.
+		- **Lord Bennet Frence**, the pest from [[The Bladehammer Guild]]. He had chosen a **red weasel** mask.
+		- And **Lord Mavis Morp**. A  [[Zessgorn]] noble who seemed to be under Curtis in the social hierarchy. Mavis sported a **black bear** Mask.
+	- Across the ballroom was **Lady Mae Preacher's Posse**. A large group of women from which 3 individuals stuck out. All [[Tenzentak]] nobility.
 		- **Lady Mae Preacher** herself, wearing a **pink butterfly** mask. The current suitor of Curtis Renaull.
 		- **Lady Gale Goa**. A plump dwarf in a **green frog** mask who seemed quite the gossip.
 		- and **Lady Rhea Stoneshard**. A pretty girl in a **brown rabbit** mask who seemed quite smitten with Curtis Renaull.
-	- The ladies were gossiping loudly about an outlier amongst the attendees. **Lady Kalimae Sky.**
+	- The ladies were gossiping loudly about an outlier amongst the attendees. **Lady Kalimae Sky** of [[Holocene]].
 		- **Lady Kalimae Sky** wore a **black cat** mask, dissimilar in its make to Rozwald's. By your best guess, Curtis had at some point had a negative romantic encounter with her, and he was still sore. Lord Mavis Morp, the black bear, had tried to make a move. He was met with little success.
 	- Then there were **The Corsair Twins**, two Bladehammer Guild members, likely of some renown in attendance. They don't seem very fond of anyone who can't hold a proper sword.
 		- **Bax Corsair**, the brother. He wore a **yellow hawk** mask
 		- and **Adja Corsair**, his elder sister. She sports a **white badger** mask.
 	- Finally, the gracious and very drunk host **Lord Grant Septurn's Posse**. Grant seemed friendly with all, even those who didn't return the sentiment.
 		- **Lord Grant Septurn** wearing a **grey wolf** mask
-		- and **Rione Elsitor**, the lord's current boy toy and supposed dragon slayer. His legacy advertised by his **red dragon** mask. The poor, humble warrior seemed very out of his element.
+		- and **Rione Elsitor**, the lord's current boy toy and supposed dragon slayer from [[Hanen]]. His legacy advertised by his **red dragon** mask. The poor, humble warrior seemed very out of his element.
 - Encountering these individuals was like walking through a social spiderweb. Their rumors sticking to you. Magnus, charming as ever, managed to gain a sliver of favor with the controversial Kalimae Sky. Telling her he had been sent to harass Curtis Renaull.
 - **Chapter ends on the evening on the 16th of Spring, Annum 4466**

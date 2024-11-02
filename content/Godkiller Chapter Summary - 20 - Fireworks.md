@@ -7,9 +7,9 @@ title: "Godkiller Chapter Summary - 20 - Fireworks"
 - The party told the professor about their suspicions towards The Three Fools, who had been selected to compete in the second ring that day. Old Abby seemed to think that was preposterous, and urged you to stop your meddling and enjoy the festival.
 - Old Abby was questioned about the 1-5 Potentium once again. The party asked him what he knew about the substances acquisition. Against his better judgement, he informed the party that the 1-5 Potentium had been acquired for the purposes of attacking the Ikas Feather. 
 - Apparently the Ikas Feather had been a problem for some time now for the guild for a myriad of reasons:
-	- In the past they killed anyone from the guild that they crossed paths with in The Grand Nothing. However they stopped doing that 6 years ago, instead opting for their strange questions.
-	- They often recruit new members from The Bladehammer Guild. It is not know how they do this with such success.
-	- It was know that they had a presence in the new world. Specifically Tenzentak and The Bladehammer Guild by extension. However, they have recently been spotted as far as Laenwalde conducting assassinations all across the three corners.
+	- In the past they killed anyone from the guild that they crossed paths with in [[The Grand Nothing]]. However they stopped doing that 6 years ago, instead opting for their strange questions.
+	- They often recruit new members from [[The Bladehammer Guild]]. It is not know how they do this with such success.
+	- It was know that they had a presence in the new world. Specifically [[Tenzentak]] and [[The Bladehammer Guild]] by extension. However, they have recently been spotted as far as [[Laenwalde]] conducting assassinations all across the three corners.
 		- Because of this they are seen as a modern threat.
 - Our heroes weren't sure as to why, but during the entire encounter Old Abby seemed to be withholding information. You weren't what precisely.
 - In response, our heroes asked for some time with the recovered warforged without Abby present. He hesitantly obliged, but definitely wasn't pleased. The party wasn't able to parse anything new from the body but were able to discover it more from the drawing.
@@ -23,5 +23,5 @@ title: "Godkiller Chapter Summary - 20 - Fireworks"
 - A poorly executed escape was made in which Rozwald prompted Magnus to set off "Big Bertha", a massive bundle of fireworks, directly into the faces of the incoming guards. The celebratory explosives filled The Three Fools apartment with light, color, and scorch marks. Luckily you didn't start a fire, but were identified by the guards.
 - The party wasn't sure what to make of the situation. It seemed that poor Laizen was unaware of his friends secret lives. Eddoch likely a member of The Ikas feather, and Tardich of some unknown alliance. It was speculated that the cowboy may be one of the many people hired nefariously by Grand Master Colin Coinge.
 - As a sort of alibi, the party made a beeline for the second ring. Hoping to claim that they'd been at the event all morning.
-- Our heroes then spent the day watching as fighters of great skill battled. The Three Fools fought all the way to the finals. The penultimate match was neck and neck, only won by Laizen who accomplished a remarkable feat of skill. It was as if a door opened within him, Laizen managing to pull off a Vizir Burn.
+- Our heroes then spent the day watching as fighters of great skill battled. The Three Fools fought all the way to the finals. The penultimate match was neck and neck, only won by Laizen who accomplished a remarkable feat of skill. It was as if a door opened within him, Laizen managing to pull off a [[Vizir]] Burn.
 - **Chapter ends just before sunset on the 19th of Spring, Annum 4466**

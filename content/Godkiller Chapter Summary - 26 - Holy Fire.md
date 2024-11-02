@@ -1,0 +1,28 @@
+---
+title: "Godkiller Chapter Summary - 26 - Holy Fire"
+---
+- **Chapter begins the 21st of Spring, Victory Day, one terrifying fall's worth of minutes after Eighteenth Bell, Annum 4466**
+- Our heroes lay in a groaning heap amongst the temporary Victory Day Teleportation Circle's remains. Each fighting through various stages of unconsciousness.
+	- Deimos, who's last conscious memory was falling to his death, drifted through a dream. A common, reoccurring dream. An echo of a memory in which he fled from a troll whilst trying to escape becoming a Dreadslayer Mutant. But something was wrong. Intangibly so. Deimos discovered a child version of himself next to a nearly unrecognizable, shredded corpse of the pursing troll. He could feel something watching him. Two, distinct entities. And in the chest cavity of the troll was a stone arched wooden door. A terrible presence banged on the other side. As he reached to open it with a trembling hand, he woke.
+	- Magnus swam through the winds. The fall became flying which soon fell to walking along the shores of [[The Storm Horizon]]. Sitting on a stone outcropping, pondering the nature of divinity, was his father. Torin. A warm, tearful reunion was had. Though Torin's thoughts seemed elsewhere. Torin asked of purpose. The purpose of Adrathar's storms, and the purpose of Magnus' journey.
+- Magnus woke to the whining of Bennet Frence in some foreign interior. The inside of Cyrus' nesting doll. The odd scene didn't last long enough for Magnus to investigate and he soon found himself amongst the heap of his exhausted friends.
+- Guild members emerged from blowing clouds of smoke. Worn and apprehensive from the events of the last 12 hours. Guild Master Helg Corsair was even there. He questioned The Street Dogs thoroughly, but only until he spotted Adja Corsair amongst the people our heroes had saved.
+- Too weighed down by exhaustion, injury, and stretched thin by the chaos, the whole group decided to put a pin in the conversation for a later time.
+- Our heroes found rest, where Cyrus' physicality betrayed a slightly abnormal nature. Despite missing a chunk of his torso, Cyrus wasn't dead and didn't bleed.
+- Old Abby found our heroes after a short while and got caught up with the recent events. The group then headed towards The Guild courtyard where guild members were trying to rally for an organized response.
+- Before anyone from The Guild could address the gathered, a presence stole the entirety of Tenzentak's attention. [[The Word of Fire]].
+- Valmore rose into the sky, casting light on the strained city. Heroic and terrible. The unmistakable sensation of a pit opening within each and every onlooker's mind. For all the event's of the day, this one carried a unique weight.
+- The burning god made his dissatisfaction with the city known. Valmore condemned the city's distance from the trinity, and raised a burning symbol of three flaming, interlocked rings into the sky. The fixture of the trinity made from Belzan Tower's rubble.
+- Valmore left the symbol in the sky as a reminder to the people of Tenzentak, and left as Ashian priests, known as conflagrators, emerged from the crowd and began preaching their foreign religion to the masses.
+- The city was thrown into further chaos by the event. However, The Street Dogs had done their part and needed rest. They made for The Lumberjack. A task made easier when they ran into Leonard Bebother, the farmer who had originally showed them how to get to Fox's Hollow, let them hop into his cart. Sleep found our heroes immediately back at their abandoned tavern.
+- The next morning was spent recuperating, relaxing, and reflecting on the previous days events. The Street Dogs made for the nearby lake to wash all the ash and blood from their bodies. At the lake, two major things occurred.
+	- Sherman somehow used magic in a way he'd been previously unable to. As if his body had adapted to his circumstances.
+	- Deimos, for once, found a moment of peace in the waters. It was a passing thing, but the first time in a while he did not feel the fear of the world.
+- Now clean, The Street Dogs decided they'd spend the next while restoring their new tavern. The set off to Fox's Hollow to buy some supplies.
+	- On the way there two farmers watched them from a distant hill. These would later be identified as Ansen and Goose.
+	- The general store was run by a small minded, but not unkind dwarven man named Beeda. Beeda informed our heroes of troubles with broken bridges, gnolls, and trolls in the woods near town.
+	- John Smith, the local dwarven blacksmith whose name was not his true one, was more open minded than Beeda's. John sold them tools and reassured them about the town.
+- Back at the Lumberjack, a knock on the door signaled the arrival of the town's lawmen. Warden Marg and Deputy Keeper. Warden Marg seemed a stern but fair woman who didn't want anything to do with squatters. Though upon seeing their deed, sent her anxious deputy for a man named Heron.
+- Heron, funnily enough, already had met the party. He was the scribe from Burgand Law. Heron gave what assurances he could about the document's legitimacy to the warden. Warden Marg told our heroes they could stay.
+- So long as the promised nothing bad would come of this...
+- **Chapter ends the 22nd of Spring, Midday, Annum 4466**

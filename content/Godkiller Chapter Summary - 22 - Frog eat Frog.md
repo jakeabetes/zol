@@ -5,15 +5,15 @@ title: "Godkiller Chapter Summary - 22 - Frog eat Frog"
 - Our heroes had discovered something sinister within the bowels of The Guild Dungeons; Master Willem Bellard's murder.
 - Before they could act on the information, assassins attacked. They focused Rozwald in a secret attempt to provoke Sherman to pick him up and flee. All so the real assassin, a warforged named Blood bearing an odd resemblance to Sherman save for his snake-like head, could pursue. It was speculated that this warforged may be somehow related to Sherman's creator. A Monsieur Logician.
 - These assassins were not only sent to kill, but to torture information out of Rozwald. It seemed that whatever was truly going on behind the fog of warforged rebellion, Bladehammer discord, and 1-5 Potentium wasn't an even brush stroke. Lord Rozwald may be involved, but if he is he doesn't have all the information. 
-- Our heroes managed to escape Blood's purist and reconvene at The Lumberjack where they combed over their evidence.
+- Our heroes managed to escape Blood's pursuit and reconvene at The Lumberjack where they combed over their evidence.
 	- Master Colin Coinge had devised some unique method of incorporating ferrofluid into the bodies of warforged. This was central to his "failsafe precaution".
 	- The individual who had threatened Lord Rozwald, signing his name with a "G" was speculated to be Gideon Gain.
 - Later in the evening, a few other things occurred at The Lumberjack
 	- Magnus flew Viz on his kite, but discovered that distance from his dragon made him lethargic. Sickly.
 	- Jaxon Door and Soren Slider were spotted searching for near The Lumberjack. Likely *also* hoping to assassinate you. Though this time it may have been on Colin Coinge's Behalf. Fortunately some odd magical property of The Lumberjack kept them confused, and unable to find you.
-- The next morning our heroes decided to break into Bellard's office. Employing a clumsy rat to help open the window. Inside, they found evidence of Bellard also seeking to solve the missing 1-5 Potentium case. His investigation reached the same place our heroes' did: a cannery.
+- The next morning our heroes decided to break into Bellard's office. Magically employing a clumsy rat to help open the window. Inside, they found evidence of Bellard also seeking to solve the missing 1-5 Potentium case. His investigation reached the same place our heroes' did: a cannery.
 	- Specific pieces of evidence found were pieces of burned paper containing the words: Coinge, Cannery, Rozwald, Rejection, and Yaddio
-	- A victory day communication containing a teleportation circle diagram on it was also discovered.
+	- A victory day communication containing a [[Teleportation Circle]] diagram on it was also discovered.
 - Deciding to look into the name Yaddio more, our heroes ventured towards the guild where they had an awkward, but not hostile encounter with The Three Fools.
 - Eventually our group made their way to Abby's office. Still skeptical towards his intentions, but trusting of the old professor's earnest nature.
 - They told Abby everything about what had happened to them, save for their breaking and entering of the Three Fools Apartment.

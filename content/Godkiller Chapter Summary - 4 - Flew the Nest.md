@@ -7,12 +7,12 @@ title: "Godkiller Chapter Summary - 4 - Flew the Nest"
 	- …which lead them to being chased by it
 	- Luckily the chaos gave time for Deimos to make a perfect shot with the Drift Spiker to the world below
 	- One by one the party descended as Magnus and Sherman did their best to endure the Baby Rok's terror
-	- Magnus went for a strike on hit, and accidentally ignited a fuel tank amongst the old skimmers littered around the nest
+	- Magnus went for a strike on hit, and accidentally ignited a fuel tank amongst the old [[Skimmers]] littered around the nest
 	- A chorus of explosions and spreading fire summoned the Mama Rok back to her nest
-	- Magnus used his magic to embolden Sherman, allowing him to shake of his fear of heights
+	- Magnus used his magic to embolden Sherman, allowing him to shake off his fear of heights
 	- Unfortunately, it was poorly timed as the explosions and chaos had caused the drifting island to move. The zipline so carefully placed by Deimos was hyper-extended and forced to detach.
 	- Sherman, with his sudden courage had jumped out of the nest, but caught himself in the air
-	- Magnus, ever fearless, went for a last ditch effort. Climbing into one of the discared skimmers he forced it out of the nest into a free fall. Grabbing Sherman, and praying to Adrathar the skimmer could eat their momentum.
+	- Magnus, ever fearless, went for a last ditch effort. Climbing into one of the discarded skimmers he forced it out of the nest into a free fall. Grabbing Sherman, and praying to [[Adrathar]] the skimmer could eat their momentum.
 - Magnus' instincts paid off, and the plummet only resulted in some terrible bruising and maybe a cracked rib. 
 - Despite the chaos, you were successful in your journey, and recovered the Warforged
 	- Within its clutch, a strange and enticing drawing of a broken sword
