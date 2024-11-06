@@ -28,3 +28,4 @@ title: "Godkiller - Weavings"
 - [[Weaving - Scriptures of Nothing - 1]]
 - [[Weaving - Scriptures of Nothing - 2]]
 - [[Weaving - Ahamatath]]
+- [[Weaving - Slaughter with Extra Steps]]
