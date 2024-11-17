@@ -1,0 +1,20 @@
+---
+title: "Godkiller Chapter Summary - 28 - Salvage"
+---
+- **Chapter begins the 23rd of Spring, Late Morning, Annum 4466**
+- Our heroes had attended [[The Bladehammer Guild]] address and a private meeting with Guild Master Corsair. [[Tenzentak]] was dusting itself off from the Victory Day attack, but the path that lay ahead was not an easy one.
+- Moving on to brighter things, the party realized that a functioning tavern required patrons, and the people of Fox's hollow were apprehensive to say the least.
+- A plan was hatched to gain the townspeople's trust
+	- Any chance they had to make friends, or show generosity would be pursued
+	- They'd host a cookout on the 28th of Spring
+	- And The Street Dogs would see to the towns longstanding troll problem
+- While Mal and Sherman sought Abby's help in procuring protective magic to use against the troll, the others returned to Fox's Hollow where they met Ansen, the Shephard. 
+- Further into the sleepy town they met Alice, the Butcher's Daughter. While a bit prickly, the young woman sold them the pig they'd use for their cookout to be picked up in four day's time.
+- Then there was Monolater Carla. Head of the local Zolaen Chapel of Giriam. The woman, who was young for her station, had been the town's most recent newcomer along with her brother. The priestess was glad for the fresh company. What the monolater lacked in seniority she made up for in wisdom. A more than necessary tool for someone in her position. The Divine Aspect of her chapel, Giriam, was dead.
+- After the afternoon's errands were completed, our heroes wasted no time in hunting down the troll. A task made much easier by The Lumberjack's resident monster hunter, Deimos.
+- The troll had claimed the sole bridge along the most efficient route to the city as its territory. Successfully residing so close to a town, meant it was old, smart and dangerous. This would not be a simple task.
+- Investigation found that it had laid traps all throughout the woods. And closer to the bridge itself, a pungent, reeking odor stung the air. Seeming to corrupt the forest itself.
+- This was a rot troll. An ordinary troll afflicted by a fatal disease that made it extremely dangerous.
+- Our heroes hunted it, relying on fire, acid, and the element of surprise. They managed to sneak up to its lair, but it had caught on to the fact something was nearby, and climbed to a defensible position.
+- As the evening light began to wain, our heroes found themselves in a tense standoff with a dangerous, rotting monstrosity.
+- **Chapter begins the 23rd of Spring, Twilight, Annum 4466**
