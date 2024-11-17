@@ -8,7 +8,7 @@ title: "Godkiller Chapter Summary - 28 - Salvage"
 	- Any chance they had to make friends, or show generosity would be pursued
 	- They'd host a cookout on the 28th of Spring
 	- And The Street Dogs would see to the towns longstanding troll problem
-- While Mal and Sherman sought Abby's help in procuring protective magic to use against the troll, the others returned to Fox's Hollow where they met Ansen, the Shephard. 
+- While Mal and Sherman sought Abby's help in procuring protective magic to use against the troll, the others returned to Fox's Hollow where they met Ansen, the Shephard. Ansen spoke a bit about the past owners of The Lumberjack, Therin and Fejn. He hadn't been alive in their time, but knew some things. Therin was a kind old painter, and his husband Fejn was a troubled soul who killed himself after Therin's ailment took him.
 - Further into the sleepy town they met Alice, the Butcher's Daughter. While a bit prickly, the young woman sold them the pig they'd use for their cookout to be picked up in four day's time.
 - Then there was Monolater Carla. Head of the local Zolaen Chapel of Giriam. The woman, who was young for her station, had been the town's most recent newcomer along with her brother. The priestess was glad for the fresh company. What the monolater lacked in seniority she made up for in wisdom. A more than necessary tool for someone in her position. The Divine Aspect of her chapel, Giriam, was dead.
 - After the afternoon's errands were completed, our heroes wasted no time in hunting down the troll. A task made much easier by The Lumberjack's resident monster hunter, Deimos.
