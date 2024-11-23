@@ -5,6 +5,7 @@ The Chapter Summaries are recaps of major events that occurred in each chapter o
 ## Summaries
 - Book One - Elsewhere
 	- Part Two - The Shape of a Dragon
+		- [[Godkiller Chapter Summary - 29 - The Troll Toll]]
 		- [[Godkiller Chapter Summary - 28 - Salvage]]
 		- [[Godkiller Chapter Summary - 27 - Bar Rescue]]
 		- [[Godkiller Chapter Summary - 26 - Holy Fire]]
