@@ -5,6 +5,7 @@ The Chapter Summaries are recaps of major events that occurred in each chapter o
 ## Summaries
 - Book One - Elsewhere
 	- Part Two - The Shape of a Dragon
+		- [[Godkiller Chapter Summary - 31 - The Hum of Some Great Machine]]
 		- [[Godkiller Chapter Summary - 30 - Curious Passerbys]]
 		- [[Godkiller Chapter Summary - 29 - The Troll Toll]]
 		- [[Godkiller Chapter Summary - 28 - Salvage]]

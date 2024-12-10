@@ -1,0 +1,38 @@
+---
+title: "Godkiller Chapter Summary - 31 - The Hum of Some Great Machine"
+---
+- **Chapter begins on the 24th of Spring, Late Evening, Annum 4466**
+- Our heroes had managed to secure a meeting with the Warforged Assassin, Blood. Employed by Lord Rozwald and built by Sherman's creator, Master Logician Yaddio.
+- The meeting began tensely, and hazardously slid in a direction no one expected when Sherman teleported Blood and himself into another dimension. A mechanical echo of [[The Prime]].
+- Inside, Sherman tapped into Blood's memories by way of this new, mysterious power. Not only giving insight to Blood's malicious nature, but the natal life of a warforged.
+- Sherman, still new to this magic, found that interacting with The Prime pulled him back towards it, shunting him into the material world once more. The shock of it all caused both parties to flee. Blood may be a killer, but what had happened truly disturbed him.
+- Back at The Lumberjack, Sherman acknowledged his painful past. Both to the group and himself. Sherman had been a servant of Heliodor, serving a young ward named Lord Holden Herschel. A ward who had pushed him from the flying city. 
+- This event had sent him down a decades long journey. One that had resulted in him accepting a dangerous mission and venturing to the far east. This sparked a revelation within that urged him to abandon the mission that had originally led him to Tenzentak.
+- Sherman ventured out to the lake on his own, and disposed of his connection to this mission. A span read that connected him to mysterious and dangerous warforged rebels. At least that's what he perceived the mundane, non-magical object to be...
+- Back inside, the group discussed The Door once more. Speculating that it may be able to take its user anywhere, Magnus posed a question. If you could go anywhere in The Three Corners, where would you choose?
+	- Sherman, who's thoughts were already on his past, chose [[Heliodor]] with determination, but later amended his answer to [[Woogis]]. More fondly the second time.
+	- Magnus gave his answer too. A return to [[The Ward]], surprising no one.
+	- Mal found himself unsure, but didn't discount the idea of being able to make a quick exit anywhere.
+	- Cyrus nostalgically answered [[Gethsemane]] 
+	- and Deimos surprised the lot. He was exiled from the only place he'd want to go. When pressed, Deimos remained tight-lipped in the same way he always did when asked of his mysterious power.
+	- Rozwald, however, didn't give an answer. The entire evening he seemed quiet and contemplative.
+- Later on, the ever-curious Cyrus decided to investigate The Door without notifying the group. On the other side he was met with a wall of tightly knit rope. Razmodius, The Rope Wizard, was keeping The Lumberjack closed off on Morza's instruction. While his barrier was surprisingly effective, his tongue was not so guarded. After a little prodding and a few boiled potatoes, Raz answered some questions about The Door.
+	- This door is not the only of its kind. Apparently it is a nexus of great magnitude, inhabited by more than The Street Dogs, and the Sheh'sheraan. It was spoken of like a secret world. As an entity, they call this nexus of interconnected places "**Elsewhere**".
+	- Raz's people also seemed to believe that there may be other nexus' of doors than Elsewhere.
+	- When asked who Raz's allies were, the strange geezer panicked, dropped a quick goodnight, and closed The Door.
+- Sleep came shortly after, along with another Dream. Mal found himself standing in a crater, much like that of the first shared dream. Knelt in the center was the half broken body of the warforged recovered from [[The Grand Nothing]]. It spoke a single phrase.
+	- "No peace until heaven burns."
+- A keyhole in the Automaton's face opened the dream up to a new location. The Lumberjack. However, it was not as Mal knew it. Inhabited and well maintained. Amongst the dining areas tables was the rest of the party, save for Rozwald. This dream was being shared like the ones before.
+- Realizing the implication, our heroes split into two groups and began investigating what was presumably a past version of The Lumberjack. Vacant save for the party.
+	- The Door was blocked by a bookshelf. Beyond it laid a vast and pitch dark void. The sole entity within was an individual that fled into the nothingness when our heroes spotted them. The mysterious figure had been investigating a moderately sized hole in the shape of a dragon.
+	- In the tower's studio it was discovered that The Street Dogs were in fact not alone. An individual sat painting. Handsome, young and obviously bound by some ailment. He introduced himself as Therin.
+	- He seemed elsewhere in his mind, but a bond soon formed as he made you "breakfast". He informed you that his husband, Fejn was the better cook but was away on an errand in the city.
+	- Therin's paintings were lower in number than you expected. Incomplete compared the collection you were familiar. They depicted solely local landscapes, lacking the world beyond Tenzentak.
+	- In an attempt to divine as much as possible from the dream, our heroes asked Therin about Fejn's brother. This proved to be a mistake. As soon as the topic was broached, the dream began to collapse.
+- Our heroes awoke to find their fingers coated in dried paint, and Rozwald missing.
+- The Street Dog's artificer friend had made a quiet, melancholy, yet determined departure in the night. A farewell letter explained how he sought answers regarding his father, and urged our heroes not to follow him as he would one day return to their shoddy tavern. He left behind the group's bag of holding, and a small apparatum spider for Sherman that could produce wool.
+- After a morning of sorrow for their friend's absence, Mal began to wonder where the paint had come from, and tried to match it with something within The Lumberjack. In the studio he found a grim sight.
+- The very same painting Therin had been working on in the dream had been defaced by The Street Dog's very own hands. Words repeated over and over.
+	- "No peace until heaven burns."
+- ***Something*** was going on here. Despite appearances and chalking up things to intersection or coincidence, The Street Dogs were being pulled further and further in by some secret. Precisely *what* that secret was being the burning question.
+- There was something to uncover here. Something possibly related to the Ahamatath— the killing of a god. A field of stones unturned. The Street Dogs needed answers, and there was no better person for that job than Professor Abacus Oleander...
