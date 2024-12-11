@@ -36,3 +36,4 @@ title: "Godkiller Chapter Summary - 31 - The Hum of Some Great Machine"
 	- "No peace until heaven burns."
 - ***Something*** was going on here. Despite appearances and chalking up things to intersection or coincidence, The Street Dogs were being pulled further and further in by some secret. Precisely *what* that secret was being the burning question.
 - There was something to uncover here. Something possibly related to the Ahamatath— the killing of a god. A field of stones unturned. The Street Dogs needed answers, and there was no better person for that job than Professor Abacus Oleander...
+- **Chapter ends on the 25th of Spring, Mid Morning, Annum 4466**
