@@ -1,0 +1,14 @@
+---
+title: "Godkiller Chapter Summary - 32 - Answering the Call"
+---
+ - **Chapter begins on the 25th of Spring, Mid Morning, Annum 4466**
+ - Our heroes were growing acquainted to the peace of the outer villages, and chose to invest the better part of their day into repairs for The Lumberjack. Repairing the Roof and tidying the Yard. Sherman's sheep-like maw being employed in a way that was arguably useful.
+ - During the roof repair, a curious passer-by visited the ruined tavern. Jed Dent, the simple brother of the local priestess.
+ - Jed proved to be one of the friendlier locals. Possibly too friendly. Jed stuck around and lent a hand to The Lumberjack's restoration. Leaving later on with the promise of more aid in the future should The Street Dogs have him.
+ - Mallory finally told Magnus that the talisman Ul'Brek had given him was a mundane hunk of burnt wood from the shaman's fireplace. While frustrating, the revelation didn't much surprise the goliath.
+ - Magnus shared his story with Mallory. The discovery of Viz, raising him, and the binding of their souls.
+ - Soon, our heroes headed to the city proper for some shopping, and to investigate the messages received after winning The First Ring.
+ - Magnus and Deimos met with Mandreg Rold, the Guild Mind leader of The Gilded Heart Mercenaries. A group of whose reputation was that self interested, yet effective warriors. Guild Mind Rold proved to embody this idea quite well.
+ - Rold was in the process of putting together a large campaign in the Tenzenwood. A competitive dragon hunt in search of small dragons with odd physical descriptions.
+ - Cyrus and Mal had a much different evening. They'd been sent on a mysterious and trying scavenger hunt that had led them to jester named Marcelle, a tricky dice game, and an ugly pawn shop. In it, they received a specimen jar with a creature that had been surgically granted a second heart. The Bladehammer Guild's Second Heart, a legion of crafty spies, were trying to recruit them.
+ - **Chapter ends on the 25th of Spring, evening, Annum 4466**
