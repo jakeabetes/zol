@@ -32,3 +32,4 @@ title: "Godkiller - Weavings"
 - [[Weaving - Slaughter with Extra Steps]]
 - [[Weaving - End Times]]
 - [[Weaving - The Antisequence - 3]]
+- [[Weaving - OId Friend]]

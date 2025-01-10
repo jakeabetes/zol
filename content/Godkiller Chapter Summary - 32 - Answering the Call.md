@@ -9,6 +9,6 @@ title: "Godkiller Chapter Summary - 32 - Answering the Call"
  - Magnus shared his story with Mallory. The discovery of Viz, raising him, and the binding of their souls.
  - Soon, our heroes headed to the city proper for some shopping, and to investigate the messages received after winning The First Ring.
  - Magnus and Deimos met with Mandreg Rold, the Guild Mind leader of The Gilded Heart Mercenaries. A group of whose reputation was that self interested, yet effective warriors. Guild Mind Rold proved to embody this idea quite well.
- - Rold was in the process of putting together a large campaign in the Tenzenwood. A competitive dragon hunt in search of small dragons with odd physical descriptions.
- - Cyrus and Mal had a much different evening. They'd been sent on a mysterious and trying scavenger hunt that had led them to jester named Marcelle, a tricky dice game, and an ugly pawn shop. In it, they received a specimen jar with a creature that had been surgically granted a second heart. The Bladehammer Guild's Second Heart, a legion of crafty spies, were trying to recruit them.
+ - Rold was in the process of putting together a large campaign in the Tenzenwood. A competitive dragon hunt in search of small [[Dragons]] with odd physical descriptions.
+ - Cyrus and Mal had a much different evening. They'd been sent on a mysterious and trying scavenger hunt that had led them to jester named Marcelle, a tricky dice game, and an ugly pawn shop. In it, they received a specimen jar with a creature that had been surgically granted a second heart. [[The Bladehammer Guild]]'s Second Heart, a legion of crafty spies, were trying to recruit them.
  - **Chapter ends on the 25th of Spring, evening, Annum 4466**
