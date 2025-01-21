@@ -1,0 +1,27 @@
+---
+title: "Godkiller Chapter Summary - 34 - Path's Ahead"
+---
+- **Chapter begins on the 40th of Spring, Early Evening, Annum 4466**
+- Our heroes had been tasked with escorting Lord Curtis Renaull back to Holocene via the old, perilous roadways through [[The Dangers of the Wilderness]]. A job given by none other than The Guild Master himself in punishment for shooting a noble lord. This would clear their debt and pay a meager 250 gold. A journey that began the very next morning.
+- This put a unique hold on Sherman's discovery of The Hatch. However it did not stop the group's curious arcanists from peeking within.
+- The Hatch led into an eerie, overwhelming ruin of some great structure. Like the dungeons of a gothic manor house that had been transformed into a monster's nest. Terror poured from the hatch, giving Deimos a hint as to what lay beyond Mal's arcane vision.
+- Putting a pin on The Hatch for now, our heroes readied for their adventure with a late night supply run.
+- Once the group had gone to rest, Magnus was met with another dream. This time he was alone with Therin.
+- The Dream Lumberjack was certainly from another time, but that wasn't where the weirdness stopped. Outside, The Free Cities in their entirety had been replaced by a vast desert of purple sand.
+- Therin seemed different as well. Less reserved than before. He spoke with more candor about Fejn, and his knowledge of word bearers. However, Therin gave Magnus a slight warning. Telling the storm blessed that he and Magnus wanted different things when it came to Fejn.
+- Therin asked Magnus what he wanted from his questions and efforts. Ultimately Magnus wanted peace. This seemed to amuse Therin. Therin urged him to go see what achieving peace involved.
+- The Door opened within The Lumberjack's basement. Magnus approached it to find a vast shape within. An enormous copper dragon. The creature was bound by wicked chains and spikes. Its skin strewn with viscerally carved runes. The great beast begged for death. A once glorious being reduced to pain and rot. Its flesh decayed rapidly but its screams only worsened. Magnus obliged it, waking upon the moment his hammer struck.
+- In the morning our heroes met with their new travelling party
+	- Lord Renaull, who bore a new appearance. He'd lost his arms but he'd gained a new seriousness. Likely contempt. Lord Renaull was less than pleased that The Street Dogs were his new bodyguards.
+	- Curtis' attendant, or rather his minder, was a mage named Markenneth. An arcanist of The Ward in the employ of Lord Lionel VanVeld. Markenneth seemed to have established authority over this travelling party.
+	- Lastly was Captain Murdoch. An unfriendly sell sword who'd been hired by Markenneth for their venture. He'd brought along four other men in his employ.
+- The group set out awkwardly, and no one seemed keen on socializing beyond their immediate allies. The lot ended their first night at a tavern where Mal sought information about their new travelling party using Slug, and some cognitive exploration.
+	- Captain Murdoch seemed concerned about their venture, and was contending with traitorous thoughts of selling Lord Renaull if it would save his skin.
+	- Reading Markenneth seemed unwise, but though his window the use of a particular spell was spotted. Parse, one of the skills needed for the translation of the journal.
+	- Lastly Mal read Curtis who he'd found crying. The young lord had been overwhelmed by the last week. He'd been attacked, humiliated, manipulated, used, shot, blown up, dismembered, and now he'd lost both of his parents. All to be travelling back to Holocene on foot in the company of those who outwardly disliked him. Curtis didn't seem to disagree with their feelings towards him. Though at his core, a dream of the future pushed the troubled lord forward.
+	- The second day passed with little challenge, but on the third day their journey was beginning to weigh a bit. Noises in the woods, saddle sores, and dislikable company had rubbed away everyone's outer layer and people were beginning to get annoyed with each other. Curtis and Markenneth most of all were at each other's throats.
+	- Mal, seeing the opportunity, jumped to befriend the possibly useful, yet arrogant mage. Managing to secure himself at least some "engaging conversation" with Markenneth at camp later.
+	- Curtis, surprisingly sought out Sherman. He tentatively asked the automaton questions about what it was like to be a free warforged and even went as far as to apologize for his unkindness towards Sherman, and his involuntary part in the victory day attack.
+- At the day's end safe camp was being sought out before the group crossed into The Brambles. A dangerous section of The Alderian Planes. Unfortunately shady, and aggressive travellers using the same roads made this a less than amiable endeavor.
+- Before a proper camp could be found. But something else was discovered. Palce, The Highwayman.
+- **Chapter ends in the late evening on the 43rd of Spring, Annum 4466**
