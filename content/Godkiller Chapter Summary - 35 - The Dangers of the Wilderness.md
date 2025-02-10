@@ -1,0 +1,18 @@
+---
+title: "Godkiller Chapter Summary - 35 - The Dangers of the Wilderness"
+---
+- **Chapter begins in the late evening on the 43rd of Spring, Annum 4466**
+- Our heroes had encountered Palce, the highway man. An arcane bandit leading a rag tag battalion of scoundrels. All seeking Lord Renaull's kidnap.
+- The ambush bloomed into a violent battle, exposing traps, hidden assailants, and no shortage of attackers.
+- Palce himself fought similarly to Cyrus, employing magical tricks and clever circumventions of attacks.
+- There was also a second named attacker. Silk, a skilled archer. The woman remained distant during the fight, shouting commands down at her grunts.
+- There were losses on both sides. The bandits sacrificed a good number of men, but The Street Dogs only lost two of their horses. Those belonging to Cyrus and Curtis. Equally troubling, much of the groups supplies were lost as well. The missing horses took theirs with them and Magnus' steed had kicked off its pack during a horse theft attempt by Palce.
+- The fight was loud and chaotic, drawing the attention of something sinister. A monster of the woods known as a Slaad. An intelligent, powerful, and obsessive creature belonging to the category of [[Demons]]. The Slaad proved capable of devious magic and swallowing bandits whole.
+- All hell broke loose, and the party made a run for it. Tearing across the Alderian planes, weaving between brambles and hills.
+- A tail of determined attackers nearly caught up, but a wild heard of buffalo and one of Deimos' smoke arrows made for a convenient getaway. Unfortunately, Magnus and Markenneth were separated from the rest of the party.
+- At camp, Lord Renaull had a full blown panic attack. He'd envisioned a difficult journey back to [[Holocene]], but nothing more than a tale that would make him seem rugged and brave. Kidnappers numbering in the tens and creatures from the Void was not on what he'd hoped for.
+- After a calming effort from the party, Curtis realized that The Street Dogs were the only people truly on his side.
+- The floodgates opened. Apologies, admissions of dreams, insecurity about his betrothal, and all his regrets came loose. The hot air in Curtis head leaving in a rush and for the first time the pompous noble seemed like a genuine person. A far cry from likeable, but it was a start.
+- The group made contact with Magnus via bells. Ensuring everyone had found some form of refuge, the party bedded down for the night. Only to be soon woken by the triggering of Mal's arcane alarms.
+- Silk the bandit had come to make a deal.
+- **Chapter begins in the extremely early morning of the 44th of Spring, Annum 4466**
