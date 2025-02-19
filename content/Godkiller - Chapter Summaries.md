@@ -5,6 +5,7 @@ The Chapter Summaries are recaps of major events that occurred in each chapter o
 ## Summaries
 - Book One - Elsewhere
 	- Part Two - The Shape of a Dragon
+		- [[Godkiller Chapter Summary - 36 - Off the Beaten Path]]
 		- [[Godkiller Chapter Summary - 35 - The Dangers of the Wilderness]]
 		- [[Godkiller Chapter Summary - 34 - Path's Ahead]]
 		- [[Godkiller Chapter Summary - 33 - Second Heart]]

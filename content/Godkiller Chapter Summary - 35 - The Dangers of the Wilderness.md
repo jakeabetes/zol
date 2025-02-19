@@ -15,4 +15,4 @@ title: "Godkiller Chapter Summary - 35 - The Dangers of the Wilderness"
 - The floodgates opened. Apologies, admissions of dreams, insecurity about his betrothal, and all his regrets came loose. The hot air in Curtis head leaving in a rush and for the first time the pompous noble seemed like a genuine person. A far cry from likeable, but it was a start.
 - The group made contact with Magnus via bells. Ensuring everyone had found some form of refuge, the party bedded down for the night. Only to be soon woken by the triggering of Mal's arcane alarms.
 - Silk the bandit had come to make a deal.
-- **Chapter begins in the extremely early morning of the 44th of Spring, Annum 4466**
+- **Chapter ends in the extremely early morning of the 44th of Spring, Annum 4466**
