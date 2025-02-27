@@ -1,0 +1,24 @@
+---
+title: "Godkiller Chapter Summary - 37 - Doomed to Die"
+---
+- **Chapter begins on the night of the 44th of Spring, Annum 4466**
+- Our heroes were at camp, well into their difficult journey from [[Tenzentak]] to [[Holocene]]. It seemed their cargo, poor Lord Curtis Renaull, was doomed to die by [[The Trinity]]. Whether or not he deserved it. However, that wouldn't stop The Street Dogs from trying to keep the young noble safe.
+- Across the camp, the Mage Markenneth was recovering from a grievous wound from Blood, the assassin Warforged.
+- During the man's feverish sleep, our heroes decided to delve into his mysterious belongings where they discovered a journal detailing Markenneth's research into a category of ancient weapons called Dragonbanes. Relics of great power.
+- He seemed to think there was one in [[Holocene]], and his defense of Curtis was solely to keep it from Lord VanVeld's grasp.
+- In the morning, the group spotted tracks from a goblin scouting party, and made for The Longstream.
+- A makeshift raft was used to circumvent an ambush on the bridge. However, this didn't stop Palce's bandits from launching a ranged attack against you. Magnus' might and a well timed Slaad attack helped you cross with only Curtis getting dipped once or twice.
+- On the other side, the journey through Cliffover was no simpler. A lack of safe camp and evidence of nearby attackers keeping everyone on edge.
+- Eventually the party began to notice statues in the woods. Carved in strange poses. It wasn't till that night when Curtis was kidnapped by [[Goblins]] did the party figure out why.
+- Pursing the attackers back to their camp, they found their medusa queen. A powerful creature who seemed to enjoy taking trophies of handsome, young travellers.
+- Wasting no time The Street Dogs swung into action.
+- Deimos and Cyrus snuck up close, gathering intel on the situation. Lord Renaull had been seated on a stage while the medusa bore down upon him.
+- Magnus, leveraging his strong suits. Began running and yelling. Smashing through tents and huts, throwing the entire camp into chaos.
+- Magnus suffered not only a volley of arrows, but a gaze from the Medusa itself. His powers barely saving him from the effect.
+- Deimos, thinking quickly, fired a smoke arrow. Temporarily preventing the Medusa from using her power.
+- Cyrus, knowing his cue when he sees it, snuck up on to stage to grab Curtis and run.
+- Mal, Sherman, and a befuddled Markenneth finally caught up to Deimos' position. The Dreadslayer quickly filled his companions in on the Medusa's weaknesses.
+- Mal, thinking quickly, formed a mirror of ice and passed it to Sherman.
+- The warforged then fearlessly charged the fading cloud of smoke, mirror out.
+- The Medusa petrified. Instantly.
+- **Chapter begins on the very early morning of the 47th of Spring, Annum 4466**
