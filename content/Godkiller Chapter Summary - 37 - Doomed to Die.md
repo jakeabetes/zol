@@ -21,4 +21,4 @@ title: "Godkiller Chapter Summary - 37 - Doomed to Die"
 - Mal, thinking quickly, formed a mirror of ice and passed it to Sherman.
 - The warforged then fearlessly charged the fading cloud of smoke, mirror out.
 - The Medusa petrified. Instantly.
-- **Chapter begins on the very early morning of the 48th of Spring, Annum 4466**
+- **Chapter ends on the very early morning of the 48th of Spring, Annum 4466**

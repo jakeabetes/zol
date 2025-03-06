@@ -5,6 +5,7 @@ The Chapter Summaries are recaps of major events that occurred in each chapter o
 ## Summaries
 - Book One - Elsewhere
 	- Part Two - The Shape of a Dragon
+		- [[Godkiller Chapter Summary - 38 - Fear of The Dark]]
 		- [[Godkiller Chapter Summary - 37 - Doomed to Die]]
 		- [[Godkiller Chapter Summary - 36 - Off the Beaten Path]]
 		- [[Godkiller Chapter Summary - 35 - The Dangers of the Wilderness]]
