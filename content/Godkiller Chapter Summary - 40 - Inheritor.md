@@ -1,0 +1,36 @@
+---
+title: "Godkiller Chapter Summary - 40 - Inheritor"
+---
+- **Chapter begins on a dreary night on the 50th of Spring, Fae'n, Annum 4466**
+- Rain drenched our heroes as they stood in a clearing, a few miles outside of [[Holocene]]. Lady Kalimae Sky, the presumed Inheritor of Shadow and the recently made corpse of Markenneth their only company.
+- While she'd been a more than effective killer, Lady Skye hadn't been successful in killing Lord Renaull.
+- Concerned for the party's wellbeing, not just out of out of mission but compassion, she begged the group to let Curtis face his inevitable death.
+- Lady Skye seemed to believe in her cause, despite hosting obvious discomfort. She warned, once again, against looking too closely.
+- Magnus asked if Kalimae's people had something to do with the Ikas Feather. A query she did not confirm nor deny.
+- Departing from the intimidating woman, our heroes finally made it to the Gate Town. The Spring, as it was locally known. Finding it in a state of rainy celebration.
+- Flowers and costumed citizens danced drunkenly through its lively streets.
+- One amongst the crowed sized Mal by the shoulder, revealing himself to be a very terrified, but somehow alive Lord Curtis Renaull.
+- Lord Renaull was hastily escorted to the Pale Ward's gate where his custody was finally assumed by Holocene itself. Only after his identity was confirmed by an eclectic Lord Shopswain or "Shopsy" as the common folk knew him as.
+- Shopsy invited the weary party to his tavern, The Wooden Flute, where they found themselves absorbed by the festivity.
+- Familiar faces in the crowd emerged. Palce, and his skilled companion Gorin who'd fought off one of the shadow demons in the brawl they'd just escaped.
+- Palce, despite trying to kill them for a week straight, was now acting as if they were all old friends.
+- Having no lasting reason to fight the slippery man, begrudging drinks were shared. Palce struck a deal with the party for Markenneth's head in which he told them all he knew. It seemed a "silver masked man" had wanted Curtis dead, and The Ikas Feather had wanted him alive. Markenneth's death on the other hand had been sought by his old institution. The College of Hoss.
+- The party went on to engage in games of skill, and chance. None of which proved lucrative. Fortunately, the rest of the party was plenty enjoyable.
+- Lord Renaull, despite having been just brought back, had snuck out to find the party. Claiming that something had felt "wrong" at the palace and how he now wanted to celebrate with his friends.
+- On one of the tavern's upper floors, Sherman met a warforged who gave him a lodestone. Effectively a narcotic for Warforged. In a psychedelic haze, Sherman encountered something. The warforged they'd recovered from The Grand Nothing. However this time he was whole.
+- He seemed to be fighting through some barrier to speak. Desperate to tell Sherman something. He claimed that a certain "He" had shown him the location of the sword, allowing him to draw a map to it. However, now the warforged was desperate for Sherman to find it before whoever this "He" was. Sherman was pulled from the vision before he could learn more.
+- Sherman then went on to try an convince Curtis to escape with them. Leave his dangerous noble life. Unfortunately the young lord remained foolishly headstrong. Determined to do things *his* way.
+- On the highest floor, Mal requested a fable from a storyteller. One about "The Word of Doors". The old man, who apparently knew everything, spun a tale about Fennailial the Word of Doors and Alleramus the Hero of Five Words.
+- A story in which The [[Wordbearers]] of [[Old Zol]] lived in a utopian society, the only secrets unknown to them residing across The Infinite Sea. Alleramus, the foremost human, decided to cross The Infinite Sea to never return. Enlisting the aid of The Word of Doors.
+- Things grew dark when Alleramus inexplicably returned. They'd seemingly discovering something. A secret so terrible it turned the perfect hero Alleramus.
+- Alleramus razed their great cities to ash, inciting a conflict amongst mortals and [[Gods]]. Amounting to an agreement between Alleramus and [[The Watcher]]. An agreement that wiped the known world clean. [[The Undoing]]. 
+- Some believe that only The Word of Doors, beloved by [[The Watcher]], was allowed to survive with those he cherished most.
+- As the hours grew smaller, The Street Dogs were pulled deeper into their drunken celebrations. No one noticed the intoxicated young lord slip away to climb onto the taverns high roof. A place to dance beneath [[The Moons]] glimmering light
+- Whether he was pushed, or simply fell is not known. But when the morning crowds found his body, Gideon Gain was conveniently present. 
+- Gain welcomed The Street Dogs warmly, despite the grim sight. Asking them to accompany him to see The Alderian Seat himself.
+- Gain attested to have nothing to do with Curtis' precise demise, despite his apparent motives.
+- The Pale Ward itself was almost like a different city. Disturbingly clean and accommodating.
+- Gain had walked the party nearly to the palace when a disgruntled man, Vestivius, stole Gideon's attention. The man was furious with the mornings events and obviously blamed Gain.
+- Ushered into the palace ahead, our heroes got lost. Fortunately, a charismatic gardener named "Lee" helped them find their way.
+- Lee, despite his filthy attire, turned out to be the Larkish Lion of [[Holocene]]. Lord Lionel VanVeld himself.
+- **Chapter ends on a midday the 51st of Spring, Fae'n, Annum 4466**
