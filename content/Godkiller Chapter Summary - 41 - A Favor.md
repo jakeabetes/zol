@@ -1,0 +1,28 @@
+---
+title: "Godkiller Chapter Summary - 41 - A Favor"
+---
+- **Chapter begins midday on the 51st of Spring, Annum 4466**
+- Our heroes had finally met Lord Lionel VanVeld. Uncle to Lord Curtis Renaull, [[Alderian Seat]] of [[Holocene]], and richest man in all [[The Three Corners]]
+- Despite the ugly start to the day, our heroes found VanVeld and Gideon Gain, evidentially in the lord's employ, to be more than welcoming.
+- Mal attempted to read VanVeld's mind, but found him to be under the effect of a Mind Blank. The lord hadn't seemed to notice Mal's attempt, indicating that he was under the protection of some arcane device.
+- Condolences, invitations to a feast, tailored formal attire, inner-city accommodations, piles of gold, and a favor from Lord VanVeld himself made for quite the apology.
+- The favor alone was quite the disorienting gift. An ask of VanVeld could get many things, and open many doors. Our heroes decided to think on this before making their ask of VanVeld.
+- However, a creeping sense of *wrongness* couldn't be shaken. As inviting as these powerful men were, their alliances and intents were still unknown.
+- After the city's lord departed, Gideon stayed back to answer any of The Street Dog's questions. He didn't give much away, but he did explain Vestivius' role.
+- The man was chief legal under VanVeld's rule. While Gideon held an obvious respect for the man, the two of them were rivals by nature.
+- Vestivius was responsible for allocating the Renaull estate after the family's recent string of deaths. He alone held the information about Curtis' unreceived inheritance.
+- After their meeting with Gideon, The Street Dogs spent the remainder of the morning enjoying baths and discussing what they'd learned.
+- After, They visited the Chalk Markets to indulge in the vast, complimentary goods as well as purchase some new gear. Deciding their next move over lunch.
+- Magnus and Mal opted to perform a thorough investigation of Markenneth's Journal. Discovering that [[Kerketh Academy]] had a campus in the city, and Markenneth thought they may be hiding something. 
+- There were also mentions of caves under Holocene that house a disturbing moving wall of stone. Capable of killing whoever came in contact with it.
+- Whatever hid this *Dragonbane* Markenneth was looking for, he seemed to believe that it had some sort of protection. Hinting at [[Incana]]. 
+- There was also a mention of something called "The Anchor", but the late mage didn't indicate what the name meant.
+- The rest of our heroes spent their time seeking the city's underbelly. A hope to uncover info pertaining to Curtis' death. Unfortunately they chose the wrong kind of underbelly. A section of [[Holocene]] inhabited by "grinders". A sick, addicted corner of the gate town.
+- Amongst the twisting alleyways something disturbing was found. A flayed body, evidentially dropped from above roof level. Deimos discovering perfume in its hair, indicating that it was likely not from this distinctly unwashed district.
+- Palce, who'd coincidentally passed by, was able to shed some light on their questions. For a price, of course.
+	- He, and his gang, were essentially everyone who'd have sought Curtis' head. At least from the the outer city. Since they'd failed spectacularly, whoever *actually* killed Curtis was not from Palce's world. The outer and inner city were harshly separated even in terms of criminality. Only the main gate, or passages controlled by thugs connected the two worlds.
+	- Palce suggested that if he wanted to know more, he would personally seek Vestivius.
+	- The smarmy man was also able to shed light on the body they'd found. Supposedly they were one of the many ugly symptoms of this district. Horrible corpses that tended to show up from time to time. Nightmares that locals felt were better left alone.
+- Our heroes reunited and opted to look for the inner city's underbelly next. Potentially eavesdrop in a tavern.
+- On their way back to Windheath, someone bumped into Cyrus. A familiar face. Bellamine the Quick. A witch of The Ikas Feather.
+- **Chapter ends early evening on the 51st of Spring, Annum 4466**

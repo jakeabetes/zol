@@ -33,4 +33,4 @@ title: "Godkiller Chapter Summary - 40 - Inheritor"
 - Gain had walked the party nearly to the palace when a disgruntled man, Vestivius, stole Gideon's attention. The man was furious with the mornings events and obviously blamed Gain.
 - Ushered into the palace ahead, our heroes got lost. Fortunately, a charismatic gardener named "Lee" helped them find their way.
 - Lee, despite his filthy attire, turned out to be the Larkish Lion of [[Holocene]]. Lord Lionel VanVeld himself.
-- **Chapter ends on a midday the 51st of Spring, Fae'n, Annum 4466**
+- **Chapter ends on a midday the 51st of Spring, Annum 4466**
