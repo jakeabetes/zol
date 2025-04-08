@@ -1,0 +1,27 @@
+---
+title: "Godkiller Chapter Summary - 42 - The Seat of Holocene"
+---
+- **Chapter begins midday the 51st of Spring, Annum 4466**
+- Our heroes had bumped into Bellamine the Quick of The Ikas feather. They tried to tail her but unfortunately she lived up to her name. Disappearing into the crowds.
+- The encounter left them anxious. But they were forced to return to their primary task. Trying to figure out who killed Curtis and what the nature of The Dragonbane was. 
+- They opted to go after one of Curtis brothers. A ploy to trick one of them into going to see Vestivius so the party could scry on their conversation.
+- Their path lead them to Scoreforged, a unique and arcane tavern focused on the high life of young and wild nobility.
+- Searching through the tavern for their mark, a few rumors were heard.
+	- Many seem to believe that Lord VanVeld is sick, and will soon require a successor. This was already known, as it was thought to be Curtis' original motive for coming to Tenzentak. However the reality of it is much different when witnessed in Holocene itself. Naming a new Alderian Seat requires a vote. Meaning that upon VanVeld's death anyone could theoretically become his successor. However he is not just a big player in their game of politics. He's more like the playing field itself. His will shapes the region's future, even in death.
+	- It seems three individuals are the expected seats. However, who they were specifically was not uncovered.
+- Their hunt for one of the brothers led them to sneaking into the VIP section of Scoreforged. It seemed Shanewir Renaull was with the highest order of courtesan in the city. A woman known as Lady Midnight.
+- In the VIP section Lady Kalimae Sky visited for a drink. As expected she was not happy to see The Street Dogs meddling yet again.
+- Despite that, she and Magnus entered into what would  likely be their most honest conversation yet. Lady Sky hinting at her organization's "altruistic" aim. She also couldn't hide her own suspicions of the forces that drove Magnus from The Ward, and even apologized for Curtis' death.
+- Upon the *conclusion* of Shanewir's appointment, the young lord proved easy pray in terms of goading. It took The Street Dogs all of three minutes to fool him into rushing Vestivius' office.
+- Cyrus was faced with the difficult task of finding one of Shanewir's belongings. Something that would help with their Scry. Most of what Shanewir left behind at Scoreforged is better unremembered. Fortunately he was able to recover a lightly used sock.
+- Upon successfully scrying on the lad, they were able to listen in on Vestivius' insistent denial of Shanewir's demands. The reading of the will would happen in two days. Until then, the document would remained sealed in an extraplanar space inside a box locked with three keys. One with Vestivius, one with Lord VanVeld, and one with Gideon Gain.
+- Vestivius was adamant that he didn't even remember what was on the will and that Shanewir needed to go home. While Shanewir believed the statement, our heroes were unconvinced. It seemed the Chief Legal was hiding something.
+- Deciding to press Vestivius in the morning our heroes took rest in their rooms where Magnus had another dream.
+- He was in the Storm Horizon once again, and was accompanied by Azshara. A powerful brass dragon and mother to Viz.
+- They looked down upon the Dragonbane in disgust while Azshara spoke. She told Magnus of the pain to come. Something in the society of Dragons was turning. 
+- The Three Corners was once home to dragons long before [[The Awakening]]. And most powerful of their kin had not returned for many ages. But should they learn of the disorder and humiliation of their kind over the last four thousand years, they may return and begin a second coming of [[The Dragon War]].
+- Azshara believed that Magnus, with his kindhearted nature and connection to dragons, could strike order before things would turn.
+- Before waking, she warned him of the challenges to come. And the fact that he would have to do things he would not be proud of.
+- In the morning, Magnus told the others and they set off to find Vestivius. They would have never been able to get the info they needed through normal means, but a blind siding question paired with Mal's mind reading found the truth.
+- Despite all the chaos and death over Curtis' supposed inheritance. The late lord was never set to inherit anything at all.
+- **Chapter ends on the morning of the 52nd of Spring, Annum 4466**
