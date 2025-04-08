@@ -17,7 +17,7 @@ title: "Godkiller Chapter Summary - 42 - The Seat of Holocene"
 - Upon successfully scrying on the lad, they were able to listen in on Vestivius' insistent denial of Shanewir's demands. The reading of the will would happen in two days. Until then, the document would remained sealed in an extraplanar space inside a box locked with three keys. One with Vestivius, one with Lord VanVeld, and one with Gideon Gain.
 - Vestivius was adamant that he didn't even remember what was on the will and that Shanewir needed to go home. While Shanewir believed the statement, our heroes were unconvinced. It seemed the Chief Legal was hiding something.
 - Deciding to press Vestivius in the morning our heroes took rest in their rooms where Magnus had another dream.
-- He was in the Storm Horizon once again, and was accompanied by Azshara. A powerful brass dragon and mother to Viz.
+- He was in the Storm Horizon once again, and was accompanied by Azshara. A powerful bronze dragon and mother to Viz.
 - They looked down upon the Dragonbane in disgust while Azshara spoke. She told Magnus of the pain to come. Something in the society of Dragons was turning. 
 - The Three Corners was once home to dragons long before [[The Awakening]]. And most powerful of their kin had not returned for many ages. But should they learn of the disorder and humiliation of their kind over the last four thousand years, they may return and begin a second coming of [[The Dragon War]].
 - Azshara believed that Magnus, with his kindhearted nature and connection to dragons, could strike order before things would turn.
