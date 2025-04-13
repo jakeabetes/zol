@@ -1,0 +1,39 @@
+---
+title: "Godkiller Chapter Summary - 43 - Die for the Cause"
+---
+- **Chapter begins on the morning of the 52nd of Spring, Annum 4466**
+- Our heroes were left with more questions than answers after discovering Curtis was never slated to inherit anything. 
+- More aggressive forms of investigation would be required to untangle the dragonbane's mystery
+- The palace seemed the next best bet. Both to cash in their favor with VanVeld, and to possibly find another lead.
+- A preliminary conversation with Gain created an opportunity to scry on the mysterious man. An attempt to catch him in private conversation with VanVeld.
+- And scry they did, finding Gain in discussion with the Alderian seat during the high lord's breakfast.
+	- They were discussing doubts about Curtis' Assassination. Gain theorizing that people had been too hasty in their killing of the young lord. VanVeld rejecting the notion, claiming that their strategy to *force fate's hand* had been sound. Referencing a depiction of the young lord in which he'd lost an arm and was wearing an engagement ring.
+	- Despite the perceived concern, Gain held an optimistic outlook. Claiming that they may be safe from the danger's of this secret with The Word of Fire in the city. This didn't seem to satisfy VanVeld, and he urged Gain to *delay him* as they were apparently not ready for the fallout of whatever was to come.
+	- Gain, despite being previously introduced as VanVeld's subordinate, denied him. This frustrated VanVeld, but he didn't protest. Urging Gideon to keep his ear to the ground and emphasizing how crucial it was that they found the dragonbane before anyone else did.
+- Gain soon returned to the party and assured them that The Alderian Seat would meet with them soon. During this interaction Mal decided to risk reading Gideon's mind once more. However this time he knew better than to dig deeper than surface thoughts.
+	- In this, Mal discovered a deep respect for the Word of Fire. With a hint of something else that Mal couldn't quite place.
+- VanVeld finally arrived and The Street Dogs made their ask. To have one of them granted title in Tenzentak. A slightly comical, but genuine request to which VanVeld agreed. Mallory Boseman would become a Baron.
+- After the brief meeting, VanVeld sprung a question on them in hopes to catch them off guard. Asking the party if they knew what a Dragonbane was. Cyrus squared up immediately with the truth. Affirming the subtle accusation.
+- This threw VanVeld off guard. He was unprepared for this specific line of conversation and didn't manage to make anything of the opportunity he created. Choosing instead to end the meeting abruptly.
+- On the way out, Cyrus doubled down. Catching up to Gideon and whispering in his ear "No peace until heaven burns". A phrase attached to the haunting somnambulant episode The Street Dogs experienced a few weeks ago. As always Gain's mask hid his face, but he did tell Cyrus that he was his favorite of The Street Dogs.
+- Pieces began rapidly falling into place. Our heroes scampering to a tavern to discuss their theories.
+	- What if Valmore was behind all this?
+	- What if their dreams were the gods pleading for help?
+	- What if [[Ayamot]], the dragon god of justice, was next on the chopping block?
+	- What if those behind the Ahamatath were seeking to unleash [[The Void]] and usurp the [[Gods]]?
+	- And what could possibly be altruistic about killing a God?
+- While fact was unclear, one thing remained certain. The Street Dogs were in the middle of this mess.
+- Kerketh's Holocene campus held their next answers. Cyrus and Mal sneaking in under the guise of a new lord obtaining a tour of the academy grounds.
+- An old, slow, but kindly professor volunteered to give them a tour around the archives. Cyrus managing to slip away into the restricted section while Mal was forced to continue the torturous expedition.
+- The search was a grueling one, and required Cyrus to contact the others. Urging them to go to the dinner without him.
+- Hours later, he finally found what he was looking for. A record of something called The Reality Anchor. A colossal and ancient rotating ring hidden beneath Holocene. Influencing [[Incana]] and [[Chronomancy]] in extreme ways.
+- Academics found it many decades ago, but six years prior an earthquake sealed the known entrance and caused all in its close proximity to go mad and commit suicide. Since then no one has been able to find a suitable entrance to The Anchor.
+- Its winding interior is said to be filled with celestial guardians and aberrations. Most who explored it didn't return.
+- However, one path was deemed relatively safe. Unique as it held evidence of early post-awakening society.
+- During [[The Dragon War]], many records were lost or hidden by the destruction. Such as detailed accounts of the weapons made to defeat dragons. Though not all was lost. The Three Corners still holds legends of the horrors created during the [[First Age]].
+- A Dragonbane was hidden amongst the ruins. Left to be guarded by The Anchor's natural defenses. Defenses which had cut off the Kerketh Mages and tore apart their minds.
+- A madness which drove them to draw images and scrawl prophecies in the throes of death. All wrote the same thing.
+	- Lord Renaull's death will open the way. Destruction will be his inheritance. The Comet's fraudulent fate will reshape the coming era. His blood alone will light the way. All things hinge upon the sickening death of dogs.
+- On the final page Cyrus found the images left by the maddened academics. A depiction of Curtis Renaull, missing an arm, fighting a metallic snake, and wearing a ring. Markenneth's ring.
+- A situation quite similar to one that Mal had found himself in not so long ago...
+- **Chapter ends on the evening of the 52nd of Spring, Annum 4466**

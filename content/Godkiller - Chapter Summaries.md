@@ -5,6 +5,7 @@ The Chapter Summaries are recaps of major events that occurred in each chapter o
 ## Summaries
 - Book One - Elsewhere
 	- Part Two - The Shape of a Dragon
+		- [[Godkiller Chapter Summary - 43 - Die for the Cause]]
 		- [[Godkiller Chapter Summary - 42 - The Seat of Holocene]]
 		- [[Godkiller Chapter Summary - 41 - A Favor]]
 		- [[Godkiller Chapter Summary - 40 - Inheritor]]
