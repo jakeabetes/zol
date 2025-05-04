@@ -1,0 +1,42 @@
+---
+title: "Godkiller Chapter Summary - 45 - Toying with Fate"
+---
+- **Chapter begins on the late evening of the 52nd of Spring, Annum 4466**
+- Our heroes had fled Curtis' Memorial Feast in a rush after being singled out by Valmore, [[The Word of Fire]].
+- Hoping to wrap up their business in [[Holocene]] as soon as possible, they ventured blindly into the rain in search of Mal's fated entrance to The Reality Anchor.
+- It went about as well as could be expected. Stumbling around in the muddy, dark outskirts of the pale city with little direction. 
+- The Street Dogs cased the last known entrance, sealed 6 years ago by an earthquake. Finding nothing beyond possible pursuers on their tail.
+- They ultimately decided to head back to The Pale Ward to rest and review their options. Yes, they may be under surveillance at the castle, but in [[Holocene]] it seemed as good a place as any.
+- Firstly, they discussed the logistics of bringing Curtis back to life. Morality, Curtis' will, and Chempray's trustworthiness all being indeterminate factors. Some wanted to give the late lord another chance, others weren't so sure. Nothing was decided.
+- Valmore's question still rung in everyone's ears, no one certain of what he wanted until Magnus and Mal had an epiphany. The drawing of the sword hilt. Holding it to candle light revealed not only a clue, but a communication.
+- Similar to before, when the drawing was held to sunlight and revealed a prismatic message, it shone clear words in shadow.
+	- "Its me. Don't let the fire take me."
+- When asked about its identity the shadow changed to show a single word.
+	- "[[Godkiller]]"
+- An ensuing flurry of questions directed at the piece of paper revealed a few more crucial things.
+	- It wasn't the entity that killed [[Giriam]], despite its name.
+	- It is made from a fringe and little know classification of [[Magical Metals]], Morhin.
+	- Most pieces of it were vaporized in the event that broke it.
+	- And that the best way to help it was through Old Abby.
+- All in all, the conversation revealed more questions than answers. The... *drawing* if that was a good enough word for the entity, didn't seem proficient in communication. As if struggling with the arcane, yet rudimentary act. 
+	- It wasn't long before the paper stopped responding entirely.
+- Soon the group shifted their focus back to The Reality Anchor. It took a while to find direction and Magnus had to seek fresh air on the balcony after being hit with yet another bout of weakness.
+	- Out there, it was noticed that the castle itself has a unique set of defenses. Possibly charged by the power shed by the [[Greatwinds]].
+- Mal and Cyrus developed a theory. Using what info they had about The Reality Anchor expeditions and Magnus' bouts of weakness, they were able to map out a rough semi-circle. 
+	- Mirrored, it seemed to describe a good estimation of the entire anchor. Part of which ran underneath where Mal had been attacked by Blood. Just like in the prophecy.
+- Rest was sought and first thing in the morning the street dogs would head out for the gully once more. Unfortunately for Deimos, the evening held different plans.
+- At a few hours past midnight, a wrapping on the window awoke the mutant. Someone had come to make a request. Pox, a demon of [[The Wasp Eater]]. The same one who'd been stalking him outside The Lumberjack a few weeks back.
+- Surprisingly, Pox seemed... friendly? The disturbing creature not only understood Deimos' secret plight, but thought he could help. Pox, despite appearances and poor grasp on common, was apparently a scholar. And his mentor was the god of plague. His ultimate mission was to extinguish the concept of life from the cosmos. An effort for 'true peace' apparently.
+	- An effort that has been underway for eons, and would be for eons more. That... didn't make it seem any less evil. But perhaps hearing Pox out would be alright...
+	- Pox had been tasked with watching one of Deimos' old friends. A witch who was researching a disease that caused red hands. Pox had abandoned his mission to research whatever it was hiding inside Deimos' mind.
+- Understanding the unlikelihood of he was asking, Pox offered Deimos a gift of information in order to garner some favor. A method to use his power to track The Dragon Bane and navigate his friends to The Anchor. Apparently, Pox knew of it and had been alive 'when it was buried'.
+- The next day our heroes purchased some spelunking equipment and headed out with hopes of finding the entrance. Weathering the unending rain, and stopping to give Markenneth a grave on the way.
+- There was no clear sign of an entrance. That was, until Mal was swallowed by a sinkhole, tumbling into The Underdark in a hail of mud.
+- Once the group had descended into the pit, Deimos learned that Pox's idea had merit. Finding general direction to follow through the nexus of caves.
+- After an hour of slow descent, The Street Dogs noticed they were being followed by VanVeld's men. Perhaps telling VanVeld you knew what The Dragonbane was wasn't the best plan...
+- Deep into the darkness Cyrus spotted something useful. The body of a mage whose field notes gave a practical view of life in The Reality Anchor and its dangers.
+	- Divine monsters
+	- Lethal paths
+	- Warped laws of reality
+	- And the fact that The Reality Anchor would apparently speak to its occupants and drive them towards peril...
+- **Chapter ends midday of the 53rd of Spring, Annum 4466**
