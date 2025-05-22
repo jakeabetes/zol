@@ -1,0 +1,32 @@
+---
+title: "Godkiller Chapter Summary - 46 - Underdark"
+---
+- **Chapter begins midday of the 53rd of Spring, Annum 4466**
+- Our heroes were braving [[The Underdark]] in search for The Reality Anchor. Pursued by VanVeld's dedicated soldiers.
+- It turned out it wasn't just the Holocene Guard on their tail. A familiar face dressed in Holocene Servant's Attire was spotted sprinting past. Spade the Elf and Cinder his brazen fire spirit were being chased by an enormous, heavily armored insect.
+- The Street Dogs were thrown into the chase. Fortunately, the group was able to create enough distance from it to cave in a section of ceiling. Trapping the mutated Ankheg beneath a pile of stone.
+- Once everyone finally caught their breath, attentions were turned to Spade.
+- The gruff drifter was initially reserved as to why he was following The Street Dogs through caves, kilometers below Holocene. For better or worse, Cinder's overheard not-so-secretive whispering let the first answers out. Soon, common goals and alliances bridged the gaps between.
+	- After the train attack, some forty days ago, Spade had gone to join up with [[The Bladehammer Guild]]
+	- His first assignment given out by Guild Mind Froya Glovewort. Tasking him to act as a spy amongst The Ikas Feather.
+	- Spade was successful in joining the Ikas Feather. It seems he had done so the day after The Street Dogs had. The Ikas Feather not only knew he was a spy but informed him of an explosive device hidden within his Guild Slate, disarming it on his behalf.
+	- Spade found himself in an interesting position. Having what felt like half membership with both The Ikas Feather and The Guild.
+	- Spade didn't have time to settle into either before things took a turn on his first Ikas Feather mission. The Guild had located a dragon horde that had been presumed vacant and the Ikas Feather set out in hopes to snag the prize. The horde however was not vacant. A three way clash between the Ikas Feather, The Guild, and a Black dragon ensued. Ending with The Guild on top.
+	- Spade was then 'rescued' by The Guild and told his mission with The Ikas Feather was over. He was brought back to [[Tenzentak]] to witness The First Ring Tournament, The Victory Day attack, and Valmore's actions.
+	- He spent the next few weeks along side the many who worked to restore Tenzentak until he was found by The Ikas Feather once more.
+	- Spade was recruited to help investigate, and cease a potentially dangerous prophecy in [[Holocene]] involving Lord Curtis Renaull. There, his leaders Ke'shevik and Bellamine were unsuccessful in their overall mission. Spade, having met them once before, was tasked with following The Street Dogs. 
+	- It all came apart when Ke'shevik tried to kill Vestivius in a Hail Mary attempt. This ultimately ended with him being killed by Valmore.
+	- Spade, separated from his group and left with the option to run or stick with the mission, decided following The Party was his best option.
+- After sharing their stories, the party invited Spade to tag along. More help couldn't hurt and Spade seemed desperate for a leg to stand on. Spade also offered up a sample of writing he had from [[The Grand Nothing]], winning a bit of favor with Mal as this was the last item he needed to translate Feocaul.
+- Camp was made and their new ally settled in with Sherman. However, when Sherman went to explore a bit a taunting voice came from Spade's bag. A laughing being called Ben who claimed to "understand the game now".
+- After an uncomfortable rest, our heroes finally closed in on their goal. Deimos' predictive senses proving capable of tracking their moving target with near exactness. A perpetual sickness that struck Magnus reinforcing their success.
+- The Reality Anchor inhabited a colossal cave, bigger than Holocene itself. An ethereal dark purple-y glow hazing the air, inhabited by strange motes of soft white light. Creating an almost night-sky like atmosphere in the depths.
+- The Anchor itself was enormous. A giant, wheel shaped castle of pure black and white stone. Slowly rotating on its side, trapped in a potent, incanic forcefield. Many doors appeared on its surface. One presenting itself ominously for Mal.
+- **JUDGEMENT***, the word working its way into the mind of those who approached it. Manifesting almost like a word in [[The First Tongue]], but fainter. Weaker.
+- However, there was a sole exception. Spade did not hear this word, nor did the forcefield that barred the other's entrance (save for Mal) stop him. It simply burned away. Not just allowing him to enter but everyone.
+- The party entered into a structure hanging from beneath The Anchor. Chempray wasting no time, demanding to be released. When the party refused him, he simply shattered the glass of his jar and took off into the distance.
+- An Agoth, the worst of the creatures said to inhabit The Anchor, was spotted across a bridge that had been destroyed via what looked like a 1-5 Potentium explosion.
+- Opting to leave the scary angel alone, the party ascended to the next floor where a terrifying being stood in a ring of lights.
+- It acted as Judgment itself. Welcoming Mal as a guilty being, exempt from his jurisdiction to complete a task deigned by [[The Trinity]]. The others were apparently not allowed and offered a quick death. The Party rejected the offer and Judgement begrudgingly allowed them their choice and departed.
+- In the new chamber, ten emitters of light corresponded with symbols of the [[Zolaen Gods]] . Three were dark. The God of Agriculture and Fertility, The God of War, and The God of Dreams.
+- **Chapter begins mid morning, deep beneath Holocene on the 54th of Spring, Annum 4466

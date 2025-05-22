@@ -5,6 +5,7 @@ The Chapter Summaries are recaps of major events that occurred in each chapter o
 ## Summaries
 - Book One - Elsewhere
 	- Part Two - The Shape of a Dragon
+		- [[Godkiller Chapter Summary - 46 - Underdark]]
 		- [[Godkiller Chapter Summary - 45 - Toying with Fate]]
 		- [[Godkiller Chapter Summary - 44 - Did You Find it Yet]]
 		- [[Godkiller Chapter Summary - 43 - Die for the Cause]]
