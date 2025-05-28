@@ -29,4 +29,4 @@ title: "Godkiller Chapter Summary - 46 - Underdark"
 - Opting to leave the scary angel alone, the party ascended to the next floor where a terrifying being stood in a ring of lights.
 - It acted as Judgment itself. Welcoming Mal as a guilty being, exempt from his jurisdiction to complete a task deigned by [[The Trinity]]. The others were apparently not allowed and offered a quick death. The Party rejected the offer and Judgement begrudgingly allowed them their choice and departed.
 - In the new chamber, ten emitters of light corresponded with symbols of the [[Zolaen Gods]] . Three were dark. The God of Agriculture and Fertility, The God of War, and The God of Dreams.
-- **Chapter begins mid morning, deep beneath Holocene on the 54th of Spring, Annum 4466
+- **Chapter ends mid morning, deep beneath Holocene on the 54th of Spring, Annum 4466
