@@ -1,5 +1,5 @@
 ---
-title: "Godkiller Chapter Summary - 51 - The High Priestess"
+title: "Godkiller Chapter Summary - 50 - The High Priestess"
 ---
 - **Chapter begins just after midnight of the 55th of Spring, Annum 4466**
 - Our heroes had finally found The Dragonbane, hidden in the ancient and mysterious Reality Anchor, deep beneath the city of [[Holocene]].
