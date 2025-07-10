@@ -38,3 +38,4 @@ title: "Godkiller - Weavings"
 - [[Weaving - My Yoke]]
 - [[Weaving - Big Fucking Hats]]
 - [[Weaving - Whine Barrel]]
+- [[Weaving - The Goliath's Reflection]]

@@ -1,0 +1,48 @@
+---
+title: "Godkiller Chapter Summary - 51 - The High Priestess"
+---
+- **Chapter begins just after midnight of the 55th of Spring, Annum 4466**
+- Our heroes had finally found The Dragonbane, hidden in the ancient and mysterious Reality Anchor, deep beneath the city of [[Holocene]].
+- Proximity to it made Magnus deathly ill, but he was set in his mission to see the relic destroyed.
+- A small army of violent angels were in pursuit. Just as they were about to reach the door to your present chamber, Cyrus' strange doll erupted with [[Collapsation]] magic. Punting him back into reality.
+- Everyone moved to either cover the door, or support Magnus. Save for Mal that is.
+- Time froze for Mallory alone, and the voice of Judgement beaconed him deeper into The Anchor. Faced with the possibility of answers, and visions of his once future, the [[Saen]] man ventured deeper. Seeking the privilege of arcane passage to secrets of The early [[First Age]], [[The Awakening]], and [[The Undoing]] itself.
+- Brought into the very center of The Word of Judgement, and thrust into a painful ritual, Mal saw beyond Zol's veil for the second time in his life.
+- His body changed. Imbibed by celestial energy as he knelt bloody before the old gates to heaven and hell. Between them a monument stood. It read:
+	- I met a wanderer from the freed world
+	- He condemned my acts and named me his foe
+	- A damning with which I could not disagree
+	- Others had named me king long before this
+	- Before even time had defined its ceaseless soul
+	- King shall be my end
+	- Gaze upon my monument and despair
+	- Knowing this will not be the last
+	- Trinity, tongue, wretch and watcher
+	- None will shake me
+	- My name is Azrodymaeus
+	- And I will suffer you all until the last star dies
+- Back in the Dragonbane's chamber, the other Street Dogs employed their every tact to see it broken. Sealing the great door to the chamber, and giving Magnus every chance to approach the rotting relic.
+- A split second before Magnus could smash it to pieces. A terrible, pained voice rang out from it. Begging for mercy. Demanding it. Magnus froze.
+- Just then, Mal's connection to the Anchor allowed him a modicum of control. Touching some power that emptied The Anchor into the sky high above [[Holocene]]. Street Dogs and Dragonbane alike.
+- Plummeting to their deaths once more, they decided to end the Dragonbane. It likely wouldn't survive the fall. Magnus ripped one of the great metal spikes from its spine, and strength rushed back into he and Viz.
+- A panicked discussion ensued. Sherman had the capacity to save everyone but one person. They argued it out to the very last minute until Spade recalled then fact that he could turn into a bird.
+- Splashing down into the cool, polluted water of Holocene's gate town, they gathered their wits.
+- As if on queue, something terrible began to occur. Dragons attacked.
+- The city's demeanor changed in a matter of minutes. The quiet spring evening soon became a mess of fire, screams, and panic.
+- A fellow adventurer was met. Heathro. A capable cleric of the watcher, keen on helping the citizens and not being alone in this mess.
+- Cyrus opted to scry on Gideon Gain in a hopes to catch some intel on the city's situation.
+	- Gain was in the process of talking VanVeld down.
+	- Ensuring him that Fire and Shadow would probably see the situation handled.
+	- VanVeld made a passing comment saying how it was clever *he* used the street dogs.
+- Opting to seek out Kalimae as their next best option, The Street Dogs found a crush situation at the city gate.
+- Some clever deception on Cryus' part got them through the crowd and into Holocene proper. Once close enough to the door, it only took a single enchantment from Sherman to get the crowd flooding in as well. It wasn't pretty, but it was certainly better than the alternative for the flood of commoners.
+- The Arcane walls of Holocene itself fought back against the draconic foes. It even scored a grave wound on the elder-most of the attacking dragons. Unfortunately the same dragon was able to create a giant hole in the defenses as it fell.
+- Hundreds of people ran in every direction in the luxurious, maze-like city. Our heroes opting to take the rooftops as a means to avoid the crowd. Here they reunited with their opportunistic friends Palce and Veil.
+- The inner city provided little safety now, and hundreds more were soon to die.
+- During their search for safety, a voice manifested in Deimos' mind. Exactly like his own but somewhat muffled. It told him to look through the gaps in his senses, search for safety where terror wasn't present.
+- There were two obvious points of safety. A cathedral of The Watcher, and Palce.
+- Crowding everyone they could inside, Palce opted to try and pick the Catacombs open so the masses could hide underground.
+- Small formed dragons soon attacked. Their bodies a mess of strange inorganic shapes. One had a body of chalkstone, and the other's form looked like it was made from the remains of a silk merchant's wagon. Both had a strange imprint of a palm-less hand on them.
+- Someone had to protect the citizens. The Street Dogs, and Heathro, bravely ran into the burning streets to stare down the draconic foes.
+- High in the sky, passively watching the fray hung three figures. A mass of whirling dark, A beacon of burning flame, and the high priestess of the [[Church of Three Fires]].
+- **Chapter ends in the extremely early morning of the 55th of Spring, Annum 4466**

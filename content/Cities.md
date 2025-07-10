@@ -35,7 +35,7 @@ Cities are huge settlements that act as the anchors for the civilized world. [[T
 	- [[Corinth]]
 - [[Laenwalde]]
 	- Capital
-		- [[Holocene]]
+		- [[Heliodor]]
 		- [[Elysium Station]] (geographically within [[Eucaren]])
 	- [[Eucaren]]
 		- [[Kahdinacht]]
