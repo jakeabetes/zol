@@ -1,0 +1,24 @@
+---
+title: "Godkiller Chapter Summary - 51 - Day of Dragons"
+---
+- **Chapter begins in the extremely early morning of the 55th of Spring, Annum 4466**
+- Our heroes clashed with strange hand-marked dragons beneath the gaze of Valmore and his allies. All for the sake of a church full of strangers.
+- All around them Holocene burned, making the Victory Day attacks seem like a pleasant afternoon.
+- Heathro, a brave and well intended knight of The Watcher fought alongside The Street Dogs.
+- When the lesser dragons were defeated, the naive golden warrior sprinted to the feet of two word bearers. Fire and Shadow.
+- His pleas for aid fell on deaf ears. Valmore said he'd already seen this city burn. Heathro's last act was criticism of two of the most powerful beings in Zol.
+- A tendril of shadow flayed his body. Leaving it on the cobbles like the corpse our heroes had found a few days prior.
+- Valmore displayed his displeasure with The Street Dogs and their failings to serve his vision. Setting the church full of survivors ablaze, and demanded bodily sacrifice from one of our heroes. All for failing to deliver him the sword, Godkiller.
+- Kalimae was chosen to take Magnus' arm. In a meager last ditch effort, our heroes opted to use illusion to try and trick the small gods. Cyrus wove arcane falsehoods to protected Magnus' flesh. Even paired with Kalimae's good acting, it wasn't the most convincing act.
+- Strangely, Valmore seemed entirely satisfied. Dismissing The Street Dogs with yet more demands for The Godkiller.
+- The Street Dogs sprinted for the inferno, using all they could to save those trapped in the collapsing building.
+	- Spade's dominion over fire allowed him to hold back a modicum of the flame. A strange, and unfamiliar interaction between him and his magic.
+- Palce did all he could to crack the door to the crypt. It was only the hope he provided that kept the nervous masses waiting for salvation. Magnus' foot proved a much better key.
+- A hysterical river of low and highborn citizens poured into the cold stone tunnels that ran beneath the city. Dank air a much needed relief from the shouldering hellscape above.
+- The party moved with the masses. A hope that whoever led the charge knew of another exit. As they walked, strange noises from Curtis Renaull's grave caught their attention.
+- Curtis had died, gone to damnation, and returned. The absence of his missing arm had been replaced by a shadowy appendage bearing the face of Chempray. The two would seemingly need to get used to one another.
+- Curtis followed once more. Returned from the dead he could never go back to his old life and was in more need of direction than ever.
+- At an intersection between the crypts and some low level of The Pale Ward, city guards were reestablishing order with the survivors.
+- Gideon Gain and Lord VanVeld also took refuge in the lower vaults. Cyrus' magic and social deduction made it clear something had the two allies at odds regarding what was happening to the city.
+- Gideon offered The Street Dogs safe passage out of the city if they didn't get involved. VanVeld however was in need of heroes...
+  - **Chapter ends in the early morning of the 55th of Spring, Annum 4466**

@@ -39,3 +39,4 @@ title: "Godkiller - Weavings"
 - [[Weaving - Big Fucking Hats]]
 - [[Weaving - Whine Barrel]]
 - [[Weaving - The Goliath's Reflection]]
+- [[Weaving - Scriptures of Nothing - 3]]
