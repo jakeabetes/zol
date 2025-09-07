@@ -21,4 +21,4 @@ title: "Godkiller Chapter Summary - 51 - Day of Dragons"
 - At an intersection between the crypts and some low level of The Pale Ward, city guards were reestablishing order with the survivors.
 - Gideon Gain and Lord VanVeld also took refuge in the lower vaults. Cyrus' magic and social deduction made it clear something had the two allies at odds regarding what was happening to the city.
 - Gideon offered The Street Dogs safe passage out of the city if they didn't get involved. VanVeld however was in need of heroes...
-  - **Chapter ends in the early morning of the 55th of Spring, Annum 4466**
+  - **Chapter ends in the dark, early morning of the 55th of Spring, Annum 4466**

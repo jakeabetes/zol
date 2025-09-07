@@ -5,6 +5,7 @@ The Chapter Summaries are recaps of major events that occurred in each chapter o
 ## Summaries
 - Book One - Elsewhere
 	- Part Two - The Shape of a Dragon
+		- [[Godkiller Chapter Summary - 52 - Justice for Holocene]]
 		- [[Godkiller Chapter Summary - 51 - Day of Dragons]]
 		- [[Godkiller Chapter Summary - 50 - The High Priestess]]
 		- [[Godkiller Chapter Summary - 49 - Chased by His Future]]
