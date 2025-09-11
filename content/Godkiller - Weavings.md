@@ -36,6 +36,7 @@ title: "Godkiller - Weavings"
 - [[Weaving - The Antisequence - 4]]
 - [[Weaving - Aren't We All]]
 - [[Weaving - My Yoke]]
+- [[Weaving - An Echo of What Was]]
 - [[Weaving - Big Fucking Hats]]
 - [[Weaving - Whine Barrel]]
 - [[Weaving - The Goliath's Reflection]]
