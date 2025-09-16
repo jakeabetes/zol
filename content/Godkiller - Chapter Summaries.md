@@ -4,6 +4,8 @@ title: "Godkiller - Chapter Summaries"
 The Chapter Summaries are recaps of major events that occurred in each chapter of [[Godkiller]]. They are presented in chronological bullet-form.
 ## Summaries
 - Book One - Elsewhere
+	- Part Three - Brother
+		- [[Godkiller Chapter Summary - 53 - Opportunity]]
 	- Part Two - The Shape of a Dragon
 		- [[Godkiller Chapter Summary - 52 - Justice for Holocene]]
 		- [[Godkiller Chapter Summary - 51 - Day of Dragons]]
