@@ -1,0 +1,16 @@
+---
+title: "Godkiller Chapter Summary - 54 - Tarth"
+---
+- **Chapter begins on the evening of the 61st of Spring, Annum 4466**
+- Bunkered down for a luxurious multi-day train ride across [[The Free Cities]], The Street Dogs had some much needed time to process their recent adventures, and strange discoveries.
+- Mal translated yet another entry of the journal. Reading about an pre-history war where Fejn used his word kill thousands in one fell swoop. A gruesome, and traumatic tale that shed light on the war fought before [[The Undoing]], and the scope of a [[Wordbearer]]'s power.
+- Spade approached Mal, seeking to explain the "benefactor" that had rebound Spade to his vessel back in The Reality Anchor. Spade is in desperate need of help in overcoming the foe. Mal wasn't able to give much. He was, however, able to glean what type of creature this "benefactor" was.
+	- A soul and mind without an anchoring vessel. The soul-lantern Spade has him trapped in only works on one type of being.
+- In the luxury bar-car, Magnus met a noblemen from [[Zessgorn]], Skresso. A member of House Cups, the same clan Colin Coinge belonged to before he died. The conversation shed light the true scale of tensions across the Three Corners. Infighting in [[The Free Cities]], brewing war in the North, [[Kapesh]] threatening war with its neighbors, and whispers of Civil War in [[Laenwalde]].
+- Cyrus explored the interior of his doll for the first time. A demi-plane he could control, haunted by strange whispering light.
+- Mal, in the solitude of his cabin, decided to scry on those in the cars around him. Getting too curious with Deimos, but failing to break through his mind's vault-tight defenses. Deimos confronted Mal, somewhere between a threat and an earnest warning.
+- They passed through nearly all the Free cities. Holocene, Hanen, Ka'thoor, Rails, then finally the rift city of Tenzentak.
+- Deciding to go back to The Lumberjack first, our heroes discovered that Jed had somehow accidentally opened The Lumberjack for business. Familiar local faces told stories, shared drink, and ate Jed's less than mediocre stew.
+- Elated to see the return of our heroes, and hear their stories, The Street Dogs spent the day reintegrating into their tavern, and showing Spade around.
+- There was, however, an unfamiliar guest looming in room number 2. A behemoth of a man, branded with a broken wheel. Locals don't like unfamiliar faces.
+- **Chapter ends on the early evening of the 64th of Spring, Annum 4466**
