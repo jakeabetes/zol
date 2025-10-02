@@ -1,0 +1,16 @@
+---
+title: "Godkiller Chapter Summary - 55 - Sleeping Bear"
+---
+- **Chapter begins on the early evening of the 64th of Spring, Annum 4466*
+- Our heroes we're too comfortable with their strange guest, Jo'sah. Opting to investigate his activities in the days he'd spent at The Lumberjack.
+- Jo'sah, and possibly a second individual, had seemingly snuck into the basement and snooped around The Doors.
+- Mal read the man's mind while he slept. Sensing a dream in which Jo'sah was betrayed by his once-fellow nomads.
+- When the Beastfolk came down for dinner, Cyrus snuck into his room to search for evidence on Jo'sah's motives. Discovering the scrawlings of a crazy person, and an armed snare-trap.
+- Cyrus dodged the trap, but the sound was enough to set Jo'sah off. Violence immediately ensued.
+- Jo'sah was no ordinary fighter, putting up quite the defense against five of the six present street dogs.
+- Our heroes however proved the superior force. Jo'sah had to employ traps and retreat tactics to escape.
+- The assailant managed to get away with the better part of his gathered intel, but left enough for The Street Dogs to glean what he was here for.
+- Jo'sah was preparing for something. A target of some sort set to arrive in a few days.
+- Amongst his intel, there were mentions of Valmore, The Doors, The Church of Three Fires and some legal action the church was taking, The Ikas Feather, and something called "The Skeptics".
+	- The same group Colin Coinge was once suspected to be a member of.
+- **Chapter ends late evening on the evening of the 64th of Spring, Annum 4466*
