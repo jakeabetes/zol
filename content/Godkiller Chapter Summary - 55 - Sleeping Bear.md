@@ -13,4 +13,4 @@ title: "Godkiller Chapter Summary - 55 - Sleeping Bear"
 - Jo'sah was preparing for something. A target of some sort set to arrive in a few days.
 - Amongst his intel, there were mentions of Valmore, The Doors, The Church of Three Fires and some legal action the church was taking, The Ikas Feather, and something called "The Skeptics".
 	- The same group Colin Coinge was once suspected to be a member of.
-- **Chapter ends late evening on the evening of the 64th of Spring, Annum 4466*
+- **Chapter ends late evening on the evening of the 64th of Spring, Annum 4466**

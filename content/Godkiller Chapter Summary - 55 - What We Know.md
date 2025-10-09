@@ -1,0 +1,14 @@
+---
+title: "Godkiller Chapter Summary - 55 - What We Know"
+---
+- **Chapter begins late evening on the evening of the 64th of Spring, Annum 4466**
+- Jo'sah had vanished into the wind. Frustrating, but the scoundrel was at least no longer stinking up The Lumberjack.
+- After tidying the mess from their fight, and climbing into bed, Spade was met with a vision. Yet another dream of The Lumberjack shared with Therin. In it, Therin was asked what he and the street dogs were supposed to do. Therin responded with a question of his own. What is the problem that needs fixing?
+- The next day, The Street Dogs began trying to answer that question. Gathering what they knew and making their way to Abby. Reuniting with the enthusiastic professor, and learning he and Spade already knew one another.
+- Upon hearing the overwhelming updates from both parties— apparently the Ikas Feather had up and left and Tenzentak was fairing well compared to the rest of The Three Corners— The Street Dogs translated another page from the Journal and began to theory craft.
+- Wordbearers seem at the center things, Valmore most of all. But something still isn't sitting right.
+- Magnus asked why Wordbearers keep the tradition of inheritors. Especially when one's never even been inherited before. Insurance? Pride? Or something else?
+- Whoever these people were: Gain, VanVeld, Valmore, The Word of Shadow, and all their mysterious entourage. They are *dangerous*, and their conduct is force that drives this secret war.
+- Needing a name for this shadowy organization, our Heroes settled on "The Whisperers".
+- Now its just a matter of finding out what these Whisperers want, and if that is truly altruistic as VanVeld claims.
+- **Chapter ends midday on the the 65th of Spring, Annum 4466**

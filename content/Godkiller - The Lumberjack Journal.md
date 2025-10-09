@@ -13,3 +13,4 @@ title: "Godkiller - The Lumberjack Journal"
 - [[Godkiller - The Lumberjack Journal - 2 - The Man Who Broke the World]]
 - [[Godkiller - The Lumberjack Journal - 3 - The Witch Fights Dirty]]
 - [[Godkiller - The Lumberjack Journal - 4 - Terrible Silence]]
+- [[Godkiller - The Lumberjack Journal - 5 - Some Terrible Sword]]
