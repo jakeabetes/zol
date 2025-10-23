@@ -1,5 +1,5 @@
 ---
-title: "Godkiller Chapter Summary - 55 - What We Know"
+title: "Godkiller Chapter Summary - 56 - What We Know"
 ---
 - **Chapter begins late evening on the evening of the 64th of Spring, Annum 4466**
 - Jo'sah had vanished into the wind. Frustrating, but the scoundrel was at least no longer stinking up The Lumberjack.

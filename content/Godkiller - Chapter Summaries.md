@@ -5,7 +5,8 @@ The Chapter Summaries are recaps of major events that occurred in each chapter o
 ## Summaries
 - Book One - Elsewhere
 	- Part Three - Brother
-		- [[Godkiller Chapter Summary - 55 - What We Know]]
+		- [[Godkiller Chapter Summary - 57 - Chasing Whispers]]
+		- [[Godkiller Chapter Summary - 56 - What We Know]]
 		- [[Godkiller Chapter Summary - 55 - Sleeping Bear]]
 		- [[Godkiller Chapter Summary - 54 - Tarth]]
 		- [[Godkiller Chapter Summary - 53 - Opportunity]]

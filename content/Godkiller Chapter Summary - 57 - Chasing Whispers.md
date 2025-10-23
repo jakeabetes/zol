@@ -1,0 +1,16 @@
+---
+title: "Godkiller Chapter Summary - 57 - Chasing Whispers"
+---
+- **Chapter begins midday on the the 65th of Spring, Annum 4466**
+- After reuniting with Abby, our heroes decided to cross a few items off their list.
+	- Magnus and Sherman sought payment for escorting Lord Curtis Renaull back to [[Holocene]] and paid Bennet Frence a visit. They payment was barely worth the health potions the adventure had cost them, and Bennet was his usual narcissistic self.
+	- Deimos and Spade hunted the city streets in search of Jo'sah. Tracking him to an alchemist where he'd purchased nap weed, and asked after rumors relating to Hatiat arrivals in [[Tenzentak]]. Implying the [[Beastfolk]] had problems sleeping, and was expecting to encounter those who would not welcome a tarth.
+	- Mal and Cyrus returned to The Second Heart faction, selling their information on Curtis and The Reality Anchor to Froya Glovewort. The woman was paranoid of changeling assassins.
+- Reconvening at Rozwald's favorite cafe, the party shared what they'd managed from their errands. Coin and intel alike.
+- On the way to the Riftkeep, Cyrus had another seizure. Dropping to the ground.
+	- Elsewhere in Zol, a man named Ventril was strapped to a chair and interrogated by a hauntingly beautiful being. Red eyes, and wood trained like a bonsai, Vincet was keen on discovering who the man in the mask was, and what had happened to the doll. Threatening violence towards a young woman named Olsen. Ventril relented and admitted that the masked man was in fact him.
+	- Reawakening from his seizure, Cyrus admitted he may be connected to the shapeshifter after Froya and her intel, but wouldn't elaborate further.
+- At the Riftkeep, Mal was made a baron of the Rotwood in name alone.
+	- His papers were still being processed, and a house-crest was still to be decided.
+- Another translation of the journal capped off the evening. More of Fejn's ramblings about the Dogs. It seems even Wordbearers were perplexed by the mystery that haunts our heroes.
+- **Chapter begins late on the the 65th of Spring, Annum 4466**
