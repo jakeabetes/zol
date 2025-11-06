@@ -13,4 +13,4 @@ title: "Godkiller Chapter Summary - 57 - Chasing Whispers"
 - At the Riftkeep, Mal was made a baron of the Rotwood in name alone.
 	- His papers were still being processed, and a house-crest was still to be decided.
 - Another translation of the journal capped off the evening. More of Fejn's ramblings about the Dogs. It seems even Wordbearers were perplexed by the mystery that haunts our heroes.
-- **Chapter begins late on the the 65th of Spring, Annum 4466**
+- **Chapter ends late on the the 65th of Spring, Annum 4466**
