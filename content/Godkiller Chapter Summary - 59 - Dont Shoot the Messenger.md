@@ -10,7 +10,7 @@ title: "Godkiller Chapter Summary - 59 - Don't Shoot the Messenger"
 - Spade, tapping into his strange relationship to fate, decided to enquire about their plan via his powers. A sea of woe lay ahead. Spanning in all directions. A daunting void that hungrily devoured all hope of any future. Though there was one miniscule pinprick of light that could lay ahead.
 - Despite that, the plan was set. Cyrus, Magnus, and Spade would try and trick Destrae while the others waited on standby.
 - While they waited, something strange happened in the distance. The back door to the lumberjack seemed to open and close on its own. Something was afoot.
-- Deimos, Mal, and Sherman hunted the invisible force. Finding it to be Vintra of the Hatiat Rira. The wheel was a mage of some sort who and was poking his head where he shouldn't be.
+- Deimos, Mal, and Sherman hunted the invisible force. Finding it to be Vintra of the Hatiat Rira. The wheel was a mage of some sort and was poking his head where he shouldn't be.
 - Vintra pleaded innocence, claiming he was scouring for signs of Jo'sah. A short lived lie that gave way to him admitting to searching for The Door.
 - Back in the tent, Destrae took the bait better than anyone could have hoped. Destrae was a little more than concerned Gideon was curious about his conduct. Going as far to immediately pack up his essentials and hit the road.
 - He did pay his tab too, and a fair bit more.
@@ -22,6 +22,7 @@ title: "Godkiller Chapter Summary - 59 - Don't Shoot the Messenger"
 		- [[Corinth]]
 		- and rumors of The Ikas Feather possibly even having one out in [[The Grand Nothing]]
 		- He also said some people call it "Nowhere" and that apparently Wordbearers can't move through the Doors.
+		- Lastly, and most dauntingly, Destrae hinted Valmore may not be the mastermind he seems. There may be someone behind him.
 	- Destrae also left his wares behind, and they were swiftly packed up by our Heroes for their own taking.
 - Reconvening at the tavern, a brief interrogation with The Hatiat Rira's leadership revealed that Thread, and his compatriots were a group with remarkable similarity to The Street Dogs. Rag tag weirdos trying to understand this widespread enigma.
 - Unfortunately tensions overshadowed the likeness. The inner circle of The Hatiat Rira were escorted from The Lumberjack with mention of a possible parlay between the two groups on the following day.
