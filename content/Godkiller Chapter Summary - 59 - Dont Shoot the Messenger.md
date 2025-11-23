@@ -1,0 +1,29 @@
+---
+title: "Godkiller Chapter Summary - 59 - Don't Shoot the Messenger"
+---
+- **Chapter begins late afternoon on the the 66th of Spring, Annum 4466**
+- Our heroes had discovered Destrae, the fortuneteller amongst the Hatiat Rira.
+- The meddlesome sorcerer admitted to telling the nomads about the door. Though he did not surrender his motives freely. Destrae wanted to trade. What he knew about Elsewhere for information on Gideon Gain.
+	- Destrae knew of the secret war. And as with all conversations of this type there was the stipulation of a line that Destrae would not cross. Something he knew that could not be bought.
+- Meeting in private to discuss, our heroes brainstormed a path forward. Sick of always being the ones getting taken advantage of, The street dogs decided enough was enough. This time they would see what they could get from Destrae.
+- The plan was based on a hunch. Something about Destrae's eyes and the way he conducted himself was so reminiscent of Gain it could not be a mere coincidence. Assuming they have some familial relationship, they would make Destrae think Gideon was after him in some capacity. Planting a seed, and seeing what grows.
+- Spade, tapping into his strange relationship to fate, decided to enquire about their plan via his powers. A sea of woe lay ahead. Spanning in all directions. A daunting void that hungrily devoured all hope of any future. Though there was one miniscule pinprick of light that could lay ahead.
+- Despite that, the plan was set. Cyrus, Magnus, and Spade would try and trick Destrae while the others waited on standby.
+- While they waited, something strange happened in the distance. The back door to the lumberjack seemed to open and close on its own. Something was afoot.
+- Deimos, Mal, and Sherman hunted the invisible force. Finding it to be Vintra of the Hatiat Rira. The wheel was a mage of some sort who and was poking his head where he shouldn't be.
+- Vintra pleaded innocence, claiming he was scouring for signs of Jo'sah. A short lived lie that gave way to him admitting to searching for The Door.
+- Back in the tent, Destrae took the bait better than anyone could have hoped. Destrae was a little more than concerned Gideon was curious about his conduct. Going as far to immediately pack up his essentials and hit the road.
+- He did pay his tab too, and a fair bit more.
+	- Destrae confirmed Gideon was his father. He also explained the man's origins. Gideon was apparently was on track from a young age for great political success and station. However, his disease changed not only the course of his life, but his personality. Moving from traditional politics to what outwardly appears as a career in advisory.
+	- Destrae spoke of many locations in Elsewhere, but only knew of some.
+		- [[Fike]]
+		- [[Kahdinacht]]
+		- [[Reach Run]]
+		- [[Corinth]]
+		- and rumors of The Ikas Feather possibly even having one out in [[The Grand Nothing]]
+		- He also said some people call it "Nowhere" and that apparently Wordbearers can't move through the Doors.
+	- Destrae also left his wares behind, and they were swiftly packed up by our Heroes for their own taking.
+- Reconvening at the tavern, a brief interrogation with The Hatiat Rira's leadership revealed that Thread, and his compatriots were a group with remarkable similarity to The Street Dogs. Rag tag weirdos trying to understand this widespread enigma.
+- Unfortunately tensions overshadowed the likeness. The inner circle of The Hatiat Rira were escorted from The Lumberjack with mention of a possible parlay between the two groups on the following day.
+	- Though that was not all. Two small slip-ups revealed more. A dark fate for the last people they traded information with, and a meeting the nomads were expecting to have after sunset.
+- **Chapter ends evening on the the 66th of Spring, Annum 4466**

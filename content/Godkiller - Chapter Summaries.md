@@ -5,6 +5,7 @@ The Chapter Summaries are recaps of major events that occurred in each chapter o
 ## Summaries
 - Book One - Elsewhere
 	- Part Three - Brother
+		- [[Godkiller Chapter Summary - 59 - Don't Shoot the Messenger]]
 		- [[Godkiller Chapter Summary - 58 - The Hands of Jed]]
 		- [[Godkiller Chapter Summary - 57 - Chasing Whispers]]
 		- [[Godkiller Chapter Summary - 56 - What We Know]]
