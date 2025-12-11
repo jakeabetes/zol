@@ -1,0 +1,31 @@
+---
+title: "Godkiller - 61 - Jo sah The Nomad Killer"
+---
+- **Chapter begins late evening on the the 66th of Spring, Annum 4466**
+- The Hatiat encampment was a bloodbath. Masked mercenaries and Jo'sah rained death as long waiting traps detonated all around.
+- The beastfolk couldn't be reasoned with. Possessing an irrational hatred of the Hatiat, he would seen them all burn even if it cost him his life.
+- And burn they did. But their secrets would be preserved thanks to Sherman and his metal skin. The warforged rushed into the inferno, and looted their collected notes on the secret war.
+- One of the masked mercenaries had an air of familiarity about him. His silhouette, accuracy, and accent were all hints towards something the street dogs couldn't quite put their finger on. This individual event went so far as to pull Mal aside and warn him "This isn't for you. Get what you can of their, and get out of here."
+	- It *may* have been Tardich.
+- The Hatiat Leadership, or "The Pathless" as they called themselves. Were the clearest targets of the fray, and suffered the bulk of Jo'sah's wrath. Thread having to be saved by The Street Dogs, promising to work together as allies in thanks.
+- Unfortunately, he wouldn't live long enough to see the promise fulfilled. Jo'sah pulled the pin on all his explosives. Magnus, Vintra, Louise, and Thread all swallowed by the inferno.
+- Burning like a fiend from some unknown depth of Damnation, Jo'sah stood amongst the violence. Satisfaction coloring what remained of his face.
+- A victory our heroes would not stand for.
+- Spade, still pissed off about Jo'sah's previous escape, threw all he had at the bandit. A wave of healing warmth poured from the Eladrin's hands, engulfing Magnus and Vintra. The others tried to pull Louise and Thread from the blaze as Spade choked Jo'sah to death with thick, acrid smoke.
+- Figures rose from beyond Tenzentak's wall. Some were city mages, or guild members. However, most were priory of The Church of Three Fires. Adorned in singed robes. They descended on the fray. Smothering flames, picking off mercenaries, and aiding the victims of the attack. There would be fallout from today in the weeks to come.
+- Magnus quickly recovered from his injuries in his usual stormblessed fashion. Vintra however was not so fortunate, remaining comatose.
+- The Pathless' notes were kind of like looking in a mirror. Much of what they'd learned you already knew. Though there was one subject they were much more informed on. The Sword.
+- They had somehow learned of the Kerketh expedition warforged, the very same who's recovery had initially brought most of you together. 
+	- To you, it was a broken enigma that had failed its expedition. The Pathless seem to think it was successful in its mission.
+	- The Expedition Warforged program was a long standing series of dispatchments conducted as a joint effort between Kerketh and The Bladehammer Guild.
+	- The Pathless believe that these expeditions were successful and now The Sword Hilt is in custody of either Kerketh Academy or The Bladehammer Guild.
+		- Which doesn't make sense based on what the street dogs know. The warforged that seemingly encountered it died in The Grand Nothing. Either our heroes are missing something, or their info is bad. Probably both.
+	- They also believe that this acquisition created a huge divide between these two entities. It may have been the catalyst behind their separation and even what happened with much of the Victory Day chaos. That, and Colin Coinge's arrogance of course.
+	- To top it all off, The Church of Three fires has established a presence in Tenzentak. This is no exception for The Free Cities as this seems to be a new advent for the entire region. However, what makes Tenzentak special is the presence of the High Conflagrator, and the church's efforts to establish their own legal jurisdiction within the city.
+- The Pathless thought this information was adventure's call. The start of their Hero's journey. Now only one of them remains, and they might never be the same.
+	- Hopefully The Street Dogs have more claim.
+- Seeking rest, our heroes were met with two notable Dreams.
+	- Spade's reoccurring dream— the one where he ascends a set of infinite stairs, was interrupted by a powerful individual. Cal Sey, The Sightless Mother. A hag, and a member of a group Spade knows as "The Others". She warned Spade that Ben had escaped his prison and now was out in the world sewing discord against him. Specifically he unites the enemies of Spade's friends. This is dangerous, but it provides an opportunity. Cal Sey offered a deal. Come with her to The Fell for a time so she can train Spade against Ben while the terrible creature was distracted.
+	- Cyrus had an oddly similar dream. In it, he scoured the labyrinth once more, pursued by his rival Drah'gus. Surprisingly, Cal Sey also entered this dream. She was the same woman who he'd encountered last time but now she was far less aggressive. Introducing herself and offering Cyrus a deal. She would help him in his journey to obtain the old shard, but one day she would offer him a trade and he would have to accept.
+		- Further into the dream, Cyrus pursued Drah'gus all the way to The Lumberjack which sat out of place in the maze. In it, he met with Therin who gave him some advice regarding being under Drah'gus's thumb. Drah'gus was using Cyrus to find what they were both looking for. That knowledge could be used against the changeling elite. If Cyrus could trick Drah'gus using his own conduct as the bait, maybe he could gain the upper hand.
+- **Chapter ends early morning on the the 67th of Spring, Annum 4466**
