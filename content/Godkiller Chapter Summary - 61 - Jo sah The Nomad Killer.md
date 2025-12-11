@@ -1,5 +1,5 @@
 ---
-title: "Godkiller - 61 - Jo sah The Nomad Killer"
+title: "Godkiller Chapter Summary - 61 - Jo sah The Nomad Killer"
 ---
 - **Chapter begins late evening on the the 66th of Spring, Annum 4466**
 - The Hatiat encampment was a bloodbath. Masked mercenaries and Jo'sah rained death as long waiting traps detonated all around.

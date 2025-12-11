@@ -5,7 +5,7 @@ The Chapter Summaries are recaps of major events that occurred in each chapter o
 ## Summaries
 - Book One - Elsewhere
 	- Part Three - Brother
-		- [[Godkiller - 61 - Jo sah The Nomad Killer]]
+		- [[Godkiller Chapter Summary - 61 - Jo sah The Nomad Killer]]
 		- [[Godkiller Chapter Summary - 60 - Bear Trap]]
 		- [[Godkiller Chapter Summary - 59 - Don't Shoot the Messenger]]
 		- [[Godkiller Chapter Summary - 58 - The Hands of Jed]]
