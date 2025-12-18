@@ -1,0 +1,22 @@
+---
+title: "Godkiller Chapter Summary - 62 - Burn Scars"
+---
+- **Chapter begins early morning on the the 67th of Spring, Annum 4466**
+- Jo'sah's attack on the Hatiat had left the Lumberjack's back yard an absolute wasteland of ruined tents, overturned carts, and smoldering remains. Guildmembers were working hard to disarm the still active mines while Ashian Priests tended to the shattered nomads.
+- After visiting the refugees and spotting a unfriendly face from his past, Spade told the other Street Dogs about how he'd been warned his "benefactor" fell was moving against not just him, but the street dogs as a whole. Uniting common enemies against them.
+- Later leaving the lumberjack, our heroes ran some errands. Visiting an artificer that removed not one, but two trackers from Sherman. One that had been implanted into the leg Gideon had gave him, and another identical one hidden in his chest. They retained the second as a method of using Gain's tactics against him in the future.
+- The second errand was less eventful but equally valuable. Hiring a surgeon to visit The Lumberjack and look after Vintra.
+- The final, and most eventful errand was spent visiting Old Abby. Going over everything taken from The Pathless, decoding more journal pages that told of Fejn's journey to meet Goh'zul plus the possibility of Valmore having a weakness, and finally discovering the broken warforged's secrets.
+- The latter was done almost on accident. Sherman tried to connect to the machine and found himself in that other, mechanical plane once more. There, he attached his soul to that of the dead warforged that had started all of this.
+	- A flood of memories filled Sherman. "Em", as Sherman would later call him, was one of four dispatched expedition warforged sent on an ordinary mission to a place called Wise Man's Fear. On this journey Em grew progressively more and more sapient. Slowly gaining his own will. Wiseman's fear proved a terribly dangerous place. Two of the four bots dying to the endemic creatures.
+	- Em, and his remaining peer were later swallowed by a sinkhole, finding themselves in a mundane cavern. Mundane, save for the out-of-place sword hilt buried in the wall.
+	- Cosmic. Beautiful. So far beyond Em's comprehension he could nothing to stop his approach. With each step, the could on Em's will shed more and more.
+	- Upon touching it, Em's mind was filled with stars and secrets older than the world itself. But a foolish, experimental swing broke some connection he had to the blade hilt. It did not want to be a sword.
+	- The blade shunted away from him, and somehow detached gravity's influence from Em, leaving him floating.
+	- Em's peer was seemingly less effected by the blade. It carefully extracted the sword hilt, and left.
+	- Months passed, and Em could do not but obsess over the blade, and its loss. The only memory he had of it scrawled onto a piece of paper.
+	- Then one day more geological activity shot Em high into the air. A trajectory that would eventually result in him smashing down onto the floating island where you'd found him.
+- Something was clear. The sword hilt WAS found. The guild, or the academy might be its current owners. The notion giving much more clarity to the divide between the two entities. Beyond that, Haith had once tried to destroy the evidence you'd just seen. What was going on here?
+- The day concluded with a return to The Lumberjack. Vintra had awoken and it was clear he'd been shattered by yesterday's attack. With nothing to lose he spoke as an open book. Telling the final Hatiat intel not yet learned by The Street Dogs.
+	- The Church of Three Fire's sought something. Or perhaps already had it. A tool to make weapons of the dead. An army to storm heaven and kill the gods.
+- **Chapter ends on the evening of the the 67th of Spring, Annum 4466**

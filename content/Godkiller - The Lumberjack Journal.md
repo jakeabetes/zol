@@ -15,3 +15,5 @@ title: "Godkiller - The Lumberjack Journal"
 - [[Godkiller - The Lumberjack Journal - 4 - Terrible Silence]]
 - [[Godkiller - The Lumberjack Journal - 5 - Some Terrible Sword]]
 - [[Godkiller - The Lumberjack Journal - 6 - Far From Pleasant]]
+- [[Godkiller - The Lumberjack Journal - 7 - Something to Lose]]
+- [[Godkiller - The Lumberjack Journal - 8 - The One Door I Could Not See]]
