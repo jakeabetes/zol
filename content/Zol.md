@@ -30,3 +30,5 @@ The main purpose of this site is to act as reference material for my TTRPG campa
 
 ## Other Projects
 I have also created a Dungeons and Dragons 5th edition Homebrew ruleset which is meant to act as a compliment to this project. Check out [Turner's Guide to Turns](https://homebrewery.naturalcrit.com/share/Xao0zcbypZQV) to learn more.
+
+Added note for this: [[Skimmer]] combat has been updated and v2 *Skimmers Lite* can be found here on these [slides](https://docs.google.com/presentation/d/1wlwfjnzYjUuwpWlg-brIKmIoKkW6V8KkM54aAdtIHSU/edit?usp=sharing).
