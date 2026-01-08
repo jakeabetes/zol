@@ -1,0 +1,30 @@
+---
+title: "Godkiller Chapter Summary - 63 - The Case of The Missing Sword Hilt"
+---
+- **Chapter begins on the evening of the the 67th of Spring, Annum 4466**
+- The Street Dogs have a lead on the sword hilt. Sorta.
+- Someone had retrieved it. A warforged, not the one retrieved by our heroes but its peer. Precisely *where* that peer had ended up was the question. Both The Bladehammer Guild and Kerketh Academy had a hand in its retrieval.
+- Presently the two eastern powerhouses were at odds, and this relic may be why. Or at least a major part of their conflict. Who has it? And what are they intending to do with it?
+- A third, possibly even worse party may be interested as well. The Church of Three Fires, establishes a presence across The Free Cities. However, Tenzentak stands out as an exception. The High Conflagrator Eldiana is rumored to be in the city. The Pathless seemed to think they were trying to establish a sort of legal power within the region, leveraging the complexities of Alderian Law.
+- The Street Dogs had many options on the table. Committing espionage at the guild, committing espionage at Kerketh Academy, or committing espionage at The Church of Three Fires. Just espionage in general really. Either that or go somewhere extremely dangerous like Wiseman's Fear or Camp Ikas.
+- None of these things were exactly attractive options, so our heroes chose a safer alternative. A healthy mix between espionage and dangerous locations. The ruins of Belzan Tower. Low hanging fruit really. What could go wrong?
+- Spade however had other places to be, and Deimos and Cyrus had more inquires they wanted to make of the evidence gathered. The three stayed back while Magnus, Mal, and Sherman went out for a little mischeif.
+- Belzan Tower's ruins, basically a massive stump of a structure clinging to the edge of The Grand Nothing, were fairly quiet. The once arcane tower was now barely a shell, and were guarded by a single guild member. Moose, one of the fellows who'd you'd clashed with in The First Ring.
+- Stealth, not a particular forte of our present heroes, was forgoed in favor of knocking the big bastard out and shoving him in a Warforged storage locker.
+- Moose was about as happy with the predicament as one would expect.
+- The remains of the tower— if you could even call them that, were falling apart at the seams. Cautiously our three vagabonds scoured the place for the locker Sherman had seen in "Em", The recovered warforged's, mind.
+- Long ago, the night that Curtis Renaull had fallen to his doom, Sherman had experienced a drug induced vision. A warforged, like Em but with no damage, told Sherman of a map drawn leading to the sword.
+- It could have been destroyed in the Victory Day attack, but as luck would have it our heroes found it on the bottom floor of the structure's foundation.
+- Engraved on the inside of the container was a poorly drawn map. A rough approximation of Wiseman's fear.
+- However it wasn't Em's container that held the map, but his neighbor's. This meant not one, but at least two of the four dispatched warforged on Em's expedition had some strange connection to this blade hilt before ever seeing it.
+- Before our heroes could extract with the strange intelligence, the floor began to shift and slide.
+- A maw of moonlight on the exterior wall opened. Yonic and terrible. The Street Dogs could do not but slide with the collapsing structure. Out and into The Grand Nothing once more.
+- Fortunately this much smaller demolition of Belzan was far slower. Sherman managed to grab hold of  a long metal pipe and mal managed to freeze his prosthetic hand to a large hunk of distending debris. Magnus, who'd been in the middle, secured a death grip on his two friend's legs. For a long, dreadful moment the three dangled over the dark void below.
+- Back at The Lumberjack, a singular parting drink amongst Spade, Deimos, and Cyrus turned into two. Then Three... Then Eight.
+- Mal, thinking quickly, used one of his summoned entities to secure a rope back to safety. One by one they strained against gravity and falling bricks. Crawling back into the ruins.
+- Moose was less than thrilled to be saved by his captors as the structure continued to degrade. A bit of wrestling, name-calling, nursing of egos, and eventually bargaining secured a deal with Moose. Six hundred gold bought the man's silence.
+	- It was hard to say for sure if he'd keep his lips shut, but Moose had been one of the guild sellouts to fight for Colin Coinge during the tournament without being one of his lacky thugs. Odds were he'd be content with his coin.
+- Returning home to find Spade gone, our heroes translated another journal entry. One that implied the language of Common was more than some peculiar phenomena. Implying it was once a Language of Power. After the long day The Street Dogs went down for bed.
+- Mal encountered yet another strange dream. One where an older version of himself encouraged him to "get started" on some plan familiar to the two of them involving the taste of "mint and chili".
+- In the waking world, things were even stranger. Sherman, missing his fellow night owl Spade wandered through the Tavern alone where he found Mal standing ominously in the main room, many extra sets of eyes ran down his face and arms.
+- **Chapter ends on the extremely early morning of the the 68th of Spring, Annum 4466**

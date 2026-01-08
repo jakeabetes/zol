@@ -5,6 +5,7 @@ The Chapter Summaries are recaps of major events that occurred in each chapter o
 ## Summaries
 - Book One - Elsewhere
 	- Part Three - Brother
+		- [[Godkiller Chapter Summary - 63 - The Case of The Missing Sword Hilt]]
 		- [[Godkiller Chapter Summary - 62 - Burn Scars]]
 		- [[Godkiller Chapter Summary - 61 - Jo sah The Nomad Killer]]
 		- [[Godkiller Chapter Summary - 60 - Bear Trap]]
