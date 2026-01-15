@@ -18,3 +18,4 @@ title: "Godkiller - The Lumberjack Journal"
 - [[Godkiller - The Lumberjack Journal - 7 - Something to Lose]]
 - [[Godkiller - The Lumberjack Journal - 8 - The One Door I Could Not See]]
 - [[Godkiller - The Lumberjack Journal - 9 - Thunder With No Lightning]]
+- [[Godkiller - The Lumberjack Journal - 10 - God's Favorite Mortal]]
