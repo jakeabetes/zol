@@ -1,0 +1,30 @@
+---
+title: "Godkiller Chapter Summary - 64 - The Deed is Done"
+---
+- **Chapter begins on the extremely early morning of the the 68th of Spring, Annum 4466**
+- Sleep at the Lumberjack was interrupted by Mal suffering from a celestial phenomenon. His connecting to the powers of Chronomancy growing stronger still.
+- Sherman, the sole witness and the distraught mage spent the small hours talking. That was until they were interrupted by a thief. A soup thief.
+- A strange, distraught, and apologetic man was squatting in the garden shed. He claimed to be Gary, a Hatiat refugee. Though it seemed a hollow claim. Even to him.
+- There was something wrong with Gary's memory. He'd woken up nearby with almost no past— no name. What he did know he was hesitant to share. There was, however, something that did seem to actively frighten him. A "travelling companion" of sorts. Whoever he was was dangerous and would be there soon.
+- One by one the Street dogs awoke to meet this Gary. It was odd, but not unpleasant. Until Magnus awoke, that is.
+- Magnus came down on Gary like the hammer of the gods. A blow that would have killed any commoner, sending the stranger flying through the exterior wall of The Lumberjack.
+- But this was no commoner, nor was this simply "Gary". Magnus' home had been invaded by the man responsible for his father's death. Grimmel Bloodvist.
+- Frantic, furious, and confusing, the tavern's side-yard transformed into a dueling ground.
+- Gary was gone. Dispelled. What was left was a confident, intimidating man who knew exactly what he was doing there. Black Stormblessed markings dancing across his sinister face.
+- Magnus's gentle was no where to be seen, replaced by the storm within. Refusing to listen to any reason. He would kill this man.
+- Grimmel went on to further complicated things. His right hand was *wrong*. Deformed. The center of his palm was completely missing a perfect circle, yet it functioned like an ordinary hand.
+- Well, almost like an ordinary hand. Grimmel slapped the ground with it. And from the dirt an earthen dragon was born. Scarred with the imprint of his hand.
+	- Just like the ones from the day of dragons.
+- There was a war within this man. Gary resisting the urge to attack Magnus, screaming at one point that "He's not Stormblessed".
+- Wounded, Grimmel took off, vanishing westward. Leaving the Street Dogs a bloody mess.
+- Magnus was furious at his rival's escape. Blaming some of it on his fellows.
+- Unfortunately the day did not get better. In the morning an extremely unpleasant visit from the local baron, Lord Stoneshard.
+- A gods damn eviction. The Lumberjack's deed was apparently not as sound as one might have assumed. Some nefarious tax dealings done by Lord Stoneshard had set him as the legal owner of the establishment.
+- Lord Stoneshard however knew the claim could be contested, and tried to goad our heroes to assault him. An act that would have garnered him favor in the courts.
+- Fortunately the local, dorky scribe came to the rescue. Heron Cliffwalker, a prospective student of law, spotted Lord Stoneshard's game. 
+- Heron talked The Street Dogs out of violence, and constructed the beginnings of a plan to get them their tavern back.
+	- Infuriating and wrong as it was, there was a ray of hope. Mal is a baron— by extension, afforded certain legal rights.
+	- Things would take time. A 100 gold piece retainer was put down on Bulliard Law, and the Street Dogs begrudgingly left to take care of other business.
+- There were answers out in The Grand Nothing. A visit with Old Abby hammered out a plan to visit Wiseman's fear, and our heroes hopped on the lift.
+- All things come in threes. A final piece of bad luck befell our heroes. *Somehow* a collapse at Belzan Tower's Ruins dropped a heap of rubble on a Skimmer Hanger. Destroying dozens of the expensive machines. Only the dregs were left unreserved. Though there were a few idle, higher quality skimmers sitting about...
+- **Chapter ends on the extremely midday on the the 69th of Spring, Annum 4466**
