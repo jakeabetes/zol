@@ -5,6 +5,7 @@ The Chapter Summaries are recaps of major events that occurred in each chapter o
 ## Summaries
 - Book One - Elsewhere
 	- Part Three - Brother
+		- [[Godkiller Chapter Summary - 65 - Three Things All Wise Men Fear]]
 		- [[Godkiller Chapter Summary - 64 - The Deed is Done]]
 		- [[Godkiller Chapter Summary - 63 - The Case of The Missing Sword Hilt]]
 		- [[Godkiller Chapter Summary - 62 - Burn Scars]]

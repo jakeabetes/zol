@@ -42,3 +42,4 @@ title: "Godkiller - Weavings"
 - [[Weaving - The Goliath's Reflection]]
 - [[Weaving - Scriptures of Nothing - 3]]
 - [[Weaving - A Gap In Reality]]
+- [[Weaving - Loser's Losers]]

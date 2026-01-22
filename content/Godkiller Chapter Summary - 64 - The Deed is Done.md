@@ -27,4 +27,4 @@ title: "Godkiller Chapter Summary - 64 - The Deed is Done"
 	- Things would take time. A 100 gold piece retainer was put down on Bulliard Law, and the Street Dogs begrudgingly left to take care of other business.
 - There were answers out in The Grand Nothing. A visit with Old Abby hammered out a plan to visit Wiseman's fear, and our heroes hopped on the lift.
 - All things come in threes. A final piece of bad luck befell our heroes. *Somehow* a collapse at Belzan Tower's Ruins dropped a heap of rubble on a Skimmer Hanger. Destroying dozens of the expensive machines. Only the dregs were left unreserved. Though there were a few idle, higher quality skimmers sitting about...
-- **Chapter ends on the extremely midday on the the 69th of Spring, Annum 4466**
+- **Chapter ends on the extremely midday of 69th of Spring, Annum 4466**

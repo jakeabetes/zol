@@ -32,3 +32,6 @@ The main purpose of this site is to act as reference material for my TTRPG campa
 I have also created a Dungeons and Dragons 5th edition Homebrew ruleset which is meant to act as a compliment to this project. Check out [Turner's Guide to Turns](https://homebrewery.naturalcrit.com/share/Xao0zcbypZQV) to learn more.
 
 Added note for this: [[Skimmer]] combat has been updated and v2 *Skimmers Lite* can be found here on these [slides](https://docs.google.com/presentation/d/1wlwfjnzYjUuwpWlg-brIKmIoKkW6V8KkM54aAdtIHSU/edit?usp=sharing).
+
+## Note about AI Imagery 
+This website uses AI images and I mean to change that. **None of the writing is AI**. AI images are something I regret implementing. The initial creation of this project coincided with the start of the AI boom. At first I thought it would be a cool way to give a visual element to what was intended to just be a giant writing project. Current me hates this. However, this site is quite large and was not created to accommodate the mass deletions of resources without breaking things. I have yet to remove the images. Just know that removing them and replacing them is the plan. Life is unfortunately busy and I have yet to schedule in attornment for my crimes against humanity.
