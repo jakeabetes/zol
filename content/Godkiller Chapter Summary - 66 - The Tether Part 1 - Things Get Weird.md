@@ -1,0 +1,26 @@
+---
+title: "Godkiller Chapter Summary - 66 - The Tether Part 1 - Things Get Weird"
+---
+- **Chapter begins on the late evening of the the 67th of Spring, Annum 4466**
+- Our heroes had their cozy encampment attacked by a giant purple wurm. A creature so fearsome that killing it wasn't even on the table.
+- Fleeing however wasn't so simple. The creature had flipped both skimmers and The Evildoer needed a jump start.
+- Thinking quickly, The Street Dogs tried to bury the worm in spells while resetting their transportation. Requiring Magnus to deadlift The Evildoer while tethered to the moving Ibinyo.
+- The relief of escaping without being swallowed was quickly overshadowed when The Street Dogs barreled through a trap. One that painted the skimmers in glowing goo. Harmless if not for the Ger'zar bandits that sprung from the shadows to hunt them.
+- Go'igi was recognized by one of the assailants. An asshole named Slider. Slider called him a coward for merely being alive and identified Sherman as a highlander. Not one of the *philosophers* Go'igi seemed to think Sherman was. This complicated things for Go'igi but he quickly stood his ground. Siding with The Street Dogs.
+- The fight was evenly matched, until poor Cyrus was ripped from his form and thrust into his true body in The Glassius Reach. Unfortunate on any day but worse in the driver seat of The Evildoer.
+- Sherman pulled his friend from the seat and took the wheel. Unfortunately it was soon encased in hardened alchemical foam. Rendering The Evildoer a steering-locked missile.
+- This left Sherman and Go'igi sitting ducks as the bandits were keen on kidnapping the automaton.
+- Across The Three Corners (literally), Cyrus (or Ventril) was being violently interrogated by a panicked Vincet. Vincet was desperate for information on why Cyrus suddenly lost his tavern and vanished into The Grand Nothing. It seemed he was convinced it had something to do with The Ikas Feather.
+- Vincet was so desperate for information he went as far as to execute Olsen, a young innocent girl Ventril considered family merely to illustrate his seriousness. Before Vincet could get another prisoner to threaten Ventril with, the wall to the interrogation room exploded.
+- Someone had come to save Ventril. Dell, A powerful speaker, and Ventril's old human mentor. Despite the years the man didn't look a day had passed. However he somehow did look older at the same time. There was only a moment of discordant confusion before Ventril suddenly realized. **That** was Mal.
+- Back in The Grand Nothing the Ger'zar bandits focused everything the had on The Evildoer. Worse, a distant caravan was spotted. Its trajectory on track to intercept the fray. **Kingmaker** was all Go'igi sad about it. Fear in his eyes. This was the holy slaver caravan
+- Unable to change the trajectory of one of their Skimmers Magnus and Sherman jumped into action. A clever trick with Magnus' thrown spear and a length of rope allowed them to hold on to a tether between the two skimmers. Leaving the wheel of the Ibinyo to Mal.
+- In The Glassius Reach, Dell (or... Mal?) was able to subdue Vincet, providing an opportunity to flee. Dell only gave a vague description as to what he was doing there. This was not the true Dell, but a clone with modified memories. He could only say what he knew, and even that he was hesitant to do so.
+- They needed to escape. Fortunately The Ikas Feather was attacking the dungeon for an unrelated reason and they could escape in the chaos if they got Ventril to teleportation range.
+	- However, Ventril was not keen to leave his family behind.
+- Dell also had information about The Grand Nothing. A landslide was soon to occur in the Baradan Canyon, collapsing a pass that was shaped vaguely like a hand displaying its middle finger. Timing it right, the street dogs could use this to cut off their attackers.
+	- Unfortunately it was up to Ventril to get this information to them. A task not so easily done as his other body wouldn't respond to his will.
+- Fighting through the labyrinthine dungeon the arcane duo stumbled into two familiar faces. Curtis Renaull who was now battling in Ikas Red, and Ke'shevik. The elf who you'd all witness get killed by Valmore during Curtis's funerary ceremonies.
+- All of this was made more confusing as most of Dell's actions resulted in surges of wild magic. Manifesting Unicorns, filling Dell's mouth with bubbles, and cloaking everyone nearby with invisibility.
+- Mortal peril saturates every decision. Cyrus unconscious, The Evildoer's steering locked and shields near to breaking, Magnus and Sherman fighting to keep the skimmers inline, and Mal battling to steer the skimmer down the dry canyon riverbed. Only Deimos has his hands free...
+- **Chapter ends late night of the the 67th of Spring, Annum 4466**
