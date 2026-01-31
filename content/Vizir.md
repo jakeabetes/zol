@@ -26,5 +26,7 @@ When one 'burns' their [[Vizir]] they go into a sort of trance, and experience t
 
 While most commonly observed amongst mages, there have been record of warriors, unpracticed in magic, emitting the same repelling force in battle.
 
+*For a dungeons and dragons 5th edition in-game ruleset for a vizir burn see [here](https://docs.google.com/presentation/d/1oJvrGpYBv33UHgBiTaMMnD8oV2IJNARoMXfvWa9rwkA/edit?usp=sharing).*
+
 ## Vizir and Lifespan
 It is not known why, but a stronger [[Vizir]] tends to extend ones lifespan naturally. This seems to vary on a case by case basis. Some powerful individuals have been known to live almost 3 to 5 times as long as expected.
