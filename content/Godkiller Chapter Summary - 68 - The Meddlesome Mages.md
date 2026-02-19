@@ -9,7 +9,7 @@ title: "Godkiller Chapter Summary - 68 - The Meddlesome Mages"
 - Behind our cowering mages Vincet finally escaped his magical bonds, closing in and pinning The Street Dogs against the threat of the Omnicura.
 - Preferring a fight with Vincet over the monolithic sentinel, they threw all of their magical power against the sadistic foe. Dell's prowess, limited in his current state, was still more than enough to unravel Vincet. Killing one of Ventril's long time rivals and the recent killer of his friend.
 - This act however was not without cost. Dell had pushed too hard on the timestream. Without warning an immense machine appeared. A marut. A celestial of Kaszu. The otherworldly thing did not hesitate before crushing Dell's clone like an insect. Leaving only an arm marked by a tattoo of a dogs head.
-- The Marut left as soon as it appeared, leaving Ventril no choice but to run. The Omnicura however did not allow this to occur. Trapping Ventril in its web of magic.
+- The Marut left as soon as it appeared, leaving Ventril no choice but to run. The Omnicura however did not allow this to occur. Trapping Ventril in its web of glassian magic.
 - Before Ventril could make an attempt at escape,  something tore from the sky. Like a rock thrown by a catapult. But this was no stone. A man, one emanating a vivid aura of anger slammed into the Omnicura like a comet.
 - Thresh, Damian Ikas' champion, made the thing look like a toy. Destroying it in moments.
 - Freed from yet another trap Ventril immediately found himself under the press of a spear. A recognizable one. Death's Distance, wielded by Damian Ikas himself.
