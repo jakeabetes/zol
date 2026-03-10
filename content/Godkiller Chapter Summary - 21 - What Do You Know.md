@@ -1,0 +1,18 @@
+---
+title: "Godkiller Chapter Summary - 21 - What Do You Know"
+---
+- **Chapter begins just before sunset on the 19th of Spring, Annum 4466**
+- Our heroes decided that the next course of action was to look into the acquisition of the 1-5 Potentium itself, and explore the Burgand Law lead.
+- Cyrus and Mal snuck into the archives using Mal's knowledge, and Cyrus' capacity for disguise. Adopting invisibility and the appearance of Guild Mind Master Colin Coinge respectively.
+- In the Archive's tiny reception area they found Jaxon Door standing guard. One of Colin Coinge's Mercenaries. There typically aren't guards of his nature in this region of the guild.
+- Inside, the two bullied their way into the restricted section where Mal managed to suss out the records they were looking for. Many guild minds had voted in favor of acquiring 1-5 Potentium to wipe out The Ikas Feather including Persephone Drone, Master Willem Bellard, Master Colin Coinge, and a Master Yaddiao. Cyrus' sticky fingers also stole a random scroll off the shelf.
+- The two of them squandered Master Coinge's reputation a bit more before leaving, but were stopped by Jaxon Door.
+- Believing Cyrus was Coinge, our heroes managed to learn a few things. Apparently the real Colin Coinge had left the city, and somehow orchestrated the demise of Master Willem Bellard within the dungeon.
+- Across the city, the rest of our heroes were pounding on the door of Bellard Law. A young, grey-blue haired half elven scribe named Heron addressed them at the door, and fetched Burgand for them. He proved to be a tired no-nonsense attorney that defended rag-tag groups of heroes from time to time. It seemed he was a "don't ask, don't tell" lawyer associated with The Ikas Feather.
+- Concerned for Bellard's fate, and the evidence that may be associated with it, Mal sprinted across town to find the rest of the gang while Cyrus made for the dungeon where he proceeded to harass a guard as Coinge for many minutes.
+- Thanks to Cyrus' distraction, Mal was able to slip slug past the guards and investigate. What they found was a room with a substantial amount of dried blood, and a utilitarian warforged's corpse missing one of its hands. Unbeknownst to Mal in the moment, it was the corpse of Coop. The odd warforged that was met in the dungeon. Coop was covered in blood that forensically hinted that he'd recently conducted a murder.
+- As the group lingered in the quiet hall of the guild, assassins attacked. They sought Rozwald once more.
+- A frantic battle ensued in which poison was employed, guards were alerted, and a thug was thrown into The Grand Nothing.
+- Rozwald was badly wounded but Sherman managed to scoop him up and flee with him.
+- One assassin was knocked out, and another was cornered by Deimos and Mal where he was asked what he knew...
+- **Chapter ends late on the 19th of Spring, Annum 4466**

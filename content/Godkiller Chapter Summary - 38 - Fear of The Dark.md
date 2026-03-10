@@ -1,0 +1,28 @@
+---
+title: "Godkiller Chapter Summary - 38 - Fear of The Dark"
+---
+- **Chapter begins on the very early morning of the 48th of Spring, Annum 4466**
+- Our heroes had slain a medusa queen, and managed to convince one of her goblin underlings, Ghim, to join their quest.
+- Ghim, being a local to Cliffover, proved a useful and adept hunter. Securing ample rations from the forest.
+- The group, despite their road-weary state, made good ground towards Holocene.
+- Along a seldom used path, they spotted a familiar hat. One that belonged to Captain Murdoch.
+- Further along, a wounded woman was found. Claiming to have been an member of an attacked caravan.
+- The group was skeptical of her pleas, but Curtis was adamant with desire to help.
+- As expected, the woman soon transformed into the Slaad, and chased the group.
+- A chaotic retreat led into a swamp where they tricked the Slaad into a trap beneath the wetlands. Securing a safe exit.
+- Camp that night was moderately safe, but disturbing. Deep, unnatural shadows emanating the will of [[Observance]] seemed to watch the group. Hiding away from any magic used to examine them.
+- The next day our heroes had to cross The Willowcreek Chasm where they reunited with Captain Murdoch and his surviving men.
+- Murdoch claimed to know a way across but his ill intent was poorly hidden.
+- The Street Dogs clocked Murdoch's betrayal before it happened, and a fight ensued. Palce's men joining the fray.
+- Many bandits were killed. Some thrown into the chasm itself. Unfortunately, Ghim was met with that fate. Dying with honor.
+- Escape was required once again, and found in the form of an old druidic way stone. A relic that could open a portal to its companion when imbued with power. The group activated it, and Magnus pushed it off the cliff just before he went through.
+- The group found themselves at the bottom of the chasm. The destination endpoint having fallen in long ago. 
+- Curtis had unexpectedly received a mortal wound in the fight, nearly dying. After being healed, he admitted through tears that back at the masquerade party it had been him who'd killed Mavis Morp and the servant woman witness.
+- Camp was made while Curtis stared off into space. The chasm providing what had been the most comfortable rest since The Hangman's Tree. However, those strange shadows returned. Watching silently.
+- Our heroes awoke on Fay'n, the fiftieth day of spring. Leaving the chasm via the better half of an old rope bridge. Using it like a ladder.
+- Rain made their final stretch to Holocene miserable, but not nearly as bad as the signs of violence along the road.
+- Bodies torn apart and cast into trees. Rubble and small craters left as evidence of dangerous magic.
+- Holocene and its outer villages were spotted in the distance, but the journey, and its perils, were not yet done.
+- The body of the Slaad was discovered. Its head entirely gone. Killed like a doll. Something far worse than the perilous demon was stalking these woods.
+- Shouts of terrified fleeing men chased the party into a dead end gully. And in the distance, a looming shadow darkened the sky.
+- **Chapter ends on a dreary night on the 50th of Spring, Annum 4466**

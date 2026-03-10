@@ -1,0 +1,30 @@
+---
+title: "Godkiller Chapter Summary - 53 - Opportunity"
+---
+- **Chapter begins on the sunrise of the 55th of Spring, Annum 4466**
+- The clap and flash of divine power held within the retrieved storm drain was the last thing our heroes recalled before going under.
+- In a deep, comatose sleep. Magnus found the lost half of a plaguing memory. A being who'd told him he would not die a hero. He would be reborn one.
+- Sherman was first to return to the waking world. His legs replaced at the behest of Gideon Gain. He'd been out for two days, and his friends were all put into medically induced slumber so they could heal from their wounds.
+- Cyrus was a unique case. His body refusing medicine, responding only to the inner layer of his nesting doll. Two brothers embracing.
+- Something was happening to the mysterious man. In his deep slumber, he found himself a part of some alien game. Shady figures in a maze of mirrors. Each armed with a rusty dagger. Drah'gus, a rival known only to Cyrus, a man in white, and someone presumably named "Urdish".
+- Then of course there was the strange woman dressed in the fashion of the [[Hags]] or a the Great [[Witches]]. Her wrath brought the experience to an abrupt end.
+- Eventually everyone awoke. Finally able to contend with the events that transpired five days prior. Scars mar The Street Dogs skin, and the streets of Holocene.
+- Magnus, with the help of others, investigated his body and power. Discovering that he in fact did bear a Death Scar. Viz was storm blessed, not him. The tiny dragon is the only force keeping Magnus away from The Mortal Coils grasp.
+- Rumor has it that Valmore was the one to finish off the Dragon. Apparently even the storm drain explosion didn't do it. Yet another instance of stolen valor.
+- Going to see VanVeld they found the lord giving audience to dozens upon dozens of strained nobility. Each hoping to restore order, or profit from the recent tragedy.
+- An Alderian Council Inquisitor interrupted the session to announce that Lord VanVeld would be under investigation for the suspicious death of Lord Curtis Renaull. VanVeld simply smiled, announce the secession of Holocene, and had the inquisitor arrested along with her men.
+- Spotting the party, VanVeld announced a recess and met with our heroes in private. Their reward for his help would be a conversation. Potentially the first true insight into who this mysterious shadow group pulling the strings was.
+- He alluded to the party's importance on the grand scale, but was more keen on the party understanding that they weren't exactly special merely for being involved.
+- Valmore seemed the highest power in context. The word of Shadow apparently having been the one who finished off Hethrogon, yet giving credit to Fire.
+- VanVeld also openly admitted to the fact that his organization were the one's who killed Giriam. Valmore having been the one who pulled the proverbial trigger.
+	- It was apparently accomplished using some sort of mask. An ancient relic unknown to VanVeld.
+- Their mission is to kill the gods and create a flat hierarchy. If everyone is a god, then no one is a god.
+- He parted with tickets to Tenzentak, and warnings to keep the information close. Telling only Roz, or Abby. And to not get involved if you don't have to. Follow your heart, he said.
+- Parting from VanVeld, Spade asked the question dangling in the center of his mind. Where would he go now? The Street Dogs and he sided to resolve the chaos surrounding The Dragon Bane. Now that was all done he was without clear direction.
+	- The rest of our heroes met his confusion with companionable impatience. There was nothing to wonder; he was one of them now.
+- Making for the train, our heroes tried to find Curtis. Discovering an abandoned Ikas Feather safehouse with evidence of Curtis' being there.
+- Finally leaving Holocene the way they should have came, Magnus told of his rival Grimmel. A person VanVeld mentioned offhandedly. The Hossian royal was rumored to have fled [[The Ward]] for some unknown purpose.
+- The train ride provided some much needed peace. Four days in luxury would be a grand improvement from the last two weeks.
+- The current state of affairs did not allow for passengers to disembark, but an errand boy was able to buy Mal the supplies he needed to parse the first pages of The Lumberjack Journal.
+	- A tale of Fejn's contempt for Valmore, and a witch who fought back.
+- **Chapter ends on the evening of the 61st of Spring, Annum 4466**

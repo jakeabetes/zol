@@ -1,0 +1,32 @@
+---
+title: "Godkiller Chapter Summary - 65 - Three Things All Wise Men Fear"
+---
+- **Chapter begins on the midday of the 69th of Spring, Annum 4466**
+- Our heroes did not want to settle for a crappy skimmer for their journey. Even if it might be their fault there was hardly any available.
+- Guild Mind Aramis, a unfamiliar guild mind with a reputation for being an asshole, had two enticing skimmers on standby. Yet he was nowhere to be seen.
+- At the Low Cross, a tavern located at the base of Gilligan's Lift, they sought someone to bug about the situation.
+- Adja Corsair was conducting some face to face discussions, seeking updates on the situation out in The Grand Nothing.
+	- Things were bad out there. With the Ikas Feather gone and the guild tied up dealings in Alderun bandits had the run of the wasteland.
+	- Adja complained about Aramis, and his problems with punctuality. She was under a lot of stress. Not only was the guild dealing with dragons, The Church of Three Fires, the divide with Kerketh, and the damage to their city. A new crime syndicate was emerging in the rifts.
+	- Fortunately her bad mood served The Street Dogs. They asked if she could pull some strings and get their skimmer, a rusty flat pan, exchanged for the absent guild minds much nicer skimmers. This idea seemed novel to her and she agreed.
+- The Street Dogs were briefed on the situation they'd be heading into by the hanger attendant.
+	- The Kulani, a once irrelevant gang of bandits had come across a windfall of skimmers. Likely left behind by The Ikas Feather. They were terrorizing the region beyond just beyond the guild patrols.
+	- The Kulani were essentially at war with the much greater, but distant forces of the Ger'zar bandits.
+	- Ger'zar would be the dominant force closer towards their destination. And there is word of a very powerful Caravan on the move. Something called a Kingmaker.
+	- Apparently slavers of the far west would strike deals with the Ger'zar. Teleporting groups of slaves to be sold a neutral locations in the grand nothing to the dangerous bandits. This caravan's job was to pick them up, and bring them back to their fortress. It was something the bandits took *very* seriously and brought the firepower to match.
+	- Lastly Site Heron, most recently controlled by Kerketh, had gone dark. No one knows what situation those mages found themselves in out there. One can only assume with the recent surge of banditry.
+- Heading out our heroes tore across the world's scar once again. Some for the first time. The alien beauty of the lower world, and the heat of coming summer made for a day of chatting and contemplation.
+- Magnus, who had more than enough to think about, found his thoughts drifting to his late father. The fight with Grimmel bringing one of his favorite sayings to mind.
+	- There are three things a wise man fears. A sea in storm, a moonless night, and the righteous wrath of a gentle man.
+	- Something stirred within Magnus. He was enraged at Grimmel's reappearance and invasion into his life... but there was something more. The sensation was like a connection to something greater.
+		- Memories of The Street Dogs first encounter with the Ikas Feather. The champion they'd been tried against, Kresh, had a contagious rage about him. It colored the edges of what Magnus felt now.
+- At camp that night Mal translated another entry of the journal. Presumably the first entry Fejn ever wrote in it. In it, he discussed his turmoil, visions of black dogs, and his dark brother's determination to destroy the city of Audran.
+- The next day our heroes encountered the aforementioned bandit war in a violent way. Thrust into a skimmer fight head on, The Street Dogs had to dodge through the flow of traffic as Kulani hunted Ger'zar bandits.
+- After escaping the fray, a strange man was spotted alone in the wasteland. Go'igi, a half-machine Ger'zar kamikaze bandit that had lost the explosive meant to take his life. Go'igi though he'd died at first, especially when he saw Sherman.
+- For some reason Ger'zar worship machines. Warforged most of all. Once the zealot was convinced he was in fact not dead, Go'igi gave his full devotion to Sherman. Agreeing to accompany The Street Dogs to Wiseman's Fear.
+- At camp that night Mal, to no ones surprise, spent more time reading. This evening was focused on texts Abby had lent. The subjects included:
+	- Warforged consciousness and repair.
+	- Studies on ancient language. An effort he abandoned because Mal himself had surpassed the old teacher.
+	- And the vast subject of Dreams. An unfortunately too-large study. Dreams encompass a wide aspect of magic, and sapient experience. Fortunately Abby was able to highlight some of the common symbols and signs seen in our heroes' shared dreams.
+- Sleep, unfortunately was not found that night. As just as the party was laying down for bed, one of The Grand Nothing's endemic predators. A gigantic, toothy, purple wurm.
+- **Chapter ends on the late evening of the the 67th of Spring, Annum 4466**

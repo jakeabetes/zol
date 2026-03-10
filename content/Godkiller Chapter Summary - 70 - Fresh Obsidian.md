@@ -1,0 +1,34 @@
+---
+title: "Godkiller Chapter Summary - 70 - Fresh Obsidian"
+---
+- **Chapter begins on the very early morning of the the 69th of Spring, Annum 4466**
+- Cyrus had taken the initiative to go through Arcanist Erictho's things. While she slept. Right next to her. Resulting in a way that surprised no one but Cyrus.
+- Erictho was less than pleased to find someone going through her belongings. She held Cyrus under arcane threat while interrogating him for everything that she could get.
+- Cyrus was happy to oblige in exchange for his life of course. Their discussion revealed much about Erictho's true intentions.
+	- She was indeed a Skeptic of Kerketh, but only an initiate of sorts. Her sole connection to the network of conspiracy theorists having been Colin Coinge. Her sponsor, and a man she very clearly did not like.
+	- Cyrus leapt at this. At first claiming association with Coinge, then when that only provoked her anger told her the truth about being the one's who'd killed him.
+	- Erictho, with no one to confide in let the words fall out. Purging them to the man she was about to kill. She didn't say everything of course, but explained what she was really doing out in The Grand Nothing now that everything had fallen to pieces.
+	- The bloomed corpse that had arrived in her bedchamber prior to the discovery of The Blooming Man himself held more secrets than the other mages knew. Erictho had used necromancy, an illegal art, in an attempt to interrogate the corpse. She'd wrongly assumed that she'd have authority over it.
+	- The body was not hostile, but it was under the direction of The Blooming Man. A creature who was was in fact Arcanist Urbon. The previous head of their expedition. When he'd gone to Wiseman's Fear (in pursuit of the beacons) they had discovered an anomaly. Presumably the site where Em had encountered The Godkiller. 
+	- Something had changed he and his colleagues. Whatever it was had left Urbon altered not just in body but in mind.
+	- Urbon claimed to be on the cusp of a cosmological discovery. One pertaining to truth itself. However he needed more resources for research. More bodies...
+	- Erictho reasonably denied the request to surrender the physical forms of herself and her colleagues. And indirectly entered into academic competition with The Blooming Man. It seems neither party was set on acquiring the sword hilt, but rather comprehending the phenomena occurring in this swathe of The Grand Nothing.
+	- In fact when Cyrus mentioned the sword hilt Erictho seemed entirely perplexed. Convinced that no one out side Site Heron knew of its existence. 
+		- If someone this close to the events thought it to be a secret, then how does The Three Corners know of what happened out here?
+	- This mystery was further reinforced when Erictho heavily implied that The Tower was not blocking communications. She was.
+	- Cyrus also admitted that he and his friends were in fact not Kerketh, but The Street Dogs. A band of misfits associated with The Bladehammer Guild.
+	- Erictho scoffed at this and called our heroes 'moths'. A nickname used by Skeptics for adventurers who get too close to The Secret War such as The Pathless had.
+	- She appreciated Cyrus' candor, but ultimately couldn't trust him solely based on their past dalliance with Colin Coinge.
+- Back in The Street Dogs sleeping quarters our heroes realized they'd been locked into the wing by a wall of force. The only option available to them (as they saw it), was to delve into labyrinthine section of the tower and hope for a route around the wall to save Cyrus. Tying a rope to a column they jumped into the liminal space.
+	- and a few moments later they dangled above a pit...
+- Erictho had already blasted Cyrus with flames when Dac had sounded an alarm at the front door. The Blooming Man had set a new plan in motion.
+- He struggled across the desert. Dragging a furious creature. A long writhing being spewing magma to and fro. It was clear he intended to release it within Site Heron.
+- Pressed for options Erictho decided to trust Cyrus. If he rallied his friends to fight along side the arcanists that is. Cyrus agreed and ran into the depths after them. Leaving the mages without much warning.
+- Cyrus was soon swallowed by the tower's magic, but brought in close proximity with his friends. Fortunately to a place where he could rescue them after a fair bit of struggling.
+- Their attempt to return back to the tower entrance proved less than straightforward. Sherman's intuition, or possibly luck was the thing that got them out of the confusing space to discover the monster *and* the mages, were gone. At least the alive ones were.
+- The Blooming Man patiently waited outside while The Street dogs sifted through the burning rubble. Finding:
+	- The full extent of Erictho's available notes, and her dependance on Barnabas. The Transmutation expert that had been kidnapped by Ger'zar.
+	- Yves and his hallucinations of black dogs. Not unlike Fejn's from the journal.
+	- And Ibes extensive notes on Site Heron and the rumored alternate exits.
+- The Street Dogs have learned much, but are no closer to  escaping The Blooming Man than before save for the mention of something deep in The Tower. The Inverted Door.
+- **Chapter ends on the early morning of the the 69th of Spring, Annum 4466**

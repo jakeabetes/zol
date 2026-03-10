@@ -1,0 +1,39 @@
+---
+title: "Godkiller Chapter Summary - 27 - Bar Rescue"
+---
+- **Chapter begins the 22nd of Spring, Midday, Annum 4466**
+- Our heroes had the tools necessary for restoring their tavern. Now they just had to actually do it.
+- The first order of business was attach Sherman's new arm. A task completed by Mal and Rozwald who discovered an alarming phenomenon amongst the runes that power Sherman's mechanisms. A mortality rune, an artifact of [[Necromancy]], burned into Sherman's chest cavity. Sherman had died, touched [[The Mortal Coil]], and returned from [[The Ethos]].
+- After that concerning discovery, the gang decided to talk future plans for their new Tavern. The general consensus was to inhabit the upper floors, and allow the 2nd and 1st to function as the main body of the Tavern. There would also need to be careful precautions taken for the Basement as that was where The Door was located.
+	- Sherman and Rozwald would take the 4th floor tower with plans to add a dividing wall.
+	- Mal and Deimos taking the 3rd floor tower rooms, with plans to connect the two distinct sections (The Tower and Main House) via a hallway.
+	- Magnus taking the 3rd floor master bedroom, one of the few rooms suitable for a person of his size.
+	- and Cyrus would take the basement lodging to keep a closer eye on The Door. Likely with the intention to knock down some of the walls, and form a larger room.
+- While these plans gave direction, they were a long way off. Our heroes needed materials and set of towards the city to get some.
+- The city was sadly not in a place to provision. With the fallout from the Victory Day attack, most efforts were focused on aiding the wounded, and clearing rubble from the bomb blast, and smaller Psudeoforged clashes all across the inner city.
+- Mal had the bright idea to capitalize on some of the salvage. By clearing rubble, it was likely that no one would care where they took it. Cyrus, Deimos, and Rozwald set to finding some suitable materials while Mal, Magnus, and Sherman ventured to see Old Abby.
+- The professor was busy to say the least, and was discovered raising his voice at a few [[Kerketh Academy]] Academics. He apologized for the outburst and greeted our heroes. Abby recognized the actions of The Street Dogs, and how they saved hundreds of lives despite the disaster.
+- He spoke of the city and the state of the guild. All things considered the chaos was slowly being formed back into order, but the people are quite frazzled. He informed our heroes of an official guild address the next morning, and urged them to attend.
+- Before leaving, Sherman asked Old Abby about Yaddiao. Old Abby gave what little he could, acknowledging the challenges Sherman faces, and offering any help he could.
+- The rest of the day was spent hauling lumber debris into a salvaged cart. The cart had been restored by Rozwald who had employed a beggar to find a "lost wheel" for him.
+- On the way out of the city, Aleksander Salt's bounty was checked and found to still be active, and Mal purchased some academic's supplies.
+- The party rested while Deimos' was tormented by his recurring nightmare. In the morning, they found Sherman who seemed extremely pleased with himself. The automaton had found an "abandoned ladder". The other's didn't have the heart to explain that he'd stolen it from an apple orchard.
+- Back in Tenzentak Proper, The Street Dogs attended the Guild Address where many things came to light
+	- [[The Bladehammer Guild]] fessed up to their failures. Publicly admitting that they had been the one's to order the 1-5 Potentium to the city. A purchase made in preparation to deal with the Threat of The Ikas Feather. Their actions had left 243 Dead, 1003 injured .
+	- Tardich had somehow found a stray X-Model [[Warforged]]. The warforged had been "magically interrogated" revealing Colin Coinge's plot to the guild. Helg publicly announced the fact that the attackers were not free Warforged, but falsities made to spread fear. Hopefully the public will listen.
+	- Guild associations with Kerketh were indefinitely suspended. A major development as this means the two largest, non governmental entitles in [[The Free Cities]] are now at odds.
+	- Guild Mind Master Colin Coinge was denounced and his death was made known. However, Helg did not say who had killed him.
+	- Many guild members were thanked for their bravery, including the party who were credited with saving Cliffside square and Guild Mind Adja Corsair. However, none would be 
+	- The sudden presence of [[Ashian]] doctrine in the city's streets was also mentioned in a negative light.
+	- Finally all Guild affairs are now focused within The Free Cities until order is restored.
+- The guild was in an outrage, but before our heroes could be swept into the chaos. A scribe pulled The Street Dogs aside and brought them to Helg's office to speak in private.
+	- There, he sincerely thanked our heroes without any hint of politics.
+	- The Street Dogs events over the last week were accounted for in great, formal detail. Helg was thorough in his questioning and seemed keen on them details of Colin Coinge's span read communications and the name "Lars Journin". He also informed the party that Lord Rozwald was being protected by [[Laenwalde]] and  [[The University]].
+	- Guild Master Helg also offered any favor he could.
+		- Providing what little detail he had on Yaddiao, who is likely in [[Eucaren]] or [[Audran]]. 
+		- A writ of endorsement for Mal to maybe help him access exclusive archives across [[The Three Corners]].
+		- A set of high-quality magical communication devices known as Bethar's Bells.
+		- And finally, giving what little manpower he has in [[The Ward]] instruction to offer aid to [[The North Honor]]. A meager thing, but it is the best [[The Bladehammer Guild]] could offer Magnus in the current situation.
+	- The last point of order was an arrowhead dug out of Lord Curtis Renaull's Shoulder. An arrowhead distinctly made in the fashion of [[Dreadslayers]]. Not only had they shot a noble, but Lord Renaull had contracted Bandits Blight. A magical form of infection caused by the cross contamination of monster viscera. He would lose his arm. Few knew The Street Dogs had shot him, but Helg wants to ensure there is a record of good will if it ever comes to light. He would have to find some suitable repercussions for The Street Dogs in the coming weeks.
+- As the meeting came to a close. On the third day of its time in the sky, the burning symbol of [[The Trinity]] left by [[The Word of Fire]] burned up.
+- **Chapter ends the 23rd of Spring, Late Morning, Annum 4466**

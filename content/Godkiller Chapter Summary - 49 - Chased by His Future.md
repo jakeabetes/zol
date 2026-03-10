@@ -1,0 +1,18 @@
+---
+title: "Godkiller Chapter Summary - 49 - Chased by His Future"
+---
+- **Chapter begins on the early evening of the 54th of Spring, Annum 4466**
+- Deep within The Reality Anchor, or Word of Judgement, our heroes discovered an undocumented version of the key crystals. A dramatic orange one floating just before one of the ominous black doors.
+- Choosing wisely to not enter the black door, The Street Dogs opted to brave the angelic structure's rooftop where they were assaulted by hungry ropers. Creatures who's grasping, dangling limbs not only pulled towards toothy maws, but towards the soul-severing black stone.
+- Here, the newest member of their rag tag group proved himself one more. Spade's control over fire going beyond mere destruction, he and Cinder repeatedly teleporting the party from the ropers' hungry grasps.
+- Once the turning complex had rotated far enough from the threat of ropers, they inspected the rest of the roof. Finding the top most section of a tower that threaded this whole section of the anchor, strange spires, as well as a skylight that looked down upon a worship hall filled with carnage, and a fearsome looking sword.
+- The Spires set our heroes on a minor scavenger hunt. They seemed to receive a set of they crystalline keys as inputs. The orange crystal acting as the largest and a second black crystal needing to be found at the expense of a fight with a mostly dissected Agoth left behind by Kerketh academics. A bout which also revealed Spade as a new bearer of a [[Death Scar]].
+- When the spires were eventually activated, they acted as a teleporter that lead to a sacred cache of some sort. A pure white crystal of great potential, Khan Keter, or in common, The Host of Judgement.
+- Venturing into the aftermath of the soldier's lost battle, a dying man recognized the party. They being the target of his mission. Apparently they'd been specifically sent by the Alderian Seat himself to 'stop' them. He died before he could explain why.
+- As our heroes inched closer and closer to The Dragon Bane, Magnus began looking more and more like death.
+- VanVeld's solders, those teleported by Spade's escapade within The Anchor's innerworkings, fought and died against a huge chorus of Astraeme and a mean looking Agoth.
+- Thanks to Spade's intel, it was known that in the room just beyond the gathering of angels lay their goal. Rather than risking a poor-odds fight The Street Dogs exercised one of their favorite maneuvers. Run like all hell.
+- In a death defying sprint across the massive chamber our heroes swatted away chokers, and dodged the grasp of the fearsome Agoth. Magnus managing to grab the odd sword on his dash through. Ae Hiairian, The Decider.
+- It sat there, like a monument to a darker age as the party tumbled into the room, panting, a bit bloody and somewhat strangled. A sickening sight. Crucified by great iron spikes, chains, and crude runes that seem to stand out against the darkness. The bones of a dragon. What little remains of sloughing skin dangling from tarnished metal bone.
+- And just beyond it, a great black door hung open.
+- **Chapter just after midnight of the 55th of Spring, Annum 4466**

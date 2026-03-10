@@ -1,0 +1,35 @@
+---
+title: "Godkiller Chapter Summary - 48 - The Death of All Gods"
+---
+- **Chapter begins on the afternoon of the 54th of Spring, Annum 4466**
+- Our heroes faced a dark dilemma. Spade, newest of their group, had died to stop the Astraemor Sentinels. At least, that was how it appeared. His soul was still present. Trapped within The Reality Anchor.
+- Here, Spade's soul met that of Hemmel. A foot solider from before The Undoing.
+- Hemmel spoke of The Final War. When the world of men contested the [[Zolaen Gods]] tyrannical rule. Apparently they lived as beloved divinities of Zol. At least until it was discovered they were scrubbing memories and history at their discretion.
+- The mortals, with Wordbearers leading them and King Alleran at their head, sided with [[The Void]] and fought back against the gods. They found means to contest the them and succeeded in killing two. Alz, the god of war and Festae, the god of dreams.
+- Hemmel, unfortunately didn't possess much knowledge in terms of the god killings of old. Being the a soul of a simple man who died before [[The Undoing]].
+- Hemmel was killed by [[Giriam]], who'd used The Word of Judgement— The Reality Anchor itself as a weapon of mass destruction.
+- Back in [[The Prime]], the rest of the gang was taking a rest to gather themselves and try to find a way to help Spade. With Mal's new connection to The Anchor, he had suspicions Spade wasn't truly dead. Upon magically investigating Spade's body, they weren't able to deduce how to help him. They did however, find that he was not in fact a regular elf, but an [[Eladrin]].
+- This respite was interrupted by the giant celestial that had greeted them upon their first entrance to The Anchor. The Word of Judgement's avatar.
+- Mal demanded answers, and only some were forthcoming.
+	- This place, The Word of Judgement, used to be the gate to heaven and hell. It had seemingly been replaced by [[The Mortal Coil]].
+	- What had happened to Mal was a contingency Judgement had placed long ago. Something the celestial had instructed his angels to do on his behalf should the situation arise. Judgement's agency was presently limited, and he did not make it clear what he'd done to Mal.
+	- Ordinarily, Judgement could end Mal's life and weigh his soul. However, an agreement between [[The Trinity]], [[Kaszu]], and [[The Watcher]] had decided that Mal's dalliance through time would be allowed so he could fix what had been done. An ominous task.
+	- Mal would apparently be allowed past the restrictions that The Anchor placed on the rest of [[The Three Corners]]. Vision and agency through [[Incana]] and [[Chronomancy]].
+	- It was also mentioned in passing that it was not [[The Trinity]] itself that had given Mal this permission, but its avatar. The Trinity, like judgement, was not allowed to act for some unknown reason. Apparently it had created a copy of itself long ago.
+- Within the walls, Spade sought an exit. Encountering The Dragonbane and what seemed to be living people in The Anchor's physical world. VanVeld's soldiers who looked only a bit less lost than Spade did. Here, Spade discovered that he was able to mess with the physical world.
+- Triggering some mischeif for the party's foes, Spade left the soldiers to their doom. Then finally found his friends. 
+- A frustrating fiasco ensued in which Spade was able to discover that the green crystal he'd found earlier on one of the preserved bodies allowed him some agency in the physical world.
+- In an odd turn of events, Spade managed to inhabit the vessel of the preserved mage they'd found. After many minutes of uncanny discomfort, Spade decided to leverage a secret he'd held. Taking his true body, and an orb from his bag, Spade went to the next room for some privacy.
+- Here he unleashed Ben, a ten foot tall, finely dressed being of shadow. Ben, who seemed to have a sort of control over Spade and great power at his disposal, swapped spade back into his true body.
+- Ben urged Spade to get out of The Anchor as it was very dangerous. He claimed that the party would likely be fine if they were fated to be there. Ben did however whisper something under his breath. A scenario where even fate wouldn't decide the party's safety.
+- Slug, who'd been watching this secret ordeal was spotted by Ben and killed instantly. This triggered the sealing orb and Ben was re-sealed. This frustrated him, but he recognized the game now. If he got out he'd have to play by certain rules.
+- Regrouping, the party decided their next course of action. Heading into the door they'd cleared past the altar. Here they found a room of pillars and slates that had glowing images on them.
+- Each image, save for one corresponded with an event from one party member's life. The sole exception being an image of the room they were currently in. When placed in chronological order it opened the passage.
+- The images were
+	- Sherman witnessing his adoptive farm-family being kidnapped
+	- Deimos being sold as a slave
+	- Magnus seeing a mimic in a cage
+	- Spade holding a slave's doll mask
+	- and Mal attacking [[Brass Taldora]] with some great, powerful energy.
+- The order made sense, save for one thing. The sequence didn't end with then room they were standing in. Mal's came from beyond the current moment. The future. He recognized it none the less.
+- **Chapter ends on the early evening of the 54th of Spring, Annum 4466**

@@ -1,0 +1,17 @@
+---
+title: "Godkiller Chapter Summary - 29 - The Troll Toll"
+---
+- **Chapter begins the 23rd of Spring, Twilight, Annum 4466**
+- Our heroes had tracked the Rot Troll to its lair, but hadn't been able to catch it fully off guard
+- A violent fray ensued. The troll flung handfuls of stone down at our heroes while the party tried to fight back at range.
+- The fight was forced into close quarters where the troll was at extreme advantage.
+- Half of the party was bested by the troll, but it had grown so wounded it could only flee in terror.
+- It may have gotten away too if not for the fact its pursuers were led by a career monster hunter. One that could *literally* smell his fear.
+- Deimos felled the creature with a final arrow, and our heroes took its bones back to Fox's Hollow. 
+- Back at The Lumberjack, discussions were had.
+	- Mal spoke of Slug and the nature of his own magic with more transparency than ever before. Mal was a *chronurgist* or *chronomancer*. Specializing in magic that alters time itself. [[Chronomancy]] is often seen as the most difficult, outlandish, and dangerous school of magic. Slug's omnidimensional physiology, and how Mal seems to be capable of fast-forwarding someone's natural decay were manifestations of him "dipping his toes" into the laws of time.
+	- Cyrus' peculiar magic was also questioned. He chalked up his bloodless, fabric-based torso to being some form of elven magic that allowed him to avoid injury.
+	- The Door was also discussed. One of The Lumberjack's previous owners, Therin, had been an artist who'd painted dozens of landscapes depicting locations all across The Three Corners. However, he was said to have a debilitating disease. Could he have been using The Door to see the world? It shed some light on the mysterious object, yet little was truly known. The Door is immensely powerful, and gives a similar sensation to that of [[The Word of Fire]]. Could the door have been made by a [[Wordbearer]]?
+- The next morning, our heroes handed over proof of The Troll's death to Warden Marg, then immediately set to uncovering more about The Lumberjack.
+- They attacked the pile of rubble in the basement. The one that held mysterious pages of a journal. In total there were 18 pages discovered. All of which were written in an unknown language, save for two. The one they'd previously found, and the one they discovered today...
+- **Chapter ends the 24th of Spring, Late Morning, Annum 4466**

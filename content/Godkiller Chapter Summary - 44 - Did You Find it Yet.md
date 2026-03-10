@@ -1,0 +1,36 @@
+---
+title: "Godkiller Chapter Summary - 44 - Did You Find it Yet"
+---
+- **Chapter ends on the evening of the 52nd of Spring, Annum 4466**
+- Our heroes had set off to steal what information they could from Kerketh's [[Holocene]] Campus.
+- Cyrus and Mal sneaking in while the other waited nearby on the outskirts.
+- Deimos noticed it first. Two men, both carrying concealed weapons following the group.
+- Upon Mal's return and Cyrus' message to go on without him, our heroes took off in an attempt to lose the pursuers.
+- Not only were they successful in doing so, they inverted the chase. Sending Slug, Mal's discreet familiar, after them with the instructions to return if he saw something of note.
+- Cyrus on the other hand was successful in his mission deep beneath the academy's campus. Succeeding in stealing not just the evidence he sought, but two random books as well. As if to screw with the universe for no reason beyond general mayhem.
+- It wasn't long on the surface before Slug returned to Mal. His normally slow, and goopy form made excited and jittery. He'd found something significant.
+- The Street Dogs followed slug to an alleyway entrance near the back section of The Pale Ward. Both men who'd been tailing them earlier had been brutally killed and left in the darkness.
+- Being unable to discern much from the crime scene beyond these men having info on the party, our heroes made for Curtis' Honorific Feast. An absurdly lavish event that made even The Beast's Ball seem like a small get together.
+- Lord Shopswain managed to pull some strings so The Party could sit at his table. Giving them a good vantage to observe the event. At the head table with Lord VanVeld were some notable guests.
+	- Lady Kalimae Skye and her Uncle Lord Kil Skye were dressed in funerary black.
+	- And three foreboding seats sat empty. Based on past rumors heard and similar situations prior our heroes believed these seats to have been set for The Word of Fire and his entourage. Haith and The High Conflagrator.
+- Lady Skye signaled for Magnus' attention and met him out on the balcony.
+	- She shared her story. A tale of neglect, abuse and running away. A journey that accidentally brought her to The Fell where she met her companion Chrys. Lady Skye holds no sentiment for religion or gods.
+	- She asked if the party had found out about the prophecy regarding Curtis. She'd also concluded that it had been Mal in the depictions, not Curtis. She alone had come to the same conclusion as The Street Dogs.
+	- It wasn't just information she sought to share with Magnus. The evening's storm swelled something within him. The distant power of The North's [[Greatwinds]]. Holocene is the only city outside [[The Ward]] to be struck by the furthest edge of its bands.
+- Back inside, the others stood over Curtis' casket where Chrys, Kalimae's cat sought them out. He felt bad about what had happened to Lord Renaull. Not but a week ago, he'd begged The Street Dogs to be Lady Skye's friend. Then she immediately tried to kill their ward/friend.
+- In recompense, Chrys offered a way to bring Curtis back. A [[Fell]] Shade trapped in a jar named Chempray.
+- Chempray was apparently an effective user of Magic, and only a little evil. He was however, limited by his form. If The Street Dogs could get him into The Reality Anchor, he could apparently make his form more permanent in The Prime. In payment, he would restore Curtis' life.
+- They tentatively accepted Chempray's offer and returned to the feast hall for dinner. At the beginning of the meal, Valmore, [[The Word of Fire]] made a grand entrance.
+- He gave a warm speech. Different to the one given in Tenzentak, but no less intimidating. And the core message was the same. A new presence of the [[Church of Three Fires]] in [[The Free Cities]].
+- Gideon Gain visited their table as well. An ordinary conversation ensued, at least no less ordinary than they usually are with Gain. However, Deimos caught a slight detail. Lines of blood, dried within the embossed designs of Gideon's silver mask. His scent, and attituded lent to him possibly being the killer of their tail earlier that evening. Though no one knew why.
+- In the middle of the meal a sudden assassination attempt occurred. An elven man tried to stick a dagger in Vestivius.
+- Unfortunately for the assassin, trying to commit a crime against an elite, A *human* elite, in front of The Word of Fire proved a difficult task.
+- The man, who the party recognized to be Keshe'vik of The Ikas Feather in disguise, was in Valmore's grasp before he could even raise the dagger. Fingers driven into his back, held aloft by his spine. Valmore incinerated the man instantly.
+- The dinner changed after that. Some grew afraid, some cheered, others simply left. However most held a face of well practiced propriety. As if an assassin being killed by a hero was some version of normal, and garnered nothing more than a respectful nod.
+- Before the party could make up their minds on what they thought of the dramatic death, Valmore strode right up to them and asked a simple question.
+	- "Have you found it yet."
+- What "it" was, he didn't specify. Their fear and confusion only served to annoy Valmore. He condemned them, saying "The Trinity gives you purpose and you dally?" and for The Street Dogs to "Have it." The next time their paths cross.
+- Holocene felt like it had just doubled in danger. They needed to wrap things up, and get back to The Lumberjack before things grew uglier.
+- The Street Dogs ditched the party. Heading out into the storm in search of The Reality Anchor. Wherever the hell that was.
+- **Chapter ends on the late evening of the 52nd of Spring, Annum 4466**

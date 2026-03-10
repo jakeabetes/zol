@@ -1,0 +1,4 @@
+---
+title: "Triton"
+---
+See [[Tritons]]

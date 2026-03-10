@@ -1,0 +1,16 @@
+---
+title: "Godkiller Chapter Summary - 60 - Bear Trap"
+---
+- **Chapter begins evening on the the 66th of Spring, Annum 4466**
+- Our heroes mapped out the friends and foes in this secret war they'd find themselves a part of. A web of connections and questions to pursue.
+- As the hours grew later, the Hatiat Rira's incoming engagement drew near. Wanting to listen in on it The Street Dogs put down the red string and formed a plan.
+- Finding the nomad leadership in a central tent, the stealthier half of the street dogs positioned themselves to listen in.
+- Their meeting was with a somewhat familiar face. Big Hat Murphy Ferrier. A powerful speaker and the right hand advisor to Guild Master Helg Corsair.
+	- It seemed this meeting was long incoming, and the late leadership was actually who Murphy had intended to meet with.
+	- They told Murphy the vaguest shape of what they knew. Referencing Valmore and the Dragon War's incitement as a method to awaken Zelatt.
+	- Murphy gave an all too familiar warning to "The Pathless"— the nomad's leadership. Rag tag heroes are a dime a dozen in this war and they do not live long. He instructed them to surrender all they had and forget any part in this war.
+	- He also gave context to "The Skeptics", a secret sect amongst the mages of Kerketh. A nexus of colleagues who all individually played a role in this conflict. Independent actions all towards the same intention of protecting The Three Corners. Their diversification a sort of defense against "knowing too much".
+		- Colin Coinge was one of these skeptics and the fact Murphy is considered one of them is a huge deal. The Academy was ejected from the guild. One of the most powerful guild minds at the guild secretly being one of them spells subterfuge.
+- Murphy tried to end the interaction. But in a desperate attempt to keep their lead The Pathless let slip a large piece of information. Knowledge of "The Sword". This gave Murphy pause, but not for long.
+- Jo'sah had returned to finish the job, and he'd brought friends. *Lots* of friends.
+- **Chapter ends late evening on the the 66th of Spring, Annum 4466**

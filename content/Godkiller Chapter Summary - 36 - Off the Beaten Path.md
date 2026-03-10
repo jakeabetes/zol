@@ -1,0 +1,35 @@
+---
+title: "Godkiller Chapter Summary - 36 - Off the Beaten Path"
+---
+- **Chapter begins in the extremely early morning of the 44th of Spring, Annum 4466**
+- Silk, one of bandit leaders had found The Street Dog's camp.
+- She'd come not for violence but to strike a deal. While Curtis' head was worth thousands, more than enough than the thugs on their payroll, Markenneth also had a price on his head.
+- She didn't divulge who wanted him dead, nor why they'd pay for it. But if The Street Dogs agreed to betray him, and turn over the Mage to her it may be enough to salvage at lease some of the chaos.
+- The price on the Hossian mage's head could persuade Palce, and a few others to abandon their mission. Leaving the rest of the bandits to naturally dissolve without their leaders.
+- The group felt skeptical about the deal, so Silk opted to leave a signal firebasket arrow with Deimos in the advent they decide to go for her plan. A flare to bring her to their position.
+- In the morning the pair separated from the group, Magnus and Markenneth, quickly found topics for argument. The group was now low on supplies and tensions were high.
+- Their bickering revealed something off about Markenneth. A saddle bag of his disturbed during Magnus' breakfast preparations that Markenneth seemed oddly protective of.
+- The group made plans to reconvene via bells and a few things occurred in their search for one another
+	- The larger group found Bandits wounded during last nights fray. Hiding in a ditch. One had succumbed to their injuries and their singular horse had died of exhaustion. They spooked off the survivor and harvested what rations they could from the dead animal.
+	- Magnus and Markenneth rode mostly in silence, but eventually cleared the air. A mutual dislike of [[Hoss]] and the shocking revelation that Magnus was a catalyst for conflict in the north seemed to balance out relations with the pretentious wizard.
+- Wall'e did the bulk of the work, reuniting the group via Magnus scent. Unfortunately, the relief of their reunion was short lived. Passing travellers with unknown alliances tainted the afternoon with distrust. They still had a long way till [[Holocene]].
+- Hunting trails led the group in a slow crawl towards the outermost edges of [[Rails]]' ruined villages.
+- Fresh bandit corpses were spotted amongst a small family of skeletal buildings. One slumped nearby sported strange pair of puncture wounds, and extensive bruising.
+- Using Slug to scope the place out, Mal's familiar found itself face to face with a cowering, brutish bandit. Whatever fight had occurred was not yet over.
+- The ruin's conflict was stoked like a hungry fire as The Street Dogs entered the fray. Tearing down walls and igniting the flesh of bandits.
+- Suddenly, the fight's mysterious third party entered the engagement. While it was indeed a monster, it did not belong to the forest. Blood, the warforged had seemingly also heard of the price on Curtis' head.
+- He was thrilled by the party's arrival. The hunt was now far more interesting.
+- Blades and arrows sung through the air. Curtis and Markenneth both suffering brutal wounds. The mage most of all. Having suffered some of Blood's poison.
+- Things were looking dark for anyone who wasn't the overzealous assassin. Mal called for order amongst the panic. Pleading for an alliance with the bandits.
+- While the notion of fighting alongside their targets was unusual, the logic was sound. The bandits joined forces with the party.
+- The tides of combat swayed, and suddenly Blood was left at a great disadvantage.
+- Soon, the assailants scattered in all directions. Two of the thugs and Blood barely surviving the fray. The Street dogs were left with possession of the ruins.
+- They made camp in the battle torn space. Opting for familiar cover rather than braving more unknown wilds.
+- The party now had ample opportunity to best the feverish, unconscious Markenneth. He couldn't stay awake let alone fight off The Street Dogs. And Curtis, who was also well off to bed, would be none the wiser of their betrayal. They could rummage through his belongings, steal his spell book, and turn him over to Silk before second moon.
+- However, honor won out. Mostly at least. They did opt to search the sleeping mage's suspicious saddle bag, finding an old, well-used journal wrapped in Markenneth's travel clothes.
+- He'd been researching the reawakening of [[Dragons]]' for some time now. His education at [[The College of Hoss]] had gotten him close to a dark secret.
+- Markenneth had fled the school in hopes to uncover the truth before something bad had occurred. The politics, science and society of dragons were complex things. But Markenneth seemed confident someone was intentionally waking dragons in hopes to stir [[Zelatt]]. Possibly to spark a repeat of [[The Dragon War]]. 
+- Markenneth seemed to think Lord Lionel VanVeld, [[Alderian Seat]] of [[Holocene]] had something to do with this.
+- There were also mentions of something else. A being called The Shaper. Markenneth knew little of it, but Deimos seemed to recognize the name.
+- In the final pages were diagrams of a relic that had led Markenneth to [[Holocene]]. An macabre deterrent. A dragon, bound in chain and wicked spikes. Its body carved with visceral runes. A crucifixion if there ever was one. A Dragonbane. The very same sight from Magnus' dream.
+- **Chapter ends on the night of the 44th of Spring, Annum 4466**

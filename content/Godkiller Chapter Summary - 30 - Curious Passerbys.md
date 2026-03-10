@@ -1,0 +1,22 @@
+---
+title: "Godkiller Chapter Summary - 30 - Curious Passerbys"
+---
+- **Chapter begins the 24th of Spring, Late Morning, Annum 4466**
+- Our heroes had uncovered 16 pages of the mysterious journal. The final being written in common. Identifying the mysterious language from the other pages as Feocaul, and indicating its author. A troubled soul named Fejn who may have been a Wordbearer of some sort, perhaps the creator of The Door, and possibly Valmore's brother.
+- The group split in two for the day. Mal and Deimos hung back to repair the lumberjack while the others went into town to try and find some sort of security of Rozwald. Hopefully gaining info on those who would see him killed.
+- The lumberjack repairs went smoothly, save for the young *romantic* couple who were found taking advantage of the garden shed. Holes, like that of the third floor, were filled in with what wood was available, and a few of the smaller rooms were tidied.
+- Those who went into town had a less peaceful afternoon. A string of inquisition into the Tenzentak underbelly brought our heroes to a disreputable tavern called The Pit. Our clever protagonists tried, and failed to convince Lenny, the eely spy master, to give up any info he had on Blood. After a tense bout *negotiations* Lenny charged the group a hefty sum for a possible meeting with Blood, then promptly kicked them out of The Pit.
+- Cyrus also took an opportunity to slip into the guild dungeons for a conversation with Lord Septurn. He managed to learn of The Ikas Feather, Rione Elsitor, and Curtis Renaull.
+	- Damian Ikas who had apparently freed a large amount of Illegitimate slaves, had actually saved captives from a much more gruesome fate. Twisted, organized mass torture for some unknown purpose.
+	- Rione Elsitor had expressed a strange interest in the same line of questions. Apparently he'd been a random boy-toy of the rude noble's, but Cyrus seemed to think he was something more.
+	- Lord Septurn didn't hesitate to complain about Lord Renaull either. He remarked on Curtis' strange luck. As if something were protecting him, or toying with his fate.
+	- The breadth of Lord Septurn's information came from a spy network his family paid. The imprisoned noble's only method of contact was a span read communication network, bound by exchanged passwords.
+- After dinner, our heroes set out for their meeting with Blood. There was uncertainty about his attendance, but the feral warforged did not disappoint.
+	- The serpentine automaton taunted our heroes. Sherman most of all. He seemed obsessed with his "Brother".
+	- Surprisingly, he admitted to Lord Rozwald having called off the hit. However, Blood, who was instructed to return, remained in Tenzentak to observe, toy with, and possibly hunt Sherman.
+	- And finally, the question that had danced around the fray of the last week was answered. All this time Lord Rozwald had been in the city of [[Ryze]]. The very place in which Oog Rozwald had been forced to live in the gutters, and had traveled across The Three Corners from in search of his family.
+- Sherman, sick of Blood's games grabbed hold of the assassin and threw his entire metaphysical weight against him, causing something odd to occur. Sherman vanished from The Prime Material plane, bringing Blood with him.
+- The two of them found themselves in what seemed to in the vast belly of some great machine. Phantoms of [[Apparatum]] floating as echoes of their true form back in the [[Prime Material Plane]].
+- Exploring this world revealed an imprint of nearby destruction. The overlaid plane of existence had led Sherman and Blood back to Devoost Cannery where Sherman had presumably sent the tiny 1-5 potentium bomb into this realm. At least partially.
+- Another clash with Blood somehow shunted the assassin back into the real world where Sherman could now see Blood's essence like the [[Apparatum]] before. An essence that was too tempting not to touch...
+- **Chapter ends the 24th of Spring, Late Evening, Annum 4466**

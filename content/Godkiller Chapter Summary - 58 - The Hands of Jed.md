@@ -1,0 +1,22 @@
+---
+title: "Godkiller Chapter Summary - 58 - The Hands of Jed"
+---
+- **Chapter begins late on the the 65th of Spring, Annum 4466**
+- Finally settled in back at the Lumberjack, The Street Dogs had a bit of room to kick back, roll their shoulders, and take stock.
+- A conversation between Spade and Magnus shone a pit of life on the scarred vagabond's past.
+	- Spade was not just a heretic, but a blasphemer with grand intents to kill gods
+	- Spade's home, a distant, small, and unnamed location had been destroyed by him. He didn't give many details, but it seemed Cinder was a part of whatever had happened.
+- When recounting events, Tardich was determined to be a threat of some sort and was worth investigating further.
+- Sherman decided to seek more hands for The Lumberjack, getting word on Warden Marg's son. A troubled youth who may benefit from the work.
+- That night, Mal had an encounter with Therin in the Dream Lumberjack. Therin engaged with Mal in a peer-like manner. Therin was smarter than he let on. They discusses the morality of killing the gods, action versus inaction, and the impossibility of winning a fair fight against a stronger foe.
+- In the morning, Mal explained his dream.
+- Cyrus also finally admitted to his origin. He was not an elf of Xerul. Cyrus is a Changeling from The Glassius Reach. More specifically, the wounded city of [[Yorn et Gaul]]
+- Cyrus was on a quest in search of a relic of supreme importance to his people. Following a lead that aimed him at The Ikas Feather.
+- Unfortunately, Cyrus' rival, Drah'gus stole this lead from him and locked away his true body in a prison within the city of [[Corinth]].
+- Cyrus escaped as a homunculus born of the nesting doll. His true body still remaining in the cell.
+- Now, Drah'gus, an extremely dangerous shapeshifter is somewhere in the city and knows who Cyrus is. A game of smoke an mirrors has begun.
+- The day was interrupted by the arrival of The Hatiat Rira. A nomadic tribe that had been hounded by Jo'sah.
+- The colorful nomads set up camp in the fields just beyond The Lumberjack. A temporary town that will remain in the weeks to come.
+- Jed took advantage of their traders, finding a "good deal" on a ramshackle apparatum. A device that allowed him many arcane hands but took a lot out of him. He'll be fine but facing a fair bit of narcolepsy until he gets the hang of things.
+- Going to see which trader sold him the device, they found it was none other than Destrae. The masked fortune teller.
+- **Chapter ends late afternoon on the the 66th of Spring, Annum 4466**

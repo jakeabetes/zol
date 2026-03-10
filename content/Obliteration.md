@@ -1,0 +1,4 @@
+---
+title: "Obliteration"
+---
+See [[Damnation]].
