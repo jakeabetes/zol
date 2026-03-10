@@ -1,4 +1,0 @@
----
-title: "Sylf"
----
-see [[Sylfs]].

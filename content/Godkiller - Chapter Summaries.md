@@ -5,6 +5,7 @@ The Chapter Summaries are recaps of major events that occurred in each chapter o
 ## Summaries
 - Book One - Elsewhere
 	- Part Three - Brother
+		- [[Godkiller Chapter Summary - 70 - Fresh Obsidian]]
 		- [[Godkiller Chapter Summary - 69 - The Blooming Man]]
 		- [[Godkiller Chapter Summary - 68 - The Meddlesome Mages]]
 		- [[Godkiller Chapter Summary - 67 - The Tether Part 2 - Fuck]]

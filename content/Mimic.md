@@ -1,4 +1,0 @@
----
-title: "Mimic"
----
-See [[Mimics]]
