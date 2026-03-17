@@ -1,0 +1,18 @@
+---
+title: "Godkiller Chapter Summary - 71 - Moths to a Flame"
+---
+- **Chapter begins on the early morning of the the 69th of Spring, Annum 4466**
+- Our heroes had decided to go deeper into Site Heron in search of The Inverted Door. The only known method of escape save for
+- Mallory, using his eidetic memory spent some time trying to understand the mural he'd seen. Nothing was clear, but signs pointed toward whoever created this tower did so with cosmological aim. Potentially trying to escape Zol entirely. Its lands no longer hospitable due to the acts of gods, demons, or potentially even fellow mortals.
+- Questing more efficiently now through the labyrinthine tower thanks to Ibes' notes, The Street Dogs did their best to locate the mages who may still very well be alive.
+	- Unfortunately the creature that pursued them, a Remorhaz, left its signs everywhere. They were not the only ones following the surviving academics.
+- They discovered yet another room with a mechanism powered by divine sources. Investigation found devices, effigies, teetering on the edge between the prime material plane, and somewhere unknown.
+- Using questionable, but clever tactics, our heroes managed to pull these charged effigies fully into the prime. Effigies made after the symbols of the Zolaen Gods. Two broken and one mal formed.
+	- This made sense for the most part. Giriam, the god of war, and the god of dreams were dead as far as the street dogs knew.
+	- But something was different about the symbol of dreams. It wasn't shattered like the other two. It was bent into the shape of a mortality rune.
+- The implications here were disturbing and confusing to say the least. Fortunately with their discovery also came the solution to the mechanism, granting them deeper access into the tower.
+- A long corridor full of dead creatures in tanks soon laid ahead of them. Well... all dead but one. An aboleth bore down upon them. Seeking the street dogs minds as sustenance. Its last meal was of *debatable* quality.
+- Taking refuge in a mundane chamber our heroes were finally reunited with the mages. They'd lost all but Yves, Ibes, and Erictho herself.
+- The two groups were skeptical, but Erictho had a plan. They'd managed to trap the Remorhaz in a chamber not unlike the room powered by effigies. However, unlike the effigy room this one was powered by sacrifice. A plan that could open a route previously unexplored.
+- They just had to kill it.
+- **Chapter ends midday on the 70th of Spring, Annum 4466**
