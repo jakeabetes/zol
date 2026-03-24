@@ -1,0 +1,19 @@
+---
+title: "Godkiller Chapter Summary - 72 - The Inverted Door"
+---
+- **Chapter begins midday on the 70th of Spring, Annum 4466**
+- Erictho had a plan to deal with the Remorhaz, and open a new way forward. It would just take some risk. More than she was willing to divulge.
+- The strategy was perilous. Everyone would distract the creature while it was trapped in the sacrifice pit. Meanwhile she would plant a device that would power the arcane mechanism. Hers would be the most risky job, requiring her to go into the pit with the thing.
+- Erictho however didn't explain a last minute change. She wasn't going in the pit. Yves was.
+- The ensuing, teeth gritting effort to heard the beast was made even more difficult by Yves frustrating, albeit understandable cowardice. He simply would not go into the pit. So Erictho threw him in.
+- Through clever tactics and dumb luck our heroes somehow got Yves to do his job *and* get him out of the pit. But barely and at great risk to themselves
+- Erictho triggered the devastating mechanism yet it still did not kill the creature outright. Fortunately its wounds from the impact were enough to activate the mechanism
+- A perilous exit was interrupted by treachery. Ibes, in his panic to escape had pushed Go'igi out of the way and into the gap were the creature could reach him.
+- The Street Dogs leave no one behind. At least no one who isn't a jackass. Rescuing their new friend from the pit. The delay this caused was what ultimately did Ibes in as the beast pulled him into the pit. It would be his tomb.
+- The exit to the sacrifice chamber was on the seam of a locale, and as the non-Euclidean space reoriented itself, the group was separated.
+- All but Sherman, Cyrus and Yves made it to the inverted door chamber. Here they waited for their allies and spoke with Erictho. The woman was a cut throat, but she was still a potential useful ally. Just a dangerous one. If they all got out of this, there may be an opportunity for further cooperation in regards to the secret war.
+- Cyrus and Sherman wandered through auxiliary chambers. Discovering one that seemed to be powered by a cognitive energy source. Sherman drew the short straw on this and used his mind to power the device. Sharing a memory of his past as a Warforged Rebel. Or more aptly, an Insurgent, or possibly even a terrorist depending on who you asked. Sherman did not recall this memory on his own, and the story it told was a disturbing one.
+- Beyond this chamber they found Yves bleeding out. They tried to save him, but he was too far gone. When he spoke his the words did not seem to belong to him.
+	- I hang limp in the arms of this conflict's insightor. I perish as oblivion calls my name. The destruction of ages sits behind the eyes of the messiah's brother. Not a power. An idea. He is just a man. The stars cower as The Abyss seeps from his grave. A holy war of fratricide as brother dines on his kin. My amphibian flesh curls to smoke. This death will be unlike any other. ***I DIE!***
+- But it wasn't just his words that were possessed.  As he spoke, his teeth transformed into canine-like monstrosities, and his eyes warped to match those of the absent Street Dog, Rozwald.
+- **Chapter ends past midnight on the 71st of Spring, Annum 4466**
