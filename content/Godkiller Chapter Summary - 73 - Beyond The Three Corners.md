@@ -1,0 +1,23 @@
+---
+title: "Godkiller Chapter Summary - 73 - Beyond The Three Corners"
+---
+- **Chapter begins past midnight on the 71st of Spring, Annum 4466**
+- Escaping Site Heron our heroes found themselves an hours walk from Camp Ger'zar. An immense stone arch in the middle of the Canyon Deep river. Home to an entire city of the mad, machine loving bandits. Ruled by five rival kings
+	- Dowra The King of Priests
+	- Sucher The King of Flesh and Steel
+	- Madda - The King of Violence
+	- Katunga - The King of Making and All Things Swift
+	- Tsabo - The King of Consumption
+- Blending in wouldn't be easy, and would require some sacrifice. Namely the luscious locks of Mal, Deimos, and Magnus. Bathed in the white clay of the canyon the street dogs managed to fake the appearance of Ger'zar fairly well. Save for Sherman that is.
+- Sherman, being a warforged, would be taken in by the city. Literally. Brought to their holy alter and sequestered deep inside the Arch's vault along with all the other captured warforged. Or as the Ger'zar call them, philosophers.
+- Using what limited disguise magic they possessed on The Warforged, the street dogs made the most of their time by checking out The Scrap Heap in hopes of finding some info regarding goings on in the city (like an abundance of newly transmuted gold), and any leads there may be on the hilt.
+- There they discovered something unexpected. Bladehammer activity. Specifically the activity of the Guild Mind Aramis. The guy who our heroes had stolen The Evildoer and The Ibinyo from. With him was a gaggle of mercs, including Moose The Big.
+	- It seemed Aramis was trading chalkstone to Katunga in exchange for considerably mundane collections of Rift Iron Scraps. Not unlike Aleksander Salt, the fugitive who'd been stealing scraps in Tenzentak all those weeks ago. Why would someone want something barely valuable for the associated risks?
+- After finding a place to rest, The Street Dogs were struck with yet another share dream. This one consisted of The Crater set into the purple sand of their usual dreamscape. In it, Helg Corsair wrestled with who was presumed to be Kerketh Academy's Magnate. Both old men died from the exertion of the conflict. 
+	- In their pockets lay nearly identical drawings of The Sword Hilt.
+	- It was this moment where all were forced awake. Sitting with the realization this was the first time The Sword's image actually manifested in a dream.
+	- More concerningly, the drawing Magnus held was now blank. Leaving only the faint arcane impression that it was hiding.
+- Go'igi and Erictho did not share this dream, but Go'igi let slip that he'd dreamed of his own death.
+- Which was a good reminder as it seemed Go'igi was encroaching on his end due to his wounds. He needed to go to Sucher's court to be healed by the Artificer Priests there.
+- The eastern base of the arch was a sardine-packed slum of alien culture, people and problems. However, not all seemed to be suffering on the bottom. Many of Sucher's men, decked all in rusty iron-light prosthetics, bore jewelry of gold...
+- **Chapter begins late afternoon on the 71st of Spring, Annum 4466**

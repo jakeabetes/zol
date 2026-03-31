@@ -5,6 +5,7 @@ The Chapter Summaries are recaps of major events that occurred in each chapter o
 ## Summaries
 - Book One - Elsewhere
 	- Part Three - Brother
+		- [[Godkiller Chapter Summary - 73 - Beyond The Three Corners]]
 		- [[Godkiller Chapter Summary - 72 - The Inverted Door]]
 		- [[Godkiller Chapter Summary - 71 - Moths to a Flame]]
 		- [[Godkiller Chapter Summary - 70 - Fresh Obsidian]]
