@@ -20,4 +20,4 @@ title: "Godkiller Chapter Summary - 73 - Beyond The Three Corners"
 - Go'igi and Erictho did not share this dream, but Go'igi let slip that he'd dreamed of his own death.
 - Which was a good reminder as it seemed Go'igi was encroaching on his end due to his wounds. He needed to go to Sucher's court to be healed by the Artificer Priests there.
 - The eastern base of the arch was a sardine-packed slum of alien culture, people and problems. However, not all seemed to be suffering on the bottom. Many of Sucher's men, decked all in rusty iron-light prosthetics, bore jewelry of gold...
-- **Chapter begins late afternoon on the 71st of Spring, Annum 4466**
+- **Chapter ends late afternoon on the 71st of Spring, Annum 4466**

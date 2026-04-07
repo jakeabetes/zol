@@ -1,0 +1,31 @@
+---
+title: "Godkiller Chapter Summary - 74 - Scavenging"
+---
+- **Chapter begins late afternoon on the 71st of Spring, Annum 4466**
+- Our heroes had a grocery list of things they wanted from Ger'zar
+	- Whereabouts of The Sword Hilt
+	- Erictho's colleague, Barnabas
+	- and healing for Go'igi
+- The latter seeming the most pressing, they discussed how to get their new friend aide from one of the holy artificer priests.
+- Go'igi had debts, and the fact he was still alive would not be pleasing to anyone in King Sucher's court. So a plan was hatched.
+	- Kidnap or jailbreak a priest
+- The brutality of the plan was somewhat encouraging to Erictho. Maybe she didn't mind her current company too much.
+- Rumors revealed not an imprisoned priest, but the brother of one. Hanging in the half-kilometer high cages in the arch's crux.
+- The plan was simple. Magnus, Mal, and Deimos would go up, Deimos would scale down, open the cage, and carry the prisoner to safety.
+- If the plan went awry Cyrus, Sherman, Erictho, and Go'igi would wait on the bottom atop Gate Garden and stop their fall by magical means.
+- During the group's separation Erictho asked some telling questions.
+	- She asked what was unique about Diemos' body, or vessel. She seemed to think the mutant was akin to a hundred vessels distilled into one perfect. Air-tight specimen.
+	- Erictho was also curious about the type of mage Mallory considered himself to be.
+	- She also spoke of her own path into this secret war. Lured by Colin Coinge's talk of the skeptics. Cemented by parallel experiences of odd connections, coincidences, and strange dreams.
+- Atop, after a grueling climb, the other group was presented with a view of Empyrean. The chaotic, but not hideous city could only make one wonder if Ger'zar were always so savage.
+- An odd bit of posturing and a dumb bet allowed Deimos permission to climb down the chains without any protest from the guards.
+- Smooth as this went it proved to be a poor idea to the surprise of very few.
+- Deimos fell along with the cage of what was hoped to be the priest's brother. And below our remaining heroes were being harassed and forced from their waiting place on Gate Garden.
+- This however did not stop our heroes. Sherman shouldered his way past, and saved Deimos and their convict with a spell.
+- Chaos erupted and the group was bore down upon.
+- Only through Sherman's sacrifice did the group gain a moments advantage. Sherman revealed himself to be a Warforged. Inherently holy.
+- And our heroes scattered
+	- Cyrus and Sherman towards Let'lon
+	- Deimos, Erictho, Go'igi and their unconscious prize towards Shanks.
+	- And Mal and Magnus descending a slow and perilous lift back down the arch.
+- **Chapter ends on the evening of the 71st of Spring, Annum 4466**
