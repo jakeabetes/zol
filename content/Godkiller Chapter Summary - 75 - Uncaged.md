@@ -1,0 +1,20 @@
+---
+title: "Godkiller Chapter Summary - 75 - Uncaged"
+---
+- **Chapter begins on the evening of the 71st of Spring, Annum 4466**
+- The arch's jailbreak had erupted into chaos
+	- Magnus and Mal detached from the lot
+	- Deimos, Go'igi, Erictho, and the unconscious prisoner presumed to be Skeddard running from pursuers
+	- and finally Cyrus and Sherman who had revealed himself to be a warforged as a means of distraction.
+- A distraction that worked far too well. Cyrus and Sherman were overwhelmed in the depths of Let'lon's tunnels. Fortunately Cyrus had maintained his disguised and was honored as the one who'd caught Sherman.
+- The two were escorted to the top by a grave, and fearsome warrior marked with a mortality rune referred to only as "Deathwalker".
+- At The Citadel Sherman was ushered away and Cyrus could only maintain a vigil as the threat of the priests were too great and the prospect of Sherman having a chance at the warforged secrets at the heart of The Citadel too alluring.
+- The others managed to reunite thanks to Magnus' gifts and Deimos quick thinking. Unfortunately The Street Dogs may have stoked a minor blood-feud between Tsabo and Sucher's courts.
+- Upon resuscitating the recovered prisoner The Street Dogs immediately learned their mistake. This was not Skeddard. This was Sigimundus. And Sigimundus was a little asshole.
+- However he did have one potential fix to their problem (after a quick conversation with Magnus' fist). Go'igi's kind aren't just built to house explosives. They require them, and Sigimundus knew where they could steal one.
+- They were lead to "The Inventory". A vast and sprawling set of tunnels filled with records and scrap.
+	- Records of the things that had passed through Camp Ger'zar. Possibly even The Sword Hilt.
+- A suitable core was found. Unfortunately it held a sliver of 1-5 Potentium. A metal no one ever wanted to see again.
+- It more than fixed Go'igi's problem. In fact he seemed better than ever.
+- Reuniting with Cyrus at The Citadel only three things remain. Find out anything that can be known of The Sword Hilt, Save Barnabas (assuming he's alive), and of course saving Sherman from the mad Ger'zar priests...
+- **Chapter ends on the night of the 71st of Spring, Annum 4466**
