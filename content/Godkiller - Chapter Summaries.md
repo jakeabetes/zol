@@ -5,6 +5,7 @@ The Chapter Summaries are recaps of major events that occurred in each chapter o
 ## Summaries
 - Book One - Elsewhere
 	- Part Three - Brother
+		- [[Godkiller Chapter Summary - 76 - The City Behind Your Eyes]]
 		- [[Godkiller Chapter Summary - 75 - Uncaged]]
 		- [[Godkiller Chapter Summary - 74 - Scavenging]]
 		- [[Godkiller Chapter Summary - 73 - Beyond The Three Corners]]

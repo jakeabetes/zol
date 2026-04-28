@@ -1,0 +1,34 @@
+---
+title: "Godkiller Chapter Summary - 76 - The City Behind Your Eyes"
+---
+- **Chapter begins on the night of the 71st of Spring, Annum 4466**
+- Sherman had been pulled from the others, and held as a holy prisoner by Dowra, The Ger'zar King of Holiness. He was to be canonized as a philosopher under the blessing of their alter, and sequestered indefinitely.
+- An undesirable outcome to say the least. However the ceremony would grant him direct access to The Altar, a stone once touched by the godkiller hilt, and "The Changed One". A being directly altered by The hilt's power.
+- Outside, in the streets of Empyrean, the street dogs grasped for a plan. Finding little, but the waiting bodies of two acolytes lying in the center of the citadel. Slugs info was translated by Go'igi revealed the fact that men held clues that lead to the trophies of The King of Kings tournament. The one to collect them all would have ultimate authority for one day.
+	- They held the clues... inside their bodies. Only these men knew where they hid their fragments of the competition. Their ritualistic killing and ensuing dissection amongst hundreds of witnesses is what ensured fairness.
+	- And our heroes ruined this competition by cheating. A trick they'd learned from pretty much every single one of their adversaries.
+- Slug, against his desires, hid a dummy clue within the belly of one of them men and stole the real clue.
+	- The clue was for the Merit of Mind:
+		- On the mantle of the river king.
+	- Which Go'igi thought was a red herring of sorts. One would initially think Tsabo, The King of Consumption. However he figured it may be talking about the Taigco Fish. A giant catfish that prowled on the cultivated riverbed.
+	- The street dogs replaced the clue with some nonsense. "The Cornucopia's Smallest Door".
+	- One clue bearing sacrifice was yet to arrive. Once he did, The King of Kings would begin.
+- Sherman's ceremony however began very suddenly with little fanfare. A swell of stinking, amped-up bandits swarmed the stands. One of which was Sliders, Go'igi's rival who recognized our heros from The Grand Nothing.
+- Sherman's head was placed upon the alter, and something intangible ripped his consciousness elsewhere. Beyond Zol. The Wandarian, progenitor world Artea. And seeming birthplace of this sword. Forged by god of "morhin" power from his own essence. 
+- This "morhin" power seemed somehow less alien to Sherman, but he didn't know why.
+- This god, Waylen The Blade, was the center point for Artea's first true conflict. He cared not for divinity, but the slaughter of his peers. Beings he though too powerful to exist. The powers harvested from each of their deaths were consumed and metabolized into the blade. And his death left his sword unbound.
+- Artea's eventual ruin, and reconstruction, left this blade floating amongst the cosmos. Where it would be drawn by magnetism towards the dying body of Goh'zul. What would one day become Zol.
+- This was not the only vision Sherman was granted. The Changed One used what it claimed to be the last of its power. A city unlike anything Sherman could imagine. Its size so immense the walls contained whole mountain ranges. Its architecture impossibly beautiful.
+- Here Sherman saw a man. Somewhat familiar. Like Magnus but older, plumper, and without his markings. Equally lost in the city's beauty.
+- A man approached him. Damian Ikas of all people. They shared a single interaction.
+	- Magnus' father asked if he was dead.
+	- Damian confirmed that he was.
+	- Magnus' father asked if this was heaven.
+	- Damian said it was the furthest thing from it.
+- Sherman had what he came for. Whatever the fuck it was would be a problem for later. It was cause chaos and run for your life time.
+- A service The Changed One was more than willing to help with. Having spent his power the half corpse begged Sherman to kill him before something could get to him. Something he'd been using the power to protect himself from.
+- Sherman executed the suffering warforged. Leaving Ger'zar in shock. Before all hell could break lose, The king of holiness demanded order just as the final King of King clue bearer arrived. His ritualistic killing and reading of the clues was the closest thing to order the patriarch could create on this confusing night.
+- The order lasted as long as it took him to read the clues.
+- Slider and his goons lunged at the street dogs while Sherman made a break for it. Blood, deception and chaos filed the next moments as Slider was killed and Magnus, Sherman, and Cyrus made it to a cliff edge.
+- There was no way out. No way but down...
+- **Chapter ends midnight of the 72nd of Spring, Annum 4466**
