@@ -1,0 +1,16 @@
+---
+title: "Godkiller Chapter Summary - 77 - King of Kings"
+---
+- **Chapter begins midnight of the 72nd of Spring, Annum 4466**
+- Ger'zar was in chaos after the simultaneous execution of their messiah, the escape of Sherman, and the commencement of The King of Kings.
+- Sherman, Magnus, and Cyrus leapt from the high arch. Using their regular tactic of a slow, arcane descent. Unfortunately the death walkers of Ger'zar were not so keen to let them go.
+- Three jumped, and one managed to grab Sherman mid air. The others falling to their doom. A stressful mid air scrap ended with Sherman shaking the death walker loose. Unfortunately they were much more durable than it seemed.
+- Rebounding from death, two of the assailants continued their assault once everyone had touched down in the river. One of which vanished down stream with Magnus who told the others to go on. 
+	- Magnus has yet to return from this departure.
+- After the fight, Sherman and Cyrus discussed on the bank what they should do as well as what had happened to Sherman.
+- In the upper city, Mal and Deimos were pursued by feral bandits. Fortunately they were able to evade them in the chaos without much trouble.
+- Deciding to leverage this chaos they made their way back to the archives to look for a record of The Sword Hilt. An 'outgoing' scrap of what was thought to be rift iron processed by one 'Katunga'. Possibly the new King of Scrap himself.
+- Sherman and Cyrus decided to wait at the designated meeting spot (the docks, decided by Erictho and communicated by Slug.) Unfortunately no one else seemed to make it yet. Not even Erictho or Go'igi.
+- Mal and Deimos knew they needed to cross over to the docks area and decided to try and avoid the very likely lethal chaos by climbing underneath Gate Garden. Using the high metal structure like insane monkey bars.
+- A plan that almost worked...
+- **Chapter begins midnight of the 72nd of Spring, Annum 4466**
