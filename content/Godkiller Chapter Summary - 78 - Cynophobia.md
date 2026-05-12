@@ -1,0 +1,18 @@
+---
+title: "Godkiller Chapter Summary - 78 - Cynophobia"
+---
+- **Chapter begins on the very early morning of the 72nd of Spring, Annum 4466**
+- The fall to the river was lethal. This would be the end to the Street Dogs Mallory and Deimos. But someone, a voice... familiar yet unplaceable, intervened. Its commandment was simple.
+	- "No. Its not time for that yet. Not even close."
+	- Followed by a single word spoken in The Old Tongue
+		- "Open."
+- The door in their minds— the one that held back "The Feeling", swung free. Revealing an entirely unfamiliar moon.
+- Lupine forms exploded forth, consuming and entrapping the kernels of self that were Mal and Deimos. The fearsome, humanoid creatures bearing the heads of chitin-furred wolves were infantile in their awed view of The Prime Material Plane. Infantile, and wholly evil.
+- The bandit riots of Ger'zar were felled like wheat. Devoured by the manic forms of Mallory and Deimos. But there was something else... that voice... it had given them a task. A scent. Something to kill. They had no true obligation to obey... but... it *had* granted them freedom. Perhaps playing along would be beneficial.
+- The other, very reasonable and not evil Street Dogs saw only distant echoes of "The Feeling's" destruction. Explosions, screams, and supernatural howls.
+- Thinking this might be Wall'e, they closed in on the violence. This was, to put it simply a poor idea. Resulting in them being forced to flee from bandits once more. Fortunately their escape gave Erictho something to home in on. The mage flying with Go'igi in tow, to take out the last of their tail. They could only watch the destruction at range... arcane means indicating that the monsters held the identity of their two absent friends.
+- The Dogs, as they can best be understood, chased the scent. A river of bodies in their wake. The voice's request had led them to the enslaved academic they had hoped to save, Barnabas. The ultimate casualty of the fall into the river.
+- The last thing Deimos and Mal remember is the cold spray from the river's roiling surface just before impact. That, and... a voice.
+- Somehow they find themselves standing back atop the arch, in the streets of Empyrean drenched head to toe in blood.
+- And something... is very wrong.
+- **Chapter begins dawn of the 72nd of Spring, Annum 4466**

@@ -13,4 +13,4 @@ title: "Godkiller Chapter Summary - 77 - King of Kings"
 - Sherman and Cyrus decided to wait at the designated meeting spot (the docks, decided by Erictho and communicated by Slug.) Unfortunately no one else seemed to make it yet. Not even Erictho or Go'igi.
 - Mal and Deimos knew they needed to cross over to the docks area and decided to try and avoid the very likely lethal chaos by climbing underneath Gate Garden. Using the high metal structure like insane monkey bars.
 - A plan that almost worked...
-- **Chapter begins midnight of the 72nd of Spring, Annum 4466**
+- **Chapter ends on the very early morning of the 72nd of Spring, Annum 4466**
