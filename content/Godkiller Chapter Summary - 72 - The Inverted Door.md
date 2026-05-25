@@ -1,7 +1,7 @@
 ---
 title: "Godkiller Chapter Summary - 72 - The Inverted Door"
 ---
-- **Chapter begins midday on the 70th of Spring, Annum 4466**
+- **Chapter begins midday on the 73rd of Spring, Annum 4466**
 - Erictho had a plan to deal with the Remorhaz, and open a new way forward. It would just take some risk. More than she was willing to divulge.
 - The strategy was perilous. Everyone would distract the creature while it was trapped in the sacrifice pit. Meanwhile she would plant a device that would power the arcane mechanism. Hers would be the most risky job, requiring her to go into the pit with the thing.
 - Erictho however didn't explain a last minute change. She wasn't going in the pit. Yves was.
@@ -16,4 +16,4 @@ title: "Godkiller Chapter Summary - 72 - The Inverted Door"
 - Beyond this chamber they found Yves bleeding out. They tried to save him, but he was too far gone. When he spoke his the words did not seem to belong to him.
 	- I hang limp in the arms of this conflict's insightor. I perish as oblivion calls my name. The destruction of ages sits behind the eyes of the messiah's brother. Not a power. An idea. He is just a man. The stars cower as The Abyss seeps from his grave. A holy war of fratricide as brother dines on his kin. My amphibian flesh curls to smoke. This death will be unlike any other. ***I DIE!***
 - But it wasn't just his words that were possessed.  As he spoke, his teeth transformed into canine-like monstrosities, and his eyes warped to match those of the absent Street Dog, Rozwald.
-- **Chapter ends past midnight on the 71st of Spring, Annum 4466**
+- **Chapter ends past midnight on the 74th of Spring, Annum 4466**

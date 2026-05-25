@@ -1,7 +1,7 @@
 ---
 title: "Godkiller Chapter Summary - 77 - King of Kings"
 ---
-- **Chapter begins midnight of the 72nd of Spring, Annum 4466**
+- **Chapter begins midnight of the 75th of Spring, Annum 4466**
 - Ger'zar was in chaos after the simultaneous execution of their messiah, the escape of Sherman, and the commencement of The King of Kings.
 - Sherman, Magnus, and Cyrus leapt from the high arch. Using their regular tactic of a slow, arcane descent. Unfortunately the death walkers of Ger'zar were not so keen to let them go.
 - Three jumped, and one managed to grab Sherman mid air. The others falling to their doom. A stressful mid air scrap ended with Sherman shaking the death walker loose. Unfortunately they were much more durable than it seemed.
@@ -13,4 +13,4 @@ title: "Godkiller Chapter Summary - 77 - King of Kings"
 - Sherman and Cyrus decided to wait at the designated meeting spot (the docks, decided by Erictho and communicated by Slug.) Unfortunately no one else seemed to make it yet. Not even Erictho or Go'igi.
 - Mal and Deimos knew they needed to cross over to the docks area and decided to try and avoid the very likely lethal chaos by climbing underneath Gate Garden. Using the high metal structure like insane monkey bars.
 - A plan that almost worked...
-- **Chapter ends on the very early morning of the 72nd of Spring, Annum 4466**
+- **Chapter ends on the very early morning of the 75th of Spring, Annum 4466**

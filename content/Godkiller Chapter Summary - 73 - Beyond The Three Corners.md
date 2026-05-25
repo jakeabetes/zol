@@ -1,7 +1,7 @@
 ---
 title: "Godkiller Chapter Summary - 73 - Beyond The Three Corners"
 ---
-- **Chapter begins past midnight on the 71st of Spring, Annum 4466**
+- **Chapter begins past midnight on the 74th of Spring, Annum 4466**
 - Escaping Site Heron our heroes found themselves an hours walk from Camp Ger'zar. An immense stone arch in the middle of the Canyon Deep river. Home to an entire city of the mad, machine loving bandits. Ruled by five rival kings
 	- Dowra The King of Priests
 	- Sucher The King of Flesh and Steel
@@ -20,4 +20,4 @@ title: "Godkiller Chapter Summary - 73 - Beyond The Three Corners"
 - Go'igi and Erictho did not share this dream, but Go'igi let slip that he'd dreamed of his own death.
 - Which was a good reminder as it seemed Go'igi was encroaching on his end due to his wounds. He needed to go to Sucher's court to be healed by the Artificer Priests there.
 - The eastern base of the arch was a sardine-packed slum of alien culture, people and problems. However, not all seemed to be suffering on the bottom. Many of Sucher's men, decked all in rusty iron-light prosthetics, bore jewelry of gold...
-- **Chapter ends late afternoon on the 71st of Spring, Annum 4466**
+- **Chapter ends late afternoon on the 74th of Spring, Annum 4466**

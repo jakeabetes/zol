@@ -1,7 +1,7 @@
 ---
 title: "Godkiller Chapter Summary - 68 - The Meddlesome Mages"
 ---
-- **Chapter begins on the extremely early morning of the the 68th of Spring, Annum 4466**
+- **Chapter begins on the early morning of the the 72nd of Spring, Annum 4466**
 - Our heroes had escaped the Ger'zar bandits, but two remained in peril. Just not in any ordinary way.
 - Cyrus and Mal... or... Ventril and Dell were still fleeing the Dungeons of Vertex.
 - Go'igi, who had connected himself to The Evildoer in The Grand Nothing somehow managed to manifest some of his presence in The Glassius Reach. An ethereal shadow bound to Ventril. It was through this connection Dell managed to communicate a method of escape for The Street Dogs in The Grand Nothing.
@@ -39,4 +39,4 @@ title: "Godkiller Chapter Summary - 68 - The Meddlesome Mages"
 - Uncomfortable, but curious Cyrus and Mal decided they would venture close in arcane disguise.
 - A little over half way to the tower Cyrus tripped on a discarded object. A lone shoe that had, for lack of a better term, blossomed. Its toe split open and from the yonic portal irregular out of place matter reached out like the petals of some alien flower. Crystalline, organic, metals, stones, plant life, something that looked like coral, and even what appeared to be some collection of living slug-like creatures that writhed in the brutal sun. Their tails melding with the shoes otherworldly form.
 - It was only then did they spot the individual on the steps of the tower. Frantically waving for them to run towards them. Towards safety.
-- **Chapter ends on the early evening of the the 68th of Spring, Annum 4466**
+- **Chapter ends on the early evening of the the 72nd of Spring, Annum 4466**

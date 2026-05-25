@@ -1,7 +1,7 @@
 ---
 title: "Godkiller Chapter Summary - 69 - The Blooming Man"
 ---
-- **Chapter begins on the early evening of the the 68th of Spring, Annum 4466**
+- **Chapter begins on the early evening of the the 72nd of Spring, Annum 4466**
 - Our heroes had made a minor detour to check out the mysterious going-dark of Site Heron. A detour that proved to not be so minor at all.
 - Cyrus disguised as a young Kerketh student Emmanuel Longbone, and Mal disguised as an elderly mage named Danby Strongnut crossed the arcane dead zone towards the tower on foot.
 - A sudden distortion in the air gave way to a hulking, three story tall abomination. Running on knuckles and feet like a gorilla. Its flesh, similar the shoe Cyrus had found, was a menagerie of matter. Plant, crystal, stone, fungi, and all manner of incongruous material blooming out from its center like a blossom. The front of its torso a pitcher-flower void, and from it, a fleshy spine and skull rosing like its stigma. A pair of intelligent lidless white eyes peered from the otherwise emotionless skull.
@@ -40,6 +40,6 @@ title: "Godkiller Chapter Summary - 69 - The Blooming Man"
 	- Slackwrists
 	- No-tricks
 	- and Viscera's Mad Dog
-- **Chapter ends on the very early morning of the the 69th of Spring, Annum 4466**
+- **Chapter ends on the very early morning of the the 73rd of Spring, Annum 4466**
 
 

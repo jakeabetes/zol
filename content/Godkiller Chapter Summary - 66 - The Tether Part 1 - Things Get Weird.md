@@ -1,7 +1,7 @@
 ---
 title: "Godkiller Chapter Summary - 66 - The Tether Part 1 - Things Get Weird"
 ---
-- **Chapter begins on the late evening of the the 67th of Spring, Annum 4466**
+- **Chapter begins on the late evening of the the 71st of Spring, Annum 4466**
 - Our heroes had their cozy encampment attacked by a giant purple wurm. A creature so fearsome that killing it wasn't even on the table.
 - Fleeing however wasn't so simple. The creature had flipped both skimmers and The Evildoer needed a jump start.
 - Thinking quickly, The Street Dogs tried to bury the worm in spells while resetting their transportation. Requiring Magnus to deadlift The Evildoer while tethered to the moving Ibinyo.
@@ -23,4 +23,4 @@ title: "Godkiller Chapter Summary - 66 - The Tether Part 1 - Things Get Weird"
 - Fighting through the labyrinthine dungeon the arcane duo stumbled into two familiar faces. Curtis Renaull who was now battling in Ikas Red, and Ke'shevik. The elf who you'd all witness get killed by Valmore during Curtis's funerary ceremonies.
 - All of this was made more confusing as most of Dell's actions resulted in surges of wild magic. Manifesting Unicorns, filling Dell's mouth with bubbles, and cloaking everyone nearby with invisibility.
 - Mortal peril saturates every decision. Cyrus unconscious, The Evildoer's steering locked and shields near to breaking, Magnus and Sherman fighting to keep the skimmers inline, and Mal battling to steer the skimmer down the dry canyon riverbed. Only Deimos has his hands free...
-- **Chapter ends late night of the the 67th of Spring, Annum 4466**
+- **Chapter begins extremely early morning on the the 72th of Spring, Annum 4466**

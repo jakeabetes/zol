@@ -1,7 +1,7 @@
 ---
 title: "Godkiller Chapter Summary - 67 - The Tether Part 2 - Fuck"
 ---
-- **Chapter begins on the late night of the the 67th of Spring, Annum 4466**
+- **Chapter begins extremely early morning on the the 72nd of Spring, Annum 4466**
 - Everything was bad.
 	- Ger'zar bandits hot on The Street Dogs Tail.
 	- Cyrus unconscious at the wheel of The Evildoer
@@ -20,4 +20,4 @@ title: "Godkiller Chapter Summary - 67 - The Tether Part 2 - Fuck"
 - After putting a fair bit of distance behind them, and a Command Word from Sherman to Cyrus, they stopped the skimmers in a hidden alcove and began to take stock.
 - Cyrus was still unconscious, but Go'igi had seen something when he connected to The Evildoer. Claiming he'd seen Mal on the other side.
 - Mal's plate was beginning to overflow, but that didn't mean he got a break. Deimos had some explaining to do...
-- **Chapter ends on the extremely early morning of the the 68th of Spring, Annum 4466**
+- **Chapter ends on the early morning of the the 72 of Spring, Annum 4466**

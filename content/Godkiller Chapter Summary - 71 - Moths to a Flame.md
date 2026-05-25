@@ -1,7 +1,7 @@
 ---
 title: "Godkiller Chapter Summary - 71 - Moths to a Flame"
 ---
-- **Chapter begins on the early morning of the the 69th of Spring, Annum 4466**
+- **Chapter begins on the early morning of the the 73rd of Spring, Annum 4466**
 - Our heroes had decided to go deeper into Site Heron in search of The Inverted Door. The only known method of escape save for
 - Mallory, using his eidetic memory spent some time trying to understand the mural he'd seen. Nothing was clear, but signs pointed toward whoever created this tower did so with cosmological aim. Potentially trying to escape Zol entirely. Its lands no longer hospitable due to the acts of gods, demons, or potentially even fellow mortals.
 - Questing more efficiently now through the labyrinthine tower thanks to Ibes' notes, The Street Dogs did their best to locate the mages who may still very well be alive.
@@ -15,4 +15,4 @@ title: "Godkiller Chapter Summary - 71 - Moths to a Flame"
 - Taking refuge in a mundane chamber our heroes were finally reunited with the mages. They'd lost all but Yves, Ibes, and Erictho herself.
 - The two groups were skeptical, but Erictho had a plan. They'd managed to trap the Remorhaz in a chamber not unlike the room powered by effigies. However, unlike the effigy room this one was powered by sacrifice. A plan that could open a route previously unexplored.
 - They just had to kill it.
-- **Chapter ends midday on the 70th of Spring, Annum 4466**
+- **Chapter ends midday on the 73rd of Spring, Annum 4466**

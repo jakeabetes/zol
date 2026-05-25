@@ -1,7 +1,7 @@
 ---
 title: "Godkiller Chapter Summary - 76 - The City Behind Your Eyes"
 ---
-- **Chapter begins on the night of the 71st of Spring, Annum 4466**
+- **Chapter begins on the night of the 74th of Spring, Annum 4466**
 - Sherman had been pulled from the others, and held as a holy prisoner by Dowra, The Ger'zar King of Holiness. He was to be canonized as a philosopher under the blessing of their alter, and sequestered indefinitely.
 - An undesirable outcome to say the least. However the ceremony would grant him direct access to The Altar, a stone once touched by the godkiller hilt, and "The Changed One". A being directly altered by The hilt's power.
 - Outside, in the streets of Empyrean, the street dogs grasped for a plan. Finding little, but the waiting bodies of two acolytes lying in the center of the citadel. Slugs info was translated by Go'igi revealed the fact that men held clues that lead to the trophies of The King of Kings tournament. The one to collect them all would have ultimate authority for one day.
@@ -31,4 +31,4 @@ title: "Godkiller Chapter Summary - 76 - The City Behind Your Eyes"
 - The order lasted as long as it took him to read the clues.
 - Slider and his goons lunged at the street dogs while Sherman made a break for it. Blood, deception and chaos filed the next moments as Slider was killed and Magnus, Sherman, and Cyrus made it to a cliff edge.
 - There was no way out. No way but down...
-- **Chapter ends midnight of the 72nd of Spring, Annum 4466**
+- **Chapter ends midnight of the 75th of Spring, Annum 4466**

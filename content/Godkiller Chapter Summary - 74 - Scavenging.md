@@ -1,7 +1,7 @@
 ---
 title: "Godkiller Chapter Summary - 74 - Scavenging"
 ---
-- **Chapter begins late afternoon on the 71st of Spring, Annum 4466**
+- **Chapter begins late afternoon on the 74th of Spring, Annum 4466**
 - Our heroes had a grocery list of things they wanted from Ger'zar
 	- Whereabouts of The Sword Hilt
 	- Erictho's colleague, Barnabas
@@ -28,4 +28,4 @@ title: "Godkiller Chapter Summary - 74 - Scavenging"
 	- Cyrus and Sherman towards Let'lon
 	- Deimos, Erictho, Go'igi and their unconscious prize towards Shanks.
 	- And Mal and Magnus descending a slow and perilous lift back down the arch.
-- **Chapter ends on the evening of the 71st of Spring, Annum 4466**
+- **Chapter ends on the evening of the 74th of Spring, Annum 4466**

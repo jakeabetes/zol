@@ -1,7 +1,7 @@
 ---
 title: "Godkiller Chapter Summary - 70 - Fresh Obsidian"
 ---
-- **Chapter begins on the very early morning of the the 69th of Spring, Annum 4466**
+- **Chapter begins on the very early morning of the the 73rd of Spring, Annum 4466**
 - Cyrus had taken the initiative to go through Arcanist Erictho's things. While she slept. Right next to her. Resulting in a way that surprised no one but Cyrus.
 - Erictho was less than pleased to find someone going through her belongings. She held Cyrus under arcane threat while interrogating him for everything that she could get.
 - Cyrus was happy to oblige in exchange for his life of course. Their discussion revealed much about Erictho's true intentions.
@@ -31,4 +31,4 @@ title: "Godkiller Chapter Summary - 70 - Fresh Obsidian"
 	- Yves and his hallucinations of black dogs. Not unlike Fejn's from the journal.
 	- And Ibes extensive notes on Site Heron and the rumored alternate exits.
 - The Street Dogs have learned much, but are no closer to  escaping The Blooming Man than before save for the mention of something deep in The Tower. The Inverted Door.
-- **Chapter ends on the early morning of the the 69th of Spring, Annum 4466**
+- **Chapter ends on the early morning of the the 73rd of Spring, Annum 4466**

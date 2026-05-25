@@ -29,4 +29,4 @@ title: "Godkiller Chapter Summary - 65 - Three Things All Wise Men Fear"
 	- Studies on ancient language. An effort he abandoned because Mal himself had surpassed the old teacher.
 	- And the vast subject of Dreams. An unfortunately too-large study. Dreams encompass a wide aspect of magic, and sapient experience. Fortunately Abby was able to highlight some of the common symbols and signs seen in our heroes' shared dreams.
 - Sleep, unfortunately was not found that night. As just as the party was laying down for bed, one of The Grand Nothing's endemic predators. A gigantic, toothy, purple wurm.
-- **Chapter ends on the late evening of the the 67th of Spring, Annum 4466**
+- **Chapter ends on the late evening of the the 71st of Spring, Annum 4466**

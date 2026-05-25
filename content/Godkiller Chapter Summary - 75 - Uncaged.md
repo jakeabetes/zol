@@ -1,7 +1,7 @@
 ---
 title: "Godkiller Chapter Summary - 75 - Uncaged"
 ---
-- **Chapter begins on the evening of the 71st of Spring, Annum 4466**
+- **Chapter begins on the evening of the 74th of Spring, Annum 4466**
 - The arch's jailbreak had erupted into chaos
 	- Magnus and Mal detached from the lot
 	- Deimos, Go'igi, Erictho, and the unconscious prisoner presumed to be Skeddard running from pursuers
@@ -17,4 +17,4 @@ title: "Godkiller Chapter Summary - 75 - Uncaged"
 - A suitable core was found. Unfortunately it held a sliver of 1-5 Potentium. A metal no one ever wanted to see again.
 - It more than fixed Go'igi's problem. In fact he seemed better than ever.
 - Reuniting with Cyrus at The Citadel only three things remain. Find out anything that can be known of The Sword Hilt, Save Barnabas (assuming he's alive), and of course saving Sherman from the mad Ger'zar priests...
-- **Chapter ends on the night of the 71st of Spring, Annum 4466**
+- **Chapter ends on the night of the 74th of Spring, Annum 4466**

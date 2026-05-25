@@ -1,7 +1,7 @@
 ---
 title: "Godkiller Chapter Summary - 78 - Cynophobia"
 ---
-- **Chapter begins on the very early morning of the 72nd of Spring, Annum 4466**
+- **Chapter begins on the very early morning of the 75th of Spring, Annum 4466**
 - The fall to the river was lethal. This would be the end to the Street Dogs Mallory and Deimos. But someone, a voice... familiar yet unplaceable, intervened. Its commandment was simple.
 	- "No. Its not time for that yet. Not even close."
 	- Followed by a single word spoken in The Old Tongue
@@ -15,4 +15,4 @@ title: "Godkiller Chapter Summary - 78 - Cynophobia"
 - The last thing Deimos and Mal remember is the cold spray from the river's roiling surface just before impact. That, and... a voice.
 - Somehow they find themselves standing back atop the arch, in the streets of Empyrean drenched head to toe in blood.
 - And something... is very wrong.
-- **Chapter begins dawn of the 72nd of Spring, Annum 4466**
+- **Chapter begins dawn of the 75th of Spring, Annum 4466**

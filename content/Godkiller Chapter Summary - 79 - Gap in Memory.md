@@ -1,0 +1,25 @@
+---
+title: "Godkiller Chapter Summary - 79 - Gap in Memory"
+---
+- **Chapter begins dawn of the 75th of Spring, Annum 4466**
+- Mal and Deimos had lost all memory of the last few hours... that and a lot more. Mal was no longer referring to Deimos as "Deimos", but "Atreus"
+	- And Atreus... couldn't recall ever being called something else. But he knew deep down there was something very, very wrong.
+- All memory of "The Feeling" was gone. The only evidence was a strange prickling from Mal's memory-retaining magical focus. And the contents of their stomachs.
+- Mal and Deimos vomited up the remains of what seemed to be people. Amongst them was evidence of Barnabas' death at their hands.
+- They needed to make an escape from Ger'zar and try to reunite with the others a different way than before. Deciding to hop on a skimmer heading off Gate Salese— the insane ramp off the top of the immense stone arch.
+- Fortunately the others were able to spot this, and the group managed to reconvene at what was effectively a siege on The Scrap Heap by Madda's soldiers.
+	- The group discussed the strangeness around Atreus (Deimos). And these weird "Dogs" they spotted. It seems everyone's memories were damaged by whatever had gone on.
+	- Mal admits to possibly have played a role in Barnabas' death, and succeeds in not poisoning Erictho's opinion of the group too greatly.
+	- Because of this, Erictho pulls Sherman aside and manages to get him to swear to helping her with her research. A promise to allow her to get her hands on the sword hilt itself should they ever find it.
+- The gang decided it would be best that if they wanted info from Madda they should not come empty handed, and set off to procure the crown fragment they'd hidden from the games. Using a corpse animated by Erictho and an immoveable rod to bait and slay the giant fish creature that held it.
+- Unfortunately, Madda's soldiers had spotted the street dogs leaving the siege and arrested them shortly after procurement. They were brought back to the siege as prisoners of a sort, but before the skimmers could park, a subterranean weapon was triggered and knocked nearly everyone unconscious.
+- The net result was the skimmers slamming into the scrap heap and the street dogs being taken as prisoner by Katunga's men this time.
+- Here, they met with Katunga. An unmistakably intelligent, and weirdly companionable bandit king. 
+	- Katunga was a Holocene born son of a lowly merchant, and made a life for himself as a bandit with moderate education.
+	- His distrusting nature, and keen mind put him in a unique place when The Sword Hilt was given to him to catalogue.
+	- He hid it as "Rift Iron" in the collection. Arcane, but otherwise useless.
+	- It begged him for aide, and gave him gifts of an unspecified, but clearly cognitive nature. Yet he would not help it. He understood it was too great a force to mingle with.
+	- By the sword's many pleas, gifts, and whispers, Katunga was able to identify the party as 'in-search' of the sword shortly after their arrival at Ger'zar. He wanted nothing but to send the party on their way, and to take their dark fate with them.
+		- Quoting the sword, Katunga had said that the street dogs "Foe, or possibly their master as the two roles we're almost one and the same, was the most dangerous man to have ever lived. Holding more more arcane power, and resources than another other person who walked Zol. Yet take all that away and he remained the supreme threat of their age. For it is not his power, but his mind that makes him what he is."
+- With the first real lead they'd ever gotten, The Street Dogs were given a Ger'zar skimmer, and sent back towards The Grand Nothing.
+- **Chapter ends early evening of the 75th of Spring, Annum 4466**
