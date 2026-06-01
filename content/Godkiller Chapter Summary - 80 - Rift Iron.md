@@ -1,0 +1,32 @@
+---
+title: "Godkiller Chapter Summary - 80 - Rift Iron"
+---
+- **Chapter ends early evening of the 75th of Spring, Annum 4466**
+- Across The Three Corners Ventril found himself suddenly conscious—  injected with some unknown alchemy, and sitting across from Damien.
+- They spoke like fencing partners testing the other's defenses. Figureheads in the hidden war with intersecting journeys and differing goals. 
+- Over a game of Eelynn's set (a common strategy game in The Glassius Reach), Damien cautiously revealed a few telling points.
+	- He knew of Yarzden Urdish, the changeling Cyrus had originally gone to the free cities in search of
+	- Urdish's hunt for The Apex (the missing, and importantly not destroyed Old Shard)
+	- How that mission for his people became something else entirely. A mission for a much greater cause
+	- and how this mission became the end of Yarzden Urdish
+- Damien was not to be trusted. Ventril only spoke of his general aim, his rival Drah'gus, and his hope for still changeling equality. Ventril could not trust Damien with the fact that he was also Cyrus of The Steet Dogs... But he was not necessarily an enemy. Damien and Ventril did have one key similarity between them. They would both die for their righteous cause.
+- Back in the Grand Nothing, The Street Dogs ventured home via Gilligan's Lift aboard a Ger'zar Skimmer. Erictho nowhere to be seen.
+- They broke out their conspiracy board once again and tried to trace the outline of invisible hand with the new things they'd learned. Still mostly in the dark they settled on three points of interest within reach
+	- The sword hilt that has likely vanished into whatever Rift Iron Economy schemes are occurring in The Free Cities.
+	- The fight for The Lumberjack's Deed
+	- and the threatening presence of The Church of Three Fires in Tenzentak
+- Each conveniently aligning with words shared by Jed via The Bells.
+	- Rift Iron Ore extraction has come to a halt due to bureaucratic red tape. Tenzentak's population in uproar like a swollen injury never allowed to heal.
+	- Stoneshard's mysterious extraction of The Lumberjack's cistern.
+	- And the fact the The Ashian Religious was spreading... well... like wildfire. They were now one of the major powers in the city.
+- Jed also may-or-may not have made a secret "friend" during their absence. He would not say.
+- Martial law was budding in the city, and things were going to be interesting.
+- The long journey was interrupted by a few noteworthy occurrences
+	- Mal pushed against the arcane force that had seemingly blocked his memory of whatever had happened to him and Atreus. Hard enough to see an enormous, monstrous, one eyed dog that followed Atreus. Cognitively invisible, and behaving almost as if it had been lobotomized. Mal managed to avoid its influence only by allowing the Amnestic effects of the being to wipe his mind clean once more.
+		- Only text written on his arm made the event known to him in retrospect.
+		- "Memory Dangerous"
+	- Sherman spoke about his time as a Warforged Rebel, and his violent intentions that brought him to Tenzentak.
+	- Erictho coordinated their future cooperation. She would spend three days in Tenzentak, provide a means of regular communication, then return to Deepspell to get her affairs in order. At some unspecified point in the weeks beyond they would explore their shared concerns. The sword hilt and the secret war. 
+	- And Atreus got himself surrounded by a swarm of undead scarab beetles
+- A place where he very much still is...
+- **Chapter ends early evening of the 79th of Spring, Annum 4466**
