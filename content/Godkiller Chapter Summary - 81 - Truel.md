@@ -1,0 +1,26 @@
+---
+title: "Godkiller Chapter Summary - 81 - Truel"
+---
+- **Chapter begins early evening of the 79th of Spring, Annum 4466**
+- Deimos... er... Atreus, accosted by obsessive dead scarabs possessed by some spirit of death, managed to talk his way out of the situation by asking about information regarding The Blooming Man, and how to potentially kill it. The spirit said it was an alien force that kept it alive, and not the usual broken death of The Grand Nothing.
+- Magnus had a concerning dream involving the Mimic he encountered during his childhood. Whether it was his imagination, the actual mimic, or something else, its words were unsettling to say the least. The mimics, or *Ayadon’ae* are a celestial cast of creatures said to have been left by The Watcher himself. This one seemed to hold nothing but complaints. Claiming the last 4466 years, everything since The Awakening had been a fluke of sorts.
+	- The Dream ended with a vision of Hoss wholly inhabited by dragons.
+- Upon the return to the city our heroes parted ways with Erictho for the time being and did their best to acclimate Go'igi. They were marginally successful.
+- The Street Dogs managed to alchemically restore their hair by replicating Magnus' hair. It would go back to normal eventually but for right now they all looked like luscious northern bachelors with rapidly growing hair.
+- Tenzentak proved to be in a state yet again, the city never being allowed to heal. The lower classes are in a riot and the Ashian Church has taken up a very coup-like residence in Cliffside.
+- A meeting with Counsellor Hirik Bellard and Heron Cliffwalker informed our heroes about their current bill, 250 gold, and their losing battle against Stoneshard. To put it simply:
+	- Stoneshard has immoral, but legitimate claim. The only argument to be made against who would have more right to take the land by way of Barony is one of archaic border disputes. A challenging battle.
+	- The various courts of Alderian Law: Religious, Criminal, Civil, and Noble have many differing rules. The only reason the case is being settled in a proper court is because of the fact Mal is a baron. Because of this, Stoneshard has opened a second suit against Mal in an attempt to strike his insubstantial title. Because it is tied to Lord VanVeld, a very controversial figure, its possible he may lose this.
+- Despite the odds being stacked against them, The Street Dogs aren't without option. Albeit none of the options are very good, but they do exist.
+	- They can do nothing and hope their humanitarian plea is heard and the judge is generous. An unlikely event.
+	- They can push hard and try to find a way to beat Stoneshard by uncovering evidence. This would be great! But it is also what Heron and Stoneshard have been working on this whole time and is a very unlikely option and potentially a waste of time. Beyond that Stoneshard has many resources and could have even more tricks up his sleeves.
+	- They can try to make a deal with Stoneshard, but his longstanding reputation of being the absolute worst to the people of Fox's Hollow doesn't bode well.
+	- Catch Stoneshard in a crime. This would unfortunately have to be an extreme crime to influence an unrelated case and is an unlikely scenario.
+	- Or The Street Dogs can do what everyone knows they are going to do anyway. Break the law. Bribe, steal, scour, and intimidate until they get what they want. Maybe even worse.
+		- However they have been warned here. Stoneshard has already tried to trick them into criminal acts so they are downgraded to a criminal court as vengeful squatters. Our heroes have a reputation, and there are eyes everywhere.
+- Abby was caught up and eager to chat with The Street Dogs. He gave cautionary advice on Erictho, Go'igi, and Aramis. As well as some insight on Stoneshard.
+	- Stoneshard may be interested not just in The Lumberjack, but Mal's Land for tax related reasons. And identified, along with Sherman, that Stoneshard is acting with a lot of caution despite being heavily favored by the court already. Maybe he's hiding something?
+- At the end of the day, on their way to the home of Lady Mara, the neighbor of The Lumberjack where they've been invited to rest, they encountered none other than Haith Nallian. The inheritor of fire.
+- In a complete turn of events, Haith begged The Street Dogs for their cooperation. Haith wasn't looking to get Valmore the sword hilt. He was, and has been, working to the exact opposite goal. He wants our heroes to give the hilt to him to keep it from Valmore!
+- Haith didn't admit anything outwardly, but heavily implied something was *wrong* with Valmore. The Word of Fire is not in his right mind it seems. The Godkiller hilt is a world ending weapon. In Valmore's grasp it could be an apocalypse...
+-  **Chapter ends early evening of the 80th of Spring, Annum 4466**

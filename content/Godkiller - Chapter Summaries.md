@@ -5,6 +5,7 @@ The Chapter Summaries are recaps of major events that occurred in each chapter o
 ## Summaries
 - Book One - Elsewhere
 	- Part Three - Brother
+		- [[Godkiller Chapter Summary - 81 - Truel]]
 		- [[Godkiller Chapter Summary - 80 - Rift Iron]]
 		- [[Godkiller Chapter Summary - 79 - Gap in Memory]]
 		- [[Godkiller Chapter Summary - 78 - Cynophobia]]
