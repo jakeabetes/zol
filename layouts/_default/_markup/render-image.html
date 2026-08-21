@@ -2,6 +2,7 @@
 {{$external := strings.HasPrefix $src "http" }} {{- if $external -}}
 <img
   src="{{ $src }}"
+  onerror="this.onerror=null; this.src='/fallback.jpg';"
   width="{{ $width }}"
   alt="{{ .Text }}"
   {{
@@ -16,6 +17,7 @@
 {{- else -}} {{$fixedUrl := (cond (hasPrefix $src "/") $src (print "/" $src)) | urlize}}
 <img
   src="{{.Page.Site.BaseURL}}{{ $fixedUrl }}"
+  onerror="this.onerror=null; this.src='/fallback.jpg';"
   width="{{ $width }}"
   alt="{{ .Text }}"
   {{
