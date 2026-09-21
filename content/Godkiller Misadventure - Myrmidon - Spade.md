@@ -1,0 +1,48 @@
+---
+title: "Godkiller Misadventure - Myrmidon - Spade"
+---
+- From Elsewhere - Ch 62 to 82
+- **Misadventure begins on the 81st of Spring, Annum 4466**
+- Given a brief respite from his tormenting patron, Unusual Ben, Spade was approached by one of Ben's rivals. Cal Sey, The Sightless Mother. One of the [[Hags]].
+- Cal Sey seeks Ben's demise, but such a task is not so simple. The hag gave Spade a choice, act under her guidance and to her benefit and she will see Spade freed from Ben.
+- Cal Sey explained what Spade is
+	- Eladrin nobility. High Fey royalty of the mythical city of Hymnal. A member of the court of Ice.
+	- An extended family that has some strange connection, and perhaps mastery of the threads of Fate.
+	- Spade's birth was not just preordained, but predicted. One such birth in a repeating cycle.
+	- Spade, or *Winter* as the Fey call him, is The Child of Destruction. A child who is ritualistically terminated at birth. Leaving only the desirable twin, The Child of Creation. The living manifestation of which is named Vernal. Spade's apparent brother.
+	- Spade somehow dodged the knife, but is reported dead amongst the Fey.
+- Spade knew he was The Child of Destruction thanks to Ben, and knew he was Fey thanks to Mal. However the Hag only referred to the second source of this information as someone named "Slack Wrists".
+- Fate, sure in its occurrence but loose in its methods will see Spade the catalyst of destruction. However its shape is not sure.
+	- Ben seeks to define its silhouette by molding spade through trauma.
+- However Ben's nature is best described as being *unable to help himself*. And Ben is not the only individual interested in what the future holds for Spade.
+- An unnamed greater power has claim over him. A power Ben fears enough to circumvent, but not avoid completely. A "heretic", one supposed individual behind the entirety of the secret war against the gods.
+- Ben's weakness to temptation makes manipulating Spade a challenge. His need to harm creating a constant risk of attracting a foe he could not best.
+- Spade sought more information about this war he was to be thrust in to as a means to shroud him from Ben.
+- Cal Sey described its players as the scaffold for the Heretic's war.
+	- During this, a curious tid bit was revealed. According to her, a Word of The First Tongue cannot be inherited. But *can* be won in contest.
+- In a painful ritual The Sightless Mother bound a scrying thread to Spade's mind and thrust him through the space between the planes.
+- Spade found himself injected into a conjured identity amongst the new postulants of The Church of Three Fires that has taken up residence in The Bladehammer Guild's arena and local district.
+- Tenzentak continues its trend towards disarray. The downtrodden have taken the opportunity presented by the foreign church. An act seen as traitorous by most locals.
+- Here he met Syd, a meek and misguided halfling man that sought safety from the trying times amongst the oppressors of his ancestors.
+- Spade helped Syd and himself pass a test to become myrmidons. Monastic warrior thugs for the embedding church.
+- Spade's poor performance as a guard allowed him a chance word with Marcell of the guild. It seems the guild is not taking too kindly to their new squatters.
+- Losing his guard privileges Spade was put before The High Conflagrator herself. A strangely non-hostile, enigmatic half-beautiful half-crone human woman.
+- Spade, when asked if he would kill the people of the city at her order, feigned reluctant agreement. Stating his own issues with the gods and how they are viewed. Spade asked why it was necessary to kill the little people when The Gods are at fault.
+	- The High Priestess simply responded with a question of her own. What do you think it looks like to wage war on god?
+- Spade was thrust into what can best be described as the role of an extortionist thug. Postulancy is not the only way to enter into the Ashian Church.
+- Nobility are being bought all across Tenzentak, and possibly the other Alderian cities. Overturning their assets allows them high membership in the church, and a new home in distant Kapesh.
+- This deal is unappealing at a glance, but with war on the horizon many are accepting.
+- While more wealth for the church and Kapesh is an acceptable motive, Spade noticed the priests seemed to hunt for something amongst the valuables of the nobles. Something they have yet to find.
+- Those that did not play nice were intimidated. Some even attacked by the church in the dead of night.
+- Tenzentak is being plundered. Its mines closed, its streets rioting, and its people afraid.
+- Spade however does not intend to see this perpetuated. Cal Sey sent him here for a reason.
+- His nights, when not sent to harass locals, were spent sneaking around The Church's annexed district.
+- Painfully little was found, save for one disturbing night.
+- Via a clever use of his magic, Spade managed to enter the sub levels of the arena.
+- There, he found strange, enormous fleshy tendrils growing through the brickwork.
+- They ended in a giant chamber in a horrendous polyp. From which a grouping of what seemed to be similar looking lifeless, male bodies hung from. Either being consumed, or birthed. 
+- Before it sat a strange shape of a man. A being of pure fire. It toyed with a long metal pole and a rock on the ground like a child might have.
+- The moment it sensed Spade he fled. Causing chaos and a full blown search for the intruder. However he was not identified.
+- Corrigan, a Tenzentak local survivor of Victory Day saved by Valmore himself made priest, and vocal dissenter of Spade, heavily accused Spade of being guilty.
+- Spade was able to evade the axe by leaving for his daily extortionist duty... but his time amongst The Church runs thin...
+- **Misadventure ends on the 81st of Spring, Annum 4466**

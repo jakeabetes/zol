@@ -16,6 +16,7 @@ Campaign Content:
 - [[Godkiller - Weavings]]
 - [[Godkiller - Chapter Summaries]]
 - [[Godkiller - The Lumberjack Journal]]
+- [[Godkiller - Misadventures]]
 
 Pre-campaign Content:
 - [[Godkiller - Premise]]

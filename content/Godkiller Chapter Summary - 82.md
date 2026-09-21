@@ -1,0 +1,19 @@
+---
+title: "Godkiller Chapter Summary - 82"
+---
+-  **Chapter begins early evening of the 80th of Spring, Annum 4466**
+- After an alarming encounter with Haith Nallian, the Inheritor of Fire where in he implied something was wrong with the mind of Valmore and that the sword should be given to Haith himself and not Valmore The Street Dogs began theory crafting once again
+	- The new world's relationship with death seems to differ with that of the old world.
+		- Maybe this is why the gods are in danger?
+	- If Valmore's without faculty maybe he's not the one pulling the strings?
+		- Maybe killing Giriam broke his mind and that's the reason for all the disorder?
+- These questions would have to wait for another day. Stoneshard owns the Tavern and what little case there is against him dwindles.
+- He has not only taken over the Tavern, but has taken strides to enrich its business. A proper stable has been built and the bridge within the Rot Wood has been repaired. Fox's Hollow has become a sort of way stop east of Tenzentak.
+- It wasn't as easy as it should have been, but eventually Jed was drawn from The Lumberjack. Freely giving most of the information he had, but was slow to admit his budding romance with Lady Rhea Stoneshard, the new manager of the tavern.
+	- Also within the Tavern's relevancy is Vintra the remaining Hatiat Rira, and another new staff member named Scoot.
+- For now, The Street Dogs have been invited to stay at Lady Mara's home. The distant neighboring farmhouse to The Lumberjack. The centuries old elf is not only the sole surviving local to remember Fejn, but her house held some of Therin's paintings.
+- The secret entrance to The Lumberjack via the Cistern was used to spy on Stoneshard's men as they drew upon the water.
+	- Mal sending Slug up the pipes into their cask
+	- Magnus dosing the spigots draw pipe with poison as a "why the hell not". Probably not enough to even make someone who drank from the water sick, but enough to mark it alchemically.
+- And on the surface, Deimos has marked the cart driver just before they left. The hunt is underway...
+- **Chapter ends early evening of the 81st of Spring, Annum 4466**
