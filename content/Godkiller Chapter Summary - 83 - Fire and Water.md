@@ -1,0 +1,25 @@
+---
+title: "Godkiller Chapter Summary - 83 - Fire and Water"
+---
+- **Chapter begins early evening of the 81st of Spring, Annum 4466**
+- Stoneshard is siphoning water from the Lumberjacks Cistern for some unknown purpose.
+- Fortunately a giant water-towing horse cart is easy enough to track.
+- The cart led onto Stoneshard's estate. Overshooting the main manor and heading deeper into the walled confines of his property.
+- However this was not the only peculiar ongoings at Stoneshard Manor. A fleet of covered horse carts driven by Ashian Myrmidons were in attendance.
+- The plan was simple.
+	- Split the group in two.
+	- Magnus and Mal would follow the water cart.
+	- The others would use the myrmidon's convenient  distraction to sneak into the house.
+- Unbeknownst to the rest of the gang, the split was actually a three way break, or rather *reunion*.
+- Amongst the intimidating monks was Spade. An involuntary insurgent of a sort. One who was looking to get the hell out of dodge.
+- His plan was even more simple than the rest of the gang's. Start a big ass fight and *run*.
+- Pandemonium and fire erupted from the manor's grand entrance. Providing ample opportunity for Sherman, Cyrus, and Deimos to sneak in an lurk for something to use against Stoneshard.
+- Cyrus and Sherman spotted the house staff cowering in the upper west wing, located a study, and bumped into hired muscle.
+	- These mercenaries were clearly not familiar with their roles at this estate. They, like many others all across Tenzentak's province, were hired in haste in attempts to defend against the coming tipping point.
+	- This man, Urlin, proved no match for Cyrus' charm. Dazedly explaining that Stoneshard wouldn't keep any of his secrets in his home. They belong in the Runnels.  A location he's never been privy to somewhere in the general direction Magnus and Mal went in.
+- Deimos found nothing related to Stoneshard, landing in the guest wing. However he did find the uninvited guest himself. Spade, who he hadn't seen in weeks, barreling down the hall at him in morally questionable, ashian attire. Two house guards firing arrows down the hall at him. Neither guard lived long once evenly matched.
+- Following the cart Mal and Magnus were led to a dead end private road where a cantankerous rural medicine woman dubbed the water to be insufficient (likely thanks to Magnus' tampering). The water was purged and allowed to flow back into the ground. Unfortunately *where* the water was to be sent exactly remained a mystery. However it had to have some close by stop its lifespan, or nearby was its ultimate destination.
+	- What was learned is alchemy is absolutely in play.
+- Before making their grand exit Sherman managed to break into the study where Cyrus discovered the beginnings of a cypher discarded in error.
+	- Fortunately Stoneshard is not nearly as smart as he is wealthy. Cyrus knew exactly how to read it...
+- **Chapter ends early evening of the 81st of Spring, Annum 4466**

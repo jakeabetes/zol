@@ -1,5 +1,5 @@
 ---
-title: "Godkiller Chapter Summary - 82"
+title: "Godkiller Chapter Summary - 82 - Under New Management"
 ---
 -  **Chapter begins early evening of the 80th of Spring, Annum 4466**
 - After an alarming encounter with Haith Nallian, the Inheritor of Fire where in he implied something was wrong with the mind of Valmore and that the sword should be given to Haith himself and not Valmore The Street Dogs began theory crafting once again
