@@ -1,0 +1,29 @@
+---
+title: "Godkiller Chapter Summary - 84 - Starstride"
+---
+- **Chapter begins early evening of the 81st of Spring, Annum 4466**
+- Spade had reunited with the rest of The Street Dogs whilst they searched for dirt on Stoneshard. The bloodshed chaos sparked by his escape from the Ashian Myrmidons providing ample opportunity.
+- They'd deduced a few things so far:
+	- The need for The Lumberjack's water was alchemical in nature.
+	- The whereabouts of the water's receptacle were known, but no access for personnel was discovered
+	- The location where the water was "processed" was called The Runnels and it was top secret even amongst the hired muscle.
+	- And Kael Starstride was one of the hired arms and his abilities were being specifically requested by what seemed like Stoneshard himself.
+- The larger group of our heroes: Spade, Deimos, Sherman, and Cyrus spotted a man on a mule cart fleeing the property on a North Eastern bound road.
+- He was easy enough to capture. A little too easy perhaps. Unfortunately he awoke whilst being kidnapped by Sherman for questioning and met a swift end in the open fields of Stoneshard's estate.
+- His cart however held some answers. Loaded with what looked like supplies for a secret bunker, and artifactory. Deimos's skills noting that it had been waiting at a non descript location for some time.
+- The group tasked with receiving the water, an old medicine woman and two young street thugs were seen to send word to an unknown 3rd party via a keyed span read when they spotted the fire consuming the manor's main hall.
+- She was relieved of this by Spade who attacked and bound her in the garb of an Ashian Priest.
+- Cyrus, patient as ever, opted to steal the appearance of the cart driver and wait to see what would happen if he remained at the place where the cart had been. 
+	- After the fire had been extinguished a local solider, not one of Stoneshard's mercenaries, rode up to tell "John" (Cyrus) to flee. It seemed like this guard was at least somewhat in the know. The brief exchange resulted in Cyrus convincing the solider to take him home on horseback.
+- Cyrus spent the next two hours speaking to John's loving, sick, and ultimately ordinary wife and his two darling children over dinner. 
+- Little was arose from this save for some newfound guilt and perhaps the seeding of a new urban legend for the outer village. 
+	- While the real John lay open-skulled on a manicured lawn a confused ghost had come to say goodbye to his family.
+- However it was mentioned that the place John had been meant to deliver the cart's supplies was indeed underground. Likely Kael was the one who could open it. Spade would later confirm the recent death of a merc druid named Crustin who'd been on Stoneshard's payroll.
+	- It was clear by the way Stoneshard's men were behaving, and dying their operation was not going well...
+- Reconvening at Lady Mara's the evening's events were mulled over
+	- Spade explained where he'd been the last two weeks and the horrors he had discovered as a myrmidon of the Church of Three Fires.
+	- A sample of the flesh that Spade had seen under the area harmed Mal with not a horrifying vision and a deep sickness upon psychic inspection.
+	- Jed and Go'igi had vanished after a concerning Bell message from Go'igi. Likely to chase after Rhea who had been at the manor during the attack.
+	- And the span read stolen from the old woman was activated. It printed a single word.
+		- Louseau's
+- **Chapter ends late on the 81st of Spring, Annum 4466**

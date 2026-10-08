@@ -18,6 +18,7 @@ title: "Godkiller Chapter Summary - 81 - Truel"
 	- Catch Stoneshard in a crime. This would unfortunately have to be an extreme crime to influence an unrelated case and is an unlikely scenario.
 	- Or The Street Dogs can do what everyone knows they are going to do anyway. Break the law. Bribe, steal, scour, and intimidate until they get what they want. Maybe even worse.
 		- However they have been warned here. Stoneshard has already tried to trick them into criminal acts so they are downgraded to a criminal court as vengeful squatters. Our heroes have a reputation, and there are eyes everywhere.
+- The first court date would be in a matter of days. Midday on the 82nd of Spring.
 - Abby was caught up and eager to chat with The Street Dogs. He gave cautionary advice on Erictho, Go'igi, and Aramis. As well as some insight on Stoneshard.
 	- Stoneshard may be interested not just in The Lumberjack, but Mal's Land for tax related reasons. And identified, along with Sherman, that Stoneshard is acting with a lot of caution despite being heavily favored by the court already. Maybe he's hiding something?
 - At the end of the day, on their way to the home of Lady Mara, the neighbor of The Lumberjack where they've been invited to rest, they encountered none other than Haith Nallian. The inheritor of fire.

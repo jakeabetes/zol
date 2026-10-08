@@ -5,6 +5,7 @@ The Chapter Summaries are recaps of major events that occurred in each chapter o
 ## Summaries
 - Book One - Elsewhere
 	- Part Three - Brother
+		- [[Godkiller Chapter Summary - 84 - Starstride]]
 		- [[Godkiller Chapter Summary - 83 - Fire and Water]]
 		- [[Godkiller Chapter Summary - 82 - Under New Management]]
 		- [[Godkiller Chapter Summary - 81 - Truel]]
