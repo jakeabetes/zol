@@ -1,0 +1,46 @@
+---
+title: "Godkiller Chapter Summary - 85 - Lining Pockets"
+---
+- **Chapter begins late on the 81st of Spring, Annum 4466**
+- The evidence gained on Stoneshard was useful, but by no means a smoking gun.
+- Time was ticking. Tomorrow being the date of their first court appearance.  They still had nothing against their local land lord as of yet.
+- Worse, Jed and Go'igi had fled to the wind looking for Rhea who'd seemingly been kidnapped by The Ashian Priests.
+- Cyrus was able to steal a hairbrush of Rhea's from the manor and scry on the unfamiliar noblewoman.
+- The crystal ball showed an image of Rhea frantically fleeing through the under city. Go'igi and Jed's voices audible in the background. They appeared to have escaped Rhea's captors. Or rather were actively in the process of doing so.
+- Despite efforts to track them down Tenzentak's riots made the act nearly impossible. Fortunately an ill advised plan to teleport into a barred down Adjunct on dragon back and beg for the aid of their head arcanist managed to get a message to Rhea.  Also a ban from the nearest Adjunct to The Lumberjack.
+	- Rhea gave little info but made it clear that they were now hiding and "fine".
+- Having little ability to find their friends, The Street Dogs opted to check out Louseau's where a secret meeting of criminal enterprise was underway. One with the type of expensive security detail that would let no one in, but told a part of their story by their mere, daunting presence.
+- Many weeks ago, when our heroes first arrived en masse to Tenzentak, there had been a secret conspiracy afoot. One Guild Mind Colin Coinge had his designs for time-decaying Warforged rejected in favor of his rivals.
+- Coinge's technology, offered to Lord Rozwald, father of Oog Rozwald, would have caused Warforged to die after a period of a few months if left regularly unserviced by a non-construct. Effectively putting an expiry date on any uprising or singular, crazed machine. 
+- Not able to idly take the fact that Lord Rozwald had instead gone with the designs of Yaddio Logician, The Monsieur, the very man who had made Sherman, Colin Coinge decided to take matters into his own hands.
+- Whatever The Monsieur and Lord Rozwald were planning was a slow, but sure plan. Something that would make them rich in the projected years to come.
+- Unfortunately for them Colin Coinge was anything but stable. He, along with some sympathetic Skeptics of Kerketh who had anti-warforged ideals, made a plan.
+- They constructed a small army of pseudo-forged. Essentially cheap automatons lacking a soul or a mind that could carry out a series of complex actions before self destructing.
+- With his fake warforged, planted rumors, and multiple 1-5 potentium bombs, Colin Coinge had the makings of a plan that would, in theory, install a great surge of public outcry against warforged. Making his *extremely* scalable design the clear solution to the immediate problem.
+- It was a long and hard uphill battle for Coinge. That probably would have been much easier if he hadn't been picking fights along the way. 
+- His last fight, the one with The Street Dogs, was not only his end, but it unveiled his phony plan to everyone. Sure people were scared. But they were just as scared of the artificers at this point as they were of the Warforged.
+- The strange plots of warforged tech ended for our heroes with the death of Coinge. Or at least that is how it seemed.
+- While Coinge had been causing terror, and our street dogs left on adventures to Holocene and the reaches of The Grand Nothing, gears of a secret dark industry continued to turn. 
+- Colin Coinge was an arrogant idiot, but there may have been a hint... perhaps and echo of a hint, of wisdom in his acts to try and stop what was secretly transpiring in the Rift City.
+- Tenzentak's greatest export is Rift Iron. A magical and very special metal that heals its blemishes and breaks once tempered in a given shape. However it becomes permanently locked in that shape, preventing any future changes or recycling of the scarce material.
+- While its no mithril, Rift Iron is incredibly useful. Modern engineering methods can use it to make some pretty wonderous things.
+- Sadly it cannot be used for Iron Light Ferrication. As you can't inscribe runes in something that heals itself a few minutes later.
+- Its applications, if not in the hands of a clever academic, are largely mundane. A knife that never stays dull, and axel that never rusts, or a shield that bounces back after a bout.
+- Actually its a little too good at the mundane. Which is why during the first age the vast majority of the stuff was converted into simple, but very useful tools or weapons. Antiques that are good as new. 
+- Now it is a scarce natural resource and can only be mined when the magical rifts of the city slowly regrow the ore like scabs over a wound.
+- So why would a group of very important individuals:
+	- Stoneshard
+	- Aramis
+	- Some academic looking Genasi Woman
+	- A crap ton of muscle
+	- Gale Goa
+	- References to Lord Goa as "The Ferring"
+	- and the Guildmaster of the benevolent Bladehammer Guild, Helg Corsair and his honorable son Bax
+	be secretly engaging in the business of collecting antique Rift Iron.  
+- And by the words they were using. Talks of new technology, weapons, victory day, warforged, Lord Rozwald, slaves, foreign religious threats, and war it seemed like whatever they were doing was very illegal, and very profitable.
+- What would it mean for Tenzentak if its greatest export was suddenly not so scarce? What would it mean if rift iron could be used for more than the mundane?
+- Whatever they were up to it seems in its sunset phase. Tensions are high as the group suspects one of their own had stolen a shipment of Grand Nothing Rift Iron salvage from Aramis. 
+- On top of that, they seemed to think the reason The Ashian Priests were poking around in the city (and probably why at least this group thinks they attacked Stoneshard ) was to find the Technology and bring it back to Kapesh.
+- As the greedy snake eats its tail plots within plots form. One of which was overheard whispered by Stoneshard after the meeting had concluded. He called over one of the mercenaries, Kael Starstride, and secretly asked him to assassinate one of our heroes own.
+- Sweet, simple Jed.
+- **Chapter ends on the very early morning of the 82nd of Spring, Annum 4466**
