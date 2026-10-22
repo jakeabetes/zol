@@ -16,4 +16,8 @@ title: "Godkiller Chapter Summary - 86 - The Ferring"
 	- The cost of his generosity has yet to be discovered
 	- The Fool Also brought a memento to show Mal. His old arm. Strangely preserved by the arcane curse brand of a dogs head. Daro still hunts for Mal and only The Fool has kept him safe apparently.
 - Disturbing as it was, our heroes had to press on. Jed's testimony could make or break this case. And Stoneshard wants him dead.
+- Venturing into the undercity, the presumed location of Jed and the others, the group split into two
+	- Mal and Magnus would venture into bars as a pit fighter and manager duo going off what is presumed about Go'igi's current predicament
+	- The others would use Cyrus in disguise as Jed searching for his "twin"
+- The latter group catching the attention of Ashian Priests in disguise who are also looking for Jed...
 - **Chapter ends mid afternoon on the 82nd of Spring, Annum 4466**
