@@ -1,0 +1,19 @@
+---
+title: "Godkiller Chapter Summary - 86 - The Ferring"
+---
+- **Chapter ends on the very early morning of the 82nd of Spring, Annum 4466**
+- Kael Starstride denied Stoneshard's hit on Jed. To Kael, Stoneshard was a sinking ship. One he wanted no part in. It seemed whatever Stoneshard was up to was not common info to the secret group.
+- Our Heroes rooftop espionage was interrupted by The Speaker Big Hat Murphy. The dangerous arcanist impressed with the groups tenacious efforts but ultimately disappointed with the fact he had little choice but to kill them.
+- The Street Dogs made a good case in their defense. Much of which was desperate, but two details in particular convinced Big Hat of their value.
+	- Stoneshard was the sticky fingered member of their syndicate and was conducting his own version of their operation beneath his holdings. Bumbling idiot as he is he'd been counted out as a suspect.
+	- And The Street Dogs were the ones who held the key to the door under The Lumberjack. A door Murphy curiously didn't call an "Elsewhere" door but a "Nowhere" door.
+- The preliminary hearing came the next day. With Tenzentak in disarray, The Street Dogs opted to rest at a tavern. At which Sherman had yet another Lumberjack Dream.
+- Stoneshard won the initial favor of The Court based on signed warnings the Lumberjack had apparently been served.
+	- Warnings that had been given to Jed specifically who was unable to read. Jed had likely been tricked into signing them
+	- If the street dogs could get Jed into court they could prove the illegitimacy of these documents, and perhaps win The Lumberjack back.
+- The suit regarding Mal's Nobel title took a strange turn. Mal's elevation of class, sponsored by Lord VanVeld was challenged based on VanVeld's reputation. An angel challenge made from the courts audience is what ultimately saved Mal's title.
+	- Lord Cabe Calanir of House Cups, a famed Zessgorni noble and Tarot Ring Bearer known as The Fool and Mal's old boss came out of nowhere to save the day.
+	- The cost of his generosity has yet to be discovered
+	- The Fool Also brought a memento to show Mal. His old arm. Strangely preserved by the arcane curse brand of a dogs head. Daro still hunts for Mal and only The Fool has kept him safe apparently.
+- Disturbing as it was, our heroes had to press on. Jed's testimony could make or break this case. And Stoneshard wants him dead.
+- **Chapter ends mid afternoon on the 82nd of Spring, Annum 4466**
