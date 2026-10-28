@@ -1,0 +1,17 @@
+---
+title: "Godkiller Chapter Summary - 87 - Preponderant Witness"
+---
+- **Chapter begins mid afternoon on the 82nd of Spring, Annum 4466**
+- Cyrus' *Jed* disguise attracted the wrong sort of attention in the Narrows of Tenzentak. Four Ashian Myrmidon's from distant Kapesh hunted for Jed (presumably Rhea and Go'igi as well) in common thug attire. Seeing his face they attacked immediately.
+- Cyrus' disguise was ditched early on in the fray. However the monks didn't stop their assault. Spade, a known heretic defector was in their midst.
+- Elsewhere, Mal and Magnus joined into an amateur fighting ring. Magnus' far from amateur skills made the bout a piece of cake. 
+	- Perhaps such a poor match up would be seen as bad business by some. The resident bookie however was far too intimidated to protest.
+- The fight against the ashian myrmidons unsurprisingly resulted in a destructive inferno. Devouring the local slum's ramshackle structures.
+- A single monk was allowed to live... for a time. Interrogating him divulged little info and Spade had no reservations in ending him.
+- From the low end fighting ring Magnus and Mal were able to bully-out the info they wanted. The bookie knew of their friends and explained that they had forced them to fight to pay off a debt gained from squatting in the taverns store room and eating their food. Go'igi had done well enough to merit the bookie selling his contract.
+	- Go'igi and friends were now at "The Pit". The largest criminal hub in Tenzentak. An establishment half of the party are banned from.
+- Venturing there they found Go'igi pitted against "The Freak". A monstrous mutated Orc man Cyrus recognized as none other than Aleksander Salt. The wanted Rift Iron thief he'd once looked into during his first week in Tenzentak. The way his body was altered echoed that of The Blooming Man...
+- This would be Go'igi's "*last fight*". After he, Jed, and Rhea would no longer be bound by their accrued debt. If he lived... .
+- Go'igi was like a wasp. Skittering, buzzing, and jabbing whenever he could. Unfortunately he remained no match for The Freak.
+- For all his zeal, the party's newest friend met a brutal death against the hard floor of The Pitt...
+- **Chapter ends early evening on the 82nd of Spring, Annum 4466**

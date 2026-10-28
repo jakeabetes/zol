@@ -5,6 +5,7 @@ The Chapter Summaries are recaps of major events that occurred in each chapter o
 ## Summaries
 - Book One - Elsewhere
 	- Part Three - Brother
+		- [[Godkiller Chapter Summary - 87 - Preponderant Witness]]
 		- [[Godkiller Chapter Summary - 86 - The Ferring]]
 		- [[Godkiller Chapter Summary - 85 - Lining Pockets]]
 		- [[Godkiller Chapter Summary - 84 - Starstride]]
