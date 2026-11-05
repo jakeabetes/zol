@@ -1,0 +1,51 @@
+---
+title: "Godkiller Chapter Summary - 87 - Go'igi"
+---
+- **Chapter begins early evening on the 82nd of Spring, Annum 4466**
+- The Freak had emerged victorious from the bloodmatch with Go'igi
+- The once Ger'zar, and now friend of The Street Dogs lay dead on the floor of The Pit Tavern
+	- But only for a moment
+- During the frantic instance that followed The Street Dogs fumbled for some sort of response. During said fumbling no one noticed that Go'igi, who had been unmistakably killed, was rising back up from the floor. Eyes blazing with the blue white glow of 1-5 Potentium.
+	- Magnus, who'd had the chance to become familiarized with his cast was the first to recognize it. Go'igi was a death walker. One of The Grand Nothing's abominations who seem somewhat *disconnected* from [[The Mortal Coil]].
+- Unlike those death walkers that our heroes fought in The Grand Nothing, something more than a perseverance of spirit was occurring. As if the machine incorporated into his body was being overclocked, he sprinted from the tavern like lightning. Those he impacted sent flying, and whisps of white fire left in his wake.
+- He said only one word to the gang
+	- "Sorry!"
+- Split now between two quarries, Go'igi fleeing like a bat out of hell, and the perplexed couple in the back corner of the Tavern
+- Our Street Dogs split in two
+	- Magnus, Mal, and Spade after Go'igi
+	- Sherman, Cyrus, and Deimos going after the stupefied couple
+- Getting to Rhea and Jed was by far the simpler matter. Unfortunately getting out of the now chaotic bar was not. Especially since Sherman was recognized as a banned individual.
+- It was going to be a fight. One with poor odds. That was until Deimos decided to nock and arrow and fire it far across the crowded room.
+- Was he aiming for something? Indulging some psychopathic urge? Had the thing inside his head won control again? Did his mutant instincts tell him of something imperceptible to the senses of the mundane? Or do the gods have some plan for the taciturn man?
+- As if guided by The Trinity itself the arrow soared across the room, deflected off a tankard, slid along the groove of a rafter, and was ultimately sent floorward by an old gnarl of splintered wood.
+- But before reaching its terminus, the arrow caught the bottom face of a travelling arcanists bag as it swung loosely around his evasive, blundering form. This was no simple bag. It was lined with the complex runes of interdimensional storage 
+- The arrow would have punctured it if it hadn't have been blunted off the tankard. Instead, it pushed the bottom of the bag. The moment it crowned out of its mouth an arcane chain reaction destroyed the charms that held its contents in another world.
+- Objects of every size, shape, color, mass, and purpose flooded the tavern like waste from a cracked sewer pipe. A domestic, and arcane torrent of belongings that far exceeded the volume of the tavern.
+- The crushing chaos provided not only an ample escape opportunity, but souvenirs for the gang as they fled.
+	- Cyrus stealing an arcane water faring vessel that collapsed down into a convenient size
+	- Sherman finding a strange coin that harbored the verdant presence of a great oak tree
+	- and Deimos nabbing a scroll for Mallory
+	- Additionally, the arrow that Deimos had let loose somehow made its way back at his feet. Whatever wild magic surge had ultimately destroyed the bag seemed to have made this arrow positionally fixed to Deimos. Returning to him a few moments after he fires it. Deimos will never have to buy an arrow ever again it seems.
+- The rest of the gang was less lucky. Go'igi had always been spry but supercharged by his core he was outpacing a horse. Literally.
+- Magnus rode atop Viz while Spade had to transform into a horse for both he and Mal to keep up. 
+- Beckoning calls for him to stop were only met with cryptic responses. He seemed to be unable to stop or give reason as to why he was so driven. Or *where* he was driven.
+- The chase led gracelessly up out of the narrow city where chance allowed those who rescued Jed and Rhea to join into the wild affair.
+- Unable to catch him the group ultimately were forced to watch in horror  as he reached his final destination. An out of the way Zessgorni tavern where in Go'igi was indirectly terrorizing the proprietors as he stood obediently before his "master".
+	- Erictho...
+- A tense moment was soon diffused as Erictho took a placating stance. She went on to explain that during her short time with Go'igi alone at Camp Ger'zar the bandit had died and was going to detonate. She responded with the only tools she had. A revival spell that had originally been meant for her frail colleague, Yves, during their escape from Site Heron in case he perished. This made Go'igi her thrall by necessity.
+	- Regardless of the truth behind the statement Spade got a distinct feeling in his gut from her. He does not know this woman. His friends seem to have a reluctant trust for her, but regardless of what they think she is clearly the kind of shark who would use any advantage if she thought it pertinent.
+- The magic at play had been an odd set of interactions. Go'igi's natural resistance to death had made it easy to enthrall him. He'd been instructed to not speak on his enthrallment, and to return to Erictho if he ever died again and managed to return to life. His core however seemed to have back-flowed power into his body. Causing him to follow her instructions with all his substantial might.
+- Despite reasons for suspicion The Street Dogs remain in terrible need of savvy allies. And Erictho may be the most savvy peer they've found. Leveraging forgiveness to secure a more trusted ally seemed the best option. Erictho was inclined to agree.
+- As the tension bled out more and more, the secret necromancer shared some good news. Stoneshard had been arrested. Allegations of "Unscrupulsim", an umbrella of high society crime pertaining to tax evasion and the laundering of funds.
+	- Seemingly the banks, coincidentally run by Lord VanVeld despite his secession, discovered a large amount of money coming into his accounts despite both industries supplied with his goods being at extreme lows.
+	- This was good, but not the sort of thing that would bury him. He could still slip the noose if allowed.
+- The party told her of Aleksander Salt, the potential last known courier of The Godkiller. And ill afflicted just like The Blooming Man was. Albeit less so.
+- She told them of her recent exploration of death, and the mythic pre-undoing gods not present in modern history.
+- Her theory is as follows:
+	- Only within The Grand Nothing are some born with the ability to shrug off death
+	- And within Site Heron, relics of secret 9th and 10th gods were found. A god of war, and one who's symbol was bent into that of the mortality rune.
+	- Referenced against what The Street Dogs saw in The Reality Anchor, this would in theory be The God of Dreams
+	- Now in the modern day another god has died and a select few, The Street Dogs, Erictho, and more, are being swirled towards something silent and immense like a black hole.
+	- What if the god of dreams was the first god to die? Killed by The Godkiller sword. And now some aspect of them calls from the sword itself. Or maybe something darker...
+- What if the God of Dreams *became* the God of Death?
+- **Chapter ends evening of the 82nd of Spring, Annum 4466**
