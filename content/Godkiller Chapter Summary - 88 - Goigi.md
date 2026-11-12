@@ -1,5 +1,5 @@
 ---
-title: "Godkiller Chapter Summary - 87 - Go'igi"
+title: "Godkiller Chapter Summary - 88 - Go'igi"
 ---
 - **Chapter begins early evening on the 82nd of Spring, Annum 4466**
 - The Freak had emerged victorious from the bloodmatch with Go'igi

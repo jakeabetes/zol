@@ -1,0 +1,27 @@
+---
+title: "Godkiller Chapter Summary - 89 - Dead Dreams"
+---
+- **Chapter begins evening of the 82nd of Spring, Annum 4466**
+- Erictho had *not* left Tenzentak like she'd said she would
+- That alone was not an issue, but paired with the fact that she had enthralled Go'igi and kept a close eye on The Street Dogs and their shared interests without making her designs known painted a suspicious picture
+- Erictho was not trustworthy, but all her actions seemed to have justification. Despite the risk she posed, our heroes decided to (tentatively) trust her for the time being. 
+	- Well, all save for Spade who had just met the Speaker and did not like what he saw.
+- What was worth saying was laid out
+	- The party had a bead on The Godkiller. The relic which Erictho had spent the last months studying the mere after effects of.
+	- Not only were they on its trail, but The Street Dogs believe the evidence led straight to Stoneshard.
+	- One of Stoneshard's thugs, Aleksander Salt, known also by his moniker *The Freak*, likely stole a shipment of Rift Iron from Guild Mind Aramis that secretly contained The Godkiller Hilt. What contact he shared with it having likely corrupted him.
+	- *If* Salt could be reasoned with (or manipulated) he could be the key to not only finding The Hilt, but burying Stoneshard.
+- Unlike others who advised the party in matters pertaining to The Lumberjack, Erictho had no interest in playing a cautious game.
+	- Her plans were simple and direct. Kill, cheat, manipulate, and whatever else was necessary to win The Lumberjack (or in her case, access to The Sword). Acts she was more than happy to help with.
+- While the foundations of her plans are simple in nature, the solutions themselves remain complex.
+	- Stoneshard, while facing fraud charges, has had time to guard himself against our heroes.
+	- Rhea, his daughter, was able to paint a clear picture of her father's mind.
+	- Stoneshard is a coward and would take the first life raft he could spot. She believes whatever he was hiding in The Runnels has likely been burned, covered-up, or otherwise extracted to a secondary location amidst the ongoing investigations.
+	- If the party wants The Lumberjack all they need do is bury Stoneshard. If they want The Hilt too they need to figure out where his valuables lie post tearing him down.
+- Setting out after Aleksander Salt, The Street Dogs left Go'igi, Jed, and Rhea in the custody of Erictho. 
+- Earlier that day Magnus had intimidated a bookie for information regarding The Narrows underground gambling network. More specifically, its fighting rings.
+	- Magnus' plan was to pay the same fellow another visit. Rather than look for Go'igi this time he'd seek info on the man that had "killed" him. The Freak.
+- This may have gone more smoothly if The Pit's customers hadn't been scattered far and wide, some taking up shop in the meager tavern home to Magnus' bookie friend.
+- A simple intimidation job sprawled into a catastrophic bar fight where in some of our Street Dogs would have met their end if not for Spade's quick thinking.
+- Spade, using his magic, teleported The Gang and the unconscious bookie out onto the front deck of the too-small tavern just as the structure began to fail under the energy and mass of the ongoing brawl...
+- **Chapter ends late on the 82nd of Spring, Annum 4466**
