@@ -5,6 +5,7 @@ The Chapter Summaries are recaps of major events that occurred in each chapter o
 ## Summaries
 - Book One - Elsewhere
 	- Part Three - Brother
+		- [[Godkiller Chapter Summary - 90 - Changed]]
 		- [[Godkiller Chapter Summary - 89 - Dead Dreams]]
 		- [[Godkiller Chapter Summary - 88 - Go'igi]]
 		- [[Godkiller Chapter Summary - 87 - Preponderant Witness]]

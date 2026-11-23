@@ -1,0 +1,21 @@
+---
+title: "Godkiller Chapter Summary - 90 - Changed"
+---
+- **Chapter begins late on the 82nd of Spring, Annum 4466**
+- From the wreckage of the ruined tavern our heroes kidnapped the low level bookie thug for questioning
+- For what little use he was, the bookie was able to inform the party of the approximate location of Aleksander Salt's safe house. An old, immense mining lift deep within The Furloughs. The absolute depths of Tenzentak's low city. Closed rift iron mines on the cusp of The Underdark.
+- Before heading there, rest was in high demand. The Street Dogs returned to Erictho's inn.
+- In its meager privacy, Mal decoded another page of the journal. One which spoke of The Western War, the stealing of "striations" (presumed to be The Old Shards) and the death of the death of The Word of Pressure. A wordbearer absent from the telling's of history. His demise at the hands of Jaw, The Word of Wrath.
+	- Fejn said this to be his brother's greatest mistake.
+- Amongst these revelations, Cyrus and Mal realized their connection may be deeper than they previously thought.
+- Cyrus handed Mal his nesting doll and it immediately caused Mal to have a seizure, and an ensuing deep slumber.
+- The following night was filled with dreams
+	- Mal's broken mind found yet another piece of its past. One in which he recalled what the god-machine beneath the city of Ryze was. A synthetic deity.  Its workings a total mystery, but its primary function was clear. Dominion over the Fate of the Hierarchy of Man. A machine that could organize the future of societies to sort themselves from slave to king.
+		- In other words, a device who's wielder decides who is king, and who's backs they stand upon.
+		- Mal, and The Universities other "Dogs" had a singular purpose. Kill those who meddle with the same forces, lest they corrupt the machine's own perversion of civilization.
+	- This was not the only revelation. For all were pulled into a shared dream of sorts. A vision of the ruined lumberjack. The empty dungeons beneath Stoneshard's manor. And a series of visions where in The Street Dogs each saw one of their companion's shaped to a monstrous future. A future where said monstrosity emanated from them.
+- Upon waking, Erictho thought this an aftereffect of her studies. But even she didn't seem wholly convinced of her theory.
+- After recovering from their strange night, The Street Dogs set out after Aleksander Salt. Delving into the dark furloughs. Finding his his dimly illuminated shack perilously suspended over a vertical shaft that vanished into darkness.
+- Attempting to announce themselves had no effect at first, but when they reached close enough to hear. Snoring painted a picture of Salt's current predicament.
+	- Snoring, and a little voice begging for rescue.
+- **Chapter ends late morning on the 83rd of Spring, Annum 4466**
